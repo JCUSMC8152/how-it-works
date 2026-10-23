@@ -1,0 +1,400 @@
+[
+  {
+    "id": 1,
+    "url": "https://www.grc.nasa.gov/WWW/K-12/airplane/engstage.html",
+    "status": 200,
+    "final": "https://www.grc.nasa.gov/WWW/K-12/airplane/engstage.html",
+    "title": "Internal Combustion Engine Stages",
+    "length": 3690
+  },
+  {
+    "id": 2,
+    "url": "https://openstax.org/books/college-physics-2e/pages/9-5-simple-machines",
+    "status": 200,
+    "final": "https://openstax.org/books/college-physics-2e/pages/9-5-simple-machines",
+    "title": "9.5 Simple Machines - College Physics 2e | OpenStax",
+    "length": 13228
+  },
+  {
+    "id": 3,
+    "url": "https://openstax.org/books/college-physics-2e/pages/11-5-pascals-principle",
+    "status": 200,
+    "final": "https://openstax.org/books/college-physics-2e/pages/11-5-pascals-principle",
+    "title": "11.5 Pascal\u2019s Principle - College Physics 2e | OpenStax",
+    "length": 11728
+  },
+  {
+    "id": 4,
+    "url": "https://openstax.org/books/college-physics-2e/pages/15-5-applications-of-thermodynamics-heat-pumps-and-refrigerators",
+    "status": 200,
+    "final": "https://openstax.org/books/college-physics-2e/pages/15-5-applications-of-thermodynamics-heat-pumps-and-refrigerators",
+    "title": "15.5 Applications of Thermodynamics: Heat Pumps and Refrigerators - College Physics 2e | OpenStax",
+    "length": 18639
+  },
+  {
+    "id": 5,
+    "url": "https://openstax.org/books/college-physics-2e/pages/15-5-applications-of-thermodynamics-heat-pumps-and-refrigerators",
+    "status": 200,
+    "final": "https://openstax.org/books/college-physics-2e/pages/15-5-applications-of-thermodynamics-heat-pumps-and-refrigerators",
+    "title": "15.5 Applications of Thermodynamics: Heat Pumps and Refrigerators - College Physics 2e | OpenStax",
+    "length": 18639
+  },
+  {
+    "id": 6,
+    "url": "https://www.energystar.gov/products/clothes_washers",
+    "status": 200,
+    "final": "https://www.energystar.gov/products/clothes_washers",
+    "title": "Clothes Washers | ENERGY STAR",
+    "length": 9404
+  },
+  {
+    "id": 7,
+    "url": "https://www.otis.com/en/us/tools-resources/high-rise-safety-systems/",
+    "status": 200,
+    "final": "https://www.otis.com/en/us/tools-resources/high-rise-safety-systems/",
+    "title": "High-Rise Elevator Safety Systems | Otis USA",
+    "length": 20715
+  },
+  {
+    "id": 8,
+    "url": "https://commercial.schlage.com/en/resources/training-education/schlage-101/key-systems.html",
+    "status": 200,
+    "final": "https://commercial.schlage.com/en/resources/training-education/schlage-101/key-systems.html",
+    "title": "Key Systems | Schlage 101",
+    "length": 29870
+  },
+  {
+    "id": 9,
+    "url": "https://openstax.org/books/college-physics-2e/pages/9-5-simple-machines",
+    "status": 200,
+    "final": "https://openstax.org/books/college-physics-2e/pages/9-5-simple-machines",
+    "title": "9.5 Simple Machines - College Physics 2e | OpenStax",
+    "length": 13228
+  },
+  {
+    "id": 10,
+    "url": "https://www1.grc.nasa.gov/beginners-guide-to-aeronautics/turbine-engines/",
+    "status": 200,
+    "final": "https://www1.grc.nasa.gov/beginners-guide-to-aeronautics/turbine-engines/",
+    "title": "Gas Turbine Propulsion | Glenn Research Center | NASA",
+    "length": 4781
+  },
+  {
+    "id": 11,
+    "url": "https://www.eia.gov/energyexplained/electricity/delivery-to-consumers.php",
+    "status": 200,
+    "final": "https://www.eia.gov/energyexplained/electricity/delivery-to-consumers.php",
+    "title": "Delivery to consumers - U.S. Energy Information Administration (EIA)",
+    "length": 18923
+  },
+  {
+    "id": 12,
+    "url": "https://www.energy.gov/science/doe-explainsbatteries",
+    "status": 200,
+    "final": "https://www.energy.gov/science/doe-explainsbatteries",
+    "title": "DOE Explains...Batteries | Department of Energy",
+    "length": 9950
+  },
+  {
+    "id": 13,
+    "url": "https://www.energy.gov/eere/solar/how-does-solar-work",
+    "status": 200,
+    "final": "https://www.energy.gov/cmei/systems/how-does-solar-energy-work",
+    "title": "How Does Solar Energy Work? | Department of Energy",
+    "length": 9551
+  },
+  {
+    "id": 14,
+    "url": "https://www.energy.gov/eere/wind/how-do-wind-turbines-work",
+    "status": 200,
+    "final": "https://www.energy.gov/cmei/systems/how-do-wind-turbines-work",
+    "title": "How Do Wind Turbines Work? | Department of Energy",
+    "length": 10795
+  },
+  {
+    "id": 15,
+    "url": "https://openstax.org/books/physics/pages/20-2-motors-generators-and-transformers",
+    "status": 200,
+    "final": "https://openstax.org/books/physics/pages/20-2-motors-generators-and-transformers",
+    "title": "20.2 Motors, Generators, and Transformers - Physics | OpenStax",
+    "length": 25657
+  },
+  {
+    "id": 16,
+    "url": "https://openstax.org/books/college-physics-2e/pages/23-5-electric-generators",
+    "status": 200,
+    "final": "https://openstax.org/books/college-physics-2e/pages/23-5-electric-generators",
+    "title": "23.5 Electric Generators - College Physics 2e | OpenStax",
+    "length": 12064
+  },
+  {
+    "id": 17,
+    "url": "https://openstax.org/books/college-physics-2e/pages/21-1-resistors-in-series-and-parallel",
+    "status": 200,
+    "final": "https://openstax.org/books/college-physics-2e/pages/21-1-resistors-in-series-and-parallel",
+    "title": "21.1 Resistors in Series and Parallel - College Physics 2e | OpenStax",
+    "length": 27862
+  },
+  {
+    "id": 18,
+    "url": "https://openstax.org/books/college-physics-2e/pages/20-6-electric-hazards-and-the-human-body",
+    "status": 200,
+    "final": "https://openstax.org/books/college-physics-2e/pages/20-6-electric-hazards-and-the-human-body",
+    "title": "20.6 Electric Hazards and the Human Body - College Physics 2e | OpenStax",
+    "length": 18558
+  },
+  {
+    "id": 19,
+    "url": "https://www.energy.gov/science/bes/articles/led-lighting-may-now-shine-brighter",
+    "status": 200,
+    "final": "https://www.energy.gov/science/bes/articles/led-lighting-may-now-shine-brighter",
+    "title": "LED Lighting May Now Shine Brighter | Department of Energy",
+    "length": 9507
+  },
+  {
+    "id": 20,
+    "url": "https://afdc.energy.gov/fuels/electricity_infrastructure.html",
+    "status": 200,
+    "final": "https://afdc.energy.gov/fuels/electricity-stations",
+    "title": "Alternative Fuels Data Center: Electric Vehicle Charging Stations",
+    "length": 15188
+  },
+  {
+    "id": 21,
+    "url": "https://learn.microsoft.com/en-us/windows/win32/procthread/about-processes-and-threads",
+    "status": 200,
+    "final": "https://learn.microsoft.com/en-us/windows/win32/procthread/about-processes-and-threads",
+    "title": "About Processes and Threads - Win32 apps | Microsoft Learn",
+    "length": 4339
+  },
+  {
+    "id": 22,
+    "url": "https://www.rfc-editor.org/rfc/rfc9293.html",
+    "status": 200,
+    "final": "https://www.rfc-editor.org/rfc/rfc9293.html",
+    "title": "RFC 9293: Transmission Control Protocol (TCP)",
+    "length": 202158
+  },
+  {
+    "id": 23,
+    "url": "https://csrc.nist.gov/pubs/sp/800/153/final",
+    "status": 200,
+    "final": "https://csrc.nist.gov/pubs/sp/800/153/final",
+    "title": "SP 800-153, Guidelines for Securing Wireless Local Area Networks (WLANs) | CSRC",
+    "length": 4959
+  },
+  {
+    "id": 24,
+    "url": "https://developer.mozilla.org/en-US/docs/Web/Performance/Guides/How_browsers_work",
+    "status": 200,
+    "final": "https://developer.mozilla.org/en-US/docs/Web/Performance/Guides/How_browsers_work",
+    "title": "Populating the page: how browsers work - Performance | MDN",
+    "length": 23285
+  },
+  {
+    "id": 25,
+    "url": "https://www.gps.gov/trilateration",
+    "status": 200,
+    "final": "https://www.gps.gov/trilateration",
+    "title": "Trilateration | GPS.gov",
+    "length": 11108
+  },
+  {
+    "id": 26,
+    "url": "https://onlinedocs.microchip.com/oxy/GUID-7EC2A1B7-D9CD-4812-9F14-AE4A958E4C2F-en-US-8/GUID-2DE8250A-F32E-45BC-8AC7-0E5F4A752865.html",
+    "status": 200,
+    "final": "https://onlinedocs.microchip.com/oxy/GUID-7EC2A1B7-D9CD-4812-9F14-AE4A958E4C2F-en-US-8/GUID-2DE8250A-F32E-45BC-8AC7-0E5F4A752865.html",
+    "title": "2.2 Mutual Capacitance",
+    "length": 4062
+  },
+  {
+    "id": 27,
+    "url": "https://www.sony-semicon.com/en/technology/mobile/quad-bayer-coding.html",
+    "status": 200,
+    "final": "https://www.sony-semicon.com/en/technology/mobile/quad-bayer-coding.html",
+    "length": 105371
+  },
+  {
+    "id": 28,
+    "url": "https://www.qrcode.com/en/about/error_correction.html",
+    "status": 200,
+    "final": "https://www.qrcode.com/en/about/error_correction.html",
+    "title": "Error correction feature | QRcode.com | DENSO WAVE",
+    "length": 2168
+  },
+  {
+    "id": 29,
+    "url": "https://www.csfieldguide.org.nz/en/chapters/coding-compression/run-length-encoding/",
+    "status": 200,
+    "final": "https://www.csfieldguide.org.nz/en/chapters/coding-compression/run-length-encoding/",
+    "length": 38040
+  },
+  {
+    "id": 30,
+    "url": "https://developers.google.com/machine-learning/resources/intro-llms",
+    "status": 200,
+    "final": "https://developers.google.com/machine-learning/crash-course/llm",
+    "title": "Introduction to Large Language Models &nbsp;|&nbsp; Machine Learning &nbsp;|&nbsp; Google for Developers",
+    "length": 14568
+  },
+  {
+    "id": 31,
+    "url": "https://www.nhlbi.nih.gov/health/heart/blood-flow",
+    "status": 200,
+    "final": "https://www.nhlbi.nih.gov/health/heart/blood-flow",
+    "title": "How the Heart Works - How Blood Flows through the Heart | NHLBI, NIH",
+    "length": 6959
+  },
+  {
+    "id": 32,
+    "url": "https://www.nhlbi.nih.gov/health/lungs/breathing-benefits",
+    "status": 200,
+    "final": "https://www.nhlbi.nih.gov/health/lungs/breathing-benefits",
+    "title": "How the Lungs Work - What Breathing Does for the Body | NHLBI, NIH",
+    "length": 6616
+  },
+  {
+    "id": 33,
+    "url": "https://www.nidcd.nih.gov/health/how-do-we-hear",
+    "status": 200,
+    "final": "https://www.nidcd.nih.gov/health/how-do-we-hear",
+    "title": "How Do We Hear? | NIDCD",
+    "length": 5146
+  },
+  {
+    "id": 34,
+    "url": "https://www.nei.nih.gov/learn-about-eye-health/healthy-vision/how-eyes-work",
+    "status": 200,
+    "final": "https://www.nei.nih.gov/eye-health-information/healthy-vision/how-eyes-work",
+    "title": "How the Eyes Work | National Eye Institute",
+    "length": 2737
+  },
+  {
+    "id": 35,
+    "url": "https://www.niddk.nih.gov/health-information/digestive-diseases/digestive-system-how-it-works",
+    "status": 200,
+    "final": "https://www.niddk.nih.gov/health-information/digestive-diseases/digestive-system-how-it-works",
+    "title": "Your Digestive System & How it Works - NIDDK",
+    "length": 19104
+  },
+  {
+    "id": 36,
+    "url": "https://openstax.org/books/anatomy-and-physiology-2e/pages/11-1-interactions-of-skeletal-muscles-their-fascicle-arrangement-and-their-lever-systems",
+    "status": 200,
+    "final": "https://openstax.org/books/anatomy-and-physiology-2e/pages/11-1-interactions-of-skeletal-muscles-their-fascicle-arrangement-and-their-lever-systems",
+    "title": "11.1 Interactions of Skeletal Muscles, Their Fascicle Arrangement, and Their Lever Systems  - Anatomy and Physiology 2e | OpenStax",
+    "length": 16495
+  },
+  {
+    "id": 37,
+    "url": "https://www.niddk.nih.gov/health-information/kidney-disease/kidneys-how-they-work",
+    "status": 200,
+    "final": "https://www.niddk.nih.gov/health-information/kidney-disease/kidneys-how-they-work",
+    "title": "Your Kidneys & How They Work - NIDDK",
+    "length": 8218
+  },
+  {
+    "id": 38,
+    "url": "https://openstax.org/books/anatomy-and-physiology-2e/pages/24-6-energy-and-heat-balance",
+    "status": 200,
+    "final": "https://openstax.org/books/anatomy-and-physiology-2e/pages/24-6-energy-and-heat-balance",
+    "title": "24.6 Energy and Heat Balance  - Anatomy and Physiology 2e | OpenStax",
+    "length": 9282
+  },
+  {
+    "id": 39,
+    "url": "https://openstax.org/books/anatomy-and-physiology-2e/pages/16-4-the-sensory-and-motor-exams",
+    "status": 200,
+    "final": "https://openstax.org/books/anatomy-and-physiology-2e/pages/16-4-the-sensory-and-motor-exams",
+    "title": "16.4 The Sensory and Motor Exams  - Anatomy and Physiology 2e | OpenStax",
+    "length": 23208
+  },
+  {
+    "id": 40,
+    "url": "https://www.who.int/news-room/feature-stories/detail/how-do-vaccines-work",
+    "status": 200,
+    "final": "https://www.who.int/news-room/feature-stories/detail/how-do-vaccines-work",
+    "title": "How do vaccines work?",
+    "length": 10296
+  },
+  {
+    "id": 41,
+    "url": "https://www.cdc.gov/drinking-water/about/how-water-treatment-works.html",
+    "status": 200,
+    "final": "https://www.cdc.gov/drinking-water/about/how-water-treatment-works.html",
+    "title": "How Water Treatment Works | Drinking Water | CDC",
+    "length": 7353
+  },
+  {
+    "id": 42,
+    "url": "https://www.epa.gov/npdes/municipal-wastewater",
+    "status": 200,
+    "final": "https://www.epa.gov/npdes/municipal-wastewater",
+    "title": "Municipal Wastewater | US EPA",
+    "length": 7376
+  },
+  {
+    "id": 43,
+    "url": "https://www.ams.usda.gov/reports/food-value-chains",
+    "status": 200,
+    "final": "https://www.ams.usda.gov/reports/food-value-chains",
+    "title": "Food Value Chain Reports | Agricultural Marketing Service",
+    "length": 5778
+  },
+  {
+    "id": 44,
+    "url": "https://www.irs.gov/payments/tax-withholding",
+    "status": 200,
+    "final": "https://www.irs.gov/payments/tax-withholding",
+    "title": "Tax withholding | Internal Revenue Service",
+    "length": 6697
+  },
+  {
+    "id": 45,
+    "url": "https://developer.visa.com/docs/visanet-connect-acceptance",
+    "status": 200,
+    "final": "https://developer.visa.com/docs/visanet-connect-acceptance",
+    "title": "Getting Started with VisaNet Connect - Acceptance",
+    "length": 10238
+  },
+  {
+    "id": 46,
+    "url": "https://faq.usps.com/s/article/USPS-Tracking-The-Basics",
+    "status": 200,
+    "final": "https://faq.usps.com/s/article/USPS-Tracking-The-Basics",
+    "title": "USPS.com FAQs",
+    "length": 1390611
+  },
+  {
+    "id": 47,
+    "url": "https://nap.nationalacademies.org/catalog/22097/signal-timing-manual-second-edition",
+    "status": 200,
+    "final": "https://www.nationalacademies.org/publications/22097",
+    "title": "Signal Timing Manual - Second Edition | The National Academies Press",
+    "length": 35578
+  },
+  {
+    "id": 48,
+    "url": "https://openstax.org/books/biology-2e/pages/8-1-overview-of-photosynthesis",
+    "status": 200,
+    "final": "https://openstax.org/books/biology-2e/pages/8-1-overview-of-photosynthesis",
+    "title": "8.1 Overview of Photosynthesis - Biology 2e | OpenStax",
+    "length": 14355
+  },
+  {
+    "id": 49,
+    "url": "https://www.noaa.gov/jetstream/clouds/how-clouds-form",
+    "status": 200,
+    "final": "https://www.noaa.gov/jetstream/clouds/how-clouds-form",
+    "title": "How Clouds Form | National Oceanic and Atmospheric Administration",
+    "length": 7409
+  },
+  {
+    "id": 50,
+    "url": "https://www.pbs.org/wgbh/nova/education/tech/build-bridge.html",
+    "status": 200,
+    "final": "https://www.pbs.org/wgbh/nova/education/tech/build-bridge.html",
+    "title": "NOVA | Build a Bridge",
+    "length": 4334
+  }
+]

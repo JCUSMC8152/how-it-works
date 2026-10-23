@@ -1,0 +1,14 @@
+{
+  "name": "cgh-how-it-works",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "build": "python3 build.py",
+    "test": "node --test tests/models.test.mjs"
+  },
+  "devDependencies": {
+    "playwright": "^1.64.1",
+    "@axe-core/playwright": "^4.14.0"
+  }
+}

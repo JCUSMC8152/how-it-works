@@ -1,0 +1,3084 @@
+[
+  {
+    "id": 1,
+    "title": "Inside a Four-Stroke Engine",
+    "slug": "four-stroke-engine",
+    "category": "Machines and mechanical systems",
+    "objective": "Connect piston movement and valve timing to a complete two-revolution cycle.",
+    "stages": [
+      {
+        "title": "Whole engine",
+        "text": "A piston connects through a rod to a rotating crankshaft. The camshaft times the valves."
+      },
+      {
+        "title": "Intake",
+        "text": "The intake valve opens as the piston descends, drawing in a fresh charge."
+      },
+      {
+        "title": "Compression",
+        "text": "Both valves close as the piston rises. The trapped charge is compressed."
+      },
+      {
+        "title": "Power",
+        "text": "Ignition near the top starts combustion. Expanding gas pushes the piston down and turns the crank."
+      },
+      {
+        "title": "Exhaust",
+        "text": "The exhaust valve opens as the piston rises, pushing spent gas out."
+      }
+    ],
+    "control": {
+      "label": "Choose the stroke",
+      "options": [
+        "Intake",
+        "Compression",
+        "Power",
+        "Exhaust"
+      ]
+    },
+    "limits": "Ideal spark-ignition cylinder; valve overlap and advance omitted. Positions are schematic, not a pressure prediction.",
+    "misconception": "The spark does not push the piston mechanically; expanding hot gas does.",
+    "sources": [
+      {
+        "title": "NASA: internal combustion engine stages",
+        "url": "https://www.grc.nasa.gov/WWW/K-12/airplane/engstage.html",
+        "reviewed": "2026-10-22"
+      }
+    ],
+    "terms": {
+      "Crankshaft": "Converts piston motion into rotation.",
+      "Charge": "The fresh air and fuel mixture in this example."
+    },
+    "visualMechanism": "piston, valves and crankshaft cutaway",
+    "interaction": {
+      "label": "Choose the stroke",
+      "options": [
+        "Intake",
+        "Compression",
+        "Power",
+        "Exhaust"
+      ]
+    },
+    "implementation": "implemented",
+    "tests": "passed desktop 1440x1000 and mobile 393x852 core journeys; 54 shared model/registry checks",
+    "deployment": "pending production verification"
+  },
+  {
+    "id": 2,
+    "title": "How Bicycle Gears Work",
+    "slug": "bicycle-gears",
+    "category": "Machines and mechanical systems",
+    "objective": "Relate sprocket tooth counts to wheel turns and required pedal torque.",
+    "stages": [
+      {
+        "title": "Drivetrain",
+        "text": "A chain connects a front chainring to a rear sprocket."
+      },
+      {
+        "title": "Pedal input",
+        "text": "One crank turn moves one chainring circumference of chain."
+      },
+      {
+        "title": "Wheel output",
+        "text": "A smaller rear sprocket turns more times for the same chain travel."
+      },
+      {
+        "title": "Trade-off",
+        "text": "Higher gearing travels farther per pedal turn but requires more input torque for the same wheel torque."
+      }
+    ],
+    "control": {
+      "label": "Choose front / rear teeth",
+      "options": [
+        "30 / 30",
+        "40 / 20",
+        "50 / 10"
+      ]
+    },
+    "limits": "Ideal chain drive, 2.1 m wheel circumference and 60 rpm cadence; no friction, slopes or tire slip.",
+    "misconception": "Gears trade force for distance; they do not create energy.",
+    "sources": [
+      {
+        "title": "OpenStax: simple machines",
+        "url": "https://openstax.org/books/college-physics-2e/pages/9-5-simple-machines",
+        "reviewed": "2026-10-22"
+      }
+    ],
+    "terms": {
+      "Cadence": "Pedal revolutions per minute.",
+      "Gear ratio": "Front teeth divided by rear teeth."
+    },
+    "visualMechanism": "front and rear toothed sprockets with chain",
+    "interaction": {
+      "label": "Choose front / rear teeth",
+      "options": [
+        "30 / 30",
+        "40 / 20",
+        "50 / 10"
+      ]
+    },
+    "implementation": "implemented",
+    "tests": "passed desktop 1440x1000 and mobile 393x852 core journeys; 54 shared model/registry checks",
+    "deployment": "pending production verification"
+  },
+  {
+    "id": 3,
+    "title": "How Hydraulic Brakes Work",
+    "slug": "hydraulic-brakes",
+    "category": "Machines and mechanical systems",
+    "objective": "Trace pressure transmission and distinguish pressure from force.",
+    "stages": [
+      {
+        "title": "Brake system",
+        "text": "Pedal, master piston, fluid line and caliper connect the driver to a disc."
+      },
+      {
+        "title": "Master cylinder",
+        "text": "An input force pressurizes the nearly incompressible fluid."
+      },
+      {
+        "title": "Caliper",
+        "text": "The pressure acts over a larger piston area, producing greater force and less travel."
+      },
+      {
+        "title": "Disc",
+        "text": "Pads press the disc. Friction converts motion energy into heat."
+      }
+    ],
+    "control": {
+      "label": "Caliper / master area ratio",
+      "options": [
+        "1",
+        "2",
+        "4"
+      ]
+    },
+    "limits": "100 N master-piston force over 1 cm²; ideal sealed system. Pedal leverage, compliance and pad friction omitted.",
+    "misconception": "Hydraulics multiply force, not work; the output piston moves less.",
+    "sources": [
+      {
+        "title": "OpenStax: Pascal’s principle",
+        "url": "https://openstax.org/books/college-physics-2e/pages/11-5-pascals-principle",
+        "reviewed": "2026-10-22"
+      }
+    ],
+    "terms": {
+      "Pressure": "Force per unit area.",
+      "Caliper": "Holds pistons and pads around the brake disc."
+    },
+    "visualMechanism": "master piston, fluid line, caliper and disc",
+    "interaction": {
+      "label": "Caliper / master area ratio",
+      "options": [
+        "1",
+        "2",
+        "4"
+      ]
+    },
+    "implementation": "implemented",
+    "tests": "passed desktop 1440x1000 and mobile 393x852 core journeys; 54 shared model/registry checks",
+    "deployment": "pending production verification"
+  },
+  {
+    "id": 4,
+    "title": "How a Refrigerator Moves Heat",
+    "slug": "refrigerator-heat",
+    "category": "Machines and mechanical systems",
+    "objective": "Trace the refrigerant loop and account for heat discharged into the room.",
+    "stages": [
+      {
+        "title": "Closed loop",
+        "text": "Refrigerant carries energy through four components; it is not used up."
+      },
+      {
+        "title": "Evaporator",
+        "text": "Low-pressure refrigerant absorbs heat from the cabinet and evaporates."
+      },
+      {
+        "title": "Compressor",
+        "text": "Electrical work raises vapor pressure and temperature."
+      },
+      {
+        "title": "Condenser",
+        "text": "Hot refrigerant releases heat into the room and condenses."
+      },
+      {
+        "title": "Expansion",
+        "text": "A restriction drops pressure before refrigerant returns to the evaporator."
+      }
+    ],
+    "control": {
+      "label": "Compressor",
+      "options": [
+        "Off",
+        "Running"
+      ]
+    },
+    "limits": "Conceptual vapor-compression cycle. No refrigerant-specific temperatures or efficiency predictions.",
+    "misconception": "A refrigerator moves heat; it does not manufacture cold.",
+    "sources": [
+      {
+        "title": "OpenStax: heat pumps and refrigerators",
+        "url": "https://openstax.org/books/college-physics-2e/pages/15-5-applications-of-thermodynamics-heat-pumps-and-refrigerators",
+        "reviewed": "2026-10-22"
+      }
+    ],
+    "terms": {
+      "Evaporator": "Heat-absorbing coil.",
+      "Condenser": "Heat-releasing coil."
+    },
+    "visualMechanism": "closed refrigerant loop and heat exchangers",
+    "interaction": {
+      "label": "Compressor",
+      "options": [
+        "Off",
+        "Running"
+      ]
+    },
+    "implementation": "implemented",
+    "tests": "passed desktop 1440x1000 and mobile 393x852 core journeys; 54 shared model/registry checks",
+    "deployment": "pending production verification"
+  },
+  {
+    "id": 5,
+    "title": "How an Air Conditioner Works",
+    "slug": "air-conditioner",
+    "category": "Machines and mechanical systems",
+    "objective": "Connect thermostat demand, airflow and the refrigeration loop.",
+    "stages": [
+      {
+        "title": "Two spaces",
+        "text": "Indoor and outdoor coils exchange heat through a closed refrigerant loop."
+      },
+      {
+        "title": "Demand",
+        "text": "When indoor temperature exceeds the setting, the controller calls for cooling."
+      },
+      {
+        "title": "Indoor coil",
+        "text": "Air passes the cold evaporator; heat enters the refrigerant."
+      },
+      {
+        "title": "Outdoor coil",
+        "text": "Compressor and condenser release the indoor heat plus electrical work outdoors."
+      },
+      {
+        "title": "Satisfied",
+        "text": "Cooling stops when the thermostat is satisfied in this simple controller."
+      }
+    ],
+    "control": {
+      "label": "Thermostat setting",
+      "options": [
+        "20 °C",
+        "24 °C",
+        "28 °C"
+      ]
+    },
+    "limits": "Indoor air fixed at 26 °C for comparison. On/off control; humidity, hysteresis and inverter modulation omitted.",
+    "misconception": "The outdoor unit rejects heat; it does not simply blow indoor air outside.",
+    "sources": [
+      {
+        "title": "OpenStax: heat pumps and refrigerators",
+        "url": "https://openstax.org/books/college-physics-2e/pages/15-5-applications-of-thermodynamics-heat-pumps-and-refrigerators",
+        "reviewed": "2026-10-22"
+      }
+    ],
+    "terms": {
+      "Thermostat": "Controller comparing temperature to a setting.",
+      "Refrigerant": "Working fluid carrying heat."
+    },
+    "visualMechanism": "indoor/outdoor heat transfer and thermostat demand",
+    "interaction": {
+      "label": "Thermostat setting",
+      "options": [
+        "20 °C",
+        "24 °C",
+        "28 °C"
+      ]
+    },
+    "implementation": "implemented",
+    "tests": "passed desktop 1440x1000 and mobile 393x852 core journeys; 54 shared model/registry checks",
+    "deployment": "pending production verification"
+  },
+  {
+    "id": 6,
+    "title": "How a Washing Machine Works",
+    "slug": "washing-machine",
+    "category": "Machines and mechanical systems",
+    "objective": "Distinguish cleaning, pumping and spin extraction.",
+    "stages": [
+      {
+        "title": "Machine",
+        "text": "A perforated drum sits inside a water-holding tub."
+      },
+      {
+        "title": "Fill",
+        "text": "The inlet admits water; detergent helps suspend soil."
+      },
+      {
+        "title": "Wash",
+        "text": "Drum movement repeatedly moves fabric through wash water."
+      },
+      {
+        "title": "Drain",
+        "text": "A pump removes used water from the tub."
+      },
+      {
+        "title": "Spin",
+        "text": "Fast rotation presses fabric outward; water passes through drum holes into the tub and is pumped away."
+      }
+    ],
+    "control": {
+      "label": "Run a cycle phase",
+      "options": [
+        "Fill",
+        "Wash",
+        "Drain",
+        "Spin"
+      ]
+    },
+    "limits": "Representative front-loading machine. No exact timings, balance sensing or real control logic.",
+    "misconception": "Spinning does not dry by heating; it extracts much of the liquid water.",
+    "sources": [
+      {
+        "title": "ENERGY STAR: clothes washers",
+        "url": "https://www.energystar.gov/products/clothes_washers",
+        "reviewed": "2026-10-22"
+      }
+    ],
+    "terms": {
+      "Tub": "Outer vessel holding water.",
+      "Drum": "Inner rotating basket holding clothes."
+    },
+    "visualMechanism": "drum inside tub with inlet and pump",
+    "interaction": {
+      "label": "Run a cycle phase",
+      "options": [
+        "Fill",
+        "Wash",
+        "Drain",
+        "Spin"
+      ]
+    },
+    "implementation": "implemented",
+    "tests": "passed desktop 1440x1000 and mobile 393x852 core journeys; 54 shared model/registry checks",
+    "deployment": "pending production verification"
+  },
+  {
+    "id": 7,
+    "title": "How an Elevator Works",
+    "slug": "traction-elevator",
+    "category": "Machines and mechanical systems",
+    "objective": "Explain how a counterweight reduces the motor’s load.",
+    "stages": [
+      {
+        "title": "Traction system",
+        "text": "Ropes pass over a driven sheave between car and counterweight."
+      },
+      {
+        "title": "Request",
+        "text": "Controls select a destination and keep doors interlocked."
+      },
+      {
+        "title": "Motion",
+        "text": "The motor turns the sheave. Car and counterweight move in opposite directions."
+      },
+      {
+        "title": "Arrival",
+        "text": "Controls slow the car, stop at a landing and permit doors to open."
+      },
+      {
+        "title": "Protection",
+        "text": "Brakes, overspeed protection and buffers are separate layers; this diagram does not simulate them."
+      }
+    ],
+    "control": {
+      "label": "Destination floor",
+      "options": [
+        "1",
+        "2",
+        "3",
+        "4"
+      ]
+    },
+    "limits": "Ideal 1:1 traction arrangement, not construction or maintenance guidance. Safety systems shown conceptually.",
+    "misconception": "The motor does not lift the entire car weight unopposed; a counterweight balances part of it.",
+    "sources": [
+      {
+        "title": "Otis: high-rise safety systems",
+        "url": "https://www.otis.com/en/us/tools-resources/high-rise-safety-systems/",
+        "reviewed": "2026-10-22"
+      }
+    ],
+    "terms": {
+      "Sheave": "Grooved wheel driving the ropes.",
+      "Interlock": "Prevents unsafe door and car operation."
+    },
+    "visualMechanism": "traction sheave, ropes, car and counterweight",
+    "interaction": {
+      "label": "Destination floor",
+      "options": [
+        "1",
+        "2",
+        "3",
+        "4"
+      ]
+    },
+    "implementation": "implemented",
+    "tests": "passed desktop 1440x1000 and mobile 393x852 core journeys; 54 shared model/registry checks",
+    "deployment": "pending production verification"
+  },
+  {
+    "id": 8,
+    "title": "How a Lock and Key Work",
+    "slug": "lock-and-key",
+    "category": "Machines and mechanical systems",
+    "objective": "Explain the shear line in normal pin-tumbler operation.",
+    "stages": [
+      {
+        "title": "Lock",
+        "text": "A plug rotates inside a fixed shell. Pin stacks cross the boundary."
+      },
+      {
+        "title": "Key enters",
+        "text": "The normal matching key raises each stack by its designed amount."
+      },
+      {
+        "title": "Alignment",
+        "text": "Boundaries between key pins and driver pins align at the shear line."
+      },
+      {
+        "title": "Turn",
+        "text": "With the line clear, the plug can rotate and operate the latch."
+      }
+    ],
+    "control": {
+      "label": "Use a key",
+      "options": [
+        "No key",
+        "Matching key",
+        "Different key"
+      ]
+    },
+    "limits": "Conceptual cutaway for ordinary operation only. No picking, bypass, dimensions or security rating.",
+    "misconception": "A key does not merely fill the slot; its profile must align the pin boundaries.",
+    "sources": [
+      {
+        "title": "Schlage: key systems",
+        "url": "https://commercial.schlage.com/en/resources/training-education/schlage-101/key-systems.html",
+        "reviewed": "2026-10-22"
+      }
+    ],
+    "terms": {
+      "Plug": "Rotating inner cylinder.",
+      "Shear line": "Boundary between rotating plug and fixed shell."
+    },
+    "visualMechanism": "pin stacks crossing a plug shear line",
+    "interaction": {
+      "label": "Use a key",
+      "options": [
+        "No key",
+        "Matching key",
+        "Different key"
+      ]
+    },
+    "implementation": "implemented",
+    "tests": "passed desktop 1440x1000 and mobile 393x852 core journeys; 54 shared model/registry checks",
+    "deployment": "pending production verification"
+  },
+  {
+    "id": 9,
+    "title": "How Levers and Pulleys Help Us Lift",
+    "slug": "levers-and-pulleys",
+    "category": "Machines and mechanical systems",
+    "objective": "Compare ideal input force, travel and mechanical work.",
+    "stages": [
+      {
+        "title": "Simple machines",
+        "text": "A lever pivots about a fulcrum; pulleys redirect rope tension."
+      },
+      {
+        "title": "Lever",
+        "text": "A longer effort arm reduces the force needed for the same load torque."
+      },
+      {
+        "title": "Pulley",
+        "text": "Several supporting rope segments share the load."
+      },
+      {
+        "title": "Conservation",
+        "text": "Less force requires more input distance. Ideal input and output work match."
+      }
+    ],
+    "control": {
+      "label": "Choose mechanism",
+      "options": [
+        "Equal-arm lever",
+        "4:1 lever",
+        "2-strand pulley",
+        "4-strand pulley"
+      ]
+    },
+    "limits": "100 N load lifted 0.2 m, ideal massless ropes and frictionless pivots.",
+    "misconception": "Mechanical advantage does not provide free energy.",
+    "sources": [
+      {
+        "title": "OpenStax: simple machines",
+        "url": "https://openstax.org/books/college-physics-2e/pages/9-5-simple-machines",
+        "reviewed": "2026-10-22"
+      }
+    ],
+    "terms": {
+      "Fulcrum": "Lever pivot.",
+      "Work": "Force times distance along the force direction."
+    },
+    "visualMechanism": "lever arms and supporting pulley strands",
+    "interaction": {
+      "label": "Choose mechanism",
+      "options": [
+        "Equal-arm lever",
+        "4:1 lever",
+        "2-strand pulley",
+        "4-strand pulley"
+      ]
+    },
+    "implementation": "implemented",
+    "tests": "passed desktop 1440x1000 and mobile 393x852 core journeys; 54 shared model/registry checks",
+    "deployment": "pending production verification"
+  },
+  {
+    "id": 10,
+    "title": "How a Jet Engine Produces Thrust",
+    "slug": "jet-engine",
+    "category": "Machines and mechanical systems",
+    "objective": "Connect rearward momentum flow to forward thrust.",
+    "stages": [
+      {
+        "title": "Turbojet",
+        "text": "Air passes through a compressor, combustor, turbine and nozzle."
+      },
+      {
+        "title": "Compress",
+        "text": "Rotating blades raise air pressure; they need shaft power."
+      },
+      {
+        "title": "Burn",
+        "text": "Fuel burns in the compressed flow, adding energy."
+      },
+      {
+        "title": "Turbine",
+        "text": "Hot gas turns a turbine linked by shaft to the compressor."
+      },
+      {
+        "title": "Exhaust",
+        "text": "The nozzle accelerates gas rearward; the engine experiences forward thrust."
+      }
+    ],
+    "control": {
+      "label": "Trace the flow",
+      "options": [
+        "Air intake",
+        "Compressor",
+        "Combustor",
+        "Turbine",
+        "Nozzle"
+      ]
+    },
+    "limits": "Simplified turbojet, not a turbofan. No calculated thrust or real operating limits.",
+    "misconception": "The turbine extracts power for the compressor; the exhaust momentum change produces thrust.",
+    "sources": [
+      {
+        "title": "NASA: gas turbine propulsion",
+        "url": "https://www1.grc.nasa.gov/beginners-guide-to-aeronautics/turbine-engines/",
+        "reviewed": "2026-10-22"
+      }
+    ],
+    "terms": {
+      "Thrust": "Force associated with changing flow momentum.",
+      "Turbine": "Blades extracting energy from hot flowing gas."
+    },
+    "visualMechanism": "compressor, combustor, turbine shaft and exhaust",
+    "interaction": {
+      "label": "Trace the flow",
+      "options": [
+        "Air intake",
+        "Compressor",
+        "Combustor",
+        "Turbine",
+        "Nozzle"
+      ]
+    },
+    "implementation": "implemented",
+    "tests": "passed desktop 1440x1000 and mobile 393x852 core journeys; 54 shared model/registry checks",
+    "deployment": "pending production verification"
+  },
+  {
+    "id": 11,
+    "title": "How Electricity Reaches Your Home",
+    "slug": "electricity-to-home",
+    "category": "Electricity and energy",
+    "objective": "Trace the grid and explain why transmission uses high voltage.",
+    "stages": [
+      {
+        "title": "Grid",
+        "text": "Generators, lines, substations and local circuits form a connected system."
+      },
+      {
+        "title": "Step up",
+        "text": "A transformer raises AC voltage for transmission."
+      },
+      {
+        "title": "Transmit",
+        "text": "For the same power, higher voltage means lower current and lower resistive loss."
+      },
+      {
+        "title": "Step down",
+        "text": "Substations and distribution transformers lower voltage for local use."
+      },
+      {
+        "title": "Home",
+        "text": "A meter records energy; a panel distributes power to protected branch circuits."
+      }
+    ],
+    "control": {
+      "label": "Transmit 10 kW at",
+      "options": [
+        "100 V",
+        "1000 V",
+        "10000 V"
+      ]
+    },
+    "limits": "Single-path illustration, 1 Ω line and P = VI with unity power factor. Real grids have AC impedance and many paths.",
+    "misconception": "Electricity is not stored in transmission wires like water in a tank.",
+    "sources": [
+      {
+        "title": "EIA: delivery to consumers",
+        "url": "https://www.eia.gov/energyexplained/electricity/delivery-to-consumers.php",
+        "reviewed": "2026-10-22"
+      }
+    ],
+    "terms": {
+      "Transformer": "Changes AC voltage using magnetic induction.",
+      "kWh": "A unit of energy, not power."
+    },
+    "visualMechanism": "grid towers, substation and household distribution",
+    "interaction": {
+      "label": "Transmit 10 kW at",
+      "options": [
+        "100 V",
+        "1000 V",
+        "10000 V"
+      ]
+    },
+    "implementation": "implemented",
+    "tests": "passed desktop 1440x1000 and mobile 393x852 core journeys; 54 shared model/registry checks",
+    "deployment": "pending production verification"
+  },
+  {
+    "id": 12,
+    "title": "How a Battery Stores and Supplies Energy",
+    "slug": "battery-energy",
+    "category": "Electricity and energy",
+    "objective": "Distinguish external electron flow from internal ion movement.",
+    "stages": [
+      {
+        "title": "Cell",
+        "text": "Two electrodes and an electrolyte enable a chemical energy conversion."
+      },
+      {
+        "title": "Discharge",
+        "text": "Chemical reactions drive electrons through the external load."
+      },
+      {
+        "title": "Inside",
+        "text": "Ions move in the electrolyte to balance charge; a separator prevents direct contact."
+      },
+      {
+        "title": "Charge",
+        "text": "An external charger drives the rechargeable reactions in the opposite direction."
+      }
+    ],
+    "control": {
+      "label": "Cell operation",
+      "options": [
+        "Idle",
+        "Discharging",
+        "Charging"
+      ]
+    },
+    "limits": "Generic rechargeable-cell schematic. Electrode chemistry and quantitative charge rates omitted.",
+    "misconception": "Electrons travel through the external circuit; ions carry charge through the electrolyte.",
+    "sources": [
+      {
+        "title": "DOE explains batteries",
+        "url": "https://www.energy.gov/science/doe-explainsbatteries",
+        "reviewed": "2026-10-22"
+      }
+    ],
+    "terms": {
+      "Electrolyte": "Medium allowing ion transport.",
+      "Separator": "Ion-permeable barrier between electrodes."
+    },
+    "visualMechanism": "separated electrodes, electrolyte and external circuit",
+    "interaction": {
+      "label": "Cell operation",
+      "options": [
+        "Idle",
+        "Discharging",
+        "Charging"
+      ]
+    },
+    "implementation": "implemented",
+    "tests": "passed desktop 1440x1000 and mobile 393x852 core journeys; 54 shared model/registry checks",
+    "deployment": "pending production verification"
+  },
+  {
+    "id": 13,
+    "title": "How Solar Panels Generate Electricity",
+    "slug": "solar-panels",
+    "category": "Electricity and energy",
+    "objective": "Connect light absorption, direct current and AC conversion.",
+    "stages": [
+      {
+        "title": "System",
+        "text": "PV modules connect to power electronics and loads."
+      },
+      {
+        "title": "Cell",
+        "text": "Absorbed light can free charge carriers in a semiconductor."
+      },
+      {
+        "title": "DC",
+        "text": "The cell structure separates charges; an external circuit carries direct current."
+      },
+      {
+        "title": "Inverter",
+        "text": "Power electronics convert DC to AC for compatible household use."
+      },
+      {
+        "title": "Storage",
+        "text": "An optional battery stores energy through its own controlled charging path."
+      }
+    ],
+    "control": {
+      "label": "Sunlight level",
+      "options": [
+        "Night",
+        "Half sunlight",
+        "Full sunlight"
+      ]
+    },
+    "limits": "Illustrative 1 kW array under reference full light; linear light scaling, no temperature, shading or conversion losses.",
+    "misconception": "Solar PV uses light, not heat; a battery is optional.",
+    "sources": [
+      {
+        "title": "DOE: how solar works",
+        "url": "https://www.energy.gov/eere/solar/how-does-solar-work",
+        "reviewed": "2026-10-22"
+      }
+    ],
+    "terms": {
+      "PV": "Photovoltaic: converting light into electricity.",
+      "Inverter": "DC-to-AC power converter."
+    },
+    "visualMechanism": "PV array, inverter, AC load and optional storage",
+    "interaction": {
+      "label": "Sunlight level",
+      "options": [
+        "Night",
+        "Half sunlight",
+        "Full sunlight"
+      ]
+    },
+    "implementation": "implemented",
+    "tests": "passed desktop 1440x1000 and mobile 393x852 core journeys; 54 shared model/registry checks",
+    "deployment": "pending production verification"
+  },
+  {
+    "id": 14,
+    "title": "How a Wind Turbine Generates Electricity",
+    "slug": "wind-turbine",
+    "category": "Electricity and energy",
+    "objective": "Follow energy from moving air to generator output.",
+    "stages": [
+      {
+        "title": "Wind system",
+        "text": "Airflow, rotor, shaft and generator form an energy-conversion chain."
+      },
+      {
+        "title": "Lift",
+        "text": "Air flowing around shaped blades creates forces that turn the rotor."
+      },
+      {
+        "title": "Generator",
+        "text": "Shaft rotation produces electrical output through electromagnetic induction."
+      },
+      {
+        "title": "Control",
+        "text": "Pitch and other controls limit loads; turbines stop outside safe operating conditions."
+      }
+    ],
+    "control": {
+      "label": "Wind speed",
+      "options": [
+        "2 m/s",
+        "6 m/s",
+        "12 m/s",
+        "28 m/s"
+      ]
+    },
+    "limits": "Invented normalized teaching curve: cut-in 3 m/s, rated 12 m/s, cut-out 25 m/s. Not specifications for any turbine.",
+    "misconception": "More wind does not mean unlimited output; controls cap power and can stop operation.",
+    "sources": [
+      {
+        "title": "DOE: how wind turbines work",
+        "url": "https://www.energy.gov/eere/wind/how-do-wind-turbines-work",
+        "reviewed": "2026-10-22"
+      }
+    ],
+    "terms": {
+      "Lift": "Aerodynamic force perpendicular to relative airflow.",
+      "Cut-out": "Wind speed at which a turbine shuts down for protection."
+    },
+    "visualMechanism": "lift-driven rotor, shaft and generator",
+    "interaction": {
+      "label": "Wind speed",
+      "options": [
+        "2 m/s",
+        "6 m/s",
+        "12 m/s",
+        "28 m/s"
+      ]
+    },
+    "implementation": "implemented",
+    "tests": "passed desktop 1440x1000 and mobile 393x852 core journeys; 54 shared model/registry checks",
+    "deployment": "pending production verification"
+  },
+  {
+    "id": 15,
+    "title": "How an Electric Motor Turns",
+    "slug": "electric-motor",
+    "category": "Electricity and energy",
+    "objective": "Relate changing coil current to a continuing turning effect.",
+    "stages": [
+      {
+        "title": "DC motor",
+        "text": "A coil sits between magnetic poles and connects through brushes and a split-ring commutator."
+      },
+      {
+        "title": "Force",
+        "text": "Current-carrying coil sides experience opposite magnetic forces."
+      },
+      {
+        "title": "Torque",
+        "text": "The pair of forces turns the coil around its shaft."
+      },
+      {
+        "title": "Commutation",
+        "text": "The split ring reverses coil current each half-turn so torque keeps its turning sense."
+      }
+    ],
+    "control": {
+      "label": "Supply",
+      "options": [
+        "Off",
+        "Forward",
+        "Reverse"
+      ]
+    },
+    "limits": "Simplified brushed DC motor, schematic current timing; no inertia, friction or speed prediction.",
+    "misconception": "A motor needs energy input; magnets alone do not supply continuous work.",
+    "sources": [
+      {
+        "title": "OpenStax: motors and generators",
+        "url": "https://openstax.org/books/physics/pages/20-2-motors-generators-and-transformers",
+        "reviewed": "2026-10-22"
+      }
+    ],
+    "terms": {
+      "Torque": "Turning effect of a force.",
+      "Commutator": "Switching connection reversing coil current."
+    },
+    "visualMechanism": "coil between poles and split-ring commutation",
+    "interaction": {
+      "label": "Supply",
+      "options": [
+        "Off",
+        "Forward",
+        "Reverse"
+      ]
+    },
+    "implementation": "implemented",
+    "tests": "passed desktop 1440x1000 and mobile 393x852 core journeys; 54 shared model/registry checks",
+    "deployment": "pending production verification"
+  },
+  {
+    "id": 16,
+    "title": "How a Generator Makes Electricity",
+    "slug": "electric-generator",
+    "category": "Electricity and energy",
+    "objective": "Connect changing magnetic flux to induced voltage.",
+    "stages": [
+      {
+        "title": "Generator",
+        "text": "Mechanical input rotates a coil in a magnetic field."
+      },
+      {
+        "title": "Flux",
+        "text": "As the coil turns, the magnetic flux through it changes."
+      },
+      {
+        "title": "Induction",
+        "text": "A changing flux induces voltage across the coil."
+      },
+      {
+        "title": "Output",
+        "text": "Reversing rotation reverses the instantaneous voltage; faster rotation raises its amplitude in this model."
+      }
+    ],
+    "control": {
+      "label": "Rotation",
+      "options": [
+        "Stopped",
+        "Forward slow",
+        "Forward fast",
+        "Reverse fast"
+      ]
+    },
+    "limits": "Single ideal coil with normalized voltage. E = −N dΦ/dt; no load torque or real volts.",
+    "misconception": "A stationary coil in an unchanging field has no sustained induced voltage.",
+    "sources": [
+      {
+        "title": "OpenStax: electric generators",
+        "url": "https://openstax.org/books/college-physics-2e/pages/23-5-electric-generators",
+        "reviewed": "2026-10-22"
+      }
+    ],
+    "terms": {
+      "Flux": "Magnetic field passing through an area.",
+      "Induction": "Voltage caused by changing magnetic flux."
+    },
+    "visualMechanism": "rotating coil and alternating induced voltage",
+    "interaction": {
+      "label": "Rotation",
+      "options": [
+        "Stopped",
+        "Forward slow",
+        "Forward fast",
+        "Reverse fast"
+      ]
+    },
+    "implementation": "implemented",
+    "tests": "passed desktop 1440x1000 and mobile 393x852 core journeys; 54 shared model/registry checks",
+    "deployment": "pending production verification"
+  },
+  {
+    "id": 17,
+    "title": "How a Household Circuit Works",
+    "slug": "household-circuit",
+    "category": "Electricity and energy",
+    "objective": "Compare series and parallel current paths in a safe virtual model.",
+    "stages": [
+      {
+        "title": "Circuit",
+        "text": "A source, conducting paths, switch and loads form a complete loop."
+      },
+      {
+        "title": "Switch",
+        "text": "An open switch interrupts its current path."
+      },
+      {
+        "title": "Series",
+        "text": "Two equal loads in series share source voltage."
+      },
+      {
+        "title": "Parallel",
+        "text": "Equal parallel loads each receive the full source voltage; their branch currents add."
+      }
+    ],
+    "control": {
+      "label": "Virtual wiring",
+      "options": [
+        "Open switch",
+        "One load",
+        "Two series loads",
+        "Two parallel loads"
+      ]
+    },
+    "limits": "12 V virtual DC source and 12 Ω resistors. Household mains use AC; this is not wiring instruction.",
+    "misconception": "Current is not used up by a load; energy is transferred.",
+    "sources": [
+      {
+        "title": "OpenStax: resistors in series and parallel",
+        "url": "https://openstax.org/books/college-physics-2e/pages/21-1-resistors-in-series-and-parallel",
+        "reviewed": "2026-10-22"
+      }
+    ],
+    "terms": {
+      "Load": "Device receiving electrical energy.",
+      "Parallel": "Branches sharing both connection nodes."
+    },
+    "visualMechanism": "switch, source and series/parallel loads",
+    "interaction": {
+      "label": "Virtual wiring",
+      "options": [
+        "Open switch",
+        "One load",
+        "Two series loads",
+        "Two parallel loads"
+      ]
+    },
+    "implementation": "implemented",
+    "tests": "passed desktop 1440x1000 and mobile 393x852 core journeys; 54 shared model/registry checks",
+    "deployment": "pending production verification"
+  },
+  {
+    "id": 18,
+    "title": "How Circuit Breakers and GFCIs Protect People",
+    "slug": "breakers-and-gfcis",
+    "category": "Electricity and energy",
+    "objective": "Distinguish excess current from unequal outgoing and returning current.",
+    "stages": [
+      {
+        "title": "Protection",
+        "text": "Different devices detect different conditions."
+      },
+      {
+        "title": "Breaker",
+        "text": "Overcurrent protection responds to excessive current, with timing depending on device and fault."
+      },
+      {
+        "title": "GFCI",
+        "text": "A sensor compares current going out and returning."
+      },
+      {
+        "title": "Trip",
+        "text": "A sufficient imbalance causes a GFCI to disconnect; normal load current alone need not be excessive."
+      }
+    ],
+    "control": {
+      "label": "Conceptual fault",
+      "options": [
+        "Normal 5 A",
+        "Overload 25 A",
+        "5 A out / 4.99 A back"
+      ]
+    },
+    "limits": "Conceptual outcomes only; no trip time or calibrated threshold. Virtual activity, not an installation or protection test.",
+    "misconception": "A standard breaker and a GFCI do not detect the same thing.",
+    "sources": [
+      {
+        "title": "OpenStax: electrical safety",
+        "url": "https://openstax.org/books/college-physics-2e/pages/20-6-electric-hazards-and-the-human-body",
+        "reviewed": "2026-10-22"
+      }
+    ],
+    "terms": {
+      "Overcurrent": "Current exceeding a circuit’s permitted conditions.",
+      "Imbalance": "Difference between outgoing and returning current."
+    },
+    "visualMechanism": "separate outgoing/return current paths and detectors",
+    "interaction": {
+      "label": "Conceptual fault",
+      "options": [
+        "Normal 5 A",
+        "Overload 25 A",
+        "5 A out / 4.99 A back"
+      ]
+    },
+    "implementation": "implemented",
+    "tests": "passed desktop 1440x1000 and mobile 393x852 core journeys; 54 shared model/registry checks",
+    "deployment": "pending production verification"
+  },
+  {
+    "id": 19,
+    "title": "How LEDs Produce Light",
+    "slug": "led-light",
+    "category": "Electricity and energy",
+    "objective": "Connect forward current and charge recombination to light.",
+    "stages": [
+      {
+        "title": "LED circuit",
+        "text": "A source, current limiter and LED form a controlled current path."
+      },
+      {
+        "title": "Junction",
+        "text": "Forward bias allows charge carriers to cross a semiconductor junction."
+      },
+      {
+        "title": "Light",
+        "text": "Electron-hole recombination can release energy as photons."
+      },
+      {
+        "title": "Limit",
+        "text": "A resistor or driver keeps current within a suitable range."
+      }
+    ],
+    "control": {
+      "label": "Virtual connection",
+      "options": [
+        "Off",
+        "Forward + limiter",
+        "Reversed",
+        "Forward without limiter"
+      ]
+    },
+    "limits": "Qualitative LED, no real component ratings. Reverse voltage can damage real LEDs; all trials are virtual.",
+    "misconception": "An LED is not a tiny heated filament; semiconductor transitions produce its light.",
+    "sources": [
+      {
+        "title": "DOE: LED light emission",
+        "url": "https://www.energy.gov/science/bes/articles/led-lighting-may-now-shine-brighter",
+        "reviewed": "2026-10-22"
+      }
+    ],
+    "terms": {
+      "Photon": "A quantum of light energy.",
+      "Forward bias": "Voltage polarity favoring diode conduction."
+    },
+    "visualMechanism": "junction, current limiter and photon emission",
+    "interaction": {
+      "label": "Virtual connection",
+      "options": [
+        "Off",
+        "Forward + limiter",
+        "Reversed",
+        "Forward without limiter"
+      ]
+    },
+    "implementation": "implemented",
+    "tests": "passed desktop 1440x1000 and mobile 393x852 core journeys; 54 shared model/registry checks",
+    "deployment": "pending production verification"
+  },
+  {
+    "id": 20,
+    "title": "How an EV Charges",
+    "slug": "ev-charging",
+    "category": "Electricity and energy",
+    "objective": "Identify where AC becomes DC and why charging power changes.",
+    "stages": [
+      {
+        "title": "Charging path",
+        "text": "Supply, charging equipment, vehicle electronics and battery management cooperate."
+      },
+      {
+        "title": "AC charging",
+        "text": "An onboard charger converts AC into controlled DC."
+      },
+      {
+        "title": "DC charging",
+        "text": "External equipment supplies controlled DC, bypassing the onboard AC converter."
+      },
+      {
+        "title": "Battery management",
+        "text": "The vehicle limits charging to protect cell conditions; power often tapers as the battery fills."
+      }
+    ],
+    "control": {
+      "label": "Charging path",
+      "options": [
+        "AC charging",
+        "DC fast charging",
+        "High state of charge"
+      ]
+    },
+    "limits": "Illustrative paths only. No actual charge time, connector compatibility or power prediction.",
+    "misconception": "Charging equipment and the car negotiate limits; a high charger rating does not guarantee that power.",
+    "sources": [
+      {
+        "title": "DOE AFDC: charging infrastructure",
+        "url": "https://afdc.energy.gov/fuels/electricity_infrastructure.html",
+        "reviewed": "2026-10-22"
+      }
+    ],
+    "terms": {
+      "BMS": "Battery management system.",
+      "Onboard charger": "Vehicle AC-to-DC power electronics."
+    },
+    "visualMechanism": "AC/DC converter paths into battery management",
+    "interaction": {
+      "label": "Charging path",
+      "options": [
+        "AC charging",
+        "DC fast charging",
+        "High state of charge"
+      ]
+    },
+    "implementation": "implemented",
+    "tests": "passed desktop 1440x1000 and mobile 393x852 core journeys; 54 shared model/registry checks",
+    "deployment": "pending production verification"
+  },
+  {
+    "id": 21,
+    "title": "What Happens When You Open an App",
+    "slug": "opening-an-app",
+    "category": "Computers and communication",
+    "objective": "Follow the relationship between storage, memory, CPU and operating system.",
+    "stages": [
+      {
+        "title": "Computer",
+        "text": "Storage holds persistent files; memory holds active working data."
+      },
+      {
+        "title": "Load",
+        "text": "The operating system maps or loads needed program code and data."
+      },
+      {
+        "title": "Execute",
+        "text": "The CPU follows instructions, reading and changing data in memory."
+      },
+      {
+        "title": "Services",
+        "text": "The app requests operating-system services such as file access."
+      },
+      {
+        "title": "Display",
+        "text": "Graphics work produces an updated screen and an event loop responds to input."
+      }
+    ],
+    "control": {
+      "label": "Perform an action",
+      "options": [
+        "Launch app",
+        "Edit a value",
+        "Save a file",
+        "Close app"
+      ]
+    },
+    "limits": "Conceptual architecture; caching, virtual memory and exact implementation details vary.",
+    "misconception": "Opening an app does not move all its files permanently out of storage.",
+    "sources": [
+      {
+        "title": "Microsoft: processes and threads",
+        "url": "https://learn.microsoft.com/en-us/windows/win32/procthread/about-processes-and-threads",
+        "reviewed": "2026-10-22"
+      }
+    ],
+    "terms": {
+      "RAM": "Working memory used by active programs.",
+      "Process": "A running program with managed resources."
+    },
+    "visualMechanism": "persistent storage, RAM, CPU and OS service connections",
+    "interaction": {
+      "label": "Perform an action",
+      "options": [
+        "Launch app",
+        "Edit a value",
+        "Save a file",
+        "Close app"
+      ]
+    },
+    "implementation": "implemented",
+    "tests": "passed desktop 1440x1000 and mobile 393x852 core journeys; 54 shared model/registry checks",
+    "deployment": "pending production verification"
+  },
+  {
+    "id": 22,
+    "title": "How the Internet Delivers a Message",
+    "slug": "internet-message",
+    "category": "Computers and communication",
+    "objective": "Separate packet routing from reliable transport.",
+    "stages": [
+      {
+        "title": "Network",
+        "text": "A message can be divided into addressed packets."
+      },
+      {
+        "title": "Route",
+        "text": "Routers forward each packet toward its destination using routing information."
+      },
+      {
+        "title": "Delay",
+        "text": "Packets can take different paths, arrive late or be lost."
+      },
+      {
+        "title": "Transport",
+        "text": "A reliable transport such as TCP detects missing data and retransmits it."
+      },
+      {
+        "title": "Reassemble",
+        "text": "The receiver reconstructs the ordered application data."
+      }
+    ],
+    "control": {
+      "label": "Network event",
+      "options": [
+        "Normal delivery",
+        "Packet 2 delayed",
+        "Packet 2 lost",
+        "Retransmit packet 2"
+      ]
+    },
+    "limits": "Three-packet teaching network; fixed illustrative delays. Does not implement TCP or internet routing.",
+    "misconception": "Routers forward packets; they do not guarantee application-level order or delivery.",
+    "sources": [
+      {
+        "title": "IETF: TCP specification",
+        "url": "https://www.rfc-editor.org/rfc/rfc9293.html",
+        "reviewed": "2026-10-22"
+      }
+    ],
+    "terms": {
+      "Packet": "An addressed unit of transmitted data.",
+      "Latency": "Delay between sending and receiving."
+    },
+    "visualMechanism": "branched router network and numbered packets",
+    "interaction": {
+      "label": "Network event",
+      "options": [
+        "Normal delivery",
+        "Packet 2 delayed",
+        "Packet 2 lost",
+        "Retransmit packet 2"
+      ]
+    },
+    "implementation": "implemented",
+    "tests": "passed desktop 1440x1000 and mobile 393x852 core journeys; 54 shared model/registry checks",
+    "deployment": "pending production verification"
+  },
+  {
+    "id": 23,
+    "title": "How Wi-Fi Connects Devices",
+    "slug": "wifi-connection",
+    "category": "Computers and communication",
+    "objective": "Distinguish local radio airtime from internet connectivity.",
+    "stages": [
+      {
+        "title": "Local link",
+        "text": "A device communicates by radio with an access point."
+      },
+      {
+        "title": "Association",
+        "text": "The device joins the local wireless network using its configured security."
+      },
+      {
+        "title": "Airtime",
+        "text": "Devices sharing a channel take turns; interference and contention can reduce useful throughput."
+      },
+      {
+        "title": "Gateway",
+        "text": "The access point’s upstream connection reaches other networks; Wi-Fi alone does not guarantee internet service."
+      }
+    ],
+    "control": {
+      "label": "Connection condition",
+      "options": [
+        "Near access point",
+        "Farther away",
+        "Busy channel",
+        "Upstream disconnected"
+      ]
+    },
+    "limits": "Qualitative signal and airtime indicators; no radio coverage or Mbps prediction.",
+    "misconception": "Full Wi-Fi signal can coexist with a failed internet connection.",
+    "sources": [
+      {
+        "title": "NIST: wireless local area networks",
+        "url": "https://csrc.nist.gov/pubs/sp/800/153/final",
+        "reviewed": "2026-10-22"
+      }
+    ],
+    "terms": {
+      "Access point": "Radio bridge connecting wireless devices to a network.",
+      "Airtime": "Time occupied on a shared radio channel."
+    },
+    "visualMechanism": "device/access point radio link and upstream gateway",
+    "interaction": {
+      "label": "Connection condition",
+      "options": [
+        "Near access point",
+        "Farther away",
+        "Busy channel",
+        "Upstream disconnected"
+      ]
+    },
+    "implementation": "implemented",
+    "tests": "passed desktop 1440x1000 and mobile 393x852 core journeys; 54 shared model/registry checks",
+    "deployment": "pending production verification"
+  },
+  {
+    "id": 24,
+    "title": "How a Web Browser Loads a Page",
+    "slug": "browser-page",
+    "category": "Computers and communication",
+    "objective": "Trace a representative secure page load through rendering.",
+    "stages": [
+      {
+        "title": "Navigate",
+        "text": "The browser receives a URL and decides what resources it needs."
+      },
+      {
+        "title": "DNS",
+        "text": "A resolver looks up the hostname’s address when needed."
+      },
+      {
+        "title": "HTTPS",
+        "text": "A connection and TLS establish an encrypted, authenticated channel."
+      },
+      {
+        "title": "Fetch",
+        "text": "The browser requests HTML and related styles, scripts and images."
+      },
+      {
+        "title": "Render",
+        "text": "It builds document and style structures, lays out elements and paints pixels."
+      }
+    ],
+    "control": {
+      "label": "Inspect a loading stage",
+      "options": [
+        "DNS lookup",
+        "TLS connection",
+        "Download HTML",
+        "Load CSS and images",
+        "Layout and paint"
+      ]
+    },
+    "limits": "Representative uncached load. HTTP versions, reuse, caching and resource ordering vary.",
+    "misconception": "HTTPS protects transport; it does not prove that every page claim is true.",
+    "sources": [
+      {
+        "title": "MDN: how browsers work",
+        "url": "https://developer.mozilla.org/en-US/docs/Web/Performance/Guides/How_browsers_work",
+        "reviewed": "2026-10-22"
+      }
+    ],
+    "terms": {
+      "DNS": "Maps hostnames to network addresses.",
+      "Layout": "Computing element sizes and positions."
+    },
+    "visualMechanism": "URL, DNS/TLS stages, document and resource panels",
+    "interaction": {
+      "label": "Inspect a loading stage",
+      "options": [
+        "DNS lookup",
+        "TLS connection",
+        "Download HTML",
+        "Load CSS and images",
+        "Layout and paint"
+      ]
+    },
+    "implementation": "implemented",
+    "tests": "passed desktop 1440x1000 and mobile 393x852 core journeys; 54 shared model/registry checks",
+    "deployment": "pending production verification"
+  },
+  {
+    "id": 25,
+    "title": "How GPS Finds Your Location",
+    "slug": "gps-location",
+    "category": "Computers and communication",
+    "objective": "Explain travel-time ranging and the receiver clock unknown.",
+    "stages": [
+      {
+        "title": "Signals",
+        "text": "Satellites broadcast timing and orbital information to receivers."
+      },
+      {
+        "title": "Range",
+        "text": "Signal travel time gives a distance-like measurement called a pseudorange."
+      },
+      {
+        "title": "Position",
+        "text": "Intersecting range constraints narrow possible receiver positions."
+      },
+      {
+        "title": "Clock",
+        "text": "A typical 3D solution needs at least four satellites to solve three position coordinates and receiver clock offset."
+      }
+    ],
+    "control": {
+      "label": "Usable satellites",
+      "options": [
+        "1",
+        "2",
+        "3",
+        "4"
+      ]
+    },
+    "limits": "2D illustrative range rings; no real positioning calculation. Geometry, atmosphere and clock errors affect accuracy.",
+    "misconception": "GPS does not locate a receiver by having it send its position back to satellites.",
+    "sources": [
+      {
+        "title": "GPS.gov: trilateration",
+        "url": "https://www.gps.gov/trilateration",
+        "reviewed": "2026-10-22"
+      }
+    ],
+    "terms": {
+      "Pseudorange": "Measured range including receiver clock error.",
+      "Clock offset": "Difference between receiver time and system time."
+    },
+    "visualMechanism": "satellites with schematic intersecting range rings",
+    "interaction": {
+      "label": "Usable satellites",
+      "options": [
+        "1",
+        "2",
+        "3",
+        "4"
+      ]
+    },
+    "implementation": "implemented",
+    "tests": "passed desktop 1440x1000 and mobile 393x852 core journeys; 54 shared model/registry checks",
+    "deployment": "pending production verification"
+  },
+  {
+    "id": 26,
+    "title": "How a Touchscreen Detects Your Finger",
+    "slug": "touchscreen",
+    "category": "Computers and communication",
+    "objective": "Connect a sensing grid’s changed capacitance to an estimated position.",
+    "stages": [
+      {
+        "title": "Grid",
+        "text": "Transparent electrodes form a sensing pattern above the display."
+      },
+      {
+        "title": "Touch",
+        "text": "A conductive finger changes nearby electric-field coupling."
+      },
+      {
+        "title": "Measure",
+        "text": "The controller measures changes across the electrode grid."
+      },
+      {
+        "title": "Estimate",
+        "text": "Software estimates touch position and sends an event to the operating system."
+      }
+    ],
+    "control": {
+      "label": "Touch position",
+      "options": [
+        "Top left",
+        "Center",
+        "Bottom right",
+        "No touch"
+      ]
+    },
+    "limits": "Conceptual projected-capacitive grid, not actual sensor readings. Multi-touch and noise rejection omitted.",
+    "misconception": "The display does not need to be pressed like a mechanical switch.",
+    "sources": [
+      {
+        "title": "Microchip: mutual capacitance",
+        "url": "https://onlinedocs.microchip.com/oxy/GUID-7EC2A1B7-D9CD-4812-9F14-AE4A958E4C2F-en-US-8/GUID-2DE8250A-F32E-45BC-8AC7-0E5F4A752865.html",
+        "reviewed": "2026-10-22"
+      }
+    ],
+    "terms": {
+      "Capacitance": "Ability of conductors to store separated charge.",
+      "Electrode": "Conductive sensing element."
+    },
+    "visualMechanism": "crossed capacitive electrode grid with localized touch",
+    "interaction": {
+      "label": "Touch position",
+      "options": [
+        "Top left",
+        "Center",
+        "Bottom right",
+        "No touch"
+      ]
+    },
+    "implementation": "implemented",
+    "tests": "passed desktop 1440x1000 and mobile 393x852 core journeys; 54 shared model/registry checks",
+    "deployment": "pending production verification"
+  },
+  {
+    "id": 27,
+    "title": "How a Digital Photo Becomes an Image",
+    "slug": "digital-photo",
+    "category": "Computers and communication",
+    "objective": "Distinguish optical capture, sampling and image processing.",
+    "stages": [
+      {
+        "title": "Camera",
+        "text": "A lens focuses light onto a sensor."
+      },
+      {
+        "title": "Sample",
+        "text": "Photosites measure light at discrete locations."
+      },
+      {
+        "title": "Color",
+        "text": "A common color-filter pattern needs processing to estimate a full-color image."
+      },
+      {
+        "title": "Process",
+        "text": "White balance and tone processing change how sensor data is represented."
+      },
+      {
+        "title": "Encode",
+        "text": "An image format stores the result, sometimes discarding information for smaller files."
+      }
+    ],
+    "control": {
+      "label": "View the pipeline",
+      "options": [
+        "Optical image",
+        "Sensor samples",
+        "Color reconstruction",
+        "Compressed image"
+      ]
+    },
+    "limits": "Invented 8 × 6 sample image. Not a camera sensor or compression benchmark.",
+    "misconception": "A sensor records measurements; the final photo is a processed representation.",
+    "sources": [
+      {
+        "title": "Sony: image sensor color sampling",
+        "url": "https://www.sony-semicon.com/en/technology/mobile/quad-bayer-coding.html",
+        "reviewed": "2026-10-22"
+      }
+    ],
+    "terms": {
+      "Photosite": "Light-sensitive sample location.",
+      "Demosaicing": "Estimating color from filtered sensor samples."
+    },
+    "visualMechanism": "lens rays, sensor plane and sampled color grid",
+    "interaction": {
+      "label": "View the pipeline",
+      "options": [
+        "Optical image",
+        "Sensor samples",
+        "Color reconstruction",
+        "Compressed image"
+      ]
+    },
+    "implementation": "implemented",
+    "tests": "passed desktop 1440x1000 and mobile 393x852 core journeys; 54 shared model/registry checks",
+    "deployment": "pending production verification"
+  },
+  {
+    "id": 28,
+    "title": "How QR Codes Store Information",
+    "slug": "qr-information",
+    "category": "Computers and communication",
+    "objective": "Identify positioning patterns and the role and limits of redundancy.",
+    "stages": [
+      {
+        "title": "Code",
+        "text": "A QR symbol combines location markers, data and error-correction information."
+      },
+      {
+        "title": "Find",
+        "text": "Finder patterns help a decoder locate and orient the symbol."
+      },
+      {
+        "title": "Read",
+        "text": "Modules represent encoded information under a defined format."
+      },
+      {
+        "title": "Recover",
+        "text": "Redundancy can repair some damage, depending on level, placement and damage pattern."
+      }
+    ],
+    "control": {
+      "label": "Damage the teaching symbol",
+      "options": [
+        "None",
+        "Small data patch",
+        "Large data patch",
+        "Finder pattern damage"
+      ]
+    },
+    "limits": "Non-decodable schematic, not a real QR code. Outcomes are predefined examples, not a decoder or universal damage threshold.",
+    "misconception": "A fixed percentage of visible damage does not always predict successful decoding.",
+    "sources": [
+      {
+        "title": "DENSO WAVE: error correction",
+        "url": "https://www.qrcode.com/en/about/error_correction.html",
+        "reviewed": "2026-10-22"
+      }
+    ],
+    "terms": {
+      "Module": "One light or dark square.",
+      "Error correction": "Redundant information used to recover damaged data."
+    },
+    "visualMechanism": "finder patterns, data modules and selected damage patches",
+    "interaction": {
+      "label": "Damage the teaching symbol",
+      "options": [
+        "None",
+        "Small data patch",
+        "Large data patch",
+        "Finder pattern damage"
+      ]
+    },
+    "implementation": "implemented",
+    "tests": "passed desktop 1440x1000 and mobile 393x852 core journeys; 54 shared model/registry checks",
+    "deployment": "pending production verification"
+  },
+  {
+    "id": 29,
+    "title": "How Files Get Compressed",
+    "slug": "file-compression",
+    "category": "Computers and communication",
+    "objective": "Compare exact reconstruction with deliberate information loss.",
+    "stages": [
+      {
+        "title": "Original",
+        "text": "A file is a sequence of symbols or measurements."
+      },
+      {
+        "title": "Lossless",
+        "text": "Repeated symbols can be represented compactly without changing the decoded sequence."
+      },
+      {
+        "title": "Decode",
+        "text": "A matching decoder reconstructs every original symbol."
+      },
+      {
+        "title": "Lossy",
+        "text": "Quantizing measurements discards detail; the exact original cannot generally be recovered."
+      }
+    ],
+    "control": {
+      "label": "Compression method",
+      "options": [
+        "Original AAAABBBCC",
+        "Run-length encoding",
+        "Lossless decode",
+        "Lossy quantization"
+      ]
+    },
+    "limits": "Toy run-length representation and three numeric samples. Size comparison excludes format headers and metadata.",
+    "misconception": "Compression does not always shrink every possible file.",
+    "sources": [
+      {
+        "title": "University of Canterbury CS Field Guide: run-length encoding",
+        "url": "https://www.csfieldguide.org.nz/en/chapters/coding-compression/run-length-encoding/",
+        "reviewed": "2026-10-22"
+      }
+    ],
+    "terms": {
+      "Lossless": "Exactly reversible representation.",
+      "Quantization": "Rounding measurements to fewer possible values."
+    },
+    "visualMechanism": "run lengths and irreversible numeric quantization",
+    "interaction": {
+      "label": "Compression method",
+      "options": [
+        "Original AAAABBBCC",
+        "Run-length encoding",
+        "Lossless decode",
+        "Lossy quantization"
+      ]
+    },
+    "implementation": "implemented",
+    "tests": "passed desktop 1440x1000 and mobile 393x852 core journeys; 54 shared model/registry checks",
+    "deployment": "pending production verification"
+  },
+  {
+    "id": 30,
+    "title": "How an AI Language Model Generates Text",
+    "slug": "ai-text-generation",
+    "category": "Computers and communication",
+    "objective": "Distinguish learned prediction, inference and factual reliability.",
+    "stages": [
+      {
+        "title": "Model",
+        "text": "Training adjusts model parameters using examples; inference uses those parameters."
+      },
+      {
+        "title": "Context",
+        "text": "Input is represented as tokens that provide context for the next prediction."
+      },
+      {
+        "title": "Scores",
+        "text": "The model produces scores over possible next tokens."
+      },
+      {
+        "title": "Select",
+        "text": "A decoding rule chooses a token, adds it to context and repeats."
+      },
+      {
+        "title": "Check",
+        "text": "Plausible wording can still be false; generated text needs verification."
+      }
+    ],
+    "control": {
+      "label": "Illustrative next token",
+      "options": [
+        "The cat sat on the → mat",
+        "The cat sat on the → chair",
+        "The cat sat on the → moon"
+      ]
+    },
+    "limits": "Manually assigned toy options, not a real model, measured probability distribution or display of hidden reasoning.",
+    "misconception": "A fluent continuation is not proof of knowledge, truth or conscious understanding.",
+    "sources": [
+      {
+        "title": "Google: introduction to large language models",
+        "url": "https://developers.google.com/machine-learning/resources/intro-llms",
+        "reviewed": "2026-10-22"
+      }
+    ],
+    "terms": {
+      "Token": "A unit of text representation, often a word part.",
+      "Inference": "Using a trained model to produce outputs."
+    },
+    "visualMechanism": "explicit context, toy scores and selectable token branches",
+    "interaction": {
+      "label": "Illustrative next token",
+      "options": [
+        "The cat sat on the → mat",
+        "The cat sat on the → chair",
+        "The cat sat on the → moon"
+      ]
+    },
+    "implementation": "implemented",
+    "tests": "passed desktop 1440x1000 and mobile 393x852 core journeys; 54 shared model/registry checks",
+    "deployment": "pending production verification"
+  },
+  {
+    "id": 31,
+    "title": "How Your Heart Circulates Blood",
+    "slug": "heart-circulation",
+    "category": "The human body",
+    "objective": "Trace the pulmonary and systemic circuits through four chambers.",
+    "stages": [
+      {
+        "title": "Double circuit",
+        "text": "The right heart serves the lungs; the left heart serves the body."
+      },
+      {
+        "title": "Right heart",
+        "text": "Blood from the body enters the right atrium, then right ventricle through a valve."
+      },
+      {
+        "title": "Lungs",
+        "text": "The pulmonary artery carries blood toward lungs, where gas exchange occurs."
+      },
+      {
+        "title": "Left heart",
+        "text": "Pulmonary veins return blood to the left atrium and ventricle."
+      },
+      {
+        "title": "Body",
+        "text": "The left ventricle pumps through the aorta; valves help prevent backward flow."
+      }
+    ],
+    "control": {
+      "label": "Trace a blood cell",
+      "options": [
+        "Body → right atrium",
+        "Right ventricle → lungs",
+        "Lungs → left atrium",
+        "Left ventricle → body"
+      ]
+    },
+    "limits": "Schematic circulation, not anatomy to scale or a timing model. Oxygenation shown by labels as well as color.",
+    "misconception": "Arteries carry blood away from the heart; the pulmonary artery carries oxygen-poor blood.",
+    "sources": [
+      {
+        "title": "NHLBI: blood flow through the heart",
+        "url": "https://www.nhlbi.nih.gov/health/heart/blood-flow",
+        "reviewed": "2026-10-22"
+      }
+    ],
+    "terms": {
+      "Atrium": "Receiving heart chamber.",
+      "Ventricle": "Pumping heart chamber."
+    },
+    "visualMechanism": "four heart chambers connected to lung/body loops",
+    "interaction": {
+      "label": "Trace a blood cell",
+      "options": [
+        "Body → right atrium",
+        "Right ventricle → lungs",
+        "Lungs → left atrium",
+        "Left ventricle → body"
+      ]
+    },
+    "implementation": "implemented",
+    "tests": "passed desktop 1440x1000 and mobile 393x852 core journeys; 54 shared model/registry checks",
+    "deployment": "pending production verification"
+  },
+  {
+    "id": 32,
+    "title": "How Your Lungs Exchange Gases",
+    "slug": "lung-gas-exchange",
+    "category": "The human body",
+    "objective": "Connect breathing mechanics to diffusion at alveoli.",
+    "stages": [
+      {
+        "title": "Respiration",
+        "text": "Airways bring air to alveoli alongside blood capillaries."
+      },
+      {
+        "title": "Inhale",
+        "text": "Diaphragm contraction enlarges the chest; pressure changes draw air inward."
+      },
+      {
+        "title": "Exchange",
+        "text": "Oxygen diffuses into blood and carbon dioxide diffuses into alveolar air down partial-pressure gradients."
+      },
+      {
+        "title": "Exhale",
+        "text": "During quiet breathing, relaxation and elastic recoil move air outward."
+      }
+    ],
+    "control": {
+      "label": "Breathing phase",
+      "options": [
+        "Inhale",
+        "Exchange",
+        "Exhale"
+      ]
+    },
+    "limits": "Simplified healthy quiet breathing; relative gas arrows, no clinical measurements.",
+    "misconception": "Lungs do not pump oxygen directly into cells; blood transports it.",
+    "sources": [
+      {
+        "title": "NHLBI: breathing and the body",
+        "url": "https://www.nhlbi.nih.gov/health/lungs/breathing-benefits",
+        "reviewed": "2026-10-22"
+      }
+    ],
+    "terms": {
+      "Alveolus": "Tiny air sac with a thin exchange surface.",
+      "Diffusion": "Net movement down a concentration or partial-pressure gradient."
+    },
+    "visualMechanism": "airway, paired lungs, diaphragm and alveolar exchange",
+    "interaction": {
+      "label": "Breathing phase",
+      "options": [
+        "Inhale",
+        "Exchange",
+        "Exhale"
+      ]
+    },
+    "implementation": "implemented",
+    "tests": "passed desktop 1440x1000 and mobile 393x852 core journeys; 54 shared model/registry checks",
+    "deployment": "pending production verification"
+  },
+  {
+    "id": 33,
+    "title": "How Your Ear Hears Sound",
+    "slug": "ear-hearing",
+    "category": "The human body",
+    "objective": "Trace vibration to neural signaling and distinguish pitch from amplitude.",
+    "stages": [
+      {
+        "title": "Hearing path",
+        "text": "Sound travels through outer, middle and inner ear."
+      },
+      {
+        "title": "Eardrum",
+        "text": "Pressure changes vibrate the eardrum."
+      },
+      {
+        "title": "Middle ear",
+        "text": "Small bones transmit vibration to the inner-ear fluid."
+      },
+      {
+        "title": "Cochlea",
+        "text": "Motion bends sensory hair bundles, initiating signals carried by the auditory nerve."
+      }
+    ],
+    "control": {
+      "label": "Sound example",
+      "options": [
+        "Low frequency / small amplitude",
+        "High frequency / small amplitude",
+        "Low frequency / large amplitude"
+      ]
+    },
+    "limits": "Silent schematic, no sound exposure or hearing test. Loudness depends on more than amplitude alone.",
+    "misconception": "The auditory nerve carries electrical signals, not a tiny sound wave.",
+    "sources": [
+      {
+        "title": "NIDCD: how do we hear",
+        "url": "https://www.nidcd.nih.gov/health/how-do-we-hear",
+        "reviewed": "2026-10-22"
+      }
+    ],
+    "terms": {
+      "Cochlea": "Spiral inner-ear structure containing sensory cells.",
+      "Frequency": "Cycles per second, associated with pitch."
+    },
+    "visualMechanism": "pressure waveform, eardrum, ossicles and cochlea",
+    "interaction": {
+      "label": "Sound example",
+      "options": [
+        "Low frequency / small amplitude",
+        "High frequency / small amplitude",
+        "Low frequency / large amplitude"
+      ]
+    },
+    "implementation": "implemented",
+    "tests": "passed desktop 1440x1000 and mobile 393x852 core journeys; 54 shared model/registry checks",
+    "deployment": "pending production verification"
+  },
+  {
+    "id": 34,
+    "title": "How Your Eyes Form an Image",
+    "slug": "eye-image",
+    "category": "The human body",
+    "objective": "Connect refraction, pupil opening and retinal sensing.",
+    "stages": [
+      {
+        "title": "Eye",
+        "text": "Cornea and lens focus incoming light toward the retina."
+      },
+      {
+        "title": "Light control",
+        "text": "The iris changes pupil opening, regulating entering light."
+      },
+      {
+        "title": "Focus",
+        "text": "The lens changes shape to help focus at different distances."
+      },
+      {
+        "title": "Signal",
+        "text": "Retinal cells convert light into neural signals; the brain interprets them."
+      }
+    ],
+    "control": {
+      "label": "Viewing condition",
+      "options": [
+        "Distant object / focused",
+        "Near object / unadjusted",
+        "Near object / accommodated",
+        "Bright light"
+      ]
+    },
+    "limits": "Schematic rays, no optical prescription or eye examination. Not to scale.",
+    "misconception": "The lens is not the only focusing surface; the cornea provides much of the refraction.",
+    "sources": [
+      {
+        "title": "NEI: how eyes work",
+        "url": "https://www.nei.nih.gov/learn-about-eye-health/healthy-vision/how-eyes-work",
+        "reviewed": "2026-10-22"
+      }
+    ],
+    "terms": {
+      "Retina": "Light-sensitive tissue lining the back of the eye.",
+      "Accommodation": "Changing lens shape to adjust focus."
+    },
+    "visualMechanism": "eye cross-section, iris, lens and focusing rays",
+    "interaction": {
+      "label": "Viewing condition",
+      "options": [
+        "Distant object / focused",
+        "Near object / unadjusted",
+        "Near object / accommodated",
+        "Bright light"
+      ]
+    },
+    "implementation": "implemented",
+    "tests": "passed desktop 1440x1000 and mobile 393x852 core journeys; 54 shared model/registry checks",
+    "deployment": "pending production verification"
+  },
+  {
+    "id": 35,
+    "title": "How Digestion Breaks Down Food",
+    "slug": "digestion",
+    "category": "The human body",
+    "objective": "Separate breakdown, absorption and elimination.",
+    "stages": [
+      {
+        "title": "Digestive tract",
+        "text": "Food travels through mouth, esophagus, stomach and intestines."
+      },
+      {
+        "title": "Break down",
+        "text": "Chewing and muscular mixing physically break food apart."
+      },
+      {
+        "title": "Digest",
+        "text": "Enzymes and other secretions chemically break nutrients into absorbable forms."
+      },
+      {
+        "title": "Absorb",
+        "text": "The small intestine absorbs most nutrients; the large intestine absorbs water and forms stool."
+      },
+      {
+        "title": "Eliminate",
+        "text": "Remaining material exits; this differs from absorbing useful nutrients."
+      }
+    ],
+    "control": {
+      "label": "Follow the meal",
+      "options": [
+        "Mouth",
+        "Stomach",
+        "Small intestine",
+        "Large intestine"
+      ]
+    },
+    "limits": "Representative mixed meal; no individual transit times or dietary advice.",
+    "misconception": "Most nutrient absorption occurs in the small intestine, not the stomach.",
+    "sources": [
+      {
+        "title": "NIDDK: digestive system",
+        "url": "https://www.niddk.nih.gov/health-information/digestive-diseases/digestive-system-how-it-works",
+        "reviewed": "2026-10-22"
+      }
+    ],
+    "terms": {
+      "Enzyme": "Molecule that accelerates a chemical reaction.",
+      "Absorption": "Movement of digested nutrients into circulation."
+    },
+    "visualMechanism": "mouth, stomach and coiled small/large intestines",
+    "interaction": {
+      "label": "Follow the meal",
+      "options": [
+        "Mouth",
+        "Stomach",
+        "Small intestine",
+        "Large intestine"
+      ]
+    },
+    "implementation": "implemented",
+    "tests": "passed desktop 1440x1000 and mobile 393x852 core journeys; 54 shared model/registry checks",
+    "deployment": "pending production verification"
+  },
+  {
+    "id": 36,
+    "title": "How Muscles Move a Joint",
+    "slug": "muscles-and-joints",
+    "category": "The human body",
+    "objective": "Explain opposing muscle groups and tendon force.",
+    "stages": [
+      {
+        "title": "Elbow",
+        "text": "Bones meet at a joint; tendons connect muscles to bones."
+      },
+      {
+        "title": "Flex",
+        "text": "Flexor contraction pulls on the forearm to bend the elbow."
+      },
+      {
+        "title": "Extend",
+        "text": "Extensor contraction pulls to straighten the elbow."
+      },
+      {
+        "title": "Coordinate",
+        "text": "The nervous system coordinates activation; opposing muscles may stabilize a joint together."
+      }
+    ],
+    "control": {
+      "label": "Activate the simplified pair",
+      "options": [
+        "Relaxed",
+        "Flexor",
+        "Extensor"
+      ]
+    },
+    "limits": "Two-muscle schematic; no anatomy-specific force, load or clinical range.",
+    "misconception": "Muscles pull through tension; they do not actively push a bone away.",
+    "sources": [
+      {
+        "title": "OpenStax: skeletal muscle interactions",
+        "url": "https://openstax.org/books/anatomy-and-physiology-2e/pages/11-1-interactions-of-skeletal-muscles-their-fascicle-arrangement-and-their-lever-systems",
+        "reviewed": "2026-10-22"
+      }
+    ],
+    "terms": {
+      "Tendon": "Connective tissue transmitting muscle pull to bone.",
+      "Antagonist": "Muscle acting in opposition to another movement."
+    },
+    "visualMechanism": "hinged bone pair and opposing tension muscles",
+    "interaction": {
+      "label": "Activate the simplified pair",
+      "options": [
+        "Relaxed",
+        "Flexor",
+        "Extensor"
+      ]
+    },
+    "implementation": "implemented",
+    "tests": "passed desktop 1440x1000 and mobile 393x852 core journeys; 54 shared model/registry checks",
+    "deployment": "pending production verification"
+  },
+  {
+    "id": 37,
+    "title": "How Your Kidneys Filter Blood",
+    "slug": "kidney-filtration",
+    "category": "The human body",
+    "objective": "Distinguish filtration, reabsorption and secretion.",
+    "stages": [
+      {
+        "title": "Nephron",
+        "text": "A filter and tubule process part of the blood’s fluid."
+      },
+      {
+        "title": "Filter",
+        "text": "Water and small substances pass into the nephron; cells and most large proteins remain in blood."
+      },
+      {
+        "title": "Reabsorb",
+        "text": "Useful substances and much water return from tubule to blood."
+      },
+      {
+        "title": "Secrete",
+        "text": "Other substances move from blood into the tubule."
+      },
+      {
+        "title": "Urine",
+        "text": "Fluid remaining after processing flows toward collection and elimination."
+      }
+    ],
+    "control": {
+      "label": "Track a substance",
+      "options": [
+        "Blood cell",
+        "Water",
+        "Glucose",
+        "Secreted waste"
+      ]
+    },
+    "limits": "Healthy simplified nephron, no quantities, diagnosis or individual kidney function.",
+    "misconception": "Kidneys do more than strain out dirt; they selectively return and secrete substances.",
+    "sources": [
+      {
+        "title": "NIDDK: kidneys and how they work",
+        "url": "https://www.niddk.nih.gov/health-information/kidney-disease/kidneys-how-they-work",
+        "reviewed": "2026-10-22"
+      }
+    ],
+    "terms": {
+      "Nephron": "Kidney’s filtering and processing unit.",
+      "Reabsorption": "Return from tubule to blood."
+    },
+    "visualMechanism": "filter, blood path, tubule and transfer arrows",
+    "interaction": {
+      "label": "Track a substance",
+      "options": [
+        "Blood cell",
+        "Water",
+        "Glucose",
+        "Secreted waste"
+      ]
+    },
+    "implementation": "implemented",
+    "tests": "passed desktop 1440x1000 and mobile 393x852 core journeys; 54 shared model/registry checks",
+    "deployment": "pending production verification"
+  },
+  {
+    "id": 38,
+    "title": "How Your Body Controls Temperature",
+    "slug": "body-temperature",
+    "category": "The human body",
+    "objective": "Describe negative feedback and several heat-transfer responses.",
+    "stages": [
+      {
+        "title": "Feedback",
+        "text": "Temperature signals are integrated with other information by the nervous system."
+      },
+      {
+        "title": "Warm",
+        "text": "Skin blood-flow changes can help transfer heat; evaporation of sweat removes heat."
+      },
+      {
+        "title": "Cold",
+        "text": "Reduced skin blood flow limits heat loss; shivering increases heat production."
+      },
+      {
+        "title": "Regulate",
+        "text": "Responses change as conditions change. Body temperature varies with person, time and measurement site."
+      }
+    ],
+    "control": {
+      "label": "Thermal condition",
+      "options": [
+        "Comfortable",
+        "Warm environment",
+        "Cold environment",
+        "Warm and humid"
+      ]
+    },
+    "limits": "Qualitative healthy-response model. No universal target temperature or medical assessment.",
+    "misconception": "Sweat cools most effectively when it evaporates, not merely when it appears.",
+    "sources": [
+      {
+        "title": "OpenStax: energy and heat balance",
+        "url": "https://openstax.org/books/anatomy-and-physiology-2e/pages/24-6-energy-and-heat-balance",
+        "reviewed": "2026-10-22"
+      }
+    ],
+    "terms": {
+      "Negative feedback": "A response that counteracts a change.",
+      "Evaporation": "Liquid becoming vapor, absorbing energy."
+    },
+    "visualMechanism": "body silhouette with thermal feedback and effectors",
+    "interaction": {
+      "label": "Thermal condition",
+      "options": [
+        "Comfortable",
+        "Warm environment",
+        "Cold environment",
+        "Warm and humid"
+      ]
+    },
+    "implementation": "implemented",
+    "tests": "passed desktop 1440x1000 and mobile 393x852 core journeys; 54 shared model/registry checks",
+    "deployment": "pending production verification"
+  },
+  {
+    "id": 39,
+    "title": "How a Reflex Works",
+    "slug": "reflex-arc",
+    "category": "The human body",
+    "objective": "Trace a withdrawal reflex without confusing it with later awareness.",
+    "stages": [
+      {
+        "title": "Reflex system",
+        "text": "A sensory input can activate a spinal response pathway."
+      },
+      {
+        "title": "Sense",
+        "text": "A receptor initiates a signal along a sensory neuron."
+      },
+      {
+        "title": "Integrate",
+        "text": "Spinal circuitry connects the input to motor pathways."
+      },
+      {
+        "title": "Respond",
+        "text": "Motor neurons activate muscle; signals also ascend toward the brain for awareness."
+      }
+    ],
+    "control": {
+      "label": "Advance the signal",
+      "options": [
+        "Receptor",
+        "Sensory neuron",
+        "Spinal circuitry",
+        "Motor neuron",
+        "Muscle and awareness"
+      ]
+    },
+    "limits": "Simplified withdrawal reflex involving interneurons. Not all reflexes share this exact circuit.",
+    "misconception": "A rapid spinal response does not mean the brain never receives information.",
+    "sources": [
+      {
+        "title": "OpenStax: sensory and motor exams",
+        "url": "https://openstax.org/books/anatomy-and-physiology-2e/pages/16-4-the-sensory-and-motor-exams",
+        "reviewed": "2026-10-22"
+      }
+    ],
+    "terms": {
+      "Neuron": "Nerve cell transmitting signals.",
+      "Interneuron": "Neuron linking other neurons within a circuit."
+    },
+    "visualMechanism": "receptor, sensory path, spinal circuitry and motor path",
+    "interaction": {
+      "label": "Advance the signal",
+      "options": [
+        "Receptor",
+        "Sensory neuron",
+        "Spinal circuitry",
+        "Motor neuron",
+        "Muscle and awareness"
+      ]
+    },
+    "implementation": "implemented",
+    "tests": "passed desktop 1440x1000 and mobile 393x852 core journeys; 54 shared model/registry checks",
+    "deployment": "pending production verification"
+  },
+  {
+    "id": 40,
+    "title": "How Vaccines Prepare the Immune System",
+    "slug": "vaccines-and-memory",
+    "category": "The human body",
+    "objective": "Connect antigen recognition, adaptive response and immune memory.",
+    "stages": [
+      {
+        "title": "Preparation",
+        "text": "Vaccines present antigens or instructions for producing them in different ways."
+      },
+      {
+        "title": "Recognize",
+        "text": "Immune cells recognize relevant antigen features."
+      },
+      {
+        "title": "Respond",
+        "text": "Adaptive responses expand selected cells; antibodies and cellular responses can contribute."
+      },
+      {
+        "title": "Remember",
+        "text": "Some cells persist and can support a faster response to later exposure."
+      },
+      {
+        "title": "Limits",
+        "text": "Development takes time; protection varies by vaccine, pathogen and person and can wane."
+      }
+    ],
+    "control": {
+      "label": "Immune timeline",
+      "options": [
+        "Before vaccination",
+        "Learning response",
+        "Memory established",
+        "Later exposure"
+      ]
+    },
+    "limits": "Conceptual immune-cell story, no numerical effectiveness or personal vaccination recommendation.",
+    "misconception": "Protection is neither instant nor an impenetrable shield.",
+    "sources": [
+      {
+        "title": "WHO: how vaccines work",
+        "url": "https://www.who.int/news-room/feature-stories/detail/how-do-vaccines-work",
+        "reviewed": "2026-10-22"
+      }
+    ],
+    "terms": {
+      "Antigen": "Feature that can be recognized by an adaptive immune response.",
+      "Memory cell": "Longer-lived cell supporting later responses."
+    },
+    "visualMechanism": "antigen recognition, cell expansion and memory pathway",
+    "interaction": {
+      "label": "Immune timeline",
+      "options": [
+        "Before vaccination",
+        "Learning response",
+        "Memory established",
+        "Later exposure"
+      ]
+    },
+    "implementation": "implemented",
+    "tests": "passed desktop 1440x1000 and mobile 393x852 core journeys; 54 shared model/registry checks",
+    "deployment": "pending production verification"
+  },
+  {
+    "id": 41,
+    "title": "Where Tap Water Comes From",
+    "slug": "tap-water",
+    "category": "Everyday systems and the natural world",
+    "objective": "Follow a representative surface-water treatment and delivery path.",
+    "stages": [
+      {
+        "title": "Source",
+        "text": "A utility draws water from a river, lake or groundwater source."
+      },
+      {
+        "title": "Clarify",
+        "text": "In this surface-water example, coagulation and settling remove suspended particles."
+      },
+      {
+        "title": "Filter",
+        "text": "Water passes through filtration to remove additional material."
+      },
+      {
+        "title": "Disinfect",
+        "text": "Controlled disinfection reduces harmful microorganisms."
+      },
+      {
+        "title": "Deliver",
+        "text": "Storage and distribution carry treated water to household plumbing."
+      }
+    ],
+    "control": {
+      "label": "Trace the water",
+      "options": [
+        "Source",
+        "Coagulation and settling",
+        "Filtration",
+        "Disinfection",
+        "Storage and tap"
+      ]
+    },
+    "limits": "Representative municipal surface-water process. Treatment varies with source, contaminants and local requirements.",
+    "misconception": "Clear-looking water is not necessarily safe to drink.",
+    "sources": [
+      {
+        "title": "CDC: drinking water treatment",
+        "url": "https://www.cdc.gov/drinking-water/about/how-water-treatment-works.html",
+        "reviewed": "2026-10-22"
+      }
+    ],
+    "terms": {
+      "Coagulation": "Helping small particles join into larger clumps.",
+      "Disinfection": "Reducing disease-causing microorganisms."
+    },
+    "visualMechanism": "source, settling tank, filter, disinfection and storage",
+    "interaction": {
+      "label": "Trace the water",
+      "options": [
+        "Source",
+        "Coagulation and settling",
+        "Filtration",
+        "Disinfection",
+        "Storage and tap"
+      ]
+    },
+    "implementation": "implemented",
+    "tests": "passed desktop 1440x1000 and mobile 393x852 core journeys; 54 shared model/registry checks",
+    "deployment": "pending production verification"
+  },
+  {
+    "id": 42,
+    "title": "What Happens After You Flush",
+    "slug": "wastewater",
+    "category": "Everyday systems and the natural world",
+    "objective": "Trace municipal wastewater and distinguish liquid and solids pathways.",
+    "stages": [
+      {
+        "title": "Collection",
+        "text": "Sewers carry wastewater toward treatment; septic systems follow a different local process."
+      },
+      {
+        "title": "Screen",
+        "text": "Screens and settling remove debris and some solids."
+      },
+      {
+        "title": "Biology",
+        "text": "Microorganisms consume organic matter under managed conditions."
+      },
+      {
+        "title": "Separate",
+        "text": "Solids settle out and need further treatment; liquid continues."
+      },
+      {
+        "title": "Finish",
+        "text": "Disinfection and other required steps precede permitted discharge or reuse."
+      }
+    ],
+    "control": {
+      "label": "Follow a stream",
+      "options": [
+        "Wastewater",
+        "Screened debris",
+        "Biological treatment",
+        "Treated liquid",
+        "Separated solids"
+      ]
+    },
+    "limits": "Representative municipal system. Local treatment stages and reuse requirements vary; no septic-system simulation.",
+    "misconception": "A wastewater plant does not make every incoming substance disappear.",
+    "sources": [
+      {
+        "title": "EPA: wastewater treatment",
+        "url": "https://www.epa.gov/npdes/municipal-wastewater",
+        "reviewed": "2026-10-22"
+      }
+    ],
+    "terms": {
+      "Sludge": "Separated solids requiring treatment.",
+      "Aeration": "Adding air to support biological treatment."
+    },
+    "visualMechanism": "screening/biological tank with liquid and solids branches",
+    "interaction": {
+      "label": "Follow a stream",
+      "options": [
+        "Wastewater",
+        "Screened debris",
+        "Biological treatment",
+        "Treated liquid",
+        "Separated solids"
+      ]
+    },
+    "implementation": "implemented",
+    "tests": "passed desktop 1440x1000 and mobile 393x852 core journeys; 54 shared model/registry checks",
+    "deployment": "pending production verification"
+  },
+  {
+    "id": 43,
+    "title": "How a Grocery Store Gets Stocked",
+    "slug": "grocery-supply-chain",
+    "category": "Everyday systems and the natural world",
+    "objective": "Connect demand forecasts to orders and physical replenishment.",
+    "stages": [
+      {
+        "title": "Demand",
+        "text": "Sales history and expected events inform a forecast."
+      },
+      {
+        "title": "Order",
+        "text": "Stores and distribution centers order against expected demand and inventory."
+      },
+      {
+        "title": "Supply",
+        "text": "Manufacturing and suppliers replenish warehouses."
+      },
+      {
+        "title": "Receive",
+        "text": "Transport delivers stock; receiving checks quantities and condition."
+      },
+      {
+        "title": "Shelf",
+        "text": "Staff replenish shelves and new sales feed the next forecast."
+      }
+    ],
+    "control": {
+      "label": "Tomorrow’s forecast",
+      "options": [
+        "20 units",
+        "40 units",
+        "60 units"
+      ]
+    },
+    "limits": "Fictional one-product store with 15 on hand and 5 safety-stock units. No lead-time or spoilage optimization.",
+    "misconception": "A forecast is an estimate, not a guarantee of tomorrow’s sales.",
+    "sources": [
+      {
+        "title": "USDA: food value chains",
+        "url": "https://www.ams.usda.gov/reports/food-value-chains",
+        "reviewed": "2026-10-22"
+      }
+    ],
+    "terms": {
+      "Safety stock": "Extra inventory held against uncertainty.",
+      "Replenishment": "Replacing stock consumed or sold."
+    },
+    "visualMechanism": "shelves, forecast/order, supplier and warehouse loop",
+    "interaction": {
+      "label": "Tomorrow’s forecast",
+      "options": [
+        "20 units",
+        "40 units",
+        "60 units"
+      ]
+    },
+    "implementation": "implemented",
+    "tests": "passed desktop 1440x1000 and mobile 393x852 core journeys; 54 shared model/registry checks",
+    "deployment": "pending production verification"
+  },
+  {
+    "id": 44,
+    "title": "How a Paycheck Works",
+    "slug": "paycheck",
+    "category": "Everyday systems and the natural world",
+    "objective": "Calculate fictional net pay and separate withholding from final tax.",
+    "stages": [
+      {
+        "title": "Gross",
+        "text": "Gross pay is compensation before deductions."
+      },
+      {
+        "title": "Benefits",
+        "text": "Some deductions pay for benefits; their tax treatment varies."
+      },
+      {
+        "title": "Withholding",
+        "text": "Employers withhold taxes under applicable rules and worker information."
+      },
+      {
+        "title": "Net",
+        "text": "Net pay is what remains after deductions."
+      },
+      {
+        "title": "Reconcile",
+        "text": "Withholding is a payment toward tax; final liability is determined separately."
+      }
+    ],
+    "control": {
+      "label": "Fictional deduction package",
+      "options": [
+        "Basic",
+        "With retirement",
+        "With retirement and benefit"
+      ]
+    },
+    "limits": "Fictional US example: $1000 gross, $150 tax withholding, optional $50 retirement and $30 benefit. No tax-rate calculation or advice.",
+    "misconception": "Withholding is not necessarily the final amount of tax owed.",
+    "sources": [
+      {
+        "title": "IRS: tax withholding",
+        "url": "https://www.irs.gov/payments/tax-withholding",
+        "reviewed": "2026-10-22"
+      }
+    ],
+    "terms": {
+      "Gross pay": "Pay before deductions.",
+      "Net pay": "Pay remaining after deductions."
+    },
+    "visualMechanism": "fictional itemized pay statement",
+    "interaction": {
+      "label": "Fictional deduction package",
+      "options": [
+        "Basic",
+        "With retirement",
+        "With retirement and benefit"
+      ]
+    },
+    "implementation": "implemented",
+    "tests": "passed desktop 1440x1000 and mobile 393x852 core journeys; 54 shared model/registry checks",
+    "deployment": "pending production verification"
+  },
+  {
+    "id": 45,
+    "title": "How a Card Payment Reaches a Business",
+    "slug": "card-payment",
+    "category": "Everyday systems and the natural world",
+    "objective": "Distinguish approval from movement of settled funds.",
+    "stages": [
+      {
+        "title": "Payment system",
+        "text": "Customer, merchant, processor, network and issuing and acquiring banks exchange information."
+      },
+      {
+        "title": "Authorize",
+        "text": "The issuer approves or declines a request; approval can reserve available funds."
+      },
+      {
+        "title": "Capture",
+        "text": "The merchant submits the approved amount for financial processing."
+      },
+      {
+        "title": "Clear",
+        "text": "Participants exchange transaction records and determine obligations."
+      },
+      {
+        "title": "Settle",
+        "text": "Funds move between participating institutions and the merchant is funded under its agreement."
+      }
+    ],
+    "control": {
+      "label": "Payment stage",
+      "options": [
+        "Authorization",
+        "Capture",
+        "Clearing",
+        "Settlement"
+      ]
+    },
+    "limits": "Fictional $100 sale and $3 illustrative fee; timing, fees and exact actors vary. No live payment or promised settlement time.",
+    "misconception": "Authorization is not the same as money already being deposited to the merchant.",
+    "sources": [
+      {
+        "title": "Visa: authorization and capture APIs",
+        "url": "https://developer.visa.com/docs/visanet-connect-acceptance",
+        "reviewed": "2026-10-22"
+      }
+    ],
+    "terms": {
+      "Issuer": "Customer’s card-issuing institution.",
+      "Acquirer": "Institution supporting merchant card acceptance."
+    },
+    "visualMechanism": "payment participants, authorization flow and funding path",
+    "interaction": {
+      "label": "Payment stage",
+      "options": [
+        "Authorization",
+        "Capture",
+        "Clearing",
+        "Settlement"
+      ]
+    },
+    "implementation": "implemented",
+    "tests": "passed desktop 1440x1000 and mobile 393x852 core journeys; 54 shared model/registry checks",
+    "deployment": "pending production verification"
+  },
+  {
+    "id": 46,
+    "title": "How a Package Reaches Your Door",
+    "slug": "package-delivery",
+    "category": "Everyday systems and the natural world",
+    "objective": "Explain physical routing and the limits of tracking scans.",
+    "stages": [
+      {
+        "title": "Label",
+        "text": "A label links the parcel to routing and service information."
+      },
+      {
+        "title": "Collect",
+        "text": "The carrier accepts the package and records an event."
+      },
+      {
+        "title": "Sort",
+        "text": "Facilities group packages by destination and service."
+      },
+      {
+        "title": "Transport",
+        "text": "Line-haul transport connects hubs; local stations prepare delivery routes."
+      },
+      {
+        "title": "Deliver",
+        "text": "A final-mile route brings the parcel to its destination; scans update tracking."
+      }
+    ],
+    "control": {
+      "label": "Tracking event",
+      "options": [
+        "Label created",
+        "Accepted",
+        "Sorted at hub",
+        "Out for delivery",
+        "Delivered"
+      ]
+    },
+    "limits": "Fictional route and status events, no carrier service promise or real tracking.",
+    "misconception": "Label creation alone does not prove the carrier has received the package.",
+    "sources": [
+      {
+        "title": "USPS: tracking basics",
+        "url": "https://faq.usps.com/s/article/USPS-Tracking-The-Basics",
+        "reviewed": "2026-10-22"
+      }
+    ],
+    "terms": {
+      "Line-haul": "Transport between major facilities.",
+      "Scan": "Recorded event, not continuous GPS position."
+    },
+    "visualMechanism": "labeled parcel, sorting hubs, vehicle and home",
+    "interaction": {
+      "label": "Tracking event",
+      "options": [
+        "Label created",
+        "Accepted",
+        "Sorted at hub",
+        "Out for delivery",
+        "Delivered"
+      ]
+    },
+    "implementation": "implemented",
+    "tests": "passed desktop 1440x1000 and mobile 393x852 core journeys; 54 shared model/registry checks",
+    "deployment": "pending production verification"
+  },
+  {
+    "id": 47,
+    "title": "How Traffic Signals Coordinate an Intersection",
+    "slug": "traffic-signals",
+    "category": "Everyday systems and the natural world",
+    "objective": "Distinguish green phases, clearance and pedestrian timing.",
+    "stages": [
+      {
+        "title": "Controller",
+        "text": "A controller schedules compatible movements and receives detector requests."
+      },
+      {
+        "title": "Green",
+        "text": "One vehicle direction is permitted while conflicting traffic remains stopped."
+      },
+      {
+        "title": "Clear",
+        "text": "Yellow and then all-red intervals provide a transition before conflicting green."
+      },
+      {
+        "title": "Pedestrian",
+        "text": "Walk and clearance intervals serve crossing demand; a request waits for a compatible phase."
+      }
+    ],
+    "control": {
+      "label": "Advance the controller",
+      "options": [
+        "North–south green",
+        "Yellow",
+        "All red",
+        "East–west green",
+        "Pedestrian phase"
+      ]
+    },
+    "limits": "Invented isolated junction. No real traffic-control timing, adaptive algorithm or road-design guidance.",
+    "misconception": "A pedestrian button generally requests service; it does not instantly stop all traffic.",
+    "sources": [
+      {
+        "title": "National Academies: signal timing manual",
+        "url": "https://nap.nationalacademies.org/catalog/22097/signal-timing-manual-second-edition",
+        "reviewed": "2026-10-22"
+      }
+    ],
+    "terms": {
+      "Phase": "Controller timing serving particular movements.",
+      "Clearance": "Transition time before conflicting movement begins."
+    },
+    "visualMechanism": "crossroads with separate movement and clearance signals",
+    "interaction": {
+      "label": "Advance the controller",
+      "options": [
+        "North–south green",
+        "Yellow",
+        "All red",
+        "East–west green",
+        "Pedestrian phase"
+      ]
+    },
+    "implementation": "implemented",
+    "tests": "passed desktop 1440x1000 and mobile 393x852 core journeys; 54 shared model/registry checks",
+    "deployment": "pending production verification"
+  },
+  {
+    "id": 48,
+    "title": "How a Plant Turns Sunlight into Growth",
+    "slug": "plant-growth",
+    "category": "Everyday systems and the natural world",
+    "objective": "Connect carbon fixation, sugars, nutrients and respiration.",
+    "stages": [
+      {
+        "title": "Plant system",
+        "text": "Leaves, roots and transport tissues connect light, air and water."
+      },
+      {
+        "title": "Photosynthesis",
+        "text": "Light energy supports making sugars from carbon dioxide and water, releasing oxygen."
+      },
+      {
+        "title": "Build",
+        "text": "Sugars provide carbon and energy resources for new tissues."
+      },
+      {
+        "title": "Roots",
+        "text": "Roots supply water and mineral nutrients needed for function and growth."
+      },
+      {
+        "title": "Respire",
+        "text": "Plants also respire, using organic molecules to release usable energy, day and night."
+      }
+    ],
+    "control": {
+      "label": "Limit a resource",
+      "options": [
+        "Light + water + CO₂",
+        "No light",
+        "Low water",
+        "Low CO₂"
+      ]
+    },
+    "limits": "Qualitative resource-limitation model, not a growth-rate prediction. Nutrients also matter.",
+    "misconception": "Most carbon in plant dry mass comes from atmospheric CO₂, not from soil.",
+    "sources": [
+      {
+        "title": "OpenStax: photosynthesis",
+        "url": "https://openstax.org/books/biology-2e/pages/8-1-overview-of-photosynthesis",
+        "reviewed": "2026-10-22"
+      }
+    ],
+    "terms": {
+      "Photosynthesis": "Light-driven production of organic molecules.",
+      "Respiration": "Processes releasing usable energy from organic molecules."
+    },
+    "visualMechanism": "leaf/root system, sunlight, atmospheric carbon and sugars",
+    "interaction": {
+      "label": "Limit a resource",
+      "options": [
+        "Light + water + CO₂",
+        "No light",
+        "Low water",
+        "Low CO₂"
+      ]
+    },
+    "implementation": "implemented",
+    "tests": "passed desktop 1440x1000 and mobile 393x852 core journeys; 54 shared model/registry checks",
+    "deployment": "pending production verification"
+  },
+  {
+    "id": 49,
+    "title": "How Clouds Form and Rain Falls",
+    "slug": "clouds-and-rain",
+    "category": "Everyday systems and the natural world",
+    "objective": "Separate invisible water vapor, condensation and precipitation growth.",
+    "stages": [
+      {
+        "title": "Moist air",
+        "text": "Air contains invisible water vapor."
+      },
+      {
+        "title": "Cool",
+        "text": "Rising air expands and cools; it can reach saturation."
+      },
+      {
+        "title": "Condense",
+        "text": "Water condenses on tiny particles, forming droplets, or ice develops in suitable conditions."
+      },
+      {
+        "title": "Grow",
+        "text": "Droplets collide and combine or ice processes build larger particles."
+      },
+      {
+        "title": "Fall",
+        "text": "Particles fall as precipitation when growth and air motions allow; they may evaporate before reaching ground."
+      }
+    ],
+    "control": {
+      "label": "Air parcel journey",
+      "options": [
+        "Warm moist air",
+        "Rising and cooling",
+        "Cloud droplets",
+        "Growing drops",
+        "Rain falling"
+      ]
+    },
+    "limits": "Conceptual parcel, no weather forecast, fixed cloud base or computed humidity.",
+    "misconception": "Clouds are visible droplets or ice, not the invisible vapor itself.",
+    "sources": [
+      {
+        "title": "NOAA: how clouds form",
+        "url": "https://www.noaa.gov/jetstream/clouds/how-clouds-form",
+        "reviewed": "2026-10-22"
+      }
+    ],
+    "terms": {
+      "Saturation": "Condition at which air is in equilibrium with liquid water or ice at that temperature.",
+      "Condensation": "Water vapor becoming liquid."
+    },
+    "visualMechanism": "rising air, condensation droplets, growth and rain",
+    "interaction": {
+      "label": "Air parcel journey",
+      "options": [
+        "Warm moist air",
+        "Rising and cooling",
+        "Cloud droplets",
+        "Growing drops",
+        "Rain falling"
+      ]
+    },
+    "implementation": "implemented",
+    "tests": "passed desktop 1440x1000 and mobile 393x852 core journeys; 54 shared model/registry checks",
+    "deployment": "pending production verification"
+  },
+  {
+    "id": 50,
+    "title": "How a Bridge Carries Weight",
+    "slug": "bridge-loads",
+    "category": "Everyday systems and the natural world",
+    "objective": "Trace loads through different structural forms to foundations.",
+    "stages": [
+      {
+        "title": "Load path",
+        "text": "Deck loads must reach supports and foundations."
+      },
+      {
+        "title": "Beam",
+        "text": "Bending causes compression on one side and tension on the other."
+      },
+      {
+        "title": "Arch",
+        "text": "An arch carries much of its load in compression and pushes outward at supports."
+      },
+      {
+        "title": "Suspension",
+        "text": "Tension in main cables carries deck loads to towers and anchorages."
+      },
+      {
+        "title": "Foundation",
+        "text": "Supports transfer forces to the ground; design must consider many loads and failure modes."
+      }
+    ],
+    "control": {
+      "label": "Bridge form",
+      "options": [
+        "Beam",
+        "Arch",
+        "Suspension"
+      ]
+    },
+    "limits": "Qualitative static load paths, no stress, capacity or structural safety calculation.",
+    "misconception": "A bridge’s apparent shape alone does not determine its safe load capacity.",
+    "sources": [
+      {
+        "title": "PBS NOVA: bridge forms",
+        "url": "https://www.pbs.org/wgbh/nova/education/tech/build-bridge.html",
+        "reviewed": "2026-10-22"
+      }
+    ],
+    "terms": {
+      "Tension": "Pulling internal force.",
+      "Compression": "Squeezing internal force."
+    },
+    "visualMechanism": "beam stress regions, arch thrust and suspension load paths",
+    "interaction": {
+      "label": "Bridge form",
+      "options": [
+        "Beam",
+        "Arch",
+        "Suspension"
+      ]
+    },
+    "implementation": "implemented",
+    "tests": "passed desktop 1440x1000 and mobile 393x852 core journeys; 54 shared model/registry checks",
+    "deployment": "pending production verification"
+  }
+]

@@ -1,0 +1,86 @@
+{
+  "base": "http://127.0.0.1:4189",
+  "axe": [
+    {
+      "id": 1,
+      "mode": "show",
+      "violations": []
+    },
+    {
+      "id": 1,
+      "mode": "try",
+      "violations": []
+    },
+    {
+      "id": 1,
+      "mode": "more",
+      "violations": []
+    },
+    {
+      "id": 13,
+      "mode": "show",
+      "violations": []
+    },
+    {
+      "id": 13,
+      "mode": "try",
+      "violations": []
+    },
+    {
+      "id": 13,
+      "mode": "more",
+      "violations": []
+    },
+    {
+      "id": 24,
+      "mode": "show",
+      "violations": []
+    },
+    {
+      "id": 24,
+      "mode": "try",
+      "violations": []
+    },
+    {
+      "id": 24,
+      "mode": "more",
+      "violations": []
+    },
+    {
+      "id": 31,
+      "mode": "show",
+      "violations": []
+    },
+    {
+      "id": 31,
+      "mode": "try",
+      "violations": []
+    },
+    {
+      "id": 31,
+      "mode": "more",
+      "violations": []
+    },
+    {
+      "id": 50,
+      "mode": "show",
+      "violations": []
+    },
+    {
+      "id": 50,
+      "mode": "try",
+      "violations": []
+    },
+    {
+      "id": 50,
+      "mode": "more",
+      "violations": []
+    },
+    {
+      "page": "catalog",
+      "violations": []
+    }
+  ],
+  "clippedLabels": [],
+  "checkedAt": "2026-10-23T01:33:15.136Z"
+}
