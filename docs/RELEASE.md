@@ -38,3 +38,11 @@ Production commit, deployment and public verification are added after qualificat
 Physical phone and screen reader testing, independent accessibility review and independent subject-matter review have not been performed. Simulations remain deliberately simplified as documented at every activity. The platform does not claim certification or endorsement by referenced institutions.
 
 Production verification identified zone email obfuscation rewriting the HTML and injecting a decoding script. The app now sends Cache-Control: no-transform to preserve the qualified response body. This response header is scoped to this Pages application and does not change other CGH websites.
+
+## Verified public release
+
+Live: https://howitworks.crawfordgroupholdings.com/
+
+Deployed application commit: e3c3699009f28f579c650e5016056df4e481033f. Cloudflare production deployment: 2409f3b5-6cd5-4313-abd2-6195a8d275c8. Verified 50/50 direct experience URLs and all 114 public files against the qualified build. All 100 live desktop/mobile journeys passed, including timed playback, every guided step, all activity options, reset and preserved mode state. Unknown URLs return 404. Chrome actual 200% zoom was visually confirmed on CGHMain. No material page errors were observed in the browser suite.
+
+All 24 committed source files matched the local qualified source before final evidence documentation was appended. The later evidence-only commit does not change production application bytes. See DEPLOYMENT.json, production-audit.json, live-browser.json, quality.json and screenshots.

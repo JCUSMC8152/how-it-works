@@ -61,7 +61,8 @@
     },
     "implementation": "implemented",
     "tests": "passed desktop 1440x1000 and mobile 393x852 core journeys; 54 shared model/registry checks",
-    "deployment": "pending production verification"
+    "deployment": "verified public direct URL, qualified bytes and live desktop/mobile core interactions",
+    "deployedCommit": "e3c3699009f28f579c650e5016056df4e481033f"
   },
   {
     "id": 2,
@@ -119,7 +120,8 @@
     },
     "implementation": "implemented",
     "tests": "passed desktop 1440x1000 and mobile 393x852 core journeys; 54 shared model/registry checks",
-    "deployment": "pending production verification"
+    "deployment": "verified public direct URL, qualified bytes and live desktop/mobile core interactions",
+    "deployedCommit": "e3c3699009f28f579c650e5016056df4e481033f"
   },
   {
     "id": 3,
@@ -177,7 +179,8 @@
     },
     "implementation": "implemented",
     "tests": "passed desktop 1440x1000 and mobile 393x852 core journeys; 54 shared model/registry checks",
-    "deployment": "pending production verification"
+    "deployment": "verified public direct URL, qualified bytes and live desktop/mobile core interactions",
+    "deployedCommit": "e3c3699009f28f579c650e5016056df4e481033f"
   },
   {
     "id": 4,
@@ -237,7 +240,8 @@
     },
     "implementation": "implemented",
     "tests": "passed desktop 1440x1000 and mobile 393x852 core journeys; 54 shared model/registry checks",
-    "deployment": "pending production verification"
+    "deployment": "verified public direct URL, qualified bytes and live desktop/mobile core interactions",
+    "deployedCommit": "e3c3699009f28f579c650e5016056df4e481033f"
   },
   {
     "id": 5,
@@ -299,7 +303,8 @@
     },
     "implementation": "implemented",
     "tests": "passed desktop 1440x1000 and mobile 393x852 core journeys; 54 shared model/registry checks",
-    "deployment": "pending production verification"
+    "deployment": "verified public direct URL, qualified bytes and live desktop/mobile core interactions",
+    "deployedCommit": "e3c3699009f28f579c650e5016056df4e481033f"
   },
   {
     "id": 6,
@@ -363,7 +368,8 @@
     },
     "implementation": "implemented",
     "tests": "passed desktop 1440x1000 and mobile 393x852 core journeys; 54 shared model/registry checks",
-    "deployment": "pending production verification"
+    "deployment": "verified public direct URL, qualified bytes and live desktop/mobile core interactions",
+    "deployedCommit": "e3c3699009f28f579c650e5016056df4e481033f"
   },
   {
     "id": 7,
@@ -427,7 +433,8 @@
     },
     "implementation": "implemented",
     "tests": "passed desktop 1440x1000 and mobile 393x852 core journeys; 54 shared model/registry checks",
-    "deployment": "pending production verification"
+    "deployment": "verified public direct URL, qualified bytes and live desktop/mobile core interactions",
+    "deployedCommit": "e3c3699009f28f579c650e5016056df4e481033f"
   },
   {
     "id": 8,
@@ -485,7 +492,8 @@
     },
     "implementation": "implemented",
     "tests": "passed desktop 1440x1000 and mobile 393x852 core journeys; 54 shared model/registry checks",
-    "deployment": "pending production verification"
+    "deployment": "verified public direct URL, qualified bytes and live desktop/mobile core interactions",
+    "deployedCommit": "e3c3699009f28f579c650e5016056df4e481033f"
   },
   {
     "id": 9,
@@ -545,7 +553,8 @@
     },
     "implementation": "implemented",
     "tests": "passed desktop 1440x1000 and mobile 393x852 core journeys; 54 shared model/registry checks",
-    "deployment": "pending production verification"
+    "deployment": "verified public direct URL, qualified bytes and live desktop/mobile core interactions",
+    "deployedCommit": "e3c3699009f28f579c650e5016056df4e481033f"
   },
   {
     "id": 10,
@@ -611,7 +620,8 @@
     },
     "implementation": "implemented",
     "tests": "passed desktop 1440x1000 and mobile 393x852 core journeys; 54 shared model/registry checks",
-    "deployment": "pending production verification"
+    "deployment": "verified public direct URL, qualified bytes and live desktop/mobile core interactions",
+    "deployedCommit": "e3c3699009f28f579c650e5016056df4e481033f"
   },
   {
     "id": 11,
@@ -673,7 +683,8 @@
     },
     "implementation": "implemented",
     "tests": "passed desktop 1440x1000 and mobile 393x852 core journeys; 54 shared model/registry checks",
-    "deployment": "pending production verification"
+    "deployment": "verified public direct URL, qualified bytes and live desktop/mobile core interactions",
+    "deployedCommit": "e3c3699009f28f579c650e5016056df4e481033f"
   },
   {
     "id": 12,
@@ -731,7 +742,8 @@
     },
     "implementation": "implemented",
     "tests": "passed desktop 1440x1000 and mobile 393x852 core journeys; 54 shared model/registry checks",
-    "deployment": "pending production verification"
+    "deployment": "verified public direct URL, qualified bytes and live desktop/mobile core interactions",
+    "deployedCommit": "e3c3699009f28f579c650e5016056df4e481033f"
   },
   {
     "id": 13,
@@ -793,7 +805,8 @@
     },
     "implementation": "implemented",
     "tests": "passed desktop 1440x1000 and mobile 393x852 core journeys; 54 shared model/registry checks",
-    "deployment": "pending production verification"
+    "deployment": "verified public direct URL, qualified bytes and live desktop/mobile core interactions",
+    "deployedCommit": "e3c3699009f28f579c650e5016056df4e481033f"
   },
   {
     "id": 14,
@@ -853,7 +866,8 @@
     },
     "implementation": "implemented",
     "tests": "passed desktop 1440x1000 and mobile 393x852 core journeys; 54 shared model/registry checks",
-    "deployment": "pending production verification"
+    "deployment": "verified public direct URL, qualified bytes and live desktop/mobile core interactions",
+    "deployedCommit": "e3c3699009f28f579c650e5016056df4e481033f"
   },
   {
     "id": 15,
@@ -911,7 +925,8 @@
     },
     "implementation": "implemented",
     "tests": "passed desktop 1440x1000 and mobile 393x852 core journeys; 54 shared model/registry checks",
-    "deployment": "pending production verification"
+    "deployment": "verified public direct URL, qualified bytes and live desktop/mobile core interactions",
+    "deployedCommit": "e3c3699009f28f579c650e5016056df4e481033f"
   },
   {
     "id": 16,
@@ -971,7 +986,8 @@
     },
     "implementation": "implemented",
     "tests": "passed desktop 1440x1000 and mobile 393x852 core journeys; 54 shared model/registry checks",
-    "deployment": "pending production verification"
+    "deployment": "verified public direct URL, qualified bytes and live desktop/mobile core interactions",
+    "deployedCommit": "e3c3699009f28f579c650e5016056df4e481033f"
   },
   {
     "id": 17,
@@ -1031,7 +1047,8 @@
     },
     "implementation": "implemented",
     "tests": "passed desktop 1440x1000 and mobile 393x852 core journeys; 54 shared model/registry checks",
-    "deployment": "pending production verification"
+    "deployment": "verified public direct URL, qualified bytes and live desktop/mobile core interactions",
+    "deployedCommit": "e3c3699009f28f579c650e5016056df4e481033f"
   },
   {
     "id": 18,
@@ -1089,7 +1106,8 @@
     },
     "implementation": "implemented",
     "tests": "passed desktop 1440x1000 and mobile 393x852 core journeys; 54 shared model/registry checks",
-    "deployment": "pending production verification"
+    "deployment": "verified public direct URL, qualified bytes and live desktop/mobile core interactions",
+    "deployedCommit": "e3c3699009f28f579c650e5016056df4e481033f"
   },
   {
     "id": 19,
@@ -1149,7 +1167,8 @@
     },
     "implementation": "implemented",
     "tests": "passed desktop 1440x1000 and mobile 393x852 core journeys; 54 shared model/registry checks",
-    "deployment": "pending production verification"
+    "deployment": "verified public direct URL, qualified bytes and live desktop/mobile core interactions",
+    "deployedCommit": "e3c3699009f28f579c650e5016056df4e481033f"
   },
   {
     "id": 20,
@@ -1207,7 +1226,8 @@
     },
     "implementation": "implemented",
     "tests": "passed desktop 1440x1000 and mobile 393x852 core journeys; 54 shared model/registry checks",
-    "deployment": "pending production verification"
+    "deployment": "verified public direct URL, qualified bytes and live desktop/mobile core interactions",
+    "deployedCommit": "e3c3699009f28f579c650e5016056df4e481033f"
   },
   {
     "id": 21,
@@ -1271,7 +1291,8 @@
     },
     "implementation": "implemented",
     "tests": "passed desktop 1440x1000 and mobile 393x852 core journeys; 54 shared model/registry checks",
-    "deployment": "pending production verification"
+    "deployment": "verified public direct URL, qualified bytes and live desktop/mobile core interactions",
+    "deployedCommit": "e3c3699009f28f579c650e5016056df4e481033f"
   },
   {
     "id": 22,
@@ -1335,7 +1356,8 @@
     },
     "implementation": "implemented",
     "tests": "passed desktop 1440x1000 and mobile 393x852 core journeys; 54 shared model/registry checks",
-    "deployment": "pending production verification"
+    "deployment": "verified public direct URL, qualified bytes and live desktop/mobile core interactions",
+    "deployedCommit": "e3c3699009f28f579c650e5016056df4e481033f"
   },
   {
     "id": 23,
@@ -1395,7 +1417,8 @@
     },
     "implementation": "implemented",
     "tests": "passed desktop 1440x1000 and mobile 393x852 core journeys; 54 shared model/registry checks",
-    "deployment": "pending production verification"
+    "deployment": "verified public direct URL, qualified bytes and live desktop/mobile core interactions",
+    "deployedCommit": "e3c3699009f28f579c650e5016056df4e481033f"
   },
   {
     "id": 24,
@@ -1461,7 +1484,8 @@
     },
     "implementation": "implemented",
     "tests": "passed desktop 1440x1000 and mobile 393x852 core journeys; 54 shared model/registry checks",
-    "deployment": "pending production verification"
+    "deployment": "verified public direct URL, qualified bytes and live desktop/mobile core interactions",
+    "deployedCommit": "e3c3699009f28f579c650e5016056df4e481033f"
   },
   {
     "id": 25,
@@ -1521,7 +1545,8 @@
     },
     "implementation": "implemented",
     "tests": "passed desktop 1440x1000 and mobile 393x852 core journeys; 54 shared model/registry checks",
-    "deployment": "pending production verification"
+    "deployment": "verified public direct URL, qualified bytes and live desktop/mobile core interactions",
+    "deployedCommit": "e3c3699009f28f579c650e5016056df4e481033f"
   },
   {
     "id": 26,
@@ -1581,7 +1606,8 @@
     },
     "implementation": "implemented",
     "tests": "passed desktop 1440x1000 and mobile 393x852 core journeys; 54 shared model/registry checks",
-    "deployment": "pending production verification"
+    "deployment": "verified public direct URL, qualified bytes and live desktop/mobile core interactions",
+    "deployedCommit": "e3c3699009f28f579c650e5016056df4e481033f"
   },
   {
     "id": 27,
@@ -1645,7 +1671,8 @@
     },
     "implementation": "implemented",
     "tests": "passed desktop 1440x1000 and mobile 393x852 core journeys; 54 shared model/registry checks",
-    "deployment": "pending production verification"
+    "deployment": "verified public direct URL, qualified bytes and live desktop/mobile core interactions",
+    "deployedCommit": "e3c3699009f28f579c650e5016056df4e481033f"
   },
   {
     "id": 28,
@@ -1705,7 +1732,8 @@
     },
     "implementation": "implemented",
     "tests": "passed desktop 1440x1000 and mobile 393x852 core journeys; 54 shared model/registry checks",
-    "deployment": "pending production verification"
+    "deployment": "verified public direct URL, qualified bytes and live desktop/mobile core interactions",
+    "deployedCommit": "e3c3699009f28f579c650e5016056df4e481033f"
   },
   {
     "id": 29,
@@ -1765,7 +1793,8 @@
     },
     "implementation": "implemented",
     "tests": "passed desktop 1440x1000 and mobile 393x852 core journeys; 54 shared model/registry checks",
-    "deployment": "pending production verification"
+    "deployment": "verified public direct URL, qualified bytes and live desktop/mobile core interactions",
+    "deployedCommit": "e3c3699009f28f579c650e5016056df4e481033f"
   },
   {
     "id": 30,
@@ -1827,7 +1856,8 @@
     },
     "implementation": "implemented",
     "tests": "passed desktop 1440x1000 and mobile 393x852 core journeys; 54 shared model/registry checks",
-    "deployment": "pending production verification"
+    "deployment": "verified public direct URL, qualified bytes and live desktop/mobile core interactions",
+    "deployedCommit": "e3c3699009f28f579c650e5016056df4e481033f"
   },
   {
     "id": 31,
@@ -1891,7 +1921,8 @@
     },
     "implementation": "implemented",
     "tests": "passed desktop 1440x1000 and mobile 393x852 core journeys; 54 shared model/registry checks",
-    "deployment": "pending production verification"
+    "deployment": "verified public direct URL, qualified bytes and live desktop/mobile core interactions",
+    "deployedCommit": "e3c3699009f28f579c650e5016056df4e481033f"
   },
   {
     "id": 32,
@@ -1949,7 +1980,8 @@
     },
     "implementation": "implemented",
     "tests": "passed desktop 1440x1000 and mobile 393x852 core journeys; 54 shared model/registry checks",
-    "deployment": "pending production verification"
+    "deployment": "verified public direct URL, qualified bytes and live desktop/mobile core interactions",
+    "deployedCommit": "e3c3699009f28f579c650e5016056df4e481033f"
   },
   {
     "id": 33,
@@ -2007,7 +2039,8 @@
     },
     "implementation": "implemented",
     "tests": "passed desktop 1440x1000 and mobile 393x852 core journeys; 54 shared model/registry checks",
-    "deployment": "pending production verification"
+    "deployment": "verified public direct URL, qualified bytes and live desktop/mobile core interactions",
+    "deployedCommit": "e3c3699009f28f579c650e5016056df4e481033f"
   },
   {
     "id": 34,
@@ -2067,7 +2100,8 @@
     },
     "implementation": "implemented",
     "tests": "passed desktop 1440x1000 and mobile 393x852 core journeys; 54 shared model/registry checks",
-    "deployment": "pending production verification"
+    "deployment": "verified public direct URL, qualified bytes and live desktop/mobile core interactions",
+    "deployedCommit": "e3c3699009f28f579c650e5016056df4e481033f"
   },
   {
     "id": 35,
@@ -2131,7 +2165,8 @@
     },
     "implementation": "implemented",
     "tests": "passed desktop 1440x1000 and mobile 393x852 core journeys; 54 shared model/registry checks",
-    "deployment": "pending production verification"
+    "deployment": "verified public direct URL, qualified bytes and live desktop/mobile core interactions",
+    "deployedCommit": "e3c3699009f28f579c650e5016056df4e481033f"
   },
   {
     "id": 36,
@@ -2189,7 +2224,8 @@
     },
     "implementation": "implemented",
     "tests": "passed desktop 1440x1000 and mobile 393x852 core journeys; 54 shared model/registry checks",
-    "deployment": "pending production verification"
+    "deployment": "verified public direct URL, qualified bytes and live desktop/mobile core interactions",
+    "deployedCommit": "e3c3699009f28f579c650e5016056df4e481033f"
   },
   {
     "id": 37,
@@ -2253,7 +2289,8 @@
     },
     "implementation": "implemented",
     "tests": "passed desktop 1440x1000 and mobile 393x852 core journeys; 54 shared model/registry checks",
-    "deployment": "pending production verification"
+    "deployment": "verified public direct URL, qualified bytes and live desktop/mobile core interactions",
+    "deployedCommit": "e3c3699009f28f579c650e5016056df4e481033f"
   },
   {
     "id": 38,
@@ -2313,7 +2350,8 @@
     },
     "implementation": "implemented",
     "tests": "passed desktop 1440x1000 and mobile 393x852 core journeys; 54 shared model/registry checks",
-    "deployment": "pending production verification"
+    "deployment": "verified public direct URL, qualified bytes and live desktop/mobile core interactions",
+    "deployedCommit": "e3c3699009f28f579c650e5016056df4e481033f"
   },
   {
     "id": 39,
@@ -2375,7 +2413,8 @@
     },
     "implementation": "implemented",
     "tests": "passed desktop 1440x1000 and mobile 393x852 core journeys; 54 shared model/registry checks",
-    "deployment": "pending production verification"
+    "deployment": "verified public direct URL, qualified bytes and live desktop/mobile core interactions",
+    "deployedCommit": "e3c3699009f28f579c650e5016056df4e481033f"
   },
   {
     "id": 40,
@@ -2439,7 +2478,8 @@
     },
     "implementation": "implemented",
     "tests": "passed desktop 1440x1000 and mobile 393x852 core journeys; 54 shared model/registry checks",
-    "deployment": "pending production verification"
+    "deployment": "verified public direct URL, qualified bytes and live desktop/mobile core interactions",
+    "deployedCommit": "e3c3699009f28f579c650e5016056df4e481033f"
   },
   {
     "id": 41,
@@ -2505,7 +2545,8 @@
     },
     "implementation": "implemented",
     "tests": "passed desktop 1440x1000 and mobile 393x852 core journeys; 54 shared model/registry checks",
-    "deployment": "pending production verification"
+    "deployment": "verified public direct URL, qualified bytes and live desktop/mobile core interactions",
+    "deployedCommit": "e3c3699009f28f579c650e5016056df4e481033f"
   },
   {
     "id": 42,
@@ -2571,7 +2612,8 @@
     },
     "implementation": "implemented",
     "tests": "passed desktop 1440x1000 and mobile 393x852 core journeys; 54 shared model/registry checks",
-    "deployment": "pending production verification"
+    "deployment": "verified public direct URL, qualified bytes and live desktop/mobile core interactions",
+    "deployedCommit": "e3c3699009f28f579c650e5016056df4e481033f"
   },
   {
     "id": 43,
@@ -2633,7 +2675,8 @@
     },
     "implementation": "implemented",
     "tests": "passed desktop 1440x1000 and mobile 393x852 core journeys; 54 shared model/registry checks",
-    "deployment": "pending production verification"
+    "deployment": "verified public direct URL, qualified bytes and live desktop/mobile core interactions",
+    "deployedCommit": "e3c3699009f28f579c650e5016056df4e481033f"
   },
   {
     "id": 44,
@@ -2695,7 +2738,8 @@
     },
     "implementation": "implemented",
     "tests": "passed desktop 1440x1000 and mobile 393x852 core journeys; 54 shared model/registry checks",
-    "deployment": "pending production verification"
+    "deployment": "verified public direct URL, qualified bytes and live desktop/mobile core interactions",
+    "deployedCommit": "e3c3699009f28f579c650e5016056df4e481033f"
   },
   {
     "id": 45,
@@ -2759,7 +2803,8 @@
     },
     "implementation": "implemented",
     "tests": "passed desktop 1440x1000 and mobile 393x852 core journeys; 54 shared model/registry checks",
-    "deployment": "pending production verification"
+    "deployment": "verified public direct URL, qualified bytes and live desktop/mobile core interactions",
+    "deployedCommit": "e3c3699009f28f579c650e5016056df4e481033f"
   },
   {
     "id": 46,
@@ -2825,7 +2870,8 @@
     },
     "implementation": "implemented",
     "tests": "passed desktop 1440x1000 and mobile 393x852 core journeys; 54 shared model/registry checks",
-    "deployment": "pending production verification"
+    "deployment": "verified public direct URL, qualified bytes and live desktop/mobile core interactions",
+    "deployedCommit": "e3c3699009f28f579c650e5016056df4e481033f"
   },
   {
     "id": 47,
@@ -2887,7 +2933,8 @@
     },
     "implementation": "implemented",
     "tests": "passed desktop 1440x1000 and mobile 393x852 core journeys; 54 shared model/registry checks",
-    "deployment": "pending production verification"
+    "deployment": "verified public direct URL, qualified bytes and live desktop/mobile core interactions",
+    "deployedCommit": "e3c3699009f28f579c650e5016056df4e481033f"
   },
   {
     "id": 48,
@@ -2951,7 +2998,8 @@
     },
     "implementation": "implemented",
     "tests": "passed desktop 1440x1000 and mobile 393x852 core journeys; 54 shared model/registry checks",
-    "deployment": "pending production verification"
+    "deployment": "verified public direct URL, qualified bytes and live desktop/mobile core interactions",
+    "deployedCommit": "e3c3699009f28f579c650e5016056df4e481033f"
   },
   {
     "id": 49,
@@ -3017,7 +3065,8 @@
     },
     "implementation": "implemented",
     "tests": "passed desktop 1440x1000 and mobile 393x852 core journeys; 54 shared model/registry checks",
-    "deployment": "pending production verification"
+    "deployment": "verified public direct URL, qualified bytes and live desktop/mobile core interactions",
+    "deployedCommit": "e3c3699009f28f579c650e5016056df4e481033f"
   },
   {
     "id": 50,
@@ -3079,6 +3128,7 @@
     },
     "implementation": "implemented",
     "tests": "passed desktop 1440x1000 and mobile 393x852 core journeys; 54 shared model/registry checks",
-    "deployment": "pending production verification"
+    "deployment": "verified public direct URL, qualified bytes and live desktop/mobile core interactions",
+    "deployedCommit": "e3c3699009f28f579c650e5016056df4e481033f"
   }
 ]

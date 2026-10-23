@@ -1,0 +1,928 @@
+{
+  "origin": "https://howitworks.crawfordgroupholdings.com",
+  "commit": "e3c3699009f28f579c650e5016056df4e481033f",
+  "deployment": "2409f3b5-6cd5-4313-abd2-6195a8d275c8",
+  "checkedAt": "2026-10-23T01:45:55Z",
+  "rows": [
+    {
+      "path": "/motion.js",
+      "url": "https://howitworks.crawfordgroupholdings.com/motion.js",
+      "status": 200,
+      "match": true,
+      "sha256": "e5b975972a545bd2c0d97301576e70056d3c0ec0e148c38f97dc7aa30c043fbf",
+      "expected": "e5b975972a545bd2c0d97301576e70056d3c0ec0e148c38f97dc7aa30c043fbf"
+    },
+    {
+      "path": "/app.js",
+      "url": "https://howitworks.crawfordgroupholdings.com/app.js",
+      "status": 200,
+      "match": true,
+      "sha256": "58f107be41966495f631174db8cc64b96820ba91893a3b0de980d0b08a676356",
+      "expected": "58f107be41966495f631174db8cc64b96820ba91893a3b0de980d0b08a676356"
+    },
+    {
+      "path": "/index.html",
+      "url": "https://howitworks.crawfordgroupholdings.com",
+      "status": 200,
+      "match": true,
+      "sha256": "3cf2aff84326e659a58a3307af02f9c7a5bda23d0cacb1a0a57842adb0c59a3a",
+      "expected": "3cf2aff84326e659a58a3307af02f9c7a5bda23d0cacb1a0a57842adb0c59a3a"
+    },
+    {
+      "path": "/style.css",
+      "url": "https://howitworks.crawfordgroupholdings.com/style.css",
+      "status": 200,
+      "match": true,
+      "sha256": "48cb0483f93a889ffeaa390005db93974debcae4dc52e41b796299d784fc08e7",
+      "expected": "48cb0483f93a889ffeaa390005db93974debcae4dc52e41b796299d784fc08e7"
+    },
+    {
+      "path": "/diagrams.js",
+      "url": "https://howitworks.crawfordgroupholdings.com/diagrams.js",
+      "status": 200,
+      "match": true,
+      "sha256": "8d7b26f7952285699abad6fa716cb7cc858b4ab550bbf1a9348295db6f128c82",
+      "expected": "8d7b26f7952285699abad6fa716cb7cc858b4ab550bbf1a9348295db6f128c82"
+    },
+    {
+      "path": "/404.html",
+      "url": "https://howitworks.crawfordgroupholdings.com/404.html",
+      "status": 200,
+      "match": true,
+      "sha256": "c76e3ad28e2a0506896bc69f97d22a04e2c38cee17e11fc6becaf57a253484df",
+      "expected": "c76e3ad28e2a0506896bc69f97d22a04e2c38cee17e11fc6becaf57a253484df"
+    },
+    {
+      "path": "/models.js",
+      "url": "https://howitworks.crawfordgroupholdings.com/models.js",
+      "status": 200,
+      "match": true,
+      "sha256": "b86b49ee312854ede83a0b682de621024ec07bc81dbb4c618b5e3681a2771fcc",
+      "expected": "b86b49ee312854ede83a0b682de621024ec07bc81dbb4c618b5e3681a2771fcc"
+    },
+    {
+      "path": "/cgh-logo.jpg",
+      "url": "https://howitworks.crawfordgroupholdings.com/cgh-logo.jpg",
+      "status": 200,
+      "match": true,
+      "sha256": "f8d02926d1d1486118e7f8030cadb4186366b8ac0c6118053156afe4609e758f",
+      "expected": "f8d02926d1d1486118e7f8030cadb4186366b8ac0c6118053156afe4609e758f"
+    },
+    {
+      "path": "/robots.txt",
+      "url": "https://howitworks.crawfordgroupholdings.com/robots.txt",
+      "status": 200,
+      "match": true,
+      "sha256": "dc62b675dff37078c46863c9b53c3bd985853c36209747364b369ca7d1a2ddfa",
+      "expected": "dc62b675dff37078c46863c9b53c3bd985853c36209747364b369ca7d1a2ddfa"
+    },
+    {
+      "path": "/sitemap.xml",
+      "url": "https://howitworks.crawfordgroupholdings.com/sitemap.xml",
+      "status": 200,
+      "match": true,
+      "sha256": "61e52839f8683db09633b48127d61f1afc8e252ab7eb01b6a05745f501948329",
+      "expected": "61e52839f8683db09633b48127d61f1afc8e252ab7eb01b6a05745f501948329"
+    },
+    {
+      "path": "/electric-motor/index.html",
+      "url": "https://howitworks.crawfordgroupholdings.com/electric-motor",
+      "status": 200,
+      "match": true,
+      "sha256": "a74fc98ef698a1e435d87ecfde7c2dfa681b93dc96b24eb7d5199a3ce7512327",
+      "expected": "a74fc98ef698a1e435d87ecfde7c2dfa681b93dc96b24eb7d5199a3ce7512327"
+    },
+    {
+      "path": "/experiences/index.html",
+      "url": "https://howitworks.crawfordgroupholdings.com/experiences",
+      "status": 200,
+      "match": true,
+      "sha256": "80bdf7b4179cf94890187c1983aceadf9be7b0ed01d3ac831f0b8b716ef05757",
+      "expected": "80bdf7b4179cf94890187c1983aceadf9be7b0ed01d3ac831f0b8b716ef05757"
+    },
+    {
+      "path": "/digestion/index.html",
+      "url": "https://howitworks.crawfordgroupholdings.com/digestion",
+      "status": 200,
+      "match": true,
+      "sha256": "a79939425064cb1f3327b0662fc4fca48a6e8fa0e528fba53f2968f0327df93a",
+      "expected": "a79939425064cb1f3327b0662fc4fca48a6e8fa0e528fba53f2968f0327df93a"
+    },
+    {
+      "path": "/opening-an-app/index.html",
+      "url": "https://howitworks.crawfordgroupholdings.com/opening-an-app",
+      "status": 200,
+      "match": true,
+      "sha256": "9c30e21834391e18e3f60ffe139ed48d002d36028ecaa263e62157e19d9c6b72",
+      "expected": "9c30e21834391e18e3f60ffe139ed48d002d36028ecaa263e62157e19d9c6b72"
+    },
+    {
+      "path": "/solar-panels/index.html",
+      "url": "https://howitworks.crawfordgroupholdings.com/solar-panels",
+      "status": 200,
+      "match": true,
+      "sha256": "e8fb32ff0d192a2f834973b87bbec9a4b4fc991899be2214c94ac1b3aeccfcd1",
+      "expected": "e8fb32ff0d192a2f834973b87bbec9a4b4fc991899be2214c94ac1b3aeccfcd1"
+    },
+    {
+      "path": "/about/index.html",
+      "url": "https://howitworks.crawfordgroupholdings.com/about",
+      "status": 200,
+      "match": true,
+      "sha256": "2a2273c53f3cab0a649a9053d0615e9ec31dd58ec4107e776727572b12dff731",
+      "expected": "2a2273c53f3cab0a649a9053d0615e9ec31dd58ec4107e776727572b12dff731"
+    },
+    {
+      "path": "/grocery-supply-chain/index.html",
+      "url": "https://howitworks.crawfordgroupholdings.com/grocery-supply-chain",
+      "status": 200,
+      "match": true,
+      "sha256": "5ae17f834ad5092c3187e5d8691e1b1bd5dc73a27b6218e8b7644c863f59b162",
+      "expected": "5ae17f834ad5092c3187e5d8691e1b1bd5dc73a27b6218e8b7644c863f59b162"
+    },
+    {
+      "path": "/clouds-and-rain/index.html",
+      "url": "https://howitworks.crawfordgroupholdings.com/clouds-and-rain",
+      "status": 200,
+      "match": true,
+      "sha256": "318936f6fd4c75eb518d9c745de4fcb704ffda4bf4d2af959007b8eae3ce21fd",
+      "expected": "318936f6fd4c75eb518d9c745de4fcb704ffda4bf4d2af959007b8eae3ce21fd"
+    },
+    {
+      "path": "/wifi-connection/index.html",
+      "url": "https://howitworks.crawfordgroupholdings.com/wifi-connection",
+      "status": 200,
+      "match": true,
+      "sha256": "81c7cf919f93d05f441e12983e441ddd1e837b9b889f29cf301a29b9e70cec39",
+      "expected": "81c7cf919f93d05f441e12983e441ddd1e837b9b889f29cf301a29b9e70cec39"
+    },
+    {
+      "path": "/heart-circulation/index.html",
+      "url": "https://howitworks.crawfordgroupholdings.com/heart-circulation",
+      "status": 200,
+      "match": true,
+      "sha256": "035c1a6a0378324095e48472fd97dbeb1b5a620ef68aa98fdfe17e431b476adc",
+      "expected": "035c1a6a0378324095e48472fd97dbeb1b5a620ef68aa98fdfe17e431b476adc"
+    },
+    {
+      "path": "/four-stroke-engine/index.html",
+      "url": "https://howitworks.crawfordgroupholdings.com/four-stroke-engine",
+      "status": 200,
+      "match": true,
+      "sha256": "65295133781634ed5c9f9fbb6edc7b32115e2f34cd50a231d189ef1687e8932e",
+      "expected": "65295133781634ed5c9f9fbb6edc7b32115e2f34cd50a231d189ef1687e8932e"
+    },
+    {
+      "path": "/methodology/index.html",
+      "url": "https://howitworks.crawfordgroupholdings.com/methodology",
+      "status": 200,
+      "match": true,
+      "sha256": "437d09a0afaad41999f1ece951d43fa8381ea1b9533240bb470e22e00d804e27",
+      "expected": "437d09a0afaad41999f1ece951d43fa8381ea1b9533240bb470e22e00d804e27"
+    },
+    {
+      "path": "/led-light/index.html",
+      "url": "https://howitworks.crawfordgroupholdings.com/led-light",
+      "status": 200,
+      "match": true,
+      "sha256": "e318dd9b200351a4c9adad1fef4be88b354908aaa845d8bcf73732b8a71fb19f",
+      "expected": "e318dd9b200351a4c9adad1fef4be88b354908aaa845d8bcf73732b8a71fb19f"
+    },
+    {
+      "path": "/wastewater/index.html",
+      "url": "https://howitworks.crawfordgroupholdings.com/wastewater",
+      "status": 200,
+      "match": true,
+      "sha256": "4add756e3fc4db5f018b1110d946f45710e501b64fc9bc9027ff4f8c4276448b",
+      "expected": "4add756e3fc4db5f018b1110d946f45710e501b64fc9bc9027ff4f8c4276448b"
+    },
+    {
+      "path": "/internet-message/index.html",
+      "url": "https://howitworks.crawfordgroupholdings.com/internet-message",
+      "status": 200,
+      "match": true,
+      "sha256": "a7353ce0b2290f468326561c1f624561bc194b8723d67fee92219fb1af3705e8",
+      "expected": "a7353ce0b2290f468326561c1f624561bc194b8723d67fee92219fb1af3705e8"
+    },
+    {
+      "path": "/traffic-signals/index.html",
+      "url": "https://howitworks.crawfordgroupholdings.com/traffic-signals",
+      "status": 200,
+      "match": true,
+      "sha256": "06da1f2b2b4f46efd483be8e3511c3bf3b2457d99687dda2ad5d909b1826c650",
+      "expected": "06da1f2b2b4f46efd483be8e3511c3bf3b2457d99687dda2ad5d909b1826c650"
+    },
+    {
+      "path": "/tap-water/index.html",
+      "url": "https://howitworks.crawfordgroupholdings.com/tap-water",
+      "status": 200,
+      "match": true,
+      "sha256": "7d461c82ff8bde18095cf5fd66a2ae17fd6f014116c174d6b3d79126335a2501",
+      "expected": "7d461c82ff8bde18095cf5fd66a2ae17fd6f014116c174d6b3d79126335a2501"
+    },
+    {
+      "path": "/battery-energy/index.html",
+      "url": "https://howitworks.crawfordgroupholdings.com/battery-energy",
+      "status": 200,
+      "match": true,
+      "sha256": "a15c433d6daa188f51f89650ad10e68d3f960b3e856b8fb819f2e5e19255f1b5",
+      "expected": "a15c433d6daa188f51f89650ad10e68d3f960b3e856b8fb819f2e5e19255f1b5"
+    },
+    {
+      "path": "/paycheck/index.html",
+      "url": "https://howitworks.crawfordgroupholdings.com/paycheck",
+      "status": 200,
+      "match": true,
+      "sha256": "1d05e63d46f4203345575ce38c98ba2c2796fe5b2e46ed75ef9456a09e7de495",
+      "expected": "1d05e63d46f4203345575ce38c98ba2c2796fe5b2e46ed75ef9456a09e7de495"
+    },
+    {
+      "path": "/digital-photo/index.html",
+      "url": "https://howitworks.crawfordgroupholdings.com/digital-photo",
+      "status": 200,
+      "match": true,
+      "sha256": "77235947d58c83181a59e02030d98d4f8268bf5cbefaea9b6235c23fda0e9fcb",
+      "expected": "77235947d58c83181a59e02030d98d4f8268bf5cbefaea9b6235c23fda0e9fcb"
+    },
+    {
+      "path": "/body-temperature/index.html",
+      "url": "https://howitworks.crawfordgroupholdings.com/body-temperature",
+      "status": 200,
+      "match": true,
+      "sha256": "3997c5d908fb983cf72df96f0c6cdcd011f6c7db4f1c3ec9e275661f8a2b5a12",
+      "expected": "3997c5d908fb983cf72df96f0c6cdcd011f6c7db4f1c3ec9e275661f8a2b5a12"
+    },
+    {
+      "path": "/levers-and-pulleys/index.html",
+      "url": "https://howitworks.crawfordgroupholdings.com/levers-and-pulleys",
+      "status": 200,
+      "match": true,
+      "sha256": "39324af34debd91dae9a70a63dbb880d0b134d24e8c2ed4ec078619f0615f666",
+      "expected": "39324af34debd91dae9a70a63dbb880d0b134d24e8c2ed4ec078619f0615f666"
+    },
+    {
+      "path": "/muscles-and-joints/index.html",
+      "url": "https://howitworks.crawfordgroupholdings.com/muscles-and-joints",
+      "status": 200,
+      "match": true,
+      "sha256": "f1014152395d96fde6fa58e4ecc8eaf600226b35e246b5d92920b222dfaa51ef",
+      "expected": "f1014152395d96fde6fa58e4ecc8eaf600226b35e246b5d92920b222dfaa51ef"
+    },
+    {
+      "path": "/gps-location/index.html",
+      "url": "https://howitworks.crawfordgroupholdings.com/gps-location",
+      "status": 200,
+      "match": true,
+      "sha256": "c60b388aed019bb33942fe51d85af8b7812d324f9ee91eb2bf34e90f47eb09d0",
+      "expected": "c60b388aed019bb33942fe51d85af8b7812d324f9ee91eb2bf34e90f47eb09d0"
+    },
+    {
+      "path": "/ev-charging/index.html",
+      "url": "https://howitworks.crawfordgroupholdings.com/ev-charging",
+      "status": 200,
+      "match": true,
+      "sha256": "936f29a37a5a066c70b367b39b2b7a9ac8a3d8701ef671b2a27fb6fa15bdb0d8",
+      "expected": "936f29a37a5a066c70b367b39b2b7a9ac8a3d8701ef671b2a27fb6fa15bdb0d8"
+    },
+    {
+      "path": "/household-circuit/index.html",
+      "url": "https://howitworks.crawfordgroupholdings.com/household-circuit",
+      "status": 200,
+      "match": true,
+      "sha256": "945c4e622edde315f6e2a3cadb3573ec3efa4cd2a7bd92f80280c63cf9540267",
+      "expected": "945c4e622edde315f6e2a3cadb3573ec3efa4cd2a7bd92f80280c63cf9540267"
+    },
+    {
+      "path": "/package-delivery/index.html",
+      "url": "https://howitworks.crawfordgroupholdings.com/package-delivery",
+      "status": 200,
+      "match": true,
+      "sha256": "d60d5e9a3ced0a4595d9a9bf087fd8968637d2e68f6109806060acb6ead4bae5",
+      "expected": "d60d5e9a3ced0a4595d9a9bf087fd8968637d2e68f6109806060acb6ead4bae5"
+    },
+    {
+      "path": "/electric-generator/index.html",
+      "url": "https://howitworks.crawfordgroupholdings.com/electric-generator",
+      "status": 200,
+      "match": true,
+      "sha256": "d0904269772ccf7a91cb34c59fcc1b08a7691101ee551cf877525c9f753aa06a",
+      "expected": "d0904269772ccf7a91cb34c59fcc1b08a7691101ee551cf877525c9f753aa06a"
+    },
+    {
+      "path": "/air-conditioner/index.html",
+      "url": "https://howitworks.crawfordgroupholdings.com/air-conditioner",
+      "status": 200,
+      "match": true,
+      "sha256": "ffe343878594db30344afbe7b4c759a53242fbe37f10e6597126c085f43fcc31",
+      "expected": "ffe343878594db30344afbe7b4c759a53242fbe37f10e6597126c085f43fcc31"
+    },
+    {
+      "path": "/jet-engine/index.html",
+      "url": "https://howitworks.crawfordgroupholdings.com/jet-engine",
+      "status": 200,
+      "match": true,
+      "sha256": "33c2f796a920af17a4155537a495b6575553dd800c4dea6ab3a78e707ac889b8",
+      "expected": "33c2f796a920af17a4155537a495b6575553dd800c4dea6ab3a78e707ac889b8"
+    },
+    {
+      "path": "/bicycle-gears/index.html",
+      "url": "https://howitworks.crawfordgroupholdings.com/bicycle-gears",
+      "status": 200,
+      "match": true,
+      "sha256": "e6d6cfaa64fb53524f92128fa3f3bcc7d404415a2bd8abeabef2cc34562db695",
+      "expected": "e6d6cfaa64fb53524f92128fa3f3bcc7d404415a2bd8abeabef2cc34562db695"
+    },
+    {
+      "path": "/lessons/17.json",
+      "url": "https://howitworks.crawfordgroupholdings.com/lessons/17.json",
+      "status": 200,
+      "match": true,
+      "sha256": "48752f028adae1f4eec3dd4e305bab3a0f9384c21d3bac31dc29db30ff057940",
+      "expected": "48752f028adae1f4eec3dd4e305bab3a0f9384c21d3bac31dc29db30ff057940"
+    },
+    {
+      "path": "/lessons/43.json",
+      "url": "https://howitworks.crawfordgroupholdings.com/lessons/43.json",
+      "status": 200,
+      "match": true,
+      "sha256": "dbb2d6ca64305a501d735f9daf5bb2289deab9a82b5c7658fe5d11427cfaa3bd",
+      "expected": "dbb2d6ca64305a501d735f9daf5bb2289deab9a82b5c7658fe5d11427cfaa3bd"
+    },
+    {
+      "path": "/lessons/22.json",
+      "url": "https://howitworks.crawfordgroupholdings.com/lessons/22.json",
+      "status": 200,
+      "match": true,
+      "sha256": "347e710e500d5bc650719d04e05e96a5778b40af88022d13aea166814adbe4b1",
+      "expected": "347e710e500d5bc650719d04e05e96a5778b40af88022d13aea166814adbe4b1"
+    },
+    {
+      "path": "/lessons/14.json",
+      "url": "https://howitworks.crawfordgroupholdings.com/lessons/14.json",
+      "status": 200,
+      "match": true,
+      "sha256": "e9344550f2ac9bdbab0ce2fae5bda119b4bcaf56a669f645843503fe84da26a8",
+      "expected": "e9344550f2ac9bdbab0ce2fae5bda119b4bcaf56a669f645843503fe84da26a8"
+    },
+    {
+      "path": "/lessons/32.json",
+      "url": "https://howitworks.crawfordgroupholdings.com/lessons/32.json",
+      "status": 200,
+      "match": true,
+      "sha256": "a164972406f529660340d3d95f16cb7fc19dcdb7cda297a697a5695d3b7ef589",
+      "expected": "a164972406f529660340d3d95f16cb7fc19dcdb7cda297a697a5695d3b7ef589"
+    },
+    {
+      "path": "/lessons/48.json",
+      "url": "https://howitworks.crawfordgroupholdings.com/lessons/48.json",
+      "status": 200,
+      "match": true,
+      "sha256": "f43968701aae6b6f34f2c890462de43a4094690556f4b51057d582ca5d7ecf47",
+      "expected": "f43968701aae6b6f34f2c890462de43a4094690556f4b51057d582ca5d7ecf47"
+    },
+    {
+      "path": "/lessons/30.json",
+      "url": "https://howitworks.crawfordgroupholdings.com/lessons/30.json",
+      "status": 200,
+      "match": true,
+      "sha256": "ba040dbb9250302eb985c0ade8ec4c7c4e5a4ee1717043c1259b8f254f7804ae",
+      "expected": "ba040dbb9250302eb985c0ade8ec4c7c4e5a4ee1717043c1259b8f254f7804ae"
+    },
+    {
+      "path": "/lessons/46.json",
+      "url": "https://howitworks.crawfordgroupholdings.com/lessons/46.json",
+      "status": 200,
+      "match": true,
+      "sha256": "5fee09204e5eccf08980a30b1f21c93fd1ebc2cda24f1456ff2e1a8288018989",
+      "expected": "5fee09204e5eccf08980a30b1f21c93fd1ebc2cda24f1456ff2e1a8288018989"
+    },
+    {
+      "path": "/lessons/36.json",
+      "url": "https://howitworks.crawfordgroupholdings.com/lessons/36.json",
+      "status": 200,
+      "match": true,
+      "sha256": "66fd7a1faf92cf47e2d9f31ad3e106807da85c6623d12fd0b4c181bc666bcca1",
+      "expected": "66fd7a1faf92cf47e2d9f31ad3e106807da85c6623d12fd0b4c181bc666bcca1"
+    },
+    {
+      "path": "/lessons/7.json",
+      "url": "https://howitworks.crawfordgroupholdings.com/lessons/7.json",
+      "status": 200,
+      "match": true,
+      "sha256": "115302ab99b6ee8109dc91cf68bb48863d3b13f7c1e8b637f82db36ae4ab916a",
+      "expected": "115302ab99b6ee8109dc91cf68bb48863d3b13f7c1e8b637f82db36ae4ab916a"
+    },
+    {
+      "path": "/lessons/40.json",
+      "url": "https://howitworks.crawfordgroupholdings.com/lessons/40.json",
+      "status": 200,
+      "match": true,
+      "sha256": "23bdae6c5dbbceb7d399d05069f750df3f246547071204f9a04566823bb17303",
+      "expected": "23bdae6c5dbbceb7d399d05069f750df3f246547071204f9a04566823bb17303"
+    },
+    {
+      "path": "/lessons/4.json",
+      "url": "https://howitworks.crawfordgroupholdings.com/lessons/4.json",
+      "status": 200,
+      "match": true,
+      "sha256": "d69f505f1a63b3ac4948d9ce4fc4d50a55ac5698666a77a5dd4f2a24f3f1160d",
+      "expected": "d69f505f1a63b3ac4948d9ce4fc4d50a55ac5698666a77a5dd4f2a24f3f1160d"
+    },
+    {
+      "path": "/lessons/45.json",
+      "url": "https://howitworks.crawfordgroupholdings.com/lessons/45.json",
+      "status": 200,
+      "match": true,
+      "sha256": "d10ed7ab13920a0c27bb4f314f05b9dc186ce997084fd53861b6e4dcd5ea2192",
+      "expected": "d10ed7ab13920a0c27bb4f314f05b9dc186ce997084fd53861b6e4dcd5ea2192"
+    },
+    {
+      "path": "/lessons/19.json",
+      "url": "https://howitworks.crawfordgroupholdings.com/lessons/19.json",
+      "status": 200,
+      "match": true,
+      "sha256": "82909990e6f5e3431d31b2c4142f971937daa08052c4e1c3785f913f4f2657cc",
+      "expected": "82909990e6f5e3431d31b2c4142f971937daa08052c4e1c3785f913f4f2657cc"
+    },
+    {
+      "path": "/lessons/38.json",
+      "url": "https://howitworks.crawfordgroupholdings.com/lessons/38.json",
+      "status": 200,
+      "match": true,
+      "sha256": "3764223914ef5ddc6fcb5577f77b6238a9baa0fb2c62fc126adc71c1170cd4bf",
+      "expected": "3764223914ef5ddc6fcb5577f77b6238a9baa0fb2c62fc126adc71c1170cd4bf"
+    },
+    {
+      "path": "/lessons/29.json",
+      "url": "https://howitworks.crawfordgroupholdings.com/lessons/29.json",
+      "status": 200,
+      "match": true,
+      "sha256": "5869937d760dc51a47242bb6c43309ed3be9b9e6ff717cf805b37a2d4af20049",
+      "expected": "5869937d760dc51a47242bb6c43309ed3be9b9e6ff717cf805b37a2d4af20049"
+    },
+    {
+      "path": "/lessons/16.json",
+      "url": "https://howitworks.crawfordgroupholdings.com/lessons/16.json",
+      "status": 200,
+      "match": true,
+      "sha256": "911e9f8d53b5a5651b0e32859455a88d3f25ef4a0c034e04c90b76317ac0d654",
+      "expected": "911e9f8d53b5a5651b0e32859455a88d3f25ef4a0c034e04c90b76317ac0d654"
+    },
+    {
+      "path": "/lessons/33.json",
+      "url": "https://howitworks.crawfordgroupholdings.com/lessons/33.json",
+      "status": 200,
+      "match": true,
+      "sha256": "9012c6a477d10d530f3478fc58d7b1eba8801ce08f49de7ecdf9cde6f7f0d2d6",
+      "expected": "9012c6a477d10d530f3478fc58d7b1eba8801ce08f49de7ecdf9cde6f7f0d2d6"
+    },
+    {
+      "path": "/lessons/24.json",
+      "url": "https://howitworks.crawfordgroupholdings.com/lessons/24.json",
+      "status": 200,
+      "match": true,
+      "sha256": "8953efb63d9673b79966149f05384f09c0311db3e21ae4cd986653919ff5dcad",
+      "expected": "8953efb63d9673b79966149f05384f09c0311db3e21ae4cd986653919ff5dcad"
+    },
+    {
+      "path": "/lessons/26.json",
+      "url": "https://howitworks.crawfordgroupholdings.com/lessons/26.json",
+      "status": 200,
+      "match": true,
+      "sha256": "9ff97238b6eaf68c156f109e106d1037209db22b9b12a6206413473e189601d5",
+      "expected": "9ff97238b6eaf68c156f109e106d1037209db22b9b12a6206413473e189601d5"
+    },
+    {
+      "path": "/lessons/3.json",
+      "url": "https://howitworks.crawfordgroupholdings.com/lessons/3.json",
+      "status": 200,
+      "match": true,
+      "sha256": "2169974e157123a8f0823acb30385780a00f3e58dbd7edff7e55678f82bc6282",
+      "expected": "2169974e157123a8f0823acb30385780a00f3e58dbd7edff7e55678f82bc6282"
+    },
+    {
+      "path": "/lessons/31.json",
+      "url": "https://howitworks.crawfordgroupholdings.com/lessons/31.json",
+      "status": 200,
+      "match": true,
+      "sha256": "fe1d9dd0c6d7a79e37e6545a1e537a7699b620abf58b5998bd6bc18aa420bd31",
+      "expected": "fe1d9dd0c6d7a79e37e6545a1e537a7699b620abf58b5998bd6bc18aa420bd31"
+    },
+    {
+      "path": "/lessons/27.json",
+      "url": "https://howitworks.crawfordgroupholdings.com/lessons/27.json",
+      "status": 200,
+      "match": true,
+      "sha256": "98a57e8639d25dcb6b1e1795158b52c6f151021b739b976a9d800b7d87346dc5",
+      "expected": "98a57e8639d25dcb6b1e1795158b52c6f151021b739b976a9d800b7d87346dc5"
+    },
+    {
+      "path": "/lessons/49.json",
+      "url": "https://howitworks.crawfordgroupholdings.com/lessons/49.json",
+      "status": 200,
+      "match": true,
+      "sha256": "9112eee234395ff4fad589bfa8a851407d9f305171d79a736fab4fc476fcbd38",
+      "expected": "9112eee234395ff4fad589bfa8a851407d9f305171d79a736fab4fc476fcbd38"
+    },
+    {
+      "path": "/lessons/5.json",
+      "url": "https://howitworks.crawfordgroupholdings.com/lessons/5.json",
+      "status": 200,
+      "match": true,
+      "sha256": "48f27328040106177455e7066913e3cfa6cf30017f979e061c42d7aec0a1c69d",
+      "expected": "48f27328040106177455e7066913e3cfa6cf30017f979e061c42d7aec0a1c69d"
+    },
+    {
+      "path": "/lessons/44.json",
+      "url": "https://howitworks.crawfordgroupholdings.com/lessons/44.json",
+      "status": 200,
+      "match": true,
+      "sha256": "1b644d5f5dd3a87fa3ac3c4e46f22584c62b7cc0afdd572c8aa98fb52afd4b26",
+      "expected": "1b644d5f5dd3a87fa3ac3c4e46f22584c62b7cc0afdd572c8aa98fb52afd4b26"
+    },
+    {
+      "path": "/lessons/47.json",
+      "url": "https://howitworks.crawfordgroupholdings.com/lessons/47.json",
+      "status": 200,
+      "match": true,
+      "sha256": "ee3ff70995de2c54251f8b653f9ec70442d767aae3477ba003f49c4cadd8b0d0",
+      "expected": "ee3ff70995de2c54251f8b653f9ec70442d767aae3477ba003f49c4cadd8b0d0"
+    },
+    {
+      "path": "/lessons/25.json",
+      "url": "https://howitworks.crawfordgroupholdings.com/lessons/25.json",
+      "status": 200,
+      "match": true,
+      "sha256": "36a39937ef6170d463d51f9e581f3cd10dc6d3ee74b498dc482ffa345c90b8aa",
+      "expected": "36a39937ef6170d463d51f9e581f3cd10dc6d3ee74b498dc482ffa345c90b8aa"
+    },
+    {
+      "path": "/lessons/13.json",
+      "url": "https://howitworks.crawfordgroupholdings.com/lessons/13.json",
+      "status": 200,
+      "match": true,
+      "sha256": "6b913d87e333f9feea84485c0ce56726713381279ce53978113e8dd0a144a4fc",
+      "expected": "6b913d87e333f9feea84485c0ce56726713381279ce53978113e8dd0a144a4fc"
+    },
+    {
+      "path": "/lessons/21.json",
+      "url": "https://howitworks.crawfordgroupholdings.com/lessons/21.json",
+      "status": 200,
+      "match": true,
+      "sha256": "514a0c5663365be7c23cd8639cf322ec636cc296dd88185639d7384e4cd26fcc",
+      "expected": "514a0c5663365be7c23cd8639cf322ec636cc296dd88185639d7384e4cd26fcc"
+    },
+    {
+      "path": "/lessons/41.json",
+      "url": "https://howitworks.crawfordgroupholdings.com/lessons/41.json",
+      "status": 200,
+      "match": true,
+      "sha256": "4afa82d1da0c8be58c5d7b6367a47545ffdbd7c055227c25af1780a2793449f7",
+      "expected": "4afa82d1da0c8be58c5d7b6367a47545ffdbd7c055227c25af1780a2793449f7"
+    },
+    {
+      "path": "/lessons/2.json",
+      "url": "https://howitworks.crawfordgroupholdings.com/lessons/2.json",
+      "status": 200,
+      "match": true,
+      "sha256": "dfb826e9ae4d00b9864112c91d63e38e564b6c63400528e3e5db84ecf093fe66",
+      "expected": "dfb826e9ae4d00b9864112c91d63e38e564b6c63400528e3e5db84ecf093fe66"
+    },
+    {
+      "path": "/lessons/6.json",
+      "url": "https://howitworks.crawfordgroupholdings.com/lessons/6.json",
+      "status": 200,
+      "match": true,
+      "sha256": "e103bd04911ed9d9d68061cbe7669b92e0f560c337134b50be92484d5b073fc6",
+      "expected": "e103bd04911ed9d9d68061cbe7669b92e0f560c337134b50be92484d5b073fc6"
+    },
+    {
+      "path": "/lessons/42.json",
+      "url": "https://howitworks.crawfordgroupholdings.com/lessons/42.json",
+      "status": 200,
+      "match": true,
+      "sha256": "7eab42cafb663d12d960a42b88b6f363dfaa89fa07f428b2f14c9b5cb7d524d9",
+      "expected": "7eab42cafb663d12d960a42b88b6f363dfaa89fa07f428b2f14c9b5cb7d524d9"
+    },
+    {
+      "path": "/lessons/39.json",
+      "url": "https://howitworks.crawfordgroupholdings.com/lessons/39.json",
+      "status": 200,
+      "match": true,
+      "sha256": "03cb3bfbfa8dcb27eadc000271c28b4bd71d8bb8328047e823c35a9a0fef08f0",
+      "expected": "03cb3bfbfa8dcb27eadc000271c28b4bd71d8bb8328047e823c35a9a0fef08f0"
+    },
+    {
+      "path": "/lessons/34.json",
+      "url": "https://howitworks.crawfordgroupholdings.com/lessons/34.json",
+      "status": 200,
+      "match": true,
+      "sha256": "75f5db64d79e79b6573daa510c07de74ee916c8da8d9126d90146d01065198c0",
+      "expected": "75f5db64d79e79b6573daa510c07de74ee916c8da8d9126d90146d01065198c0"
+    },
+    {
+      "path": "/lessons/20.json",
+      "url": "https://howitworks.crawfordgroupholdings.com/lessons/20.json",
+      "status": 200,
+      "match": true,
+      "sha256": "b50af8426ed609c91921b724eb4c082ffcc17402110fea463d255d55472667e6",
+      "expected": "b50af8426ed609c91921b724eb4c082ffcc17402110fea463d255d55472667e6"
+    },
+    {
+      "path": "/lessons/12.json",
+      "url": "https://howitworks.crawfordgroupholdings.com/lessons/12.json",
+      "status": 200,
+      "match": true,
+      "sha256": "4d9ad4f96b739ada99ea46e407bb8633ad4e9611034850a7f5dea5c64e3e9ecf",
+      "expected": "4d9ad4f96b739ada99ea46e407bb8633ad4e9611034850a7f5dea5c64e3e9ecf"
+    },
+    {
+      "path": "/lessons/18.json",
+      "url": "https://howitworks.crawfordgroupholdings.com/lessons/18.json",
+      "status": 200,
+      "match": true,
+      "sha256": "ba6909c5e86e70e4cabe4caabae5a031fe71f4fd398fc8f5c83f68814e4f4989",
+      "expected": "ba6909c5e86e70e4cabe4caabae5a031fe71f4fd398fc8f5c83f68814e4f4989"
+    },
+    {
+      "path": "/lessons/1.json",
+      "url": "https://howitworks.crawfordgroupholdings.com/lessons/1.json",
+      "status": 200,
+      "match": true,
+      "sha256": "0d86570ee320adf265c0730341391ab291082a0a1f7b743891aeaa461a115549",
+      "expected": "0d86570ee320adf265c0730341391ab291082a0a1f7b743891aeaa461a115549"
+    },
+    {
+      "path": "/lessons/37.json",
+      "url": "https://howitworks.crawfordgroupholdings.com/lessons/37.json",
+      "status": 200,
+      "match": true,
+      "sha256": "2db75f23e1f6943a3ab9028558b74c96bb02b8c0b3b35fe462659c624f66d906",
+      "expected": "2db75f23e1f6943a3ab9028558b74c96bb02b8c0b3b35fe462659c624f66d906"
+    },
+    {
+      "path": "/lessons/15.json",
+      "url": "https://howitworks.crawfordgroupholdings.com/lessons/15.json",
+      "status": 200,
+      "match": true,
+      "sha256": "301075591b67665e2e92f1fb8c940e6deb7c781d5d3d1eccc0accaead977a02d",
+      "expected": "301075591b67665e2e92f1fb8c940e6deb7c781d5d3d1eccc0accaead977a02d"
+    },
+    {
+      "path": "/lessons/23.json",
+      "url": "https://howitworks.crawfordgroupholdings.com/lessons/23.json",
+      "status": 200,
+      "match": true,
+      "sha256": "40b129226217e122662c6898bbe3f8546ad25198ababd6f9a5fb9bd84d9d1d57",
+      "expected": "40b129226217e122662c6898bbe3f8546ad25198ababd6f9a5fb9bd84d9d1d57"
+    },
+    {
+      "path": "/lessons/28.json",
+      "url": "https://howitworks.crawfordgroupholdings.com/lessons/28.json",
+      "status": 200,
+      "match": true,
+      "sha256": "3e9d4368b92caa5b3368ac0ec3b75a4bfe8f2f6a84ec754143aae18d43e88d99",
+      "expected": "3e9d4368b92caa5b3368ac0ec3b75a4bfe8f2f6a84ec754143aae18d43e88d99"
+    },
+    {
+      "path": "/lessons/9.json",
+      "url": "https://howitworks.crawfordgroupholdings.com/lessons/9.json",
+      "status": 200,
+      "match": true,
+      "sha256": "0c111b37e5762b72cb849a5e9acdb5df7db83c7d704c8d08333e781655904bb3",
+      "expected": "0c111b37e5762b72cb849a5e9acdb5df7db83c7d704c8d08333e781655904bb3"
+    },
+    {
+      "path": "/lessons/11.json",
+      "url": "https://howitworks.crawfordgroupholdings.com/lessons/11.json",
+      "status": 200,
+      "match": true,
+      "sha256": "aea2c5cdcf14f2bbe25a8479b12625820673114c31bf4ea7380ac9126c4f92e6",
+      "expected": "aea2c5cdcf14f2bbe25a8479b12625820673114c31bf4ea7380ac9126c4f92e6"
+    },
+    {
+      "path": "/lessons/10.json",
+      "url": "https://howitworks.crawfordgroupholdings.com/lessons/10.json",
+      "status": 200,
+      "match": true,
+      "sha256": "36734a1bd6d534b610d5ab0a00170144e4eb469b408b7b5b7751c3611541d21b",
+      "expected": "36734a1bd6d534b610d5ab0a00170144e4eb469b408b7b5b7751c3611541d21b"
+    },
+    {
+      "path": "/lessons/35.json",
+      "url": "https://howitworks.crawfordgroupholdings.com/lessons/35.json",
+      "status": 200,
+      "match": true,
+      "sha256": "775768d1afb2e9289eb9e1607339c062e26ecab4c1dc4de329fc2d70fd67dd90",
+      "expected": "775768d1afb2e9289eb9e1607339c062e26ecab4c1dc4de329fc2d70fd67dd90"
+    },
+    {
+      "path": "/lessons/8.json",
+      "url": "https://howitworks.crawfordgroupholdings.com/lessons/8.json",
+      "status": 200,
+      "match": true,
+      "sha256": "f6a6f8cb950c3d3bafa7d52712a78e26a8ac4657ea7d6daecd59c3552bafc786",
+      "expected": "f6a6f8cb950c3d3bafa7d52712a78e26a8ac4657ea7d6daecd59c3552bafc786"
+    },
+    {
+      "path": "/lessons/50.json",
+      "url": "https://howitworks.crawfordgroupholdings.com/lessons/50.json",
+      "status": 200,
+      "match": true,
+      "sha256": "9d65cb3a1ba95595cbd0ad55261effb673283a7254629a86935a2593c2610cde",
+      "expected": "9d65cb3a1ba95595cbd0ad55261effb673283a7254629a86935a2593c2610cde"
+    },
+    {
+      "path": "/plant-growth/index.html",
+      "url": "https://howitworks.crawfordgroupholdings.com/plant-growth",
+      "status": 200,
+      "match": true,
+      "sha256": "2a58523d38ec1eb4d5c135609ab3c84afb40495aeb1ca81e59dd4158bb0756bc",
+      "expected": "2a58523d38ec1eb4d5c135609ab3c84afb40495aeb1ca81e59dd4158bb0756bc"
+    },
+    {
+      "path": "/qr-information/index.html",
+      "url": "https://howitworks.crawfordgroupholdings.com/qr-information",
+      "status": 200,
+      "match": true,
+      "sha256": "16a3fd0cfe7bd8d99397e52ec1e72edbe43dd8eab6aeb3b65a719ebc70e4f5fa",
+      "expected": "16a3fd0cfe7bd8d99397e52ec1e72edbe43dd8eab6aeb3b65a719ebc70e4f5fa"
+    },
+    {
+      "path": "/eye-image/index.html",
+      "url": "https://howitworks.crawfordgroupholdings.com/eye-image",
+      "status": 200,
+      "match": true,
+      "sha256": "7816e8e7d8db2a510f746321930743505d94628799c9bbd0b1ed91d236f98301",
+      "expected": "7816e8e7d8db2a510f746321930743505d94628799c9bbd0b1ed91d236f98301"
+    },
+    {
+      "path": "/touchscreen/index.html",
+      "url": "https://howitworks.crawfordgroupholdings.com/touchscreen",
+      "status": 200,
+      "match": true,
+      "sha256": "caac938bcac9c5d1ca11c6e505db0b1ef15469320545a5e1fcbcde34ffa40c0a",
+      "expected": "caac938bcac9c5d1ca11c6e505db0b1ef15469320545a5e1fcbcde34ffa40c0a"
+    },
+    {
+      "path": "/file-compression/index.html",
+      "url": "https://howitworks.crawfordgroupholdings.com/file-compression",
+      "status": 200,
+      "match": true,
+      "sha256": "d10f23f89ac177b8b02ca1eecf94f2de74a3d4360249e97dd463edc1a2758cb7",
+      "expected": "d10f23f89ac177b8b02ca1eecf94f2de74a3d4360249e97dd463edc1a2758cb7"
+    },
+    {
+      "path": "/kidney-filtration/index.html",
+      "url": "https://howitworks.crawfordgroupholdings.com/kidney-filtration",
+      "status": 200,
+      "match": true,
+      "sha256": "d1346702c7bc7b5934400eb04a34ff675a0892001a057fee15a687de076d5eb3",
+      "expected": "d1346702c7bc7b5934400eb04a34ff675a0892001a057fee15a687de076d5eb3"
+    },
+    {
+      "path": "/browser-page/index.html",
+      "url": "https://howitworks.crawfordgroupholdings.com/browser-page",
+      "status": 200,
+      "match": true,
+      "sha256": "a4e6f2ade15b09f6a71825e9d2fdef3d05b43139dd635f7f402aa7daaa6b2633",
+      "expected": "a4e6f2ade15b09f6a71825e9d2fdef3d05b43139dd635f7f402aa7daaa6b2633"
+    },
+    {
+      "path": "/wind-turbine/index.html",
+      "url": "https://howitworks.crawfordgroupholdings.com/wind-turbine",
+      "status": 200,
+      "match": true,
+      "sha256": "0f939ff57a2157ff7b570274d814ee57e11b73a522c2d00f0eb45ad0a53358b1",
+      "expected": "0f939ff57a2157ff7b570274d814ee57e11b73a522c2d00f0eb45ad0a53358b1"
+    },
+    {
+      "path": "/ai-text-generation/index.html",
+      "url": "https://howitworks.crawfordgroupholdings.com/ai-text-generation",
+      "status": 200,
+      "match": true,
+      "sha256": "fc4e7f232844e139836acf2c3c39eb5353978cdb60181b69a4094d2ffa7bb4e9",
+      "expected": "fc4e7f232844e139836acf2c3c39eb5353978cdb60181b69a4094d2ffa7bb4e9"
+    },
+    {
+      "path": "/washing-machine/index.html",
+      "url": "https://howitworks.crawfordgroupholdings.com/washing-machine",
+      "status": 200,
+      "match": true,
+      "sha256": "0fdf4ff600141874caea5659122ab0bc0563e0c3780b076386294904876c3400",
+      "expected": "0fdf4ff600141874caea5659122ab0bc0563e0c3780b076386294904876c3400"
+    },
+    {
+      "path": "/lock-and-key/index.html",
+      "url": "https://howitworks.crawfordgroupholdings.com/lock-and-key",
+      "status": 200,
+      "match": true,
+      "sha256": "d59ebb609e76736a4ed5759ac08b206ee30bf47bc454c6c73ba5ec223a2b01cc",
+      "expected": "d59ebb609e76736a4ed5759ac08b206ee30bf47bc454c6c73ba5ec223a2b01cc"
+    },
+    {
+      "path": "/lung-gas-exchange/index.html",
+      "url": "https://howitworks.crawfordgroupholdings.com/lung-gas-exchange",
+      "status": 200,
+      "match": true,
+      "sha256": "9364190b25ec65a8bb680a5bd03f7535772f183799511bc7d08a49043d55fe98",
+      "expected": "9364190b25ec65a8bb680a5bd03f7535772f183799511bc7d08a49043d55fe98"
+    },
+    {
+      "path": "/reflex-arc/index.html",
+      "url": "https://howitworks.crawfordgroupholdings.com/reflex-arc",
+      "status": 200,
+      "match": true,
+      "sha256": "34aa5bbfeba966f3231791cae9ee48b87130f91b7816297b785c89429698b803",
+      "expected": "34aa5bbfeba966f3231791cae9ee48b87130f91b7816297b785c89429698b803"
+    },
+    {
+      "path": "/refrigerator-heat/index.html",
+      "url": "https://howitworks.crawfordgroupholdings.com/refrigerator-heat",
+      "status": 200,
+      "match": true,
+      "sha256": "118d809eb84fd33470b77a0c494508971d2ec24d70006909ba68c64f11872b4a",
+      "expected": "118d809eb84fd33470b77a0c494508971d2ec24d70006909ba68c64f11872b4a"
+    },
+    {
+      "path": "/ear-hearing/index.html",
+      "url": "https://howitworks.crawfordgroupholdings.com/ear-hearing",
+      "status": 200,
+      "match": true,
+      "sha256": "2abe042c4b292ffb879ce9836a91252ea0a30804b841478b329d2c775578364f",
+      "expected": "2abe042c4b292ffb879ce9836a91252ea0a30804b841478b329d2c775578364f"
+    },
+    {
+      "path": "/traction-elevator/index.html",
+      "url": "https://howitworks.crawfordgroupholdings.com/traction-elevator",
+      "status": 200,
+      "match": true,
+      "sha256": "5e426c1f7c28420b8022128c42391d825e6d6701275690900796af0c1a2b0cbb",
+      "expected": "5e426c1f7c28420b8022128c42391d825e6d6701275690900796af0c1a2b0cbb"
+    },
+    {
+      "path": "/bridge-loads/index.html",
+      "url": "https://howitworks.crawfordgroupholdings.com/bridge-loads",
+      "status": 200,
+      "match": true,
+      "sha256": "d4915ce955fd054a5b408b599bfd09fa2867bcb3181cbf0119be7717ed8dfcf2",
+      "expected": "d4915ce955fd054a5b408b599bfd09fa2867bcb3181cbf0119be7717ed8dfcf2"
+    },
+    {
+      "path": "/hydraulic-brakes/index.html",
+      "url": "https://howitworks.crawfordgroupholdings.com/hydraulic-brakes",
+      "status": 200,
+      "match": true,
+      "sha256": "defbef9a76171b015ab9de3b2fbfe8db233f86f6b48489420a9704d886afdb38",
+      "expected": "defbef9a76171b015ab9de3b2fbfe8db233f86f6b48489420a9704d886afdb38"
+    },
+    {
+      "path": "/electricity-to-home/index.html",
+      "url": "https://howitworks.crawfordgroupholdings.com/electricity-to-home",
+      "status": 200,
+      "match": true,
+      "sha256": "899a6f1049f02dd982fb27072ba4b65adb0c1e3ef6e4410732797c4ffd3748db",
+      "expected": "899a6f1049f02dd982fb27072ba4b65adb0c1e3ef6e4410732797c4ffd3748db"
+    },
+    {
+      "path": "/accessibility/index.html",
+      "url": "https://howitworks.crawfordgroupholdings.com/accessibility",
+      "status": 200,
+      "match": true,
+      "sha256": "2d0483b067353cd0ef5eb88eb58786b25b90de6460eaba688c3db54edfebb3db",
+      "expected": "2d0483b067353cd0ef5eb88eb58786b25b90de6460eaba688c3db54edfebb3db"
+    },
+    {
+      "path": "/breakers-and-gfcis/index.html",
+      "url": "https://howitworks.crawfordgroupholdings.com/breakers-and-gfcis",
+      "status": 200,
+      "match": true,
+      "sha256": "4654818893625b5ea5eae0f82e5d1fb84220dc95475d21ef78989a459fd61705",
+      "expected": "4654818893625b5ea5eae0f82e5d1fb84220dc95475d21ef78989a459fd61705"
+    },
+    {
+      "path": "/vaccines-and-memory/index.html",
+      "url": "https://howitworks.crawfordgroupholdings.com/vaccines-and-memory",
+      "status": 200,
+      "match": true,
+      "sha256": "ebff76509f9a8e13db94cd90bc86b6c9657508216b3f3fda02e215b7573a241e",
+      "expected": "ebff76509f9a8e13db94cd90bc86b6c9657508216b3f3fda02e215b7573a241e"
+    },
+    {
+      "path": "/card-payment/index.html",
+      "url": "https://howitworks.crawfordgroupholdings.com/card-payment",
+      "status": 200,
+      "match": true,
+      "sha256": "fecba578976cd512df882f0db02a64cbbd39b57071c0fd72fa927e1376d50317",
+      "expected": "fecba578976cd512df882f0db02a64cbbd39b57071c0fd72fa927e1376d50317"
+    }
+  ],
+  "missingRouteStatus": 404,
+  "securityHeaders": {
+    "x-content-type-options": "nosniff",
+    "content-security-policy": "default-src 'self'; script-src 'self'; style-src 'self' 'unsafe-inline' data:; img-src 'self' data:; connect-src 'self'; object-src 'none'; frame-ancestors 'none'; base-uri 'self'; form-action 'none'",
+    "permissions-policy": "camera=(), microphone=(), geolocation=()",
+    "referrer-policy": "strict-origin-when-cross-origin"
+  },
+  "passed": true
+}
