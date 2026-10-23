@@ -36,3 +36,5 @@ Production commit, deployment and public verification are added after qualificat
 ## Remaining limits
 
 Physical phone and screen reader testing, independent accessibility review and independent subject-matter review have not been performed. Simulations remain deliberately simplified as documented at every activity. The platform does not claim certification or endorsement by referenced institutions.
+
+Production verification identified zone email obfuscation rewriting the HTML and injecting a decoding script. The app now sends Cache-Control: no-transform to preserve the qualified response body. This response header is scoped to this Pages application and does not change other CGH websites.
