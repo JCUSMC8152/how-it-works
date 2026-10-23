@@ -2,7 +2,7 @@
 
 **See inside. Understand more.**
 
-Free educational platform by Crawford Group Holdings, LLC. One hundred original SVG teaching models across mechanical systems, energy, computing, the body and everyday systems. Each lesson has guided playback, a mechanism-specific virtual activity, and an extended explanation with terms, misconceptions, sources and limitations.
+Free educational platform by Crawford Group Holdings, LLC. One hundred fifty original SVG teaching models across mechanical systems, energy, computing, the body and everyday systems. Each lesson has guided playback, a mechanism-specific virtual activity, and an extended explanation with terms, misconceptions, sources and limitations.
 
 Production: https://howitworks.crawfordgroupholdings.com/
 
@@ -43,3 +43,7 @@ Copyright 2026 Crawford Group Holdings, LLC. All rights reserved. Free access do
 ## Experiences 51–100
 
 The October 23 expansion adds 50 lessons (10 per subject) with four activity states each. `src/extended-data.js` holds explanatory outcomes; `src/extended-diagrams.js` contains original labeled SVG mechanisms and motion paths. `stageStates` explicitly pairs guided captions with the correct activity diagram. The complete execution prompt is in `docs/EXPERIENCES-51-100-PROMPT.md`.
+
+## Experiences 101–150
+
+Fifty additional experiences, ten per subject. `src/expansion-data.js` supplies explicit virtual states and `src/expansion-diagrams.js` renders mechanism-specific SVG snapshots. New snapshots deliberately use state changes instead of decorative motion. Existing 1–100 lesson records are preserved. See `docs/EXPERIENCES-101-150-PROMPT.md` for the complete execution prompt and `docs/RELEASE-101-150.md` for qualification and release evidence.

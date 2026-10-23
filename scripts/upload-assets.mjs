@@ -8,4 +8,4 @@ function walk(dir){for(const name of fs.readdirSync(dir)){const p=path.join(dir,
 walk('dist');
 async function api(route,body){const r=await fetch('https://api.cloudflare.com/client/v4/pages/assets/'+route,{method:'POST',headers:{Authorization:'Bearer '+token,'Content-Type':'application/json'},body:JSON.stringify(body)});const j=await r.json();if(!j.success)throw Error(JSON.stringify(j.errors));return j.result;}
 const hashes=files.map(f=>f.key),missing=new Set(await api('check-missing',{hashes}));const send=files.filter(f=>missing.has(f.key));for(let i=0;i<send.length;i+=20){await api('upload',send.slice(i,i+20).map(({path,...f})=>f));console.log('Uploaded',Math.min(i+20,send.length),'/',send.length);}
-await api('upsert-hashes',{hashes});fs.writeFileSync('asset-manifest-100.json',JSON.stringify(Object.fromEntries(files.map(f=>[f.path,f.key]))));console.log(JSON.stringify({ready:true,assets:files.length,uploaded:send.length}));
+await api('upsert-hashes',{hashes});fs.writeFileSync('docs/asset-manifest-150.json',JSON.stringify(Object.fromEntries(files.map(f=>[f.path,f.key]))));console.log(JSON.stringify({ready:true,assets:files.length,uploaded:send.length}));

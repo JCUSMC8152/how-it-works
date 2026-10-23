@@ -1,0 +1,97 @@
+{
+  "base": "http://127.0.0.1:43157",
+  "results": [
+    {
+      "id": 102,
+      "width": 1440,
+      "pass": true
+    },
+    {
+      "id": 110,
+      "width": 1440,
+      "pass": true
+    },
+    {
+      "id": 111,
+      "width": 1440,
+      "pass": true
+    },
+    {
+      "id": 115,
+      "width": 1440,
+      "pass": true
+    },
+    {
+      "id": 120,
+      "width": 1440,
+      "pass": true
+    },
+    {
+      "id": 128,
+      "width": 1440,
+      "pass": true
+    },
+    {
+      "id": 130,
+      "width": 1440,
+      "pass": true
+    },
+    {
+      "id": 134,
+      "width": 1440,
+      "pass": true
+    },
+    {
+      "id": 140,
+      "width": 1440,
+      "pass": true
+    },
+    {
+      "id": 102,
+      "width": 393,
+      "pass": true
+    },
+    {
+      "id": 110,
+      "width": 393,
+      "pass": true
+    },
+    {
+      "id": 111,
+      "width": 393,
+      "pass": true
+    },
+    {
+      "id": 115,
+      "width": 393,
+      "pass": true
+    },
+    {
+      "id": 120,
+      "width": 393,
+      "pass": true
+    },
+    {
+      "id": 128,
+      "width": 393,
+      "pass": true
+    },
+    {
+      "id": 130,
+      "width": 393,
+      "pass": true
+    },
+    {
+      "id": 134,
+      "width": 393,
+      "pass": true
+    },
+    {
+      "id": 140,
+      "width": 393,
+      "pass": true
+    }
+  ],
+  "passed": true,
+  "checkedAt": "2026-10-23T20:20:53.276Z"
+}

@@ -1,0 +1,116 @@
+{
+  "base": "https://howitworks.crawfordgroupholdings.com",
+  "results": [
+    {
+      "id": 51,
+      "check": "no-JavaScript explanation and companion link",
+      "pass": true
+    },
+    {
+      "id": 60,
+      "check": "no-JavaScript explanation and companion link",
+      "pass": true
+    },
+    {
+      "id": 63,
+      "check": "no-JavaScript explanation and companion link",
+      "pass": true
+    },
+    {
+      "id": 72,
+      "check": "no-JavaScript explanation and companion link",
+      "pass": true
+    },
+    {
+      "id": 82,
+      "check": "no-JavaScript explanation and companion link",
+      "pass": true
+    },
+    {
+      "id": 91,
+      "check": "no-JavaScript explanation and companion link",
+      "pass": true
+    },
+    {
+      "id": 100,
+      "check": "no-JavaScript explanation and companion link",
+      "pass": true
+    },
+    {
+      "id": 101,
+      "check": "no-JavaScript explanation and companion link",
+      "pass": true
+    },
+    {
+      "id": 110,
+      "check": "no-JavaScript explanation and companion link",
+      "pass": true
+    },
+    {
+      "id": 120,
+      "check": "no-JavaScript explanation and companion link",
+      "pass": true
+    },
+    {
+      "id": 128,
+      "check": "no-JavaScript explanation and companion link",
+      "pass": true
+    },
+    {
+      "id": 131,
+      "check": "no-JavaScript explanation and companion link",
+      "pass": true
+    },
+    {
+      "id": 142,
+      "check": "no-JavaScript explanation and companion link",
+      "pass": true
+    },
+    {
+      "id": 150,
+      "check": "no-JavaScript explanation and companion link",
+      "pass": true
+    },
+    {
+      "slug": "experiences",
+      "check": "CSS 200% zoom reflow",
+      "pass": true
+    },
+    {
+      "slug": "lever-force-distance",
+      "check": "CSS 200% zoom reflow",
+      "pass": true
+    },
+    {
+      "slug": "capacitor-energy",
+      "check": "CSS 200% zoom reflow",
+      "pass": true
+    },
+    {
+      "slug": "moon-phases",
+      "check": "CSS 200% zoom reflow",
+      "pass": true
+    },
+    {
+      "slug": "rack-pinion-steering",
+      "check": "CSS 200% zoom reflow",
+      "pass": true
+    },
+    {
+      "slug": "power-inverter",
+      "check": "CSS 200% zoom reflow",
+      "pass": true
+    },
+    {
+      "slug": "coastal-upwelling",
+      "check": "CSS 200% zoom reflow",
+      "pass": true
+    },
+    {
+      "slug": "learning-paths",
+      "check": "CSS 200% zoom reflow",
+      "pass": true
+    }
+  ],
+  "checkedAt": "2026-10-23T20:27:27.662Z"
+}

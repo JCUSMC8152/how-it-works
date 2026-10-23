@@ -5391,5 +5391,2955 @@
       2,
       3
     ]
+  },
+  {
+    "id": 101,
+    "title": "How Rack-and-Pinion Steering Turns Wheels",
+    "slug": "rack-pinion-steering",
+    "category": "Machines and mechanical systems",
+    "objective": "Trace rotation through a pinion, rack and tie rods.",
+    "control": {
+      "label": "Choose a virtual condition or process stage",
+      "options": [
+        "Centered",
+        "Turn left",
+        "Turn right",
+        "Return to center"
+      ]
+    },
+    "stages": [
+      {
+        "title": "Pinion",
+        "text": "Centered pinion leaves the rack at its reference position; both wheels point ahead."
+      },
+      {
+        "title": "Rack left",
+        "text": "Turning the pinion shifts the rack left; the tie rods change both wheel angles in this schematic."
+      },
+      {
+        "title": "Rack right",
+        "text": "Reversing pinion rotation shifts the rack right and steers the wheels the other way."
+      },
+      {
+        "title": "Center",
+        "text": "Returning the rack to its reference position restores the illustrated straight-ahead geometry."
+      }
+    ],
+    "activityStates": [
+      "Centered pinion leaves the rack at its reference position; both wheels point ahead.",
+      "Turning the pinion shifts the rack left; the tie rods change both wheel angles in this schematic.",
+      "Reversing pinion rotation shifts the rack right and steers the wheels the other way.",
+      "Returning the rack to its reference position restores the illustrated straight-ahead geometry."
+    ],
+    "stageStates": [
+      0,
+      1,
+      2,
+      3
+    ],
+    "terms": {
+      "Pinion": "A gear engaging a straight toothed rack.",
+      "Tie rod": "A link transmitting rack motion to a steering arm."
+    },
+    "misconception": "Steering wheels turn through a linkage; the rack does not rotate with the pinion.",
+    "limits": "Plan-view schematic; Ackermann geometry, power assistance, compliance and vehicle handling are omitted.",
+    "sources": [
+      {
+        "title": "KHK: rack and pinion",
+        "url": "https://khkgears.net/new/gear_rack.html",
+        "reviewed": "2026-10-23"
+      }
+    ]
+  },
+  {
+    "id": 102,
+    "title": "How a Cam Opens a Valve",
+    "slug": "cam-follower-valve",
+    "category": "Machines and mechanical systems",
+    "objective": "Follow how a shaped rotating cam controls follower lift.",
+    "control": {
+      "label": "Choose a virtual condition or process stage",
+      "options": [
+        "Base circle",
+        "Rising flank",
+        "Cam nose",
+        "Falling flank"
+      ]
+    },
+    "stages": [
+      {
+        "title": "Closed",
+        "text": "Base circle under follower: the illustrated valve spring holds the valve closed."
+      },
+      {
+        "title": "Opening",
+        "text": "Rising flank pushes the follower upward, opening the valve against its spring."
+      },
+      {
+        "title": "Maximum lift",
+        "text": "Cam nose gives the greatest illustrated valve lift; the follower remains in contact."
+      },
+      {
+        "title": "Closing",
+        "text": "Falling flank lets the spring return the follower and close the valve."
+      }
+    ],
+    "activityStates": [
+      "Base circle under follower: the illustrated valve spring holds the valve closed.",
+      "Rising flank pushes the follower upward, opening the valve against its spring.",
+      "Cam nose gives the greatest illustrated valve lift; the follower remains in contact.",
+      "Falling flank lets the spring return the follower and close the valve."
+    ],
+    "stageStates": [
+      0,
+      1,
+      2,
+      3
+    ],
+    "terms": {
+      "Cam": "A rotating profile that prescribes follower motion.",
+      "Follower": "A part constrained to follow the cam surface."
+    },
+    "misconception": "The cam pushes the follower open; the spring supplies the illustrated return force.",
+    "limits": "Quasi-static teaching profile; timing, inertia, lash and actual engine geometry are omitted.",
+    "sources": [
+      {
+        "title": "Carnegie Mellon: cams and followers",
+        "url": "https://www.cs.cmu.edu/~rapidproto/mechanisms/chpt6.html",
+        "reviewed": "2026-10-23"
+      }
+    ]
+  },
+  {
+    "id": 103,
+    "title": "How a Flywheel Stores Rotational Energy",
+    "slug": "flywheel-energy",
+    "category": "Machines and mechanical systems",
+    "objective": "Compare stored energy at four speeds of the same ideal rotor.",
+    "control": {
+      "label": "Choose a virtual condition or process stage",
+      "options": [
+        "0 rad/s",
+        "10 rad/s",
+        "20 rad/s",
+        "30 rad/s"
+      ]
+    },
+    "stages": [
+      {
+        "title": "Rest",
+        "text": "For invented inertia I = 2 kg m² and speed 0 rad/s, E = ½Iω² = 0 J."
+      },
+      {
+        "title": "Slow rotation",
+        "text": "For the same I = 2 kg m² at 10 rad/s, stored rotational energy is 100 J."
+      },
+      {
+        "title": "Faster rotation",
+        "text": "At 20 rad/s, stored rotational energy is 400 J: doubling speed quadruples energy."
+      },
+      {
+        "title": "Energy transfer",
+        "text": "At 30 rad/s, stored rotational energy is 900 J; slowing the rotor could transfer some of that energy."
+      }
+    ],
+    "activityStates": [
+      "For invented inertia I = 2 kg m² and speed 0 rad/s, E = ½Iω² = 0 J.",
+      "For the same I = 2 kg m² at 10 rad/s, stored rotational energy is 100 J.",
+      "At 20 rad/s, stored rotational energy is 400 J: doubling speed quadruples energy.",
+      "At 30 rad/s, stored rotational energy is 900 J; slowing the rotor could transfer some of that energy."
+    ],
+    "stageStates": [
+      0,
+      1,
+      2,
+      3
+    ],
+    "terms": {
+      "Inertia": "Resistance to a change in rotational speed.",
+      "Angular speed": "Rotation rate in radians per second."
+    },
+    "misconception": "A flywheel stores energy; it cannot supply power indefinitely without slowing or being driven.",
+    "limits": "Ideal rigid rotor and invented values; no structural limits or construction guidance.",
+    "sources": [
+      {
+        "title": "OpenStax: rotational kinetic energy",
+        "url": "https://openstax.org/books/college-physics-2e/pages/10-4-rotational-kinetic-energy-work-and-energy-revisited",
+        "reviewed": "2026-10-23"
+      }
+    ]
+  },
+  {
+    "id": 104,
+    "title": "How a Belt Drive Transfers Rotation",
+    "slug": "belt-drive",
+    "category": "Machines and mechanical systems",
+    "objective": "Compare pulley diameter, speed and slip in a belt transmission.",
+    "control": {
+      "label": "Choose a virtual condition or process stage",
+      "options": [
+        "Equal pulleys",
+        "Double output diameter",
+        "Half output diameter",
+        "Belt slips"
+      ]
+    },
+    "stages": [
+      {
+        "title": "Equal ratio",
+        "text": "With no slip, 100 rpm input and equal diameters give 100 rpm output in the same direction for an open belt."
+      },
+      {
+        "title": "Speed reduction",
+        "text": "A 200 mm output pulley driven by a 100 mm input at 100 rpm turns at 50 rpm ideally."
+      },
+      {
+        "title": "Speed increase",
+        "text": "A 50 mm output pulley driven by a 100 mm input at 100 rpm turns at 200 rpm ideally."
+      },
+      {
+        "title": "Slip",
+        "text": "A slipping belt no longer enforces the ideal speed ratio; some input energy becomes heat."
+      }
+    ],
+    "activityStates": [
+      "With no slip, 100 rpm input and equal diameters give 100 rpm output in the same direction for an open belt.",
+      "A 200 mm output pulley driven by a 100 mm input at 100 rpm turns at 50 rpm ideally.",
+      "A 50 mm output pulley driven by a 100 mm input at 100 rpm turns at 200 rpm ideally.",
+      "A slipping belt no longer enforces the ideal speed ratio; some input energy becomes heat."
+    ],
+    "stageStates": [
+      0,
+      1,
+      2,
+      3
+    ],
+    "terms": {
+      "Pulley": "A wheel supporting and guiding a belt.",
+      "Slip": "Relative movement between belt and pulley surface."
+    },
+    "misconception": "A larger driven pulley reduces speed rather than increasing it for the same belt speed.",
+    "limits": "Open belt; ideal diameter ratios omit thickness, losses and tension limits.",
+    "sources": [
+      {
+        "title": "OpenStax: rotational motion",
+        "url": "https://openstax.org/books/college-physics-2e/pages/10-introduction-to-rotational-motion-and-angular-momentum",
+        "reviewed": "2026-10-23"
+      }
+    ]
+  },
+  {
+    "id": 105,
+    "title": "How a Worm Gear Reduces Speed",
+    "slug": "worm-gear",
+    "category": "Machines and mechanical systems",
+    "objective": "Relate worm starts and wheel teeth to output rotation.",
+    "control": {
+      "label": "Choose a virtual condition or process stage",
+      "options": [
+        "10 teeth",
+        "20 teeth",
+        "40 teeth",
+        "80 teeth"
+      ]
+    },
+    "stages": [
+      {
+        "title": "Small reduction",
+        "text": "A single-start worm at 800 rpm driving 10 wheel teeth gives 80 rpm ideally."
+      },
+      {
+        "title": "More teeth",
+        "text": "With 20 wheel teeth, the same 800 rpm worm gives 40 rpm output."
+      },
+      {
+        "title": "Larger reduction",
+        "text": "With 40 wheel teeth, the same worm gives 20 rpm output."
+      },
+      {
+        "title": "Slow output",
+        "text": "With 80 wheel teeth, the same worm gives 10 rpm output; actual efficiency depends on geometry and friction."
+      }
+    ],
+    "activityStates": [
+      "A single-start worm at 800 rpm driving 10 wheel teeth gives 80 rpm ideally.",
+      "With 20 wheel teeth, the same 800 rpm worm gives 40 rpm output.",
+      "With 40 wheel teeth, the same worm gives 20 rpm output.",
+      "With 80 wheel teeth, the same worm gives 10 rpm output; actual efficiency depends on geometry and friction."
+    ],
+    "stageStates": [
+      0,
+      1,
+      2,
+      3
+    ],
+    "terms": {
+      "Worm": "A screw-shaped gear engaging a toothed wheel.",
+      "Start": "One helical thread on the worm."
+    },
+    "misconception": "A worm gear is not automatically self-locking; backdriving depends on its design.",
+    "limits": "Single-start ideal speed relation; no lifting or holding-capacity claim.",
+    "sources": [
+      {
+        "title": "KHK: worm gears",
+        "url": "https://khkgears.net/new/worm_gear.html",
+        "reviewed": "2026-10-23"
+      }
+    ]
+  },
+  {
+    "id": 106,
+    "title": "How a Hydraulic Cylinder Extends and Retracts",
+    "slug": "double-acting-cylinder",
+    "category": "Machines and mechanical systems",
+    "objective": "Follow pressure and return paths on both sides of a piston.",
+    "control": {
+      "label": "Choose a virtual condition or process stage",
+      "options": [
+        "Neutral",
+        "Extend",
+        "Retract",
+        "Blocked return"
+      ]
+    },
+    "stages": [
+      {
+        "title": "Neutral",
+        "text": "Neutral valve blocks both work ports in this invented closed-center circuit; the piston is stationary in the snapshot."
+      },
+      {
+        "title": "Extension",
+        "text": "Pump feeds the cap end while rod-end fluid returns to tank; the rod extends."
+      },
+      {
+        "title": "Retraction",
+        "text": "Pump feeds the rod end while cap-end fluid returns to tank; the rod retracts."
+      },
+      {
+        "title": "Return obstruction",
+        "text": "With the required return path blocked, sustained ideal piston movement stops; real pressure may rise."
+      }
+    ],
+    "activityStates": [
+      "Neutral valve blocks both work ports in this invented closed-center circuit; the piston is stationary in the snapshot.",
+      "Pump feeds the cap end while rod-end fluid returns to tank; the rod extends.",
+      "Pump feeds the rod end while cap-end fluid returns to tank; the rod retracts.",
+      "With the required return path blocked, sustained ideal piston movement stops; real pressure may rise."
+    ],
+    "stageStates": [
+      0,
+      1,
+      2,
+      3
+    ],
+    "terms": {
+      "Cap end": "Full piston area opposite the rod.",
+      "Rod end": "Annular area around the rod."
+    },
+    "misconception": "The two sides have different effective areas, so equal pressure does not mean equal force.",
+    "limits": "Conceptual valve routing only; no pressure settings, repair steps or safety ratings.",
+    "sources": [
+      {
+        "title": "Bosch Rexroth: hydraulic cylinders",
+        "url": "https://www.boschrexroth.com/en/de/c/cylinders/",
+        "reviewed": "2026-10-23"
+      }
+    ]
+  },
+  {
+    "id": 107,
+    "title": "How a Pneumatic Cylinder Uses Compressed Air",
+    "slug": "pneumatic-cylinder",
+    "category": "Machines and mechanical systems",
+    "objective": "Trace air supply, exhaust and the force-area relation.",
+    "control": {
+      "label": "Choose a virtual condition or process stage",
+      "options": [
+        "Vented",
+        "100 kPa difference",
+        "200 kPa difference",
+        "300 kPa difference"
+      ]
+    },
+    "stages": [
+      {
+        "title": "Vented",
+        "text": "Both chambers vented: no ideal pressure-difference force on the piston."
+      },
+      {
+        "title": "Low pressure",
+        "text": "For invented effective area 0.001 m² and 100 kPa difference, ideal force is 100 N; the other chamber exhausts."
+      },
+      {
+        "title": "Higher pressure",
+        "text": "At 200 kPa difference on the same 0.001 m² area, ideal force is 200 N."
+      },
+      {
+        "title": "Compressibility",
+        "text": "At 300 kPa difference, ideal force is 300 N; compression means actual motion depends on load and airflow."
+      }
+    ],
+    "activityStates": [
+      "Both chambers vented: no ideal pressure-difference force on the piston.",
+      "For invented effective area 0.001 m² and 100 kPa difference, ideal force is 100 N; the other chamber exhausts.",
+      "At 200 kPa difference on the same 0.001 m² area, ideal force is 200 N.",
+      "At 300 kPa difference, ideal force is 300 N; compression means actual motion depends on load and airflow."
+    ],
+    "stageStates": [
+      0,
+      1,
+      2,
+      3
+    ],
+    "terms": {
+      "Gauge pressure": "Pressure relative to the surroundings.",
+      "Exhaust": "Air leaving a chamber to a lower-pressure destination."
+    },
+    "misconception": "Compressed air can store energy and compress further; it is not an incompressible rigid link.",
+    "limits": "Invented effective area and pressure differences; no equipment operating limits.",
+    "sources": [
+      {
+        "title": "Festo: pneumatic cylinders",
+        "url": "https://www.festo.com/us/en/c/products/actuators-and-drives/pneumatic-cylinders-id_pim135",
+        "reviewed": "2026-10-23"
+      }
+    ]
+  },
+  {
+    "id": 108,
+    "title": "How a Disc Brake Turns Motion into Heat",
+    "slug": "disc-brake-friction",
+    "category": "Machines and mechanical systems",
+    "objective": "Trace clamping force through pads and rotor to heat transfer.",
+    "control": {
+      "label": "Choose a virtual condition or process stage",
+      "options": [
+        "Released",
+        "Pads contact",
+        "Sliding friction",
+        "Cooling"
+      ]
+    },
+    "stages": [
+      {
+        "title": "Release",
+        "text": "Released pads exert negligible ideal braking torque; the rotor can turn."
+      },
+      {
+        "title": "Clamp",
+        "text": "Caliper pushes pads against the rotor faces, creating normal forces."
+      },
+      {
+        "title": "Dissipate",
+        "text": "Sliding friction applies torque opposite rotation; mechanical energy transfers into internal energy of brake parts."
+      },
+      {
+        "title": "Cool",
+        "text": "After release, the hot rotor transfers heat to surrounding air and nearby parts; cooling takes time."
+      }
+    ],
+    "activityStates": [
+      "Released pads exert negligible ideal braking torque; the rotor can turn.",
+      "Caliper pushes pads against the rotor faces, creating normal forces.",
+      "Sliding friction applies torque opposite rotation; mechanical energy transfers into internal energy of brake parts.",
+      "After release, the hot rotor transfers heat to surrounding air and nearby parts; cooling takes time."
+    ],
+    "stageStates": [
+      0,
+      1,
+      2,
+      3
+    ],
+    "terms": {
+      "Normal force": "Contact force perpendicular to a surface.",
+      "Friction torque": "Turning effect opposing relative sliding."
+    },
+    "misconception": "Brakes transform energy; they do not make motion energy disappear.",
+    "limits": "Qualitative cutaway; no stopping-distance, temperature or maintenance prediction.",
+    "sources": [
+      {
+        "title": "OpenStax: nonconservative forces",
+        "url": "https://openstax.org/books/college-physics-2e/pages/7-5-nonconservative-forces",
+        "reviewed": "2026-10-23"
+      }
+    ]
+  },
+  {
+    "id": 109,
+    "title": "How a Spring Stores Elastic Energy",
+    "slug": "spring-elastic-energy",
+    "category": "Machines and mechanical systems",
+    "objective": "Compare extension, force and stored energy for one ideal spring.",
+    "control": {
+      "label": "Choose a virtual condition or process stage",
+      "options": [
+        "0 cm",
+        "5 cm",
+        "10 cm",
+        "15 cm"
+      ]
+    },
+    "stages": [
+      {
+        "title": "Rest",
+        "text": "Invented spring constant k = 100 N/m, extension 0 m: force 0 N and stored energy 0 J."
+      },
+      {
+        "title": "Small extension",
+        "text": "At 0.05 m extension, F = kx = 5 N and E = ½kx² = 0.125 J."
+      },
+      {
+        "title": "Double extension",
+        "text": "At 0.10 m extension, force is 10 N and stored energy is 0.5 J."
+      },
+      {
+        "title": "Larger extension",
+        "text": "At 0.15 m extension, force is 15 N and stored energy is 1.125 J; real springs have finite elastic ranges."
+      }
+    ],
+    "activityStates": [
+      "Invented spring constant k = 100 N/m, extension 0 m: force 0 N and stored energy 0 J.",
+      "At 0.05 m extension, F = kx = 5 N and E = ½kx² = 0.125 J.",
+      "At 0.10 m extension, force is 10 N and stored energy is 0.5 J.",
+      "At 0.15 m extension, force is 15 N and stored energy is 1.125 J; real springs have finite elastic ranges."
+    ],
+    "stageStates": [
+      0,
+      1,
+      2,
+      3
+    ],
+    "terms": {
+      "Spring constant": "Force per unit extension in the linear range.",
+      "Elastic energy": "Recoverable energy associated with deformation."
+    },
+    "misconception": "Doubling ideal spring extension doubles force but quadruples stored energy.",
+    "limits": "Ideal Hooke-law spring with invented values; no real elastic limit is established.",
+    "sources": [
+      {
+        "title": "OpenStax: conservative forces and elastic potential energy",
+        "url": "https://openstax.org/books/college-physics-2e/pages/7-4-conservative-forces-and-potential-energy",
+        "reviewed": "2026-10-23"
+      }
+    ]
+  },
+  {
+    "id": 110,
+    "title": "How a Siphon Transfers Liquid",
+    "slug": "siphon-liquid",
+    "category": "Machines and mechanical systems",
+    "objective": "Follow a continuous liquid column between unequal surface heights.",
+    "control": {
+      "label": "Choose a virtual condition or process stage",
+      "options": [
+        "Unprimed",
+        "Primed outlet lower",
+        "Levels equal",
+        "Air enters"
+      ]
+    },
+    "stages": [
+      {
+        "title": "Air gap",
+        "text": "An air-filled high section breaks the liquid column; this schematic siphon does not start itself."
+      },
+      {
+        "title": "Continuous column",
+        "text": "A primed continuous column and a lower receiving surface allow gravity-driven flow from the upper vessel."
+      },
+      {
+        "title": "Equal levels",
+        "text": "When both free surfaces reach equal elevation, this ideal system has no sustained net head to drive flow."
+      },
+      {
+        "title": "Column breaks",
+        "text": "Air entering at the inlet can break the column and stop this siphon; actual behavior depends on geometry."
+      }
+    ],
+    "activityStates": [
+      "An air-filled high section breaks the liquid column; this schematic siphon does not start itself.",
+      "A primed continuous column and a lower receiving surface allow gravity-driven flow from the upper vessel.",
+      "When both free surfaces reach equal elevation, this ideal system has no sustained net head to drive flow.",
+      "Air entering at the inlet can break the column and stop this siphon; actual behavior depends on geometry."
+    ],
+    "stageStates": [
+      0,
+      1,
+      2,
+      3
+    ],
+    "terms": {
+      "Head": "Mechanical energy per unit weight, expressed as an equivalent height.",
+      "Primed": "Filled with liquid so a continuous path exists."
+    },
+    "misconception": "A siphon cannot continuously lift liquid from a lower reservoir into a higher one without an energy source.",
+    "limits": "Schematic open vessels; friction, vapor pressure and height limits are omitted. Virtual activity only.",
+    "sources": [
+      {
+        "title": "OpenStax: Bernoulli equation",
+        "url": "https://openstax.org/books/college-physics-2e/pages/12-2-bernoullis-equation",
+        "reviewed": "2026-10-23"
+      }
+    ]
+  },
+  {
+    "id": 111,
+    "title": "How a Fuel Cell Produces Electricity",
+    "slug": "hydrogen-fuel-cell",
+    "category": "Electricity and energy",
+    "objective": "Follow hydrogen, oxygen, electrons and water through a PEM fuel cell.",
+    "control": {
+      "label": "Choose a virtual condition or process stage",
+      "options": [
+        "Reactants absent",
+        "Anode reaction",
+        "External circuit",
+        "Cathode reaction"
+      ]
+    },
+    "stages": [
+      {
+        "title": "Supply",
+        "text": "With no supplied reactants, this fuel-cell schematic cannot sustain electrical output."
+      },
+      {
+        "title": "Separate",
+        "text": "At the anode, hydrogen separates into protons and electrons with a catalyst."
+      },
+      {
+        "title": "Transfer",
+        "text": "Protons pass through the membrane; electrons take the external load path, transferring electrical energy."
+      },
+      {
+        "title": "Combine",
+        "text": "At the cathode, oxygen combines with protons and electrons to form water; heat is also released."
+      }
+    ],
+    "activityStates": [
+      "With no supplied reactants, this fuel-cell schematic cannot sustain electrical output.",
+      "At the anode, hydrogen separates into protons and electrons with a catalyst.",
+      "Protons pass through the membrane; electrons take the external load path, transferring electrical energy.",
+      "At the cathode, oxygen combines with protons and electrons to form water; heat is also released."
+    ],
+    "stageStates": [
+      0,
+      1,
+      2,
+      3
+    ],
+    "terms": {
+      "PEM": "Proton-exchange membrane.",
+      "Catalyst": "A material accelerating a reaction without net consumption."
+    },
+    "misconception": "A fuel cell converts supplied chemical energy; it is not a source of unlimited energy.",
+    "limits": "Conceptual PEM process; no gas handling, performance or operating instructions.",
+    "sources": [
+      {
+        "title": "DOE: fuel cells",
+        "url": "https://www.energy.gov/cmei/fuels/fuel-cells",
+        "reviewed": "2026-10-23"
+      }
+    ]
+  },
+  {
+    "id": 112,
+    "title": "How Electrolysis Splits Water",
+    "slug": "water-electrolysis",
+    "category": "Electricity and energy",
+    "objective": "Trace externally powered hydrogen and oxygen production.",
+    "control": {
+      "label": "Choose a virtual condition or process stage",
+      "options": [
+        "Power off",
+        "Cathode",
+        "Anode",
+        "Products collected"
+      ]
+    },
+    "stages": [
+      {
+        "title": "Input",
+        "text": "No external electrical input: no driven water splitting is shown."
+      },
+      {
+        "title": "Hydrogen side",
+        "text": "With suitable external DC input, reduction at the cathode produces hydrogen in this conceptual cell."
+      },
+      {
+        "title": "Oxygen side",
+        "text": "Oxidation at the anode produces oxygen; the electrolyte carries ionic current between electrodes."
+      },
+      {
+        "title": "Overall balance",
+        "text": "Overall 2 H₂O → 2 H₂ + O₂: ideal gas amounts have a 2:1 hydrogen-to-oxygen ratio."
+      }
+    ],
+    "activityStates": [
+      "No external electrical input: no driven water splitting is shown.",
+      "With suitable external DC input, reduction at the cathode produces hydrogen in this conceptual cell.",
+      "Oxidation at the anode produces oxygen; the electrolyte carries ionic current between electrodes.",
+      "Overall 2 H₂O → 2 H₂ + O₂: ideal gas amounts have a 2:1 hydrogen-to-oxygen ratio."
+    ],
+    "stageStates": [
+      0,
+      1,
+      2,
+      3
+    ],
+    "terms": {
+      "Electrolysis": "An electrically driven chemical transformation.",
+      "Electrode": "A conductor at which an electrochemical reaction occurs."
+    },
+    "misconception": "Splitting water requires energy; recombining the products does not create free net energy.",
+    "limits": "Virtual reaction schematic; electrolytes and losses vary. No construction or gas-collection instructions.",
+    "sources": [
+      {
+        "title": "DOE: electrolysis",
+        "url": "https://www.energy.gov/cmei/fuels/hydrogen-production-electrolysis",
+        "reviewed": "2026-10-23"
+      }
+    ]
+  },
+  {
+    "id": 113,
+    "title": "How Regenerative Braking Recovers Energy",
+    "slug": "regenerative-braking",
+    "category": "Electricity and energy",
+    "objective": "Distinguish energy recovery from friction braking and conversion loss.",
+    "control": {
+      "label": "Choose a virtual condition or process stage",
+      "options": [
+        "Coasting",
+        "Motor generates",
+        "Battery accepts",
+        "Recovery limited"
+      ]
+    },
+    "stages": [
+      {
+        "title": "Coast",
+        "text": "Coasting: no commanded regenerative braking in this snapshot; drag can still slow the vehicle."
+      },
+      {
+        "title": "Generate",
+        "text": "Generator torque opposes rotation, converting some mechanical energy to electrical energy."
+      },
+      {
+        "title": "Store",
+        "text": "For an invented 100 kJ mechanical transfer and 70% overall recovery, 70 kJ enters storage and 30 kJ becomes other energy, mainly heat."
+      },
+      {
+        "title": "Limit",
+        "text": "A full, cold or power-limited battery can restrict recovery; friction brakes may provide additional braking."
+      }
+    ],
+    "activityStates": [
+      "Coasting: no commanded regenerative braking in this snapshot; drag can still slow the vehicle.",
+      "Generator torque opposes rotation, converting some mechanical energy to electrical energy.",
+      "For an invented 100 kJ mechanical transfer and 70% overall recovery, 70 kJ enters storage and 30 kJ becomes other energy, mainly heat.",
+      "A full, cold or power-limited battery can restrict recovery; friction brakes may provide additional braking."
+    ],
+    "stageStates": [
+      0,
+      1,
+      2,
+      3
+    ],
+    "terms": {
+      "Regeneration": "Converting motion energy into recoverable electrical energy.",
+      "Efficiency": "Useful output energy divided by input energy."
+    },
+    "misconception": "Regeneration recovers only part of available energy and cannot guarantee stopping performance.",
+    "limits": "Invented efficiency and energy; no driving, range or braking-distance advice.",
+    "sources": [
+      {
+        "title": "DOE: electric vehicles",
+        "url": "https://afdc.energy.gov/vehicles/how-do-all-electric-cars-work",
+        "reviewed": "2026-10-23"
+      }
+    ]
+  },
+  {
+    "id": 114,
+    "title": "How a Solar Water Heater Collects Heat",
+    "slug": "solar-water-heating",
+    "category": "Electricity and energy",
+    "objective": "Follow sunlight to absorber, fluid loop and hot-water tank.",
+    "control": {
+      "label": "Choose a virtual condition or process stage",
+      "options": [
+        "Dark collector",
+        "Sunlit absorber",
+        "Pump circulates",
+        "Heat exchanger"
+      ]
+    },
+    "stages": [
+      {
+        "title": "No input",
+        "text": "Without incoming sunlight, no solar heat is added; an unprotected collector can lose stored heat."
+      },
+      {
+        "title": "Absorb",
+        "text": "The dark absorber converts part of incoming solar radiation to internal energy."
+      },
+      {
+        "title": "Circulate",
+        "text": "A pump moves heated transfer fluid from collector toward the tank heat exchanger."
+      },
+      {
+        "title": "Exchange",
+        "text": "Heat flows through the exchanger wall to cooler tank water; the two fluids remain separated in this indirect design."
+      }
+    ],
+    "activityStates": [
+      "Without incoming sunlight, no solar heat is added; an unprotected collector can lose stored heat.",
+      "The dark absorber converts part of incoming solar radiation to internal energy.",
+      "A pump moves heated transfer fluid from collector toward the tank heat exchanger.",
+      "Heat flows through the exchanger wall to cooler tank water; the two fluids remain separated in this indirect design."
+    ],
+    "stageStates": [
+      0,
+      1,
+      2,
+      3
+    ],
+    "terms": {
+      "Collector": "A device intercepting solar energy.",
+      "Heat exchanger": "A component transferring heat between separated fluids."
+    },
+    "misconception": "A solar thermal collector heats fluid; it is different from a photovoltaic panel making electricity.",
+    "limits": "Indirect pumped schematic; freeze protection, controls and backup heat are omitted.",
+    "sources": [
+      {
+        "title": "ENERGY STAR: solar water heaters",
+        "url": "https://www.energystar.gov/products/solar_water_heaters/how-it-works",
+        "reviewed": "2026-10-23"
+      }
+    ]
+  },
+  {
+    "id": 115,
+    "title": "How District Heating Shares Thermal Energy",
+    "slug": "district-heating",
+    "category": "Electricity and energy",
+    "objective": "Trace a central heat source through a supply and return loop.",
+    "control": {
+      "label": "Choose a virtual condition or process stage",
+      "options": [
+        "Heat source",
+        "Supply pipe",
+        "Building exchanger",
+        "Return pipe"
+      ]
+    },
+    "stages": [
+      {
+        "title": "Source",
+        "text": "A central plant supplies heat from a selected source; the network does not create heat by itself."
+      },
+      {
+        "title": "Supply",
+        "text": "Insulated supply pipes carry hot network water toward buildings, with some heat loss."
+      },
+      {
+        "title": "Building",
+        "text": "A building heat exchanger transfers energy into a separate indoor loop."
+      },
+      {
+        "title": "Return",
+        "text": "Cooler network water returns to the plant for reheating; it is reused rather than consumed as fuel."
+      }
+    ],
+    "activityStates": [
+      "A central plant supplies heat from a selected source; the network does not create heat by itself.",
+      "Insulated supply pipes carry hot network water toward buildings, with some heat loss.",
+      "A building heat exchanger transfers energy into a separate indoor loop.",
+      "Cooler network water returns to the plant for reheating; it is reused rather than consumed as fuel."
+    ],
+    "stageStates": [
+      0,
+      1,
+      2,
+      3
+    ],
+    "terms": {
+      "District network": "Connected pipes serving multiple buildings.",
+      "Return temperature": "Temperature of network fluid coming back."
+    },
+    "misconception": "Network water does not have to mix with drinking water or indoor radiator water.",
+    "limits": "Representative closed network; source fuels, temperatures and network designs vary.",
+    "sources": [
+      {
+        "title": "EIA: district energy",
+        "url": "https://www.eia.gov/analysis/studies/buildings/districtservices/",
+        "reviewed": "2026-10-23"
+      }
+    ]
+  },
+  {
+    "id": 116,
+    "title": "How a Ground-Source Heat Pump Exchanges Heat",
+    "slug": "ground-source-heat-pump",
+    "category": "Electricity and energy",
+    "objective": "Follow seasonal heat transfer through a buried loop.",
+    "control": {
+      "label": "Choose a virtual condition or process stage",
+      "options": [
+        "Heating mode",
+        "Cooling mode",
+        "Electric input",
+        "Ground imbalance"
+      ]
+    },
+    "stages": [
+      {
+        "title": "Extract",
+        "text": "In heating mode, the ground loop absorbs heat from the ground and the heat pump delivers heat indoors."
+      },
+      {
+        "title": "Reject",
+        "text": "In cooling mode, heat removed from indoors is transferred into the ground."
+      },
+      {
+        "title": "Energy balance",
+        "text": "An invented heating balance is 3 kW from ground + 1 kW electric work = 4 kW indoor heat."
+      },
+      {
+        "title": "Long-term change",
+        "text": "Prolonged uneven heat extraction or rejection changes ground conditions; ground temperature is not an unlimited fixed resource."
+      }
+    ],
+    "activityStates": [
+      "In heating mode, the ground loop absorbs heat from the ground and the heat pump delivers heat indoors.",
+      "In cooling mode, heat removed from indoors is transferred into the ground.",
+      "An invented heating balance is 3 kW from ground + 1 kW electric work = 4 kW indoor heat.",
+      "Prolonged uneven heat extraction or rejection changes ground conditions; ground temperature is not an unlimited fixed resource."
+    ],
+    "stageStates": [
+      0,
+      1,
+      2,
+      3
+    ],
+    "terms": {
+      "Ground loop": "Buried heat-exchange piping.",
+      "Heat pump": "A device using work to transfer heat against a temperature difference."
+    },
+    "misconception": "Ground-source systems usually use shallow ground heat exchange; they need not tap deep volcanic heat.",
+    "limits": "Conceptual closed loop and invented balance; no sizing or installation guidance.",
+    "sources": [
+      {
+        "title": "DOE: geothermal heat pumps",
+        "url": "https://www.energy.gov/hgeo/geothermal/geothermal-heat-pumps",
+        "reviewed": "2026-10-23"
+      }
+    ]
+  },
+  {
+    "id": 117,
+    "title": "How a Thermoelectric Module Moves Heat",
+    "slug": "thermoelectric-cooling",
+    "category": "Electricity and energy",
+    "objective": "Track current direction, cold-side heat and hot-side heat.",
+    "control": {
+      "label": "Choose a virtual condition or process stage",
+      "options": [
+        "Current off",
+        "Forward current",
+        "Reverse current",
+        "Heat rejection limited"
+      ]
+    },
+    "stages": [
+      {
+        "title": "Off",
+        "text": "No current: no driven Peltier heat pumping; ordinary conduction can still transfer heat."
+      },
+      {
+        "title": "Pump heat",
+        "text": "Forward current pumps heat from the illustrated left side to the right side; resistive heating also occurs."
+      },
+      {
+        "title": "Reverse",
+        "text": "Reversing current reverses the Peltier contribution, swapping heating and cooling roles under these assumed conditions."
+      },
+      {
+        "title": "Reject heat",
+        "text": "Poor hot-side heat rejection raises temperatures and reduces useful cooling; a module does not dispose of heat by itself."
+      }
+    ],
+    "activityStates": [
+      "No current: no driven Peltier heat pumping; ordinary conduction can still transfer heat.",
+      "Forward current pumps heat from the illustrated left side to the right side; resistive heating also occurs.",
+      "Reversing current reverses the Peltier contribution, swapping heating and cooling roles under these assumed conditions.",
+      "Poor hot-side heat rejection raises temperatures and reduces useful cooling; a module does not dispose of heat by itself."
+    ],
+    "stageStates": [
+      0,
+      1,
+      2,
+      3
+    ],
+    "terms": {
+      "Peltier effect": "Heat absorption or release at junctions associated with electrical current.",
+      "Heat sink": "A structure transferring heat to surroundings."
+    },
+    "misconception": "The hot side must reject pumped heat plus electrical input, not merely the cold-side load.",
+    "limits": "Qualitative thermoelectric module; no temperature limits or electrical specifications.",
+    "sources": [
+      {
+        "title": "NASA: thermal control and thermoelectric coolers",
+        "url": "https://www.nasa.gov/smallsat-institute/sst-soa/thermal-control/",
+        "reviewed": "2026-10-23"
+      }
+    ]
+  },
+  {
+    "id": 118,
+    "title": "How Phase-Change Material Stores Heat",
+    "slug": "phase-change-storage",
+    "category": "Electricity and energy",
+    "objective": "Distinguish sensible heating from latent heat storage.",
+    "control": {
+      "label": "Choose a virtual condition or process stage",
+      "options": [
+        "Solid warms",
+        "Melting begins",
+        "Mixture melts",
+        "Liquid warms"
+      ]
+    },
+    "stages": [
+      {
+        "title": "Sensible heat",
+        "text": "Below the ideal melting point, added heat raises the solid temperature."
+      },
+      {
+        "title": "Phase boundary",
+        "text": "At the ideal melting point, added energy begins changing solid into liquid."
+      },
+      {
+        "title": "Latent heat",
+        "text": "For invented mass 2 kg and latent heat 100 kJ/kg, complete melting stores 200 kJ at the ideal phase-change temperature."
+      },
+      {
+        "title": "After melting",
+        "text": "After all material melts, further input raises liquid temperature; storage capacity is finite."
+      }
+    ],
+    "activityStates": [
+      "Below the ideal melting point, added heat raises the solid temperature.",
+      "At the ideal melting point, added energy begins changing solid into liquid.",
+      "For invented mass 2 kg and latent heat 100 kJ/kg, complete melting stores 200 kJ at the ideal phase-change temperature.",
+      "After all material melts, further input raises liquid temperature; storage capacity is finite."
+    ],
+    "stageStates": [
+      0,
+      1,
+      2,
+      3
+    ],
+    "terms": {
+      "Latent heat": "Energy per mass transferred during a phase change.",
+      "Sensible heat": "Energy transfer associated with temperature change."
+    },
+    "misconception": "Heat can enter a material while its temperature stays approximately constant during a phase change.",
+    "limits": "Ideal pure material, fixed pressure and invented values; real products melt across ranges.",
+    "sources": [
+      {
+        "title": "OpenStax: phase change",
+        "url": "https://openstax.org/books/college-physics-2e/pages/14-3-phase-change-and-latent-heat",
+        "reviewed": "2026-10-23"
+      }
+    ]
+  },
+  {
+    "id": 119,
+    "title": "How a Hydroelectric Plant Generates Power",
+    "slug": "hydroelectric-power",
+    "category": "Electricity and energy",
+    "objective": "Trace elevation energy through water, turbine and generator.",
+    "control": {
+      "label": "Choose a virtual condition or process stage",
+      "options": [
+        "Gate closed",
+        "5 m head",
+        "10 m head",
+        "20 m head"
+      ]
+    },
+    "stages": [
+      {
+        "title": "No flow",
+        "text": "Closed gate: no driven turbine flow in this ideal snapshot."
+      },
+      {
+        "title": "Low head",
+        "text": "At invented flow 0.1 m³/s, head 5 m and efficiency 0.8: P = 1000 × 9.81 × 0.1 × 5 × 0.8 = 3924 W."
+      },
+      {
+        "title": "Double head",
+        "text": "At the same flow and efficiency with 10 m head, idealized useful power is 7848 W."
+      },
+      {
+        "title": "Larger head",
+        "text": "At 20 m head, useful power is 15696 W; available flow and environmental constraints still matter."
+      }
+    ],
+    "activityStates": [
+      "Closed gate: no driven turbine flow in this ideal snapshot.",
+      "At invented flow 0.1 m³/s, head 5 m and efficiency 0.8: P = 1000 × 9.81 × 0.1 × 5 × 0.8 = 3924 W.",
+      "At the same flow and efficiency with 10 m head, idealized useful power is 7848 W.",
+      "At 20 m head, useful power is 15696 W; available flow and environmental constraints still matter."
+    ],
+    "stageStates": [
+      0,
+      1,
+      2,
+      3
+    ],
+    "terms": {
+      "Head": "Available water elevation-energy difference per weight.",
+      "Turbine": "A machine extracting shaft work from fluid flow."
+    },
+    "misconception": "A dam provides stored elevation energy; the generator does not create energy from nothing.",
+    "limits": "Invented steady flow and fixed efficiency; no flood, dam or equipment design prediction.",
+    "sources": [
+      {
+        "title": "DOE: hydropower",
+        "url": "https://www.energy.gov/cmei/water/how-hydropower-works",
+        "reviewed": "2026-10-23"
+      }
+    ]
+  },
+  {
+    "id": 120,
+    "title": "How an Inverter Makes Alternating Current",
+    "slug": "power-inverter",
+    "category": "Electricity and energy",
+    "objective": "Follow switching polarity from a DC source to a changing load voltage.",
+    "control": {
+      "label": "Choose a virtual condition or process stage",
+      "options": [
+        "Positive pair",
+        "Zero interval",
+        "Negative pair",
+        "Filtered output"
+      ]
+    },
+    "stages": [
+      {
+        "title": "Positive",
+        "text": "The first diagonal switch pair connects the ideal DC source to give positive load voltage."
+      },
+      {
+        "title": "Zero",
+        "text": "During an ideal zero-voltage interval, the load sees zero differential voltage in this simplified switching sequence."
+      },
+      {
+        "title": "Negative",
+        "text": "The opposite pair reverses the load connection, producing negative voltage without reversing the battery."
+      },
+      {
+        "title": "Filter",
+        "text": "Rapid controlled switching and filtering can approximate a sinusoid; real output has losses and residual ripple."
+      }
+    ],
+    "activityStates": [
+      "The first diagonal switch pair connects the ideal DC source to give positive load voltage.",
+      "During an ideal zero-voltage interval, the load sees zero differential voltage in this simplified switching sequence.",
+      "The opposite pair reverses the load connection, producing negative voltage without reversing the battery.",
+      "Rapid controlled switching and filtering can approximate a sinusoid; real output has losses and residual ripple."
+    ],
+    "stageStates": [
+      0,
+      1,
+      2,
+      3
+    ],
+    "terms": {
+      "DC": "Current or voltage with a nonalternating polarity in this model.",
+      "PWM": "Pulse-width modulation, controlling the duration of switching pulses."
+    },
+    "misconception": "An inverter alternates load polarity electronically; it does not generate extra energy.",
+    "limits": "Ideal H-bridge states; dead time, inductive currents and protection are omitted. No wiring guidance.",
+    "sources": [
+      {
+        "title": "DOE: inverters and grid services",
+        "url": "https://www.energy.gov/cmei/systems/solar-integration-inverters-and-grid-services-basics",
+        "reviewed": "2026-10-23"
+      }
+    ]
+  },
+  {
+    "id": 121,
+    "title": "How DNS Resolves a Name",
+    "slug": "dns-resolution",
+    "category": "Computers and communication",
+    "objective": "Trace a name lookup from cache through DNS hierarchy.",
+    "control": {
+      "label": "Choose a virtual condition or process stage",
+      "options": [
+        "Local cache",
+        "Root referral",
+        "Authoritative answer",
+        "Cache expires"
+      ]
+    },
+    "stages": [
+      {
+        "title": "Cache",
+        "text": "A valid cached answer can return the example address without repeating the full DNS lookup."
+      },
+      {
+        "title": "Referral",
+        "text": "On a cache miss, the resolver can obtain a referral from root to top-level-domain servers."
+      },
+      {
+        "title": "Answer",
+        "text": "The authoritative server provides the requested example record; the resolver returns it to the client."
+      },
+      {
+        "title": "Refresh",
+        "text": "After its time-to-live expires, the cached record must be refreshed before normal reuse under this simplified policy."
+      }
+    ],
+    "activityStates": [
+      "A valid cached answer can return the example address without repeating the full DNS lookup.",
+      "On a cache miss, the resolver can obtain a referral from root to top-level-domain servers.",
+      "The authoritative server provides the requested example record; the resolver returns it to the client.",
+      "After its time-to-live expires, the cached record must be refreshed before normal reuse under this simplified policy."
+    ],
+    "stageStates": [
+      0,
+      1,
+      2,
+      3
+    ],
+    "terms": {
+      "Resolver": "A service obtaining DNS answers for a client.",
+      "TTL": "Time-to-live controlling a record’s cache lifetime."
+    },
+    "misconception": "DNS finds records associated with names; it does not itself download the web page.",
+    "limits": "Illustrative example.test flow; no live lookup, DNSSEC validation or personal network data.",
+    "sources": [
+      {
+        "title": "Cloudflare: DNS",
+        "url": "https://www.cloudflare.com/learning/dns/what-is-dns/",
+        "reviewed": "2026-10-23"
+      }
+    ]
+  },
+  {
+    "id": 122,
+    "title": "How a Router Selects a Network Path",
+    "slug": "ip-routing",
+    "category": "Computers and communication",
+    "objective": "Compare destination prefixes and the longest-prefix match rule.",
+    "control": {
+      "label": "Choose a virtual condition or process stage",
+      "options": [
+        "10.1.2.3",
+        "10.2.2.3",
+        "192.0.2.5",
+        "No default route"
+      ]
+    },
+    "stages": [
+      {
+        "title": "Specific route",
+        "text": "For destination 10.1.2.3, routes 10.0.0.0/8 and 10.1.0.0/16 both match; the longer /16 prefix is selected."
+      },
+      {
+        "title": "Broad route",
+        "text": "For 10.2.2.3, only the 10.0.0.0/8 example route matches, so the /8 next hop is selected."
+      },
+      {
+        "title": "Default",
+        "text": "For documentation address 192.0.2.5, neither private route matches; the default /0 route is selected."
+      },
+      {
+        "title": "No match",
+        "text": "With no matching route and no default, the router cannot forward this packet using this table."
+      }
+    ],
+    "activityStates": [
+      "For destination 10.1.2.3, routes 10.0.0.0/8 and 10.1.0.0/16 both match; the longer /16 prefix is selected.",
+      "For 10.2.2.3, only the 10.0.0.0/8 example route matches, so the /8 next hop is selected.",
+      "For documentation address 192.0.2.5, neither private route matches; the default /0 route is selected.",
+      "With no matching route and no default, the router cannot forward this packet using this table."
+    ],
+    "stageStates": [
+      0,
+      1,
+      2,
+      3
+    ],
+    "terms": {
+      "Prefix": "A network address plus the number of leading bits to match.",
+      "Next hop": "The next forwarding destination chosen by a router."
+    },
+    "misconception": "The most specific matching prefix takes precedence; it is not necessarily the shortest geographical route.",
+    "limits": "Invented routing table; no packet sending, real hosts or network configuration.",
+    "sources": [
+      {
+        "title": "RFC 1812: IPv4 routers",
+        "url": "https://www.rfc-editor.org/rfc/rfc1812",
+        "reviewed": "2026-10-23"
+      }
+    ]
+  },
+  {
+    "id": 123,
+    "title": "How TCP Reassembles an Ordered Stream",
+    "slug": "tcp-ordered-stream",
+    "category": "Computers and communication",
+    "objective": "Follow sequence numbers, buffering and retransmission.",
+    "control": {
+      "label": "Choose a virtual condition or process stage",
+      "options": [
+        "In order",
+        "Out of order",
+        "Missing segment",
+        "Retransmission"
+      ]
+    },
+    "stages": [
+      {
+        "title": "Sequence",
+        "text": "Segments carrying illustrative bytes 1–3, 4–6 and 7–9 arrive in order and become a contiguous byte stream."
+      },
+      {
+        "title": "Buffer",
+        "text": "Bytes 7–9 arrive before 4–6; the receiver buffers them rather than delivering a gap as an ordered stream."
+      },
+      {
+        "title": "Gap",
+        "text": "The missing bytes 4–6 prevent further contiguous delivery beyond byte 3 in this example."
+      },
+      {
+        "title": "Recover",
+        "text": "Retransmitted bytes 4–6 fill the gap; buffered 7–9 can now be delivered in order."
+      }
+    ],
+    "activityStates": [
+      "Segments carrying illustrative bytes 1–3, 4–6 and 7–9 arrive in order and become a contiguous byte stream.",
+      "Bytes 7–9 arrive before 4–6; the receiver buffers them rather than delivering a gap as an ordered stream.",
+      "The missing bytes 4–6 prevent further contiguous delivery beyond byte 3 in this example.",
+      "Retransmitted bytes 4–6 fill the gap; buffered 7–9 can now be delivered in order."
+    ],
+    "stageStates": [
+      0,
+      1,
+      2,
+      3
+    ],
+    "terms": {
+      "Sequence number": "A position in the TCP byte stream.",
+      "Retransmission": "Sending stream data again to recover a missing delivery."
+    },
+    "misconception": "TCP preserves byte order, not the sender’s original message boundaries.",
+    "limits": "Simplified byte ranges; congestion control, ACK details and actual timing omitted.",
+    "sources": [
+      {
+        "title": "RFC 9293: TCP",
+        "url": "https://www.rfc-editor.org/rfc/rfc9293",
+        "reviewed": "2026-10-23"
+      }
+    ]
+  },
+  {
+    "id": 124,
+    "title": "How an Operating System Schedules Tasks",
+    "slug": "task-scheduling",
+    "category": "Computers and communication",
+    "objective": "Follow an illustrative round-robin ready queue.",
+    "control": {
+      "label": "Choose a virtual condition or process stage",
+      "options": [
+        "A runs",
+        "B runs",
+        "A waits for input",
+        "A becomes ready"
+      ]
+    },
+    "stages": [
+      {
+        "title": "Dispatch A",
+        "text": "With an invented one-unit time slice, task A runs while ready task B waits in the queue."
+      },
+      {
+        "title": "Dispatch B",
+        "text": "When A’s slice ends, B runs and A returns to the ready queue."
+      },
+      {
+        "title": "Block",
+        "text": "A requests input and blocks; it leaves the ready queue, allowing B to continue."
+      },
+      {
+        "title": "Wake",
+        "text": "When the input event completes, A becomes ready again; it does not necessarily preempt immediately."
+      }
+    ],
+    "activityStates": [
+      "With an invented one-unit time slice, task A runs while ready task B waits in the queue.",
+      "When A’s slice ends, B runs and A returns to the ready queue.",
+      "A requests input and blocks; it leaves the ready queue, allowing B to continue.",
+      "When the input event completes, A becomes ready again; it does not necessarily preempt immediately."
+    ],
+    "stageStates": [
+      0,
+      1,
+      2,
+      3
+    ],
+    "terms": {
+      "Ready queue": "Tasks able to run when given processor time.",
+      "Blocked": "A task waiting for an event rather than CPU time."
+    },
+    "misconception": "Many tasks can make progress on one core through time sharing without executing simultaneously.",
+    "limits": "Invented two-task policy; real priorities, cores and kernel behavior differ.",
+    "sources": [
+      {
+        "title": "OSTEP: CPU scheduling",
+        "url": "https://pages.cs.wisc.edu/~remzi/OSTEP/cpu-sched.pdf",
+        "reviewed": "2026-10-23"
+      }
+    ]
+  },
+  {
+    "id": 125,
+    "title": "How Virtual Memory Maps Addresses",
+    "slug": "virtual-memory",
+    "category": "Computers and communication",
+    "objective": "Follow a process address through page-table translation.",
+    "control": {
+      "label": "Choose a virtual condition or process stage",
+      "options": [
+        "Mapped page",
+        "Different process",
+        "Page absent",
+        "Permission denied"
+      ]
+    },
+    "stages": [
+      {
+        "title": "Translate",
+        "text": "Process A virtual page 1 maps to invented physical frame 7; offset 20 stays offset 20."
+      },
+      {
+        "title": "Isolate",
+        "text": "Process B can map its own virtual page 1 to physical frame 3, keeping the same virtual address independent."
+      },
+      {
+        "title": "Fault",
+        "text": "An absent page triggers a page fault; the operating system may load it or report an invalid access."
+      },
+      {
+        "title": "Protect",
+        "text": "A write to a read-only mapping triggers a protection fault rather than an allowed write."
+      }
+    ],
+    "activityStates": [
+      "Process A virtual page 1 maps to invented physical frame 7; offset 20 stays offset 20.",
+      "Process B can map its own virtual page 1 to physical frame 3, keeping the same virtual address independent.",
+      "An absent page triggers a page fault; the operating system may load it or report an invalid access.",
+      "A write to a read-only mapping triggers a protection fault rather than an allowed write."
+    ],
+    "stageStates": [
+      0,
+      1,
+      2,
+      3
+    ],
+    "terms": {
+      "Page table": "A mapping from virtual pages to physical frames and permissions.",
+      "Offset": "Position inside a page, preserved during translation."
+    },
+    "misconception": "Virtual memory is an address abstraction; it is not simply extra physical RAM.",
+    "limits": "Invented pages and frames; no inspection of the user’s memory or device.",
+    "sources": [
+      {
+        "title": "OSTEP: address translation",
+        "url": "https://pages.cs.wisc.edu/~remzi/OSTEP/vm-mechanism.pdf",
+        "reviewed": "2026-10-23"
+      }
+    ]
+  },
+  {
+    "id": 126,
+    "title": "How a Database Transaction Commits",
+    "slug": "database-transaction",
+    "category": "Computers and communication",
+    "objective": "Compare commit and rollback using a fictional account transfer.",
+    "control": {
+      "label": "Choose a virtual condition or process stage",
+      "options": [
+        "Before transfer",
+        "Debit pending",
+        "Commit",
+        "Rollback instead"
+      ]
+    },
+    "stages": [
+      {
+        "title": "Begin",
+        "text": "Fictional balances A = 100 and B = 50; total = 150 units before a 20-unit transfer."
+      },
+      {
+        "title": "Provisional",
+        "text": "Inside the transaction, A is provisionally 80 while the matching credit is pending; this intermediate state is not a completed transfer."
+      },
+      {
+        "title": "Commit",
+        "text": "Commit both updates together: A = 80 and B = 70; total remains 150 units."
+      },
+      {
+        "title": "Rollback",
+        "text": "If the transaction fails before commit and rolls back, A = 100 and B = 50 again."
+      }
+    ],
+    "activityStates": [
+      "Fictional balances A = 100 and B = 50; total = 150 units before a 20-unit transfer.",
+      "Inside the transaction, A is provisionally 80 while the matching credit is pending; this intermediate state is not a completed transfer.",
+      "Commit both updates together: A = 80 and B = 70; total remains 150 units.",
+      "If the transaction fails before commit and rolls back, A = 100 and B = 50 again."
+    ],
+    "stageStates": [
+      0,
+      1,
+      2,
+      3
+    ],
+    "terms": {
+      "Atomicity": "All transaction changes commit or none do.",
+      "Commit": "Make the completed transaction’s changes durable under the system’s guarantees."
+    },
+    "misconception": "A transaction is not complete just because one update has executed.",
+    "limits": "Fictional units and simplified isolation; no real accounts or financial actions.",
+    "sources": [
+      {
+        "title": "PostgreSQL: transactions",
+        "url": "https://www.postgresql.org/docs/current/tutorial-transactions.html",
+        "reviewed": "2026-10-23"
+      }
+    ]
+  },
+  {
+    "id": 127,
+    "title": "How Version Control Merges Changes",
+    "slug": "version-control-merge",
+    "category": "Computers and communication",
+    "objective": "Follow a common ancestor, independent edits and a merge conflict.",
+    "control": {
+      "label": "Choose a virtual condition or process stage",
+      "options": [
+        "Common base",
+        "Independent edits",
+        "Clean merge",
+        "Conflicting edits"
+      ]
+    },
+    "stages": [
+      {
+        "title": "Ancestor",
+        "text": "Both branches start from a shared version containing lines A and B."
+      },
+      {
+        "title": "Branches",
+        "text": "One branch edits line A while the other edits line B; both histories retain the common base."
+      },
+      {
+        "title": "Combine",
+        "text": "A three-way merge can combine the nonoverlapping edits into one result."
+      },
+      {
+        "title": "Resolve",
+        "text": "If both branches change the same line incompatibly, a person must resolve the conflict before completing the merge."
+      }
+    ],
+    "activityStates": [
+      "Both branches start from a shared version containing lines A and B.",
+      "One branch edits line A while the other edits line B; both histories retain the common base.",
+      "A three-way merge can combine the nonoverlapping edits into one result.",
+      "If both branches change the same line incompatibly, a person must resolve the conflict before completing the merge."
+    ],
+    "stageStates": [
+      0,
+      1,
+      2,
+      3
+    ],
+    "terms": {
+      "Branch": "A movable name referring to a line of development.",
+      "Three-way merge": "A comparison of two versions with their common ancestor."
+    },
+    "misconception": "A merge conflict signals overlapping changes; it does not automatically mean either version is wrong.",
+    "limits": "Invented text-only histories; no repository modification from the learning activity.",
+    "sources": [
+      {
+        "title": "Git: basic branching and merging",
+        "url": "https://git-scm.com/book/en/v2/Git-Branching-Basic-Branching-and-Merging",
+        "reviewed": "2026-10-23"
+      }
+    ]
+  },
+  {
+    "id": 128,
+    "title": "How a Digital Signature Verifies a Message",
+    "slug": "digital-signature",
+    "category": "Computers and communication",
+    "objective": "Distinguish signing, verification and message alteration.",
+    "control": {
+      "label": "Choose a virtual condition or process stage",
+      "options": [
+        "Sign original",
+        "Verify original",
+        "Message altered",
+        "Wrong public key"
+      ]
+    },
+    "stages": [
+      {
+        "title": "Sign",
+        "text": "The sender uses a private signing key to sign the original message; the message remains readable."
+      },
+      {
+        "title": "Verify",
+        "text": "The matching public key verifies the signature on the unchanged original message in this conceptual example."
+      },
+      {
+        "title": "Tamper",
+        "text": "Altering the signed message causes verification to fail for that original signature."
+      },
+      {
+        "title": "Key identity",
+        "text": "An unrelated public key also fails verification; key ownership still requires a trusted association."
+      }
+    ],
+    "activityStates": [
+      "The sender uses a private signing key to sign the original message; the message remains readable.",
+      "The matching public key verifies the signature on the unchanged original message in this conceptual example.",
+      "Altering the signed message causes verification to fail for that original signature.",
+      "An unrelated public key also fails verification; key ownership still requires a trusted association."
+    ],
+    "stageStates": [
+      0,
+      1,
+      2,
+      3
+    ],
+    "terms": {
+      "Signature": "A cryptographic value used to check message integrity and key possession.",
+      "Verification": "Checking a signature with the appropriate public key."
+    },
+    "misconception": "A digital signature does not encrypt the message or establish the signer’s real identity by itself.",
+    "limits": "Conceptual pass/fail states; no actual cryptography or security guarantee.",
+    "sources": [
+      {
+        "title": "NIST: digital signature standard",
+        "url": "https://csrc.nist.gov/pubs/fips/186-5/final",
+        "reviewed": "2026-10-23"
+      }
+    ]
+  },
+  {
+    "id": 129,
+    "title": "How Huffman Coding Shortens Common Symbols",
+    "slug": "huffman-coding",
+    "category": "Computers and communication",
+    "objective": "Encode a toy alphabet with a prefix-free code.",
+    "control": {
+      "label": "Choose a virtual condition or process stage",
+      "options": [
+        "Symbol A",
+        "Symbol B",
+        "Symbol C",
+        "Message ABAC"
+      ]
+    },
+    "stages": [
+      {
+        "title": "Frequent symbol",
+        "text": "Invented code A = 0 uses one bit for the most common symbol."
+      },
+      {
+        "title": "Left branch",
+        "text": "Code B = 10 uses two bits; no complete code is the prefix of another."
+      },
+      {
+        "title": "Right branch",
+        "text": "Code C = 11 also uses two bits; decoding follows the tree from root to a leaf."
+      },
+      {
+        "title": "Encode message",
+        "text": "ABAC encodes as 0 10 0 11 = 010011, six bits instead of eight with a two-bit fixed code; codebook overhead is omitted."
+      }
+    ],
+    "activityStates": [
+      "Invented code A = 0 uses one bit for the most common symbol.",
+      "Code B = 10 uses two bits; no complete code is the prefix of another.",
+      "Code C = 11 also uses two bits; decoding follows the tree from root to a leaf.",
+      "ABAC encodes as 0 10 0 11 = 010011, six bits instead of eight with a two-bit fixed code; codebook overhead is omitted."
+    ],
+    "stageStates": [
+      0,
+      1,
+      2,
+      3
+    ],
+    "terms": {
+      "Prefix-free": "No complete codeword begins another codeword.",
+      "Codebook": "A mapping between symbols and their bit strings."
+    },
+    "misconception": "Compression depends on symbol frequencies and overhead; a Huffman code does not shrink every possible file.",
+    "limits": "Fixed toy frequencies A:2, B:1, C:1 and codebook; no file upload or production compression.",
+    "sources": [
+      {
+        "title": "Princeton: data compression",
+        "url": "https://algs4.cs.princeton.edu/55compression/",
+        "reviewed": "2026-10-23"
+      }
+    ]
+  },
+  {
+    "id": 130,
+    "title": "How a Search Engine Builds an Index",
+    "slug": "search-engine-index",
+    "category": "Computers and communication",
+    "objective": "Trace crawling, indexing and a simple word lookup.",
+    "control": {
+      "label": "Choose a virtual condition or process stage",
+      "options": [
+        "Crawl pages",
+        "Build postings",
+        "Query ocean",
+        "Page changes"
+      ]
+    },
+    "stages": [
+      {
+        "title": "Collect",
+        "text": "The toy crawler reads permitted pages P1: ocean blue and P2: ocean waves."
+      },
+      {
+        "title": "Index",
+        "text": "The inverted index stores ocean → P1,P2; blue → P1; waves → P2."
+      },
+      {
+        "title": "Retrieve",
+        "text": "A query for ocean returns both indexed documents; this simple lookup does not predict ranking."
+      },
+      {
+        "title": "Refresh",
+        "text": "If P2 changes, the stored index remains stale until recrawling and reindexing occur."
+      }
+    ],
+    "activityStates": [
+      "The toy crawler reads permitted pages P1: ocean blue and P2: ocean waves.",
+      "The inverted index stores ocean → P1,P2; blue → P1; waves → P2.",
+      "A query for ocean returns both indexed documents; this simple lookup does not predict ranking.",
+      "If P2 changes, the stored index remains stale until recrawling and reindexing occur."
+    ],
+    "stageStates": [
+      0,
+      1,
+      2,
+      3
+    ],
+    "terms": {
+      "Posting list": "Documents associated with an indexed term.",
+      "Crawler": "A program discovering and retrieving pages."
+    },
+    "misconception": "An index is a stored representation; a search does not scan every live page at query time.",
+    "limits": "Two invented pages; no live crawling, ranking promise or SEO guarantee.",
+    "sources": [
+      {
+        "title": "Google: how search works",
+        "url": "https://developers.google.com/search/docs/fundamentals/how-search-works",
+        "reviewed": "2026-10-23"
+      }
+    ]
+  },
+  {
+    "id": 131,
+    "title": "How a Synapse Passes a Chemical Signal",
+    "slug": "chemical-synapse",
+    "category": "The human body",
+    "objective": "Trace a signal across the gap between two nerve cells.",
+    "control": {
+      "label": "Choose a virtual condition or process stage",
+      "options": [
+        "Rest",
+        "Signal arrives",
+        "Transmitter release",
+        "Clearance"
+      ]
+    },
+    "stages": [
+      {
+        "title": "Ready",
+        "text": "At rest, vesicles hold transmitter in the presynaptic terminal; the cells are separated by a gap."
+      },
+      {
+        "title": "Calcium entry",
+        "text": "An arriving action potential opens voltage-gated calcium channels in this representative synapse."
+      },
+      {
+        "title": "Receptor binding",
+        "text": "Calcium entry promotes vesicle release; transmitter crosses the cleft and binds postsynaptic receptors."
+      },
+      {
+        "title": "Reset",
+        "text": "Reuptake, breakdown or diffusion clears transmitter; the postsynaptic effect depends on receptor type."
+      }
+    ],
+    "activityStates": [
+      "At rest, vesicles hold transmitter in the presynaptic terminal; the cells are separated by a gap.",
+      "An arriving action potential opens voltage-gated calcium channels in this representative synapse.",
+      "Calcium entry promotes vesicle release; transmitter crosses the cleft and binds postsynaptic receptors.",
+      "Reuptake, breakdown or diffusion clears transmitter; the postsynaptic effect depends on receptor type."
+    ],
+    "stageStates": [
+      0,
+      1,
+      2,
+      3
+    ],
+    "terms": {
+      "Vesicle": "A small membrane-bound compartment.",
+      "Synaptic cleft": "The gap between signaling cells."
+    },
+    "misconception": "Chemical synapses do not require the two neurons to touch or fuse.",
+    "limits": "Representative chemical synapse; transmitter identity, timing and disease are not simulated.",
+    "sources": [
+      {
+        "title": "OpenStax: communication between neurons",
+        "url": "https://openstax.org/books/anatomy-and-physiology-2e/pages/12-5-communication-between-neurons",
+        "reviewed": "2026-10-23"
+      }
+    ]
+  },
+  {
+    "id": 132,
+    "title": "How an Action Potential Travels",
+    "slug": "action-potential",
+    "category": "The human body",
+    "objective": "Follow membrane voltage changes along an idealized axon.",
+    "control": {
+      "label": "Choose a virtual condition or process stage",
+      "options": [
+        "Rest",
+        "Depolarization",
+        "Repolarization",
+        "Refractory region"
+      ]
+    },
+    "stages": [
+      {
+        "title": "Resting membrane",
+        "text": "At rest, the membrane maintains ion gradients and a resting voltage; ions are not equally distributed."
+      },
+      {
+        "title": "Rising phase",
+        "text": "Threshold activation opens voltage-gated sodium channels, allowing inward sodium current in this representative axon."
+      },
+      {
+        "title": "Falling phase",
+        "text": "Sodium channels inactivate and potassium conductance rises, returning voltage toward resting levels."
+      },
+      {
+        "title": "Recovery",
+        "text": "A recovering region is temporarily less excitable, helping propagation proceed into the next excitable region."
+      }
+    ],
+    "activityStates": [
+      "At rest, the membrane maintains ion gradients and a resting voltage; ions are not equally distributed.",
+      "Threshold activation opens voltage-gated sodium channels, allowing inward sodium current in this representative axon.",
+      "Sodium channels inactivate and potassium conductance rises, returning voltage toward resting levels.",
+      "A recovering region is temporarily less excitable, helping propagation proceed into the next excitable region."
+    ],
+    "stageStates": [
+      0,
+      1,
+      2,
+      3
+    ],
+    "terms": {
+      "Depolarization": "A shift of membrane voltage toward less negative values.",
+      "Refractory period": "A period of reduced ability to generate another action potential."
+    },
+    "misconception": "A nerve impulse is a propagating voltage change; individual sodium ions do not travel the entire axon as the message.",
+    "limits": "Conceptual mammalian axon; no voltage thresholds, medical interpretations or timing predictions.",
+    "sources": [
+      {
+        "title": "OpenStax: the action potential",
+        "url": "https://openstax.org/books/anatomy-and-physiology-2e/pages/12-4-the-action-potential",
+        "reviewed": "2026-10-23"
+      }
+    ]
+  },
+  {
+    "id": 133,
+    "title": "How Lymph Returns Tissue Fluid",
+    "slug": "lymphatic-return",
+    "category": "The human body",
+    "objective": "Follow excess tissue fluid through lymph vessels to venous blood.",
+    "control": {
+      "label": "Choose a virtual condition or process stage",
+      "options": [
+        "Filtration",
+        "Entry into lymph",
+        "One-way valves",
+        "Venous return"
+      ]
+    },
+    "stages": [
+      {
+        "title": "Tissue exchange",
+        "text": "Fluid exchange across blood capillaries leaves some excess fluid in the surrounding tissue."
+      },
+      {
+        "title": "Collect",
+        "text": "Overlapping endothelial flaps allow excess interstitial fluid to enter initial lymphatic vessels."
+      },
+      {
+        "title": "Move",
+        "text": "Collecting vessels and valves support forward movement; muscle movement and vessel contraction help propel lymph."
+      },
+      {
+        "title": "Return",
+        "text": "Larger lymphatic ducts return lymph to the venous circulation; lymph nodes filter lymph along the route."
+      }
+    ],
+    "activityStates": [
+      "Fluid exchange across blood capillaries leaves some excess fluid in the surrounding tissue.",
+      "Overlapping endothelial flaps allow excess interstitial fluid to enter initial lymphatic vessels.",
+      "Collecting vessels and valves support forward movement; muscle movement and vessel contraction help propel lymph.",
+      "Larger lymphatic ducts return lymph to the venous circulation; lymph nodes filter lymph along the route."
+    ],
+    "stageStates": [
+      0,
+      1,
+      2,
+      3
+    ],
+    "terms": {
+      "Interstitial fluid": "Fluid in spaces surrounding tissue cells.",
+      "Lymph": "Fluid inside lymphatic vessels."
+    },
+    "misconception": "The lymphatic system returns fluid to circulation; it is not a closed loop pumped by a separate heart.",
+    "limits": "Qualitative representative pathways; no swelling diagnosis or treatment advice.",
+    "sources": [
+      {
+        "title": "OpenStax: lymphatic anatomy",
+        "url": "https://openstax.org/books/anatomy-and-physiology-2e/pages/21-1-anatomy-of-the-lymphatic-and-immune-systems",
+        "reviewed": "2026-10-23"
+      }
+    ]
+  },
+  {
+    "id": 134,
+    "title": "How Antibodies Bind Specific Targets",
+    "slug": "antibody-binding",
+    "category": "The human body",
+    "objective": "Compare target recognition, blocking and immune recruitment.",
+    "control": {
+      "label": "Choose a virtual condition or process stage",
+      "options": [
+        "Target present",
+        "Matching antibody",
+        "Nonmatching antibody",
+        "Effector response"
+      ]
+    },
+    "stages": [
+      {
+        "title": "Epitope",
+        "text": "An antigen displays a particular binding feature called an epitope."
+      },
+      {
+        "title": "Binding",
+        "text": "A matching antibody binding site can bind the illustrated epitope; molecular fit and chemistry matter."
+      },
+      {
+        "title": "Specificity",
+        "text": "An antibody with a different binding site does not bind this schematic epitope effectively."
+      },
+      {
+        "title": "Consequences",
+        "text": "Bound antibody can block interactions or recruit immune mechanisms; binding alone does not guarantee protection."
+      }
+    ],
+    "activityStates": [
+      "An antigen displays a particular binding feature called an epitope.",
+      "A matching antibody binding site can bind the illustrated epitope; molecular fit and chemistry matter.",
+      "An antibody with a different binding site does not bind this schematic epitope effectively.",
+      "Bound antibody can block interactions or recruit immune mechanisms; binding alone does not guarantee protection."
+    ],
+    "stageStates": [
+      0,
+      1,
+      2,
+      3
+    ],
+    "terms": {
+      "Antigen": "A molecule recognized by immune receptors or antibodies.",
+      "Epitope": "The particular feature recognized by a binding site."
+    },
+    "misconception": "Antibodies do not all bind all germs, and their presence alone is not a universal measure of immunity.",
+    "limits": "Conceptual molecular shapes; no test interpretation, protection estimate or medical advice.",
+    "sources": [
+      {
+        "title": "OpenStax: B lymphocytes and antibodies",
+        "url": "https://openstax.org/books/anatomy-and-physiology-2e/pages/21-4-the-adaptive-immune-response-b-lymphocytes-and-antibodies",
+        "reviewed": "2026-10-23"
+      }
+    ]
+  },
+  {
+    "id": 135,
+    "title": "How a Tendon Reflex Responds to Stretch",
+    "slug": "stretch-reflex",
+    "category": "The human body",
+    "objective": "Follow a muscle-spindle signal through a spinal circuit.",
+    "control": {
+      "label": "Choose a virtual condition or process stage",
+      "options": [
+        "Before stretch",
+        "Spindle stretched",
+        "Spinal response",
+        "Muscle contracts"
+      ]
+    },
+    "stages": [
+      {
+        "title": "Monitor",
+        "text": "A muscle spindle monitors muscle length and changes in length."
+      },
+      {
+        "title": "Sense",
+        "text": "A brief imposed muscle stretch increases sensory activity from the spindle."
+      },
+      {
+        "title": "Connect",
+        "text": "Sensory input excites motor neurons of the same muscle through the spinal cord in this simplified pathway."
+      },
+      {
+        "title": "Respond",
+        "text": "Motor output contracts the stretched muscle, opposing the imposed length change; other circuits modify the response."
+      }
+    ],
+    "activityStates": [
+      "A muscle spindle monitors muscle length and changes in length.",
+      "A brief imposed muscle stretch increases sensory activity from the spindle.",
+      "Sensory input excites motor neurons of the same muscle through the spinal cord in this simplified pathway.",
+      "Motor output contracts the stretched muscle, opposing the imposed length change; other circuits modify the response."
+    ],
+    "stageStates": [
+      0,
+      1,
+      2,
+      3
+    ],
+    "terms": {
+      "Muscle spindle": "A sensory receptor within muscle detecting length changes.",
+      "Motor neuron": "A neuron carrying output to muscle fibers."
+    },
+    "misconception": "The basic stretch reflex can be mediated through spinal circuitry; it does not need a conscious decision first.",
+    "limits": "Diagram only; no instruction to elicit a reflex and no neurological interpretation.",
+    "sources": [
+      {
+        "title": "OpenStax: motor responses and reflexes",
+        "url": "https://openstax.org/books/anatomy-and-physiology-2e/pages/14-3-motor-responses",
+        "reviewed": "2026-10-23"
+      }
+    ]
+  },
+  {
+    "id": 136,
+    "title": "How Sweat Glands Support Evaporative Cooling",
+    "slug": "sweat-evaporation",
+    "category": "The human body",
+    "objective": "Separate sweat production from actual evaporation and heat loss.",
+    "control": {
+      "label": "Choose a virtual condition or process stage",
+      "options": [
+        "No secretion",
+        "Sweat reaches skin",
+        "Dry moving air",
+        "Humid still air"
+      ]
+    },
+    "stages": [
+      {
+        "title": "Gland",
+        "text": "No active sweat secretion is shown; other routes still exchange body heat."
+      },
+      {
+        "title": "Duct",
+        "text": "Eccrine glands secrete fluid through ducts to the skin surface."
+      },
+      {
+        "title": "Evaporation",
+        "text": "When sweat evaporates into drier moving air, it absorbs latent heat from the skin and surroundings."
+      },
+      {
+        "title": "Environment",
+        "text": "In very humid still air, evaporation is restricted; dripping sweat is not equivalent to evaporated sweat."
+      }
+    ],
+    "activityStates": [
+      "No active sweat secretion is shown; other routes still exchange body heat.",
+      "Eccrine glands secrete fluid through ducts to the skin surface.",
+      "When sweat evaporates into drier moving air, it absorbs latent heat from the skin and surroundings.",
+      "In very humid still air, evaporation is restricted; dripping sweat is not equivalent to evaporated sweat."
+    ],
+    "stageStates": [
+      0,
+      1,
+      2,
+      3
+    ],
+    "terms": {
+      "Eccrine gland": "A widespread sweat gland opening onto skin.",
+      "Evaporation": "Liquid molecules entering the gas phase."
+    },
+    "misconception": "Sweat cools effectively when it evaporates; merely producing more sweat does not guarantee adequate cooling.",
+    "limits": "Qualitative heat transfer; no heat-stress threshold, hydration prescription or medical assessment.",
+    "sources": [
+      {
+        "title": "OpenStax: accessory structures of the skin",
+        "url": "https://openstax.org/books/anatomy-and-physiology-2e/pages/5-2-accessory-structures-of-the-skin",
+        "reviewed": "2026-10-23"
+      }
+    ]
+  },
+  {
+    "id": 137,
+    "title": "How a Tooth Detects Heat and Pressure",
+    "slug": "tooth-structure",
+    "category": "The human body",
+    "objective": "Connect enamel, dentin and pulp with their different roles.",
+    "control": {
+      "label": "Choose a virtual condition or process stage",
+      "options": [
+        "Enamel surface",
+        "Dentin",
+        "Pulp",
+        "Supporting ligament"
+      ]
+    },
+    "stages": [
+      {
+        "title": "Cover",
+        "text": "Enamel forms the hard outer crown covering; it has no nerve fibers within the enamel itself."
+      },
+      {
+        "title": "Transmit",
+        "text": "Dentin under enamel contains microscopic tubules that can transmit effects toward the pulp."
+      },
+      {
+        "title": "Living center",
+        "text": "The living pulp contains blood vessels and nerves; it supports sensation and tissue maintenance."
+      },
+      {
+        "title": "Support",
+        "text": "The periodontal ligament supports the tooth in its socket and detects mechanical loading."
+      }
+    ],
+    "activityStates": [
+      "Enamel forms the hard outer crown covering; it has no nerve fibers within the enamel itself.",
+      "Dentin under enamel contains microscopic tubules that can transmit effects toward the pulp.",
+      "The living pulp contains blood vessels and nerves; it supports sensation and tissue maintenance.",
+      "The periodontal ligament supports the tooth in its socket and detects mechanical loading."
+    ],
+    "stageStates": [
+      0,
+      1,
+      2,
+      3
+    ],
+    "terms": {
+      "Enamel": "Mineralized outer covering of a tooth crown.",
+      "Pulp": "Living connective tissue in the tooth interior."
+    },
+    "misconception": "The hard visible crown is not the whole tooth; living and sensing tissues lie inside and around it.",
+    "limits": "Simplified healthy tooth; no pain diagnosis, dental procedure or treatment guidance.",
+    "sources": [
+      {
+        "title": "OpenStax: digestive system organs",
+        "url": "https://openstax.org/books/anatomy-and-physiology-2e/pages/23-3-the-mouth-pharynx-and-esophagus",
+        "reviewed": "2026-10-23"
+      }
+    ]
+  },
+  {
+    "id": 138,
+    "title": "How a Placenta Exchanges Materials",
+    "slug": "placental-exchange",
+    "category": "The human body",
+    "objective": "Trace maternal and fetal circulation across a representative placental barrier.",
+    "control": {
+      "label": "Choose a virtual condition or process stage",
+      "options": [
+        "Maternal supply",
+        "Fetal capillaries",
+        "Exchange",
+        "Separate return"
+      ]
+    },
+    "stages": [
+      {
+        "title": "Maternal side",
+        "text": "Maternal blood enters spaces around chorionic villi in this representative placental region."
+      },
+      {
+        "title": "Fetal side",
+        "text": "Fetal blood travels through capillaries within the villi, generally remaining separated from maternal blood."
+      },
+      {
+        "title": "Transfer",
+        "text": "Oxygen and nutrients transfer toward fetal blood while carbon dioxide and wastes transfer toward maternal blood through different processes."
+      },
+      {
+        "title": "Return",
+        "text": "Fetal vessels carry blood back toward the fetus while maternal blood drains separately; the barrier is selective, not absolute."
+      }
+    ],
+    "activityStates": [
+      "Maternal blood enters spaces around chorionic villi in this representative placental region.",
+      "Fetal blood travels through capillaries within the villi, generally remaining separated from maternal blood.",
+      "Oxygen and nutrients transfer toward fetal blood while carbon dioxide and wastes transfer toward maternal blood through different processes.",
+      "Fetal vessels carry blood back toward the fetus while maternal blood drains separately; the barrier is selective, not absolute."
+    ],
+    "stageStates": [
+      0,
+      1,
+      2,
+      3
+    ],
+    "terms": {
+      "Villus": "A branching projection increasing exchange area.",
+      "Placental barrier": "Tissue separating maternal and fetal blood in normal exchange regions."
+    },
+    "misconception": "Maternal and fetal blood do not normally mix freely, but the placenta is not an impenetrable filter.",
+    "limits": "Normal schematic exchange; no pregnancy assessment, medication guidance or risk prediction.",
+    "sources": [
+      {
+        "title": "OpenStax: placental development",
+        "url": "https://openstax.org/books/anatomy-and-physiology-2e/pages/28-2-embryonic-development",
+        "reviewed": "2026-10-23"
+      }
+    ]
+  },
+  {
+    "id": 139,
+    "title": "How DNA Replication Copies a Sequence",
+    "slug": "dna-replication",
+    "category": "The human body",
+    "objective": "Follow strand separation, complementarity and two-copy formation.",
+    "control": {
+      "label": "Choose a virtual condition or process stage",
+      "options": [
+        "Separate strands",
+        "Add complements",
+        "Extend strands",
+        "Two copies"
+      ]
+    },
+    "stages": [
+      {
+        "title": "Open",
+        "text": "The two template strands separate, exposing bases for complementary copying."
+      },
+      {
+        "title": "Pair",
+        "text": "Using A–T and C–G pairing, the illustrative template ATGC selects complement TACG."
+      },
+      {
+        "title": "Extend",
+        "text": "Polymerases extend new strands in the 5′ to 3′ direction; leading and lagging synthesis differ in real replication."
+      },
+      {
+        "title": "Complete",
+        "text": "Each resulting double helix contains one original strand and one newly synthesized strand: semiconservative replication."
+      }
+    ],
+    "activityStates": [
+      "The two template strands separate, exposing bases for complementary copying.",
+      "Using A–T and C–G pairing, the illustrative template ATGC selects complement TACG.",
+      "Polymerases extend new strands in the 5′ to 3′ direction; leading and lagging synthesis differ in real replication.",
+      "Each resulting double helix contains one original strand and one newly synthesized strand: semiconservative replication."
+    ],
+    "stageStates": [
+      0,
+      1,
+      2,
+      3
+    ],
+    "terms": {
+      "Template": "A preexisting strand guiding complementary synthesis.",
+      "Semiconservative": "Each daughter duplex retains one parental strand."
+    },
+    "misconception": "Replication does not place all old DNA in one daughter molecule and all new DNA in the other.",
+    "limits": "Four-base teaching sequence; enzymes, proofreading and replication timing are simplified.",
+    "sources": [
+      {
+        "title": "OpenStax: DNA replication",
+        "url": "https://openstax.org/books/biology-2e/pages/14-3-basics-of-dna-replication",
+        "reviewed": "2026-10-23"
+      }
+    ]
+  },
+  {
+    "id": 140,
+    "title": "How Cellular Respiration Transfers Energy",
+    "slug": "cellular-respiration",
+    "category": "The human body",
+    "objective": "Trace glycolysis, carbon processing and electron transport.",
+    "control": {
+      "label": "Choose a virtual condition or process stage",
+      "options": [
+        "Glycolysis",
+        "Pyruvate processing",
+        "Electron transport",
+        "ATP use"
+      ]
+    },
+    "stages": [
+      {
+        "title": "Split",
+        "text": "Glycolysis in the cytosol splits glucose into pyruvate, transferring some energy to ATP and electron carriers."
+      },
+      {
+        "title": "Oxidize",
+        "text": "In typical aerobic eukaryotic respiration, pyruvate processing and the citric acid cycle release carbon dioxide and supply more reduced carriers."
+      },
+      {
+        "title": "Gradient",
+        "text": "Electron transport in the inner mitochondrial membrane helps build a proton gradient; oxygen is the final electron acceptor and water forms."
+      },
+      {
+        "title": "Couple",
+        "text": "ATP synthase couples proton flow to ATP production; ATP then supports cellular work and heat is released throughout."
+      }
+    ],
+    "activityStates": [
+      "Glycolysis in the cytosol splits glucose into pyruvate, transferring some energy to ATP and electron carriers.",
+      "In typical aerobic eukaryotic respiration, pyruvate processing and the citric acid cycle release carbon dioxide and supply more reduced carriers.",
+      "Electron transport in the inner mitochondrial membrane helps build a proton gradient; oxygen is the final electron acceptor and water forms.",
+      "ATP synthase couples proton flow to ATP production; ATP then supports cellular work and heat is released throughout."
+    ],
+    "stageStates": [
+      0,
+      1,
+      2,
+      3
+    ],
+    "terms": {
+      "ATP": "An energy-transfer molecule used in cellular processes.",
+      "Electron carrier": "A molecule carrying transferable electrons between reactions."
+    },
+    "misconception": "Respiration is not the same process as breathing; cells perform chemical energy transfers.",
+    "limits": "Qualitative aerobic eukaryotic pathway; no fixed ATP yield or health measurement.",
+    "sources": [
+      {
+        "title": "OpenStax: cellular respiration",
+        "url": "https://openstax.org/books/biology-2e/pages/7-introduction",
+        "reviewed": "2026-10-23"
+      }
+    ]
+  },
+  {
+    "id": 141,
+    "title": "How Ocean Surface Currents Circulate",
+    "slug": "ocean-surface-currents",
+    "category": "Everyday systems and the natural world",
+    "objective": "Connect wind, rotation and continental boundaries.",
+    "control": {
+      "label": "Choose a virtual condition or process stage",
+      "options": [
+        "Wind stress",
+        "Rotating Earth",
+        "Coastline boundary",
+        "Gyre pattern"
+      ]
+    },
+    "stages": [
+      {
+        "title": "Wind",
+        "text": "Wind exerts stress on the ocean surface and transfers momentum into the upper ocean."
+      },
+      {
+        "title": "Deflection",
+        "text": "Earth’s rotation deflects moving water rightward in the Northern Hemisphere and leftward in the Southern Hemisphere."
+      },
+      {
+        "title": "Boundary",
+        "text": "Continental boundaries redirect flow and prevent a current from continuing through land."
+      },
+      {
+        "title": "Circulation",
+        "text": "Together with pressure gradients, these influences organize broad gyres; actual currents vary in time and depth."
+      }
+    ],
+    "activityStates": [
+      "Wind exerts stress on the ocean surface and transfers momentum into the upper ocean.",
+      "Earth’s rotation deflects moving water rightward in the Northern Hemisphere and leftward in the Southern Hemisphere.",
+      "Continental boundaries redirect flow and prevent a current from continuing through land.",
+      "Together with pressure gradients, these influences organize broad gyres; actual currents vary in time and depth."
+    ],
+    "stageStates": [
+      0,
+      1,
+      2,
+      3
+    ],
+    "terms": {
+      "Gyre": "A broad system of circulating ocean currents.",
+      "Coriolis effect": "Apparent deflection in a rotating reference frame."
+    },
+    "misconception": "Coriolis affects moving water; it does not itself supply the energy driving a wind-driven current.",
+    "limits": "Ideal Northern Hemisphere basin sketch; not a navigation, weather or coastal forecast.",
+    "sources": [
+      {
+        "title": "NOAA: ocean currents",
+        "url": "https://oceanservice.noaa.gov/education/tutorial_currents/welcome.html",
+        "reviewed": "2026-10-23"
+      }
+    ]
+  },
+  {
+    "id": 142,
+    "title": "How Upwelling Brings Deep Water Upward",
+    "slug": "coastal-upwelling",
+    "category": "Everyday systems and the natural world",
+    "objective": "Trace offshore surface transport and replacement from below.",
+    "control": {
+      "label": "Choose a virtual condition or process stage",
+      "options": [
+        "No favorable wind",
+        "Alongshore wind",
+        "Offshore transport",
+        "Deep replacement"
+      ]
+    },
+    "stages": [
+      {
+        "title": "Initial coast",
+        "text": "Without favorable alongshore wind, this example does not show wind-driven coastal upwelling."
+      },
+      {
+        "title": "Wind stress",
+        "text": "Alongshore wind transfers momentum to surface water near the illustrated coastline."
+      },
+      {
+        "title": "Offshore flow",
+        "text": "In this chosen Northern Hemisphere orientation, net Ekman transport is offshore, to the right of the wind."
+      },
+      {
+        "title": "Replacement",
+        "text": "Cooler nutrient-rich subsurface water rises to replace displaced surface water; biological response depends on other conditions."
+      }
+    ],
+    "activityStates": [
+      "Without favorable alongshore wind, this example does not show wind-driven coastal upwelling.",
+      "Alongshore wind transfers momentum to surface water near the illustrated coastline.",
+      "In this chosen Northern Hemisphere orientation, net Ekman transport is offshore, to the right of the wind.",
+      "Cooler nutrient-rich subsurface water rises to replace displaced surface water; biological response depends on other conditions."
+    ],
+    "stageStates": [
+      0,
+      1,
+      2,
+      3
+    ],
+    "terms": {
+      "Upwelling": "Upward movement of water from below toward the surface.",
+      "Ekman transport": "Net wind-driven transport integrated over the affected layer."
+    },
+    "misconception": "Upwelling is not simply wind blowing cold water vertically upward.",
+    "limits": "One ideal coast and orientation; no fishing, temperature or bloom prediction.",
+    "sources": [
+      {
+        "title": "NOAA: upwelling",
+        "url": "https://oceanservice.noaa.gov/facts/upwelling.html",
+        "reviewed": "2026-10-23"
+      }
+    ]
+  },
+  {
+    "id": 143,
+    "title": "How a Sea Breeze Forms",
+    "slug": "sea-breeze",
+    "category": "Everyday systems and the natural world",
+    "objective": "Follow differential warming through a coastal circulation.",
+    "control": {
+      "label": "Choose a virtual condition or process stage",
+      "options": [
+        "Morning contrast",
+        "Warm land rises",
+        "Surface inflow",
+        "Evening weakens"
+      ]
+    },
+    "stages": [
+      {
+        "title": "Warm land",
+        "text": "Land begins warming faster than adjacent water under the assumed clear-day conditions."
+      },
+      {
+        "title": "Rising branch",
+        "text": "Warmer air over land expands and rises, contributing to a circulation and pressure differences."
+      },
+      {
+        "title": "Sea to land",
+        "text": "Near-surface air flows from sea toward land while a return branch can occur aloft."
+      },
+      {
+        "title": "Changing heating",
+        "text": "As land heating weakens, this thermally driven circulation can weaken or change; background winds may dominate."
+      }
+    ],
+    "activityStates": [
+      "Land begins warming faster than adjacent water under the assumed clear-day conditions.",
+      "Warmer air over land expands and rises, contributing to a circulation and pressure differences.",
+      "Near-surface air flows from sea toward land while a return branch can occur aloft.",
+      "As land heating weakens, this thermally driven circulation can weaken or change; background winds may dominate."
+    ],
+    "stageStates": [
+      0,
+      1,
+      2,
+      3
+    ],
+    "terms": {
+      "Differential heating": "Unequal temperature response to energy input.",
+      "Sea breeze": "A thermally driven daytime coastal airflow toward land."
+    },
+    "misconception": "A sea breeze is not guaranteed every day; background weather can suppress or alter it.",
+    "limits": "Ideal fair-weather coast; no local weather, wind-speed or storm prediction.",
+    "sources": [
+      {
+        "title": "NOAA: the sea breeze",
+        "url": "https://www.noaa.gov/jetstream/ocean/sea-breeze",
+        "reviewed": "2026-10-23"
+      }
+    ]
+  },
+  {
+    "id": 144,
+    "title": "How Lightning Separates and Releases Charge",
+    "slug": "lightning-charge",
+    "category": "Everyday systems and the natural world",
+    "objective": "Follow charge separation and an idealized cloud-to-ground discharge.",
+    "control": {
+      "label": "Choose a virtual condition or process stage",
+      "options": [
+        "Charge separates",
+        "Field grows",
+        "Channel connects",
+        "Return stroke"
+      ]
+    },
+    "stages": [
+      {
+        "title": "Separate",
+        "text": "Collisions involving ice particles in a thunderstorm help separate electric charge into regions."
+      },
+      {
+        "title": "Field",
+        "text": "Separated charge strengthens the electric field; induced charge changes can develop on the ground."
+      },
+      {
+        "title": "Connect",
+        "text": "In this negative cloud-to-ground example, a stepped leader approaches and an upward streamer can connect."
+      },
+      {
+        "title": "Discharge",
+        "text": "A bright return stroke propagates along the established channel; multiple strokes may follow."
+      }
+    ],
+    "activityStates": [
+      "Collisions involving ice particles in a thunderstorm help separate electric charge into regions.",
+      "Separated charge strengthens the electric field; induced charge changes can develop on the ground.",
+      "In this negative cloud-to-ground example, a stepped leader approaches and an upward streamer can connect.",
+      "A bright return stroke propagates along the established channel; multiple strokes may follow."
+    ],
+    "stageStates": [
+      0,
+      1,
+      2,
+      3
+    ],
+    "terms": {
+      "Leader": "A developing ionized path preceding the main return stroke.",
+      "Return stroke": "A strong discharge traveling along an established channel."
+    },
+    "misconception": "Lightning can involve different charge polarities and paths; this one diagram does not represent every flash.",
+    "limits": "Virtual schematic only; no prediction, exposure guidance or safe-distance inference.",
+    "sources": [
+      {
+        "title": "NOAA: lightning science",
+        "url": "https://www.weather.gov/safety/lightning-science",
+        "reviewed": "2026-10-23"
+      }
+    ]
+  },
+  {
+    "id": 145,
+    "title": "How a Rainbow Separates Sunlight",
+    "slug": "rainbow-optics",
+    "category": "Everyday systems and the natural world",
+    "objective": "Trace refraction, internal reflection and color dispersion in a drop.",
+    "control": {
+      "label": "Choose a virtual condition or process stage",
+      "options": [
+        "Enter drop",
+        "Colors separate",
+        "Internal reflection",
+        "Exit toward observer"
+      ]
+    },
+    "stages": [
+      {
+        "title": "Entry",
+        "text": "Sunlight refracts as it enters a spherical water drop."
+      },
+      {
+        "title": "Dispersion",
+        "text": "Different wavelengths bend by slightly different amounts because water’s refractive index depends on wavelength."
+      },
+      {
+        "title": "Reflection",
+        "text": "For the primary rainbow path, light reflects once from the inside rear surface of the drop."
+      },
+      {
+        "title": "Exit",
+        "text": "Light refracts again on exit; different drops send different colors toward an observer at the appropriate angles."
+      }
+    ],
+    "activityStates": [
+      "Sunlight refracts as it enters a spherical water drop.",
+      "Different wavelengths bend by slightly different amounts because water’s refractive index depends on wavelength.",
+      "For the primary rainbow path, light reflects once from the inside rear surface of the drop.",
+      "Light refracts again on exit; different drops send different colors toward an observer at the appropriate angles."
+    ],
+    "stageStates": [
+      0,
+      1,
+      2,
+      3
+    ],
+    "terms": {
+      "Refraction": "A change in propagation direction across a boundary.",
+      "Dispersion": "Variation of refractive behavior with wavelength."
+    },
+    "misconception": "A rainbow is an observer-dependent pattern of light from many drops, not a fixed colored object in one place.",
+    "limits": "Schematic rays, exaggerated separation and no exact angular calculation.",
+    "sources": [
+      {
+        "title": "NOAA: what causes a rainbow",
+        "url": "https://www.nesdis.noaa.gov/about/k-12-education/optical-phenomena/what-causes-rainbow",
+        "reviewed": "2026-10-23"
+      }
+    ]
+  },
+  {
+    "id": 146,
+    "title": "How a Glacier Flows",
+    "slug": "glacier-flow",
+    "category": "Everyday systems and the natural world",
+    "objective": "Distinguish accumulation, internal deformation and basal sliding.",
+    "control": {
+      "label": "Choose a virtual condition or process stage",
+      "options": [
+        "Snow accumulates",
+        "Ice deforms",
+        "Base slides",
+        "Terminus melts"
+      ]
+    },
+    "stages": [
+      {
+        "title": "Accumulate",
+        "text": "Repeated accumulation can compact snow into glacier ice when long-term gain exceeds loss locally."
+      },
+      {
+        "title": "Deform",
+        "text": "Under its own weight, glacier ice deforms and flows downslope over long time scales."
+      },
+      {
+        "title": "Slide",
+        "text": "Where conditions permit, motion at the glacier bed adds basal sliding; not every glacier slides equally."
+      },
+      {
+        "title": "Balance",
+        "text": "A glacier can flow forward while its terminus retreats if melting and other losses exceed replenishment."
+      }
+    ],
+    "activityStates": [
+      "Repeated accumulation can compact snow into glacier ice when long-term gain exceeds loss locally.",
+      "Under its own weight, glacier ice deforms and flows downslope over long time scales.",
+      "Where conditions permit, motion at the glacier bed adds basal sliding; not every glacier slides equally.",
+      "A glacier can flow forward while its terminus retreats if melting and other losses exceed replenishment."
+    ],
+    "stageStates": [
+      0,
+      1,
+      2,
+      3
+    ],
+    "terms": {
+      "Accumulation": "Processes adding mass to a glacier.",
+      "Ablation": "Processes removing ice or snow mass."
+    },
+    "misconception": "A retreating glacier’s ice need not be flowing uphill; retreat refers to the position of its end.",
+    "limits": "Conceptual valley glacier; time and scale exaggerated, no regional forecast.",
+    "sources": [
+      {
+        "title": "NSIDC: glacier movement",
+        "url": "https://nsidc.org/learn/parts-cryosphere/glaciers/how-glaciers-move",
+        "reviewed": "2026-10-23"
+      }
+    ]
+  },
+  {
+    "id": 147,
+    "title": "How a River Delta Builds Land",
+    "slug": "river-delta",
+    "category": "Everyday systems and the natural world",
+    "objective": "Trace sediment transport, deposition and branching channels.",
+    "control": {
+      "label": "Choose a virtual condition or process stage",
+      "options": [
+        "River carries sediment",
+        "Flow slows",
+        "Sediment deposits",
+        "Channels shift"
+      ]
+    },
+    "stages": [
+      {
+        "title": "Transport",
+        "text": "A river carries sediment toward a standing body of water."
+      },
+      {
+        "title": "Decelerate",
+        "text": "As flow spreads and loses transport capacity, some sediment settles; sorting depends on grain size and conditions."
+      },
+      {
+        "title": "Deposit",
+        "text": "Repeated deposition can build bars and delta surfaces while waves and tides redistribute material."
+      },
+      {
+        "title": "Redistribute",
+        "text": "Channels can shift into new paths, changing where sediment is delivered; subsidence and sea level also affect the delta."
+      }
+    ],
+    "activityStates": [
+      "A river carries sediment toward a standing body of water.",
+      "As flow spreads and loses transport capacity, some sediment settles; sorting depends on grain size and conditions.",
+      "Repeated deposition can build bars and delta surfaces while waves and tides redistribute material.",
+      "Channels can shift into new paths, changing where sediment is delivered; subsidence and sea level also affect the delta."
+    ],
+    "stageStates": [
+      0,
+      1,
+      2,
+      3
+    ],
+    "terms": {
+      "Sediment": "Particles transported and deposited by water or other agents.",
+      "Distributary": "A channel branching away from the main river."
+    },
+    "misconception": "Not every river mouth builds a growing delta; sediment supply and removal determine the balance.",
+    "limits": "Qualitative depositional sequence; no land-growth, flood or navigation prediction.",
+    "sources": [
+      {
+        "title": "USGS: river deltas",
+        "url": "https://www.usgs.gov/special-topics/water-science-school/science/rivers-streams-and-creeks",
+        "reviewed": "2026-10-23"
+      }
+    ]
+  },
+  {
+    "id": 148,
+    "title": "How a Food Web Transfers Energy",
+    "slug": "food-web-energy",
+    "category": "Everyday systems and the natural world",
+    "objective": "Follow an invented energy budget through trophic levels.",
+    "control": {
+      "label": "Choose a virtual condition or process stage",
+      "options": [
+        "Producer input",
+        "Primary consumer",
+        "Secondary consumer",
+        "Detrital route"
+      ]
+    },
+    "stages": [
+      {
+        "title": "Produce",
+        "text": "Invented producer production contains 1000 energy units available in the selected accounting period."
+      },
+      {
+        "title": "Consume plants",
+        "text": "Assuming an invented 10% transfer to the next level, primary-consumer production is 100 units."
+      },
+      {
+        "title": "Consume animals",
+        "text": "With the same invented fraction, secondary-consumer production is 10 units; real efficiencies vary."
+      },
+      {
+        "title": "Decompose",
+        "text": "Energy also enters detrital pathways and dissipates as heat through metabolism; nutrients cycle but energy flows through the system."
+      }
+    ],
+    "activityStates": [
+      "Invented producer production contains 1000 energy units available in the selected accounting period.",
+      "Assuming an invented 10% transfer to the next level, primary-consumer production is 100 units.",
+      "With the same invented fraction, secondary-consumer production is 10 units; real efficiencies vary.",
+      "Energy also enters detrital pathways and dissipates as heat through metabolism; nutrients cycle but energy flows through the system."
+    ],
+    "stageStates": [
+      0,
+      1,
+      2,
+      3
+    ],
+    "terms": {
+      "Trophic level": "A feeding position in an ecological network.",
+      "Detritus": "Dead organic matter entering decomposer pathways."
+    },
+    "misconception": "The 10% figure is an illustrative assumption, not a universal law for every ecosystem.",
+    "limits": "Invented units and constant efficiency; no ecosystem population prediction.",
+    "sources": [
+      {
+        "title": "OpenStax: energy flow",
+        "url": "https://openstax.org/books/biology-2e/pages/46-2-energy-flow-through-ecosystems",
+        "reviewed": "2026-10-23"
+      }
+    ]
+  },
+  {
+    "id": 149,
+    "title": "How Nitrogen Cycles Through Living Systems",
+    "slug": "nitrogen-cycle",
+    "category": "Everyday systems and the natural world",
+    "objective": "Trace fixation, assimilation, decomposition and return to air.",
+    "control": {
+      "label": "Choose a virtual condition or process stage",
+      "options": [
+        "Fixation",
+        "Assimilation",
+        "Recycling",
+        "Denitrification"
+      ]
+    },
+    "stages": [
+      {
+        "title": "Fix",
+        "text": "Nitrogen-fixing microbes convert atmospheric N₂ into biologically usable compounds."
+      },
+      {
+        "title": "Build tissues",
+        "text": "Plants take up available nitrogen compounds; nitrogen moves to animals through feeding."
+      },
+      {
+        "title": "Transform",
+        "text": "Decomposition releases ammonium, and nitrifying microbes can convert it through nitrite to nitrate."
+      },
+      {
+        "title": "Return gas",
+        "text": "Denitrifying microbes under suitable low-oxygen conditions convert nitrate toward gases including N₂, returning nitrogen to the atmosphere."
+      }
+    ],
+    "activityStates": [
+      "Nitrogen-fixing microbes convert atmospheric N₂ into biologically usable compounds.",
+      "Plants take up available nitrogen compounds; nitrogen moves to animals through feeding.",
+      "Decomposition releases ammonium, and nitrifying microbes can convert it through nitrite to nitrate.",
+      "Denitrifying microbes under suitable low-oxygen conditions convert nitrate toward gases including N₂, returning nitrogen to the atmosphere."
+    ],
+    "stageStates": [
+      0,
+      1,
+      2,
+      3
+    ],
+    "terms": {
+      "Fixation": "Conversion of atmospheric nitrogen into usable nitrogen compounds.",
+      "Denitrification": "Microbial conversion of nitrate toward gaseous nitrogen products."
+    },
+    "misconception": "Most plants cannot use atmospheric N₂ directly; chemical and microbial transformations matter.",
+    "limits": "Simplified pathways; rates, fertilizer use and greenhouse-gas amounts are not predicted.",
+    "sources": [
+      {
+        "title": "OpenStax: biogeochemical cycles",
+        "url": "https://openstax.org/books/biology-2e/pages/46-3-biogeochemical-cycles",
+        "reviewed": "2026-10-23"
+      }
+    ]
+  },
+  {
+    "id": 150,
+    "title": "How Waves Reshape a Coast",
+    "slug": "coastal-erosion",
+    "category": "Everyday systems and the natural world",
+    "objective": "Follow wave attack, sediment transport and deposition.",
+    "control": {
+      "label": "Choose a virtual condition or process stage",
+      "options": [
+        "Wave attack",
+        "Material loosens",
+        "Alongshore transport",
+        "Deposition"
+      ]
+    },
+    "stages": [
+      {
+        "title": "Attack",
+        "text": "Waves transfer energy to the coast; repeated impact and water movement can loosen susceptible material."
+      },
+      {
+        "title": "Mobilize",
+        "text": "Loosened particles enter nearshore water, with behavior depending on size and wave conditions."
+      },
+      {
+        "title": "Transport",
+        "text": "Waves approaching at an angle can contribute to alongshore sediment transport."
+      },
+      {
+        "title": "Deposit",
+        "text": "Where transport capacity decreases, some sediment deposits; a beach can gain material in one place while losing it elsewhere."
+      }
+    ],
+    "activityStates": [
+      "Waves transfer energy to the coast; repeated impact and water movement can loosen susceptible material.",
+      "Loosened particles enter nearshore water, with behavior depending on size and wave conditions.",
+      "Waves approaching at an angle can contribute to alongshore sediment transport.",
+      "Where transport capacity decreases, some sediment deposits; a beach can gain material in one place while losing it elsewhere."
+    ],
+    "stageStates": [
+      0,
+      1,
+      2,
+      3
+    ],
+    "terms": {
+      "Erosion": "Removal and transport of material from a location.",
+      "Sediment budget": "Balance between sediment entering and leaving an area."
+    },
+    "misconception": "Erosion does not simply destroy sediment; much of it moves to another part of the coastal system.",
+    "limits": "Conceptual shoreline and oblique waves; no property-risk, erosion-rate or engineering advice.",
+    "sources": [
+      {
+        "title": "NOAA: longshore currents",
+        "url": "https://oceanservice.noaa.gov/education/tutorial_currents/03coastal2.html",
+        "reviewed": "2026-10-23"
+      }
+    ]
   }
 ]

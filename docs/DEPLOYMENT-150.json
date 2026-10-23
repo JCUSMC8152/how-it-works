@@ -1,0 +1,37 @@
+{
+  "product": "How It Works",
+  "requestDateEastern": "2026-10-23",
+  "publicUrl": "https://howitworks.crawfordgroupholdings.com/",
+  "deploymentId": "9dc4769b-971d-4bf5-8f91-ae6f8d305fb2",
+  "previousDeploymentId": "4b496776-9fe6-40ec-8792-5b4106f2ff56",
+  "qualifiedSourceCommit": "847ff84eaf10272a0ded54202b4b6b82724b44cb",
+  "experiences": 150,
+  "newExperiences": [
+    101,
+    150
+  ],
+  "indexedPages": 156,
+  "verifiedPublicAssets": 320,
+  "verifiedPublicLessonRoutes": 150,
+  "securityHeaders": "verified",
+  "sourceModelChecks": 160,
+  "localBrowserJourneys": 300,
+  "focusedPatchBrowserJourneys": 18,
+  "newSvgStatesChecked": 200,
+  "svgTextClipping": 0,
+  "svgTextOverlaps": 0,
+  "axeScans": 166,
+  "axeViolations": 0,
+  "liveBrowserJourneys": 100,
+  "githubSynchronization": "Owner explicitly approved uploading the completed source and release evidence to public repository JCUSMC8152/how-it-works on 2026-10-23. Source tree synchronized and verified against the qualified local files.",
+  "sourceOnCGHMain": "C:\\Users\\crawf\\Documents\\HowItWorks-101-150",
+  "qualifiedSourceBundleOnCGHMain": "C:\\Users\\crawf\\Documents\\HowItWorks-150-Qualified-Source.bundle",
+  "costs": "No new services, purchases or accounts",
+  "limitations": [
+    "Native screen-reader testing not performed",
+    "Mobile browser contexts are emulated, not independent physical Android/iOS devices"
+  ],
+  "liveAdditionalChecks": 22,
+  "status": "live and verified; GitHub source synchronization approved",
+  "qualifiedSourceBundleSha256": "398f67f2a110f056d923594a0219f42b9b73c000fab77c8684b1a7ca8e42ebc4"
+}

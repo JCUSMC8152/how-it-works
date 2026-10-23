@@ -1,0 +1,836 @@
+{
+  "base": "http://127.0.0.1:43157",
+  "axe": [
+    {
+      "id": 1,
+      "mode": "show",
+      "violations": []
+    },
+    {
+      "id": 1,
+      "mode": "try",
+      "violations": []
+    },
+    {
+      "id": 1,
+      "mode": "more",
+      "violations": []
+    },
+    {
+      "id": 13,
+      "mode": "show",
+      "violations": []
+    },
+    {
+      "id": 13,
+      "mode": "try",
+      "violations": []
+    },
+    {
+      "id": 13,
+      "mode": "more",
+      "violations": []
+    },
+    {
+      "id": 24,
+      "mode": "show",
+      "violations": []
+    },
+    {
+      "id": 24,
+      "mode": "try",
+      "violations": []
+    },
+    {
+      "id": 24,
+      "mode": "more",
+      "violations": []
+    },
+    {
+      "id": 31,
+      "mode": "show",
+      "violations": []
+    },
+    {
+      "id": 31,
+      "mode": "try",
+      "violations": []
+    },
+    {
+      "id": 31,
+      "mode": "more",
+      "violations": []
+    },
+    {
+      "id": 50,
+      "mode": "show",
+      "violations": []
+    },
+    {
+      "id": 50,
+      "mode": "try",
+      "violations": []
+    },
+    {
+      "id": 50,
+      "mode": "more",
+      "violations": []
+    },
+    {
+      "id": 101,
+      "mode": "show",
+      "violations": []
+    },
+    {
+      "id": 101,
+      "mode": "try",
+      "violations": []
+    },
+    {
+      "id": 101,
+      "mode": "more",
+      "violations": []
+    },
+    {
+      "id": 102,
+      "mode": "show",
+      "violations": []
+    },
+    {
+      "id": 102,
+      "mode": "try",
+      "violations": []
+    },
+    {
+      "id": 102,
+      "mode": "more",
+      "violations": []
+    },
+    {
+      "id": 103,
+      "mode": "show",
+      "violations": []
+    },
+    {
+      "id": 103,
+      "mode": "try",
+      "violations": []
+    },
+    {
+      "id": 103,
+      "mode": "more",
+      "violations": []
+    },
+    {
+      "id": 104,
+      "mode": "show",
+      "violations": []
+    },
+    {
+      "id": 104,
+      "mode": "try",
+      "violations": []
+    },
+    {
+      "id": 104,
+      "mode": "more",
+      "violations": []
+    },
+    {
+      "id": 105,
+      "mode": "show",
+      "violations": []
+    },
+    {
+      "id": 105,
+      "mode": "try",
+      "violations": []
+    },
+    {
+      "id": 105,
+      "mode": "more",
+      "violations": []
+    },
+    {
+      "id": 106,
+      "mode": "show",
+      "violations": []
+    },
+    {
+      "id": 106,
+      "mode": "try",
+      "violations": []
+    },
+    {
+      "id": 106,
+      "mode": "more",
+      "violations": []
+    },
+    {
+      "id": 107,
+      "mode": "show",
+      "violations": []
+    },
+    {
+      "id": 107,
+      "mode": "try",
+      "violations": []
+    },
+    {
+      "id": 107,
+      "mode": "more",
+      "violations": []
+    },
+    {
+      "id": 108,
+      "mode": "show",
+      "violations": []
+    },
+    {
+      "id": 108,
+      "mode": "try",
+      "violations": []
+    },
+    {
+      "id": 108,
+      "mode": "more",
+      "violations": []
+    },
+    {
+      "id": 109,
+      "mode": "show",
+      "violations": []
+    },
+    {
+      "id": 109,
+      "mode": "try",
+      "violations": []
+    },
+    {
+      "id": 109,
+      "mode": "more",
+      "violations": []
+    },
+    {
+      "id": 110,
+      "mode": "show",
+      "violations": []
+    },
+    {
+      "id": 110,
+      "mode": "try",
+      "violations": []
+    },
+    {
+      "id": 110,
+      "mode": "more",
+      "violations": []
+    },
+    {
+      "id": 111,
+      "mode": "show",
+      "violations": []
+    },
+    {
+      "id": 111,
+      "mode": "try",
+      "violations": []
+    },
+    {
+      "id": 111,
+      "mode": "more",
+      "violations": []
+    },
+    {
+      "id": 112,
+      "mode": "show",
+      "violations": []
+    },
+    {
+      "id": 112,
+      "mode": "try",
+      "violations": []
+    },
+    {
+      "id": 112,
+      "mode": "more",
+      "violations": []
+    },
+    {
+      "id": 113,
+      "mode": "show",
+      "violations": []
+    },
+    {
+      "id": 113,
+      "mode": "try",
+      "violations": []
+    },
+    {
+      "id": 113,
+      "mode": "more",
+      "violations": []
+    },
+    {
+      "id": 114,
+      "mode": "show",
+      "violations": []
+    },
+    {
+      "id": 114,
+      "mode": "try",
+      "violations": []
+    },
+    {
+      "id": 114,
+      "mode": "more",
+      "violations": []
+    },
+    {
+      "id": 115,
+      "mode": "show",
+      "violations": []
+    },
+    {
+      "id": 115,
+      "mode": "try",
+      "violations": []
+    },
+    {
+      "id": 115,
+      "mode": "more",
+      "violations": []
+    },
+    {
+      "id": 116,
+      "mode": "show",
+      "violations": []
+    },
+    {
+      "id": 116,
+      "mode": "try",
+      "violations": []
+    },
+    {
+      "id": 116,
+      "mode": "more",
+      "violations": []
+    },
+    {
+      "id": 117,
+      "mode": "show",
+      "violations": []
+    },
+    {
+      "id": 117,
+      "mode": "try",
+      "violations": []
+    },
+    {
+      "id": 117,
+      "mode": "more",
+      "violations": []
+    },
+    {
+      "id": 118,
+      "mode": "show",
+      "violations": []
+    },
+    {
+      "id": 118,
+      "mode": "try",
+      "violations": []
+    },
+    {
+      "id": 118,
+      "mode": "more",
+      "violations": []
+    },
+    {
+      "id": 119,
+      "mode": "show",
+      "violations": []
+    },
+    {
+      "id": 119,
+      "mode": "try",
+      "violations": []
+    },
+    {
+      "id": 119,
+      "mode": "more",
+      "violations": []
+    },
+    {
+      "id": 120,
+      "mode": "show",
+      "violations": []
+    },
+    {
+      "id": 120,
+      "mode": "try",
+      "violations": []
+    },
+    {
+      "id": 120,
+      "mode": "more",
+      "violations": []
+    },
+    {
+      "id": 121,
+      "mode": "show",
+      "violations": []
+    },
+    {
+      "id": 121,
+      "mode": "try",
+      "violations": []
+    },
+    {
+      "id": 121,
+      "mode": "more",
+      "violations": []
+    },
+    {
+      "id": 122,
+      "mode": "show",
+      "violations": []
+    },
+    {
+      "id": 122,
+      "mode": "try",
+      "violations": []
+    },
+    {
+      "id": 122,
+      "mode": "more",
+      "violations": []
+    },
+    {
+      "id": 123,
+      "mode": "show",
+      "violations": []
+    },
+    {
+      "id": 123,
+      "mode": "try",
+      "violations": []
+    },
+    {
+      "id": 123,
+      "mode": "more",
+      "violations": []
+    },
+    {
+      "id": 124,
+      "mode": "show",
+      "violations": []
+    },
+    {
+      "id": 124,
+      "mode": "try",
+      "violations": []
+    },
+    {
+      "id": 124,
+      "mode": "more",
+      "violations": []
+    },
+    {
+      "id": 125,
+      "mode": "show",
+      "violations": []
+    },
+    {
+      "id": 125,
+      "mode": "try",
+      "violations": []
+    },
+    {
+      "id": 125,
+      "mode": "more",
+      "violations": []
+    },
+    {
+      "id": 126,
+      "mode": "show",
+      "violations": []
+    },
+    {
+      "id": 126,
+      "mode": "try",
+      "violations": []
+    },
+    {
+      "id": 126,
+      "mode": "more",
+      "violations": []
+    },
+    {
+      "id": 127,
+      "mode": "show",
+      "violations": []
+    },
+    {
+      "id": 127,
+      "mode": "try",
+      "violations": []
+    },
+    {
+      "id": 127,
+      "mode": "more",
+      "violations": []
+    },
+    {
+      "id": 128,
+      "mode": "show",
+      "violations": []
+    },
+    {
+      "id": 128,
+      "mode": "try",
+      "violations": []
+    },
+    {
+      "id": 128,
+      "mode": "more",
+      "violations": []
+    },
+    {
+      "id": 129,
+      "mode": "show",
+      "violations": []
+    },
+    {
+      "id": 129,
+      "mode": "try",
+      "violations": []
+    },
+    {
+      "id": 129,
+      "mode": "more",
+      "violations": []
+    },
+    {
+      "id": 130,
+      "mode": "show",
+      "violations": []
+    },
+    {
+      "id": 130,
+      "mode": "try",
+      "violations": []
+    },
+    {
+      "id": 130,
+      "mode": "more",
+      "violations": []
+    },
+    {
+      "id": 131,
+      "mode": "show",
+      "violations": []
+    },
+    {
+      "id": 131,
+      "mode": "try",
+      "violations": []
+    },
+    {
+      "id": 131,
+      "mode": "more",
+      "violations": []
+    },
+    {
+      "id": 132,
+      "mode": "show",
+      "violations": []
+    },
+    {
+      "id": 132,
+      "mode": "try",
+      "violations": []
+    },
+    {
+      "id": 132,
+      "mode": "more",
+      "violations": []
+    },
+    {
+      "id": 133,
+      "mode": "show",
+      "violations": []
+    },
+    {
+      "id": 133,
+      "mode": "try",
+      "violations": []
+    },
+    {
+      "id": 133,
+      "mode": "more",
+      "violations": []
+    },
+    {
+      "id": 134,
+      "mode": "show",
+      "violations": []
+    },
+    {
+      "id": 134,
+      "mode": "try",
+      "violations": []
+    },
+    {
+      "id": 134,
+      "mode": "more",
+      "violations": []
+    },
+    {
+      "id": 135,
+      "mode": "show",
+      "violations": []
+    },
+    {
+      "id": 135,
+      "mode": "try",
+      "violations": []
+    },
+    {
+      "id": 135,
+      "mode": "more",
+      "violations": []
+    },
+    {
+      "id": 136,
+      "mode": "show",
+      "violations": []
+    },
+    {
+      "id": 136,
+      "mode": "try",
+      "violations": []
+    },
+    {
+      "id": 136,
+      "mode": "more",
+      "violations": []
+    },
+    {
+      "id": 137,
+      "mode": "show",
+      "violations": []
+    },
+    {
+      "id": 137,
+      "mode": "try",
+      "violations": []
+    },
+    {
+      "id": 137,
+      "mode": "more",
+      "violations": []
+    },
+    {
+      "id": 138,
+      "mode": "show",
+      "violations": []
+    },
+    {
+      "id": 138,
+      "mode": "try",
+      "violations": []
+    },
+    {
+      "id": 138,
+      "mode": "more",
+      "violations": []
+    },
+    {
+      "id": 139,
+      "mode": "show",
+      "violations": []
+    },
+    {
+      "id": 139,
+      "mode": "try",
+      "violations": []
+    },
+    {
+      "id": 139,
+      "mode": "more",
+      "violations": []
+    },
+    {
+      "id": 140,
+      "mode": "show",
+      "violations": []
+    },
+    {
+      "id": 140,
+      "mode": "try",
+      "violations": []
+    },
+    {
+      "id": 140,
+      "mode": "more",
+      "violations": []
+    },
+    {
+      "id": 141,
+      "mode": "show",
+      "violations": []
+    },
+    {
+      "id": 141,
+      "mode": "try",
+      "violations": []
+    },
+    {
+      "id": 141,
+      "mode": "more",
+      "violations": []
+    },
+    {
+      "id": 142,
+      "mode": "show",
+      "violations": []
+    },
+    {
+      "id": 142,
+      "mode": "try",
+      "violations": []
+    },
+    {
+      "id": 142,
+      "mode": "more",
+      "violations": []
+    },
+    {
+      "id": 143,
+      "mode": "show",
+      "violations": []
+    },
+    {
+      "id": 143,
+      "mode": "try",
+      "violations": []
+    },
+    {
+      "id": 143,
+      "mode": "more",
+      "violations": []
+    },
+    {
+      "id": 144,
+      "mode": "show",
+      "violations": []
+    },
+    {
+      "id": 144,
+      "mode": "try",
+      "violations": []
+    },
+    {
+      "id": 144,
+      "mode": "more",
+      "violations": []
+    },
+    {
+      "id": 145,
+      "mode": "show",
+      "violations": []
+    },
+    {
+      "id": 145,
+      "mode": "try",
+      "violations": []
+    },
+    {
+      "id": 145,
+      "mode": "more",
+      "violations": []
+    },
+    {
+      "id": 146,
+      "mode": "show",
+      "violations": []
+    },
+    {
+      "id": 146,
+      "mode": "try",
+      "violations": []
+    },
+    {
+      "id": 146,
+      "mode": "more",
+      "violations": []
+    },
+    {
+      "id": 147,
+      "mode": "show",
+      "violations": []
+    },
+    {
+      "id": 147,
+      "mode": "try",
+      "violations": []
+    },
+    {
+      "id": 147,
+      "mode": "more",
+      "violations": []
+    },
+    {
+      "id": 148,
+      "mode": "show",
+      "violations": []
+    },
+    {
+      "id": 148,
+      "mode": "try",
+      "violations": []
+    },
+    {
+      "id": 148,
+      "mode": "more",
+      "violations": []
+    },
+    {
+      "id": 149,
+      "mode": "show",
+      "violations": []
+    },
+    {
+      "id": 149,
+      "mode": "try",
+      "violations": []
+    },
+    {
+      "id": 149,
+      "mode": "more",
+      "violations": []
+    },
+    {
+      "id": 150,
+      "mode": "show",
+      "violations": []
+    },
+    {
+      "id": 150,
+      "mode": "try",
+      "violations": []
+    },
+    {
+      "id": 150,
+      "mode": "more",
+      "violations": []
+    },
+    {
+      "page": "catalog",
+      "violations": []
+    }
+  ],
+  "clippedLabels": [],
+  "checkedAt": "2026-10-23T20:18:48.918Z"
+}

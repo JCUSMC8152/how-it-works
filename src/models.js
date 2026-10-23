@@ -1,5 +1,7 @@
+import {expansion} from './expansion-data.js';
 import {extended} from './extended-data.js';
 export function model(id,n){
+if(expansion[id]){if(!Number.isInteger(n)||n<0||n>3)throw Error('Invalid model state');return {text:expansion[id].states[n],index:n};}
 if(extended[id]){if(!Number.isInteger(n)||n<0||n>=extended[id].states.length)throw Error('Invalid model state');return {text:extended[id].states[n],index:n};}
 const states={
 1:['Intake valve open; piston descends.','Both valves closed; piston rises.','Ignition starts expansion; piston descends.','Exhaust valve open; piston rises.'],

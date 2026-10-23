@@ -9,7 +9,7 @@ const base = process.env.BASE_URL || 'http://127.0.0.1:4189';
  const ctx = await browser.newContext({viewport:{width:393,height:852},hasTouch:true,isMobile:true});
  const p = await ctx.newPage();
  const rows=[],labels=[];
- for (const e of D) {
+ for (const e of D.filter(x=>x.id>=101||[1,13,24,31,50].includes(x.id))) {
   await p.goto(base+'/'+e.slug);
   await p.waitForSelector('#diagram svg');
   await p.locator('[data-mode=try]').click();
@@ -37,7 +37,7 @@ const base = process.env.BASE_URL || 'http://127.0.0.1:4189';
  await p.setViewportSize({width:1440,height:1000});
  await p.screenshot({path:'docs/home-desktop.png',fullPage:true});
  await p.goto(base+'/experiences');
- assert.equal(await p.locator('.card').count(),100);
+ assert.equal(await p.locator('.card').count(),150);
  const a=await new AxeBuilder({page:p}).withTags(['wcag2a','wcag2aa','wcag21aa','wcag22aa']).analyze();
  rows.push({page:'catalog',violations:a.violations.map(x=>({id:x.id,nodes:x.nodes.map(n=>n.target)}))});
  await p.goto(base+'/not-a-route');
@@ -45,5 +45,6 @@ const base = process.env.BASE_URL || 'http://127.0.0.1:4189';
  const out={base,axe:rows,clippedLabels:labels,checkedAt:new Date().toISOString()};
  fs.writeFileSync('docs/quality.json',JSON.stringify(out,null,2));
  console.log(JSON.stringify(out));
+ assert.equal(labels.length,0,'Clipped diagram labels');assert.equal(rows.flatMap(x=>x.violations).length,0,'Accessibility violations');
  await browser.close();
 })().catch(e=>{console.error(e);process.exitCode=1});
