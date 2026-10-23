@@ -2,8 +2,8 @@
   "product": "How It Works",
   "url": "https://howitworks.crawfordgroupholdings.com",
   "repository": "https://github.com/JCUSMC8152/how-it-works",
-  "deployedCommit": "634a3ce9576defbe27ab262186bd72a975e9f2ae",
-  "deploymentId": "5b042397-d375-42d3-b719-440e1483e1f6",
+  "deployedCommit": "ddc89db8c92800ec508a97a3c383d846c8c49ba1",
+  "deploymentId": "de9b6709-92a6-4086-9652-92e372fe64aa",
   "verifiedExperiences": 50,
   "staticFilesMatched": 114,
   "modelChecks": 54,
@@ -47,13 +47,20 @@
   },
   "headerRevision": {
     "date": "2026-10-23",
-    "description": "Independent How It Works wordmark and tagline on cream background; CGH header shield and black background removed; navigation retained.",
-    "localViewportChecks": 12,
+    "description": "Independent How It Works identity with dark teal surfaces, light text and bright accents. No CGH shield in the header. Both learning menus link directly to the companion resource; What If about link renamed About What If.",
+    "localChecks": 24,
+    "liveChecks": 24,
+    "localAccessibilityScans": 10,
+    "liveAccessibilityScans": 10,
+    "automatedViolations": 0,
     "widths": [
       320,
       393,
       768,
       1440
-    ]
+    ],
+    "liveCompanionRoundTrip": "passed",
+    "whatIfCommit": "f206dcca68ad7edfcf1cd665596a191b38e6cd8e",
+    "whatIfDeploymentId": "a9691e2a-5e68-4862-bf11-52114a4d4e9a"
   }
 }
