@@ -2,11 +2,11 @@
 
 .view-controls{display:flex;gap:15px;align-items:center;padding:10px 20px;font-size:13px}.view-controls button{font-size:13px;padding:5px 12px;min-height:44px}#diagram{overflow-x:auto}#diagram.enlarged svg{width:900px;max-width:none}#diagram:focus-visible{outline:3px solid #a74e0d;outline-offset:-4px}
 
-/* CGH family header: shared shield, dark surface and gold accents. */
-header.cgh-learning-header{max-width:none;padding:0;margin:0;background:#090a0c;border-bottom:1px solid #d2b36d55;display:block;color:#f4f0e7}
-.cgh-learning-bar{max-width:1280px;margin:auto;min-height:96px;padding:12px 36px;display:flex;align-items:center;gap:22px}
-.cgh-shield{display:flex;flex-shrink:0}.cgh-shield img{display:block;width:64px;height:64px;object-fit:contain;border-radius:0}
-.cgh-learning-header .brand{color:#f4f0e7;font:400 28px/1.15 Georgia,'Times New Roman',serif;white-space:nowrap}.cgh-learning-header .brand small{color:#d2b36d;font:500 12px/1.5 system-ui,sans-serif;letter-spacing:.04em;margin-top:6px}
-.cgh-learning-header nav{margin-left:auto;gap:22px;align-items:center}.cgh-learning-header nav a{color:#e0dcd3;font-size:13px;text-decoration:none;min-height:44px;display:flex;align-items:center}.cgh-learning-header nav a:hover{color:#f2dfab;text-decoration:underline}.cgh-learning-header a:focus-visible{outline-color:#f2dfab}
-@media(max-width:900px){.cgh-learning-bar{flex-wrap:wrap;gap:12px 18px;padding:14px 20px}.cgh-learning-header nav{margin-left:0;width:100%;gap:8px 22px;border-top:1px solid #d2b36d33;padding-top:6px}.cgh-learning-header .brand{font-size:26px}}
-@media(max-width:360px){.cgh-learning-bar{padding-inline:16px;gap:12px}.cgh-shield img{width:52px;height:52px}.cgh-learning-header .brand{font-size:24px}.cgh-learning-header nav{gap:4px 16px}}
+/* Independent How It Works identity, with a compact companion-platform layout. */
+header.hiw-header{background:#fcfaf5;min-height:108px;gap:32px}
+.hiw-header .brand{font-size:30px;font-weight:800;letter-spacing:-.045em;white-space:nowrap}
+.hiw-header .brand small{font-size:12px;font-weight:500;letter-spacing:.015em;color:#4a676e}
+.hiw-header nav{margin-left:auto;align-items:center;gap:24px}
+.hiw-header nav a{display:flex;align-items:center;min-height:44px;text-decoration:none;font-size:14px}
+.hiw-header nav a:hover{text-decoration:underline}
+@media(max-width:800px){header.hiw-header{gap:12px;padding:20px;align-items:flex-start}.hiw-header nav{margin-left:0;gap:4px 24px}.hiw-header .brand{font-size:29px}}
