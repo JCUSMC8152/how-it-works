@@ -10,3 +10,29 @@ header.hiw-header{background:#fcfaf5;min-height:108px;gap:32px}
 .hiw-header nav a{display:flex;align-items:center;min-height:44px;text-decoration:none;font-size:14px}
 .hiw-header nav a:hover{text-decoration:underline}
 @media(max-width:800px){header.hiw-header{gap:12px;padding:20px;align-items:flex-start}.hiw-header nav{margin-left:0;gap:4px 24px}.hiw-header .brand{font-size:29px}}
+
+/* Dark companion palette: readable surfaces, bright accents, original diagram colors. */
+:root{color:#e9efed;background:#101719;color-scheme:dark}
+body,header.hiw-header{background:#101719}
+header,footer{border-color:#344b50}
+a{color:#83dce9}a:hover{color:#ffc18d}
+.brand,.heroart,.card{color:#e9efed}
+.hiw-header .brand small,.fine,.eyebrow{color:#b8ccc7}
+em,.cardnum,.three b{color:#d8f279}
+button,.button{background:#d8f279;border-color:#d8f279;color:#101719}
+button:hover,.button:hover{background:#e7ffa0;border-color:#e7ffa0;color:#101719}
+button:disabled{background:#2b3c40;border-color:#587071;color:#bdcfca}
+button[aria-pressed=true]{background:#ffc18d;color:#101719;box-shadow:inset 0 -3px #b56b35}
+a:focus-visible,button:focus-visible,input:focus-visible,select:focus-visible,summary:focus-visible{outline-color:#d8f279}
+.skip{background:#d8f279;color:#101719}
+.card,.heroart,.mission,#more-panel,#visual-panel{background:#18272b;border-color:#496063}
+.card:hover{border-color:#83dce9;box-shadow:0 6px 20px #0003}
+.heroart svg{background:#e3eff0;border-radius:14px;color-scheme:light}
+.three article{border-color:#ffc18d}
+input,select{background:#203033;color:#eff5f3;border-color:#587071}
+input::placeholder{color:#b8ccc7}
+.stagehead,.limit{background:#203033}
+#caption,#result{background:#25363a;color:#eff5f3;border-color:#ffc18d}
+details{border-color:#496063}
+#diagram{background:#f7faf9;color:#173b48;color-scheme:light}
+#diagram:focus-visible{outline-color:#126680}
