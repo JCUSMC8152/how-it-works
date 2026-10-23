@@ -1,0 +1,66 @@
+{
+  "base": "http://127.0.0.1:4197",
+  "results": [
+    {
+      "id": 51,
+      "check": "no-JavaScript explanation and companion link",
+      "pass": true
+    },
+    {
+      "id": 60,
+      "check": "no-JavaScript explanation and companion link",
+      "pass": true
+    },
+    {
+      "id": 63,
+      "check": "no-JavaScript explanation and companion link",
+      "pass": true
+    },
+    {
+      "id": 72,
+      "check": "no-JavaScript explanation and companion link",
+      "pass": true
+    },
+    {
+      "id": 82,
+      "check": "no-JavaScript explanation and companion link",
+      "pass": true
+    },
+    {
+      "id": 91,
+      "check": "no-JavaScript explanation and companion link",
+      "pass": true
+    },
+    {
+      "id": 100,
+      "check": "no-JavaScript explanation and companion link",
+      "pass": true
+    },
+    {
+      "slug": "experiences",
+      "check": "CSS 200% zoom reflow",
+      "pass": true
+    },
+    {
+      "slug": "lever-force-distance",
+      "check": "CSS 200% zoom reflow",
+      "pass": true
+    },
+    {
+      "slug": "capacitor-energy",
+      "check": "CSS 200% zoom reflow",
+      "pass": true
+    },
+    {
+      "slug": "moon-phases",
+      "check": "CSS 200% zoom reflow",
+      "pass": true
+    },
+    {
+      "slug": "learning-paths",
+      "check": "CSS 200% zoom reflow",
+      "pass": true
+    }
+  ],
+  "checkedAt": "2026-10-23T17:16:13.364Z"
+}

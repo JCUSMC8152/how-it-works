@@ -60,8 +60,8 @@
       ]
     },
     "implementation": "implemented",
-    "tests": "passed desktop 1440x1000 and mobile 393x852 core journeys; 54 shared model/registry checks",
-    "deployment": "verified public direct URL, qualified bytes and live desktop/mobile core interactions",
+    "tests": "passed: 108 model/registry checks; all 100 lessons in 200 live desktop/mobile journeys; baseline and focused accessibility qualification",
+    "deployment": "verified live on deployment 551f393d-5021-4d80-bc63-278033e796c0; all 100 routes and 218 exact file hashes",
     "deployedCommit": "e3c3699009f28f579c650e5016056df4e481033f"
   },
   {
@@ -119,8 +119,8 @@
       ]
     },
     "implementation": "implemented",
-    "tests": "passed desktop 1440x1000 and mobile 393x852 core journeys; 54 shared model/registry checks",
-    "deployment": "verified public direct URL, qualified bytes and live desktop/mobile core interactions",
+    "tests": "passed: 108 model/registry checks; all 100 lessons in 200 live desktop/mobile journeys; baseline and focused accessibility qualification",
+    "deployment": "verified live on deployment 551f393d-5021-4d80-bc63-278033e796c0; all 100 routes and 218 exact file hashes",
     "deployedCommit": "e3c3699009f28f579c650e5016056df4e481033f"
   },
   {
@@ -178,8 +178,8 @@
       ]
     },
     "implementation": "implemented",
-    "tests": "passed desktop 1440x1000 and mobile 393x852 core journeys; 54 shared model/registry checks",
-    "deployment": "verified public direct URL, qualified bytes and live desktop/mobile core interactions",
+    "tests": "passed: 108 model/registry checks; all 100 lessons in 200 live desktop/mobile journeys; baseline and focused accessibility qualification",
+    "deployment": "verified live on deployment 551f393d-5021-4d80-bc63-278033e796c0; all 100 routes and 218 exact file hashes",
     "deployedCommit": "e3c3699009f28f579c650e5016056df4e481033f"
   },
   {
@@ -239,8 +239,8 @@
       ]
     },
     "implementation": "implemented",
-    "tests": "passed desktop 1440x1000 and mobile 393x852 core journeys; 54 shared model/registry checks",
-    "deployment": "verified public direct URL, qualified bytes and live desktop/mobile core interactions",
+    "tests": "passed: 108 model/registry checks; all 100 lessons in 200 live desktop/mobile journeys; baseline and focused accessibility qualification",
+    "deployment": "verified live on deployment 551f393d-5021-4d80-bc63-278033e796c0; all 100 routes and 218 exact file hashes",
     "deployedCommit": "e3c3699009f28f579c650e5016056df4e481033f"
   },
   {
@@ -302,8 +302,8 @@
       ]
     },
     "implementation": "implemented",
-    "tests": "passed desktop 1440x1000 and mobile 393x852 core journeys; 54 shared model/registry checks",
-    "deployment": "verified public direct URL, qualified bytes and live desktop/mobile core interactions",
+    "tests": "passed: 108 model/registry checks; all 100 lessons in 200 live desktop/mobile journeys; baseline and focused accessibility qualification",
+    "deployment": "verified live on deployment 551f393d-5021-4d80-bc63-278033e796c0; all 100 routes and 218 exact file hashes",
     "deployedCommit": "e3c3699009f28f579c650e5016056df4e481033f"
   },
   {
@@ -367,8 +367,8 @@
       ]
     },
     "implementation": "implemented",
-    "tests": "passed desktop 1440x1000 and mobile 393x852 core journeys; 54 shared model/registry checks",
-    "deployment": "verified public direct URL, qualified bytes and live desktop/mobile core interactions",
+    "tests": "passed: 108 model/registry checks; all 100 lessons in 200 live desktop/mobile journeys; baseline and focused accessibility qualification",
+    "deployment": "verified live on deployment 551f393d-5021-4d80-bc63-278033e796c0; all 100 routes and 218 exact file hashes",
     "deployedCommit": "e3c3699009f28f579c650e5016056df4e481033f"
   },
   {
@@ -432,8 +432,8 @@
       ]
     },
     "implementation": "implemented",
-    "tests": "passed desktop 1440x1000 and mobile 393x852 core journeys; 54 shared model/registry checks",
-    "deployment": "verified public direct URL, qualified bytes and live desktop/mobile core interactions",
+    "tests": "passed: 108 model/registry checks; all 100 lessons in 200 live desktop/mobile journeys; baseline and focused accessibility qualification",
+    "deployment": "verified live on deployment 551f393d-5021-4d80-bc63-278033e796c0; all 100 routes and 218 exact file hashes",
     "deployedCommit": "e3c3699009f28f579c650e5016056df4e481033f"
   },
   {
@@ -491,8 +491,8 @@
       ]
     },
     "implementation": "implemented",
-    "tests": "passed desktop 1440x1000 and mobile 393x852 core journeys; 54 shared model/registry checks",
-    "deployment": "verified public direct URL, qualified bytes and live desktop/mobile core interactions",
+    "tests": "passed: 108 model/registry checks; all 100 lessons in 200 live desktop/mobile journeys; baseline and focused accessibility qualification",
+    "deployment": "verified live on deployment 551f393d-5021-4d80-bc63-278033e796c0; all 100 routes and 218 exact file hashes",
     "deployedCommit": "e3c3699009f28f579c650e5016056df4e481033f"
   },
   {
@@ -552,8 +552,8 @@
       ]
     },
     "implementation": "implemented",
-    "tests": "passed desktop 1440x1000 and mobile 393x852 core journeys; 54 shared model/registry checks",
-    "deployment": "verified public direct URL, qualified bytes and live desktop/mobile core interactions",
+    "tests": "passed: 108 model/registry checks; all 100 lessons in 200 live desktop/mobile journeys; baseline and focused accessibility qualification",
+    "deployment": "verified live on deployment 551f393d-5021-4d80-bc63-278033e796c0; all 100 routes and 218 exact file hashes",
     "deployedCommit": "e3c3699009f28f579c650e5016056df4e481033f"
   },
   {
@@ -619,8 +619,8 @@
       ]
     },
     "implementation": "implemented",
-    "tests": "passed desktop 1440x1000 and mobile 393x852 core journeys; 54 shared model/registry checks",
-    "deployment": "verified public direct URL, qualified bytes and live desktop/mobile core interactions",
+    "tests": "passed: 108 model/registry checks; all 100 lessons in 200 live desktop/mobile journeys; baseline and focused accessibility qualification",
+    "deployment": "verified live on deployment 551f393d-5021-4d80-bc63-278033e796c0; all 100 routes and 218 exact file hashes",
     "deployedCommit": "e3c3699009f28f579c650e5016056df4e481033f"
   },
   {
@@ -682,8 +682,8 @@
       ]
     },
     "implementation": "implemented",
-    "tests": "passed desktop 1440x1000 and mobile 393x852 core journeys; 54 shared model/registry checks",
-    "deployment": "verified public direct URL, qualified bytes and live desktop/mobile core interactions",
+    "tests": "passed: 108 model/registry checks; all 100 lessons in 200 live desktop/mobile journeys; baseline and focused accessibility qualification",
+    "deployment": "verified live on deployment 551f393d-5021-4d80-bc63-278033e796c0; all 100 routes and 218 exact file hashes",
     "deployedCommit": "e3c3699009f28f579c650e5016056df4e481033f"
   },
   {
@@ -741,8 +741,8 @@
       ]
     },
     "implementation": "implemented",
-    "tests": "passed desktop 1440x1000 and mobile 393x852 core journeys; 54 shared model/registry checks",
-    "deployment": "verified public direct URL, qualified bytes and live desktop/mobile core interactions",
+    "tests": "passed: 108 model/registry checks; all 100 lessons in 200 live desktop/mobile journeys; baseline and focused accessibility qualification",
+    "deployment": "verified live on deployment 551f393d-5021-4d80-bc63-278033e796c0; all 100 routes and 218 exact file hashes",
     "deployedCommit": "e3c3699009f28f579c650e5016056df4e481033f"
   },
   {
@@ -804,8 +804,8 @@
       ]
     },
     "implementation": "implemented",
-    "tests": "passed desktop 1440x1000 and mobile 393x852 core journeys; 54 shared model/registry checks",
-    "deployment": "verified public direct URL, qualified bytes and live desktop/mobile core interactions",
+    "tests": "passed: 108 model/registry checks; all 100 lessons in 200 live desktop/mobile journeys; baseline and focused accessibility qualification",
+    "deployment": "verified live on deployment 551f393d-5021-4d80-bc63-278033e796c0; all 100 routes and 218 exact file hashes",
     "deployedCommit": "e3c3699009f28f579c650e5016056df4e481033f"
   },
   {
@@ -865,8 +865,8 @@
       ]
     },
     "implementation": "implemented",
-    "tests": "passed desktop 1440x1000 and mobile 393x852 core journeys; 54 shared model/registry checks",
-    "deployment": "verified public direct URL, qualified bytes and live desktop/mobile core interactions",
+    "tests": "passed: 108 model/registry checks; all 100 lessons in 200 live desktop/mobile journeys; baseline and focused accessibility qualification",
+    "deployment": "verified live on deployment 551f393d-5021-4d80-bc63-278033e796c0; all 100 routes and 218 exact file hashes",
     "deployedCommit": "e3c3699009f28f579c650e5016056df4e481033f"
   },
   {
@@ -924,8 +924,8 @@
       ]
     },
     "implementation": "implemented",
-    "tests": "passed desktop 1440x1000 and mobile 393x852 core journeys; 54 shared model/registry checks",
-    "deployment": "verified public direct URL, qualified bytes and live desktop/mobile core interactions",
+    "tests": "passed: 108 model/registry checks; all 100 lessons in 200 live desktop/mobile journeys; baseline and focused accessibility qualification",
+    "deployment": "verified live on deployment 551f393d-5021-4d80-bc63-278033e796c0; all 100 routes and 218 exact file hashes",
     "deployedCommit": "e3c3699009f28f579c650e5016056df4e481033f"
   },
   {
@@ -985,8 +985,8 @@
       ]
     },
     "implementation": "implemented",
-    "tests": "passed desktop 1440x1000 and mobile 393x852 core journeys; 54 shared model/registry checks",
-    "deployment": "verified public direct URL, qualified bytes and live desktop/mobile core interactions",
+    "tests": "passed: 108 model/registry checks; all 100 lessons in 200 live desktop/mobile journeys; baseline and focused accessibility qualification",
+    "deployment": "verified live on deployment 551f393d-5021-4d80-bc63-278033e796c0; all 100 routes and 218 exact file hashes",
     "deployedCommit": "e3c3699009f28f579c650e5016056df4e481033f"
   },
   {
@@ -1046,8 +1046,8 @@
       ]
     },
     "implementation": "implemented",
-    "tests": "passed desktop 1440x1000 and mobile 393x852 core journeys; 54 shared model/registry checks",
-    "deployment": "verified public direct URL, qualified bytes and live desktop/mobile core interactions",
+    "tests": "passed: 108 model/registry checks; all 100 lessons in 200 live desktop/mobile journeys; baseline and focused accessibility qualification",
+    "deployment": "verified live on deployment 551f393d-5021-4d80-bc63-278033e796c0; all 100 routes and 218 exact file hashes",
     "deployedCommit": "e3c3699009f28f579c650e5016056df4e481033f"
   },
   {
@@ -1105,8 +1105,8 @@
       ]
     },
     "implementation": "implemented",
-    "tests": "passed desktop 1440x1000 and mobile 393x852 core journeys; 54 shared model/registry checks",
-    "deployment": "verified public direct URL, qualified bytes and live desktop/mobile core interactions",
+    "tests": "passed: 108 model/registry checks; all 100 lessons in 200 live desktop/mobile journeys; baseline and focused accessibility qualification",
+    "deployment": "verified live on deployment 551f393d-5021-4d80-bc63-278033e796c0; all 100 routes and 218 exact file hashes",
     "deployedCommit": "e3c3699009f28f579c650e5016056df4e481033f"
   },
   {
@@ -1166,8 +1166,8 @@
       ]
     },
     "implementation": "implemented",
-    "tests": "passed desktop 1440x1000 and mobile 393x852 core journeys; 54 shared model/registry checks",
-    "deployment": "verified public direct URL, qualified bytes and live desktop/mobile core interactions",
+    "tests": "passed: 108 model/registry checks; all 100 lessons in 200 live desktop/mobile journeys; baseline and focused accessibility qualification",
+    "deployment": "verified live on deployment 551f393d-5021-4d80-bc63-278033e796c0; all 100 routes and 218 exact file hashes",
     "deployedCommit": "e3c3699009f28f579c650e5016056df4e481033f"
   },
   {
@@ -1225,8 +1225,8 @@
       ]
     },
     "implementation": "implemented",
-    "tests": "passed desktop 1440x1000 and mobile 393x852 core journeys; 54 shared model/registry checks",
-    "deployment": "verified public direct URL, qualified bytes and live desktop/mobile core interactions",
+    "tests": "passed: 108 model/registry checks; all 100 lessons in 200 live desktop/mobile journeys; baseline and focused accessibility qualification",
+    "deployment": "verified live on deployment 551f393d-5021-4d80-bc63-278033e796c0; all 100 routes and 218 exact file hashes",
     "deployedCommit": "e3c3699009f28f579c650e5016056df4e481033f"
   },
   {
@@ -1290,8 +1290,8 @@
       ]
     },
     "implementation": "implemented",
-    "tests": "passed desktop 1440x1000 and mobile 393x852 core journeys; 54 shared model/registry checks",
-    "deployment": "verified public direct URL, qualified bytes and live desktop/mobile core interactions",
+    "tests": "passed: 108 model/registry checks; all 100 lessons in 200 live desktop/mobile journeys; baseline and focused accessibility qualification",
+    "deployment": "verified live on deployment 551f393d-5021-4d80-bc63-278033e796c0; all 100 routes and 218 exact file hashes",
     "deployedCommit": "e3c3699009f28f579c650e5016056df4e481033f"
   },
   {
@@ -1355,8 +1355,8 @@
       ]
     },
     "implementation": "implemented",
-    "tests": "passed desktop 1440x1000 and mobile 393x852 core journeys; 54 shared model/registry checks",
-    "deployment": "verified public direct URL, qualified bytes and live desktop/mobile core interactions",
+    "tests": "passed: 108 model/registry checks; all 100 lessons in 200 live desktop/mobile journeys; baseline and focused accessibility qualification",
+    "deployment": "verified live on deployment 551f393d-5021-4d80-bc63-278033e796c0; all 100 routes and 218 exact file hashes",
     "deployedCommit": "e3c3699009f28f579c650e5016056df4e481033f"
   },
   {
@@ -1416,8 +1416,8 @@
       ]
     },
     "implementation": "implemented",
-    "tests": "passed desktop 1440x1000 and mobile 393x852 core journeys; 54 shared model/registry checks",
-    "deployment": "verified public direct URL, qualified bytes and live desktop/mobile core interactions",
+    "tests": "passed: 108 model/registry checks; all 100 lessons in 200 live desktop/mobile journeys; baseline and focused accessibility qualification",
+    "deployment": "verified live on deployment 551f393d-5021-4d80-bc63-278033e796c0; all 100 routes and 218 exact file hashes",
     "deployedCommit": "e3c3699009f28f579c650e5016056df4e481033f"
   },
   {
@@ -1483,8 +1483,8 @@
       ]
     },
     "implementation": "implemented",
-    "tests": "passed desktop 1440x1000 and mobile 393x852 core journeys; 54 shared model/registry checks",
-    "deployment": "verified public direct URL, qualified bytes and live desktop/mobile core interactions",
+    "tests": "passed: 108 model/registry checks; all 100 lessons in 200 live desktop/mobile journeys; baseline and focused accessibility qualification",
+    "deployment": "verified live on deployment 551f393d-5021-4d80-bc63-278033e796c0; all 100 routes and 218 exact file hashes",
     "deployedCommit": "e3c3699009f28f579c650e5016056df4e481033f"
   },
   {
@@ -1544,8 +1544,8 @@
       ]
     },
     "implementation": "implemented",
-    "tests": "passed desktop 1440x1000 and mobile 393x852 core journeys; 54 shared model/registry checks",
-    "deployment": "verified public direct URL, qualified bytes and live desktop/mobile core interactions",
+    "tests": "passed: 108 model/registry checks; all 100 lessons in 200 live desktop/mobile journeys; baseline and focused accessibility qualification",
+    "deployment": "verified live on deployment 551f393d-5021-4d80-bc63-278033e796c0; all 100 routes and 218 exact file hashes",
     "deployedCommit": "e3c3699009f28f579c650e5016056df4e481033f"
   },
   {
@@ -1605,8 +1605,8 @@
       ]
     },
     "implementation": "implemented",
-    "tests": "passed desktop 1440x1000 and mobile 393x852 core journeys; 54 shared model/registry checks",
-    "deployment": "verified public direct URL, qualified bytes and live desktop/mobile core interactions",
+    "tests": "passed: 108 model/registry checks; all 100 lessons in 200 live desktop/mobile journeys; baseline and focused accessibility qualification",
+    "deployment": "verified live on deployment 551f393d-5021-4d80-bc63-278033e796c0; all 100 routes and 218 exact file hashes",
     "deployedCommit": "e3c3699009f28f579c650e5016056df4e481033f"
   },
   {
@@ -1670,8 +1670,8 @@
       ]
     },
     "implementation": "implemented",
-    "tests": "passed desktop 1440x1000 and mobile 393x852 core journeys; 54 shared model/registry checks",
-    "deployment": "verified public direct URL, qualified bytes and live desktop/mobile core interactions",
+    "tests": "passed: 108 model/registry checks; all 100 lessons in 200 live desktop/mobile journeys; baseline and focused accessibility qualification",
+    "deployment": "verified live on deployment 551f393d-5021-4d80-bc63-278033e796c0; all 100 routes and 218 exact file hashes",
     "deployedCommit": "e3c3699009f28f579c650e5016056df4e481033f"
   },
   {
@@ -1731,8 +1731,8 @@
       ]
     },
     "implementation": "implemented",
-    "tests": "passed desktop 1440x1000 and mobile 393x852 core journeys; 54 shared model/registry checks",
-    "deployment": "verified public direct URL, qualified bytes and live desktop/mobile core interactions",
+    "tests": "passed: 108 model/registry checks; all 100 lessons in 200 live desktop/mobile journeys; baseline and focused accessibility qualification",
+    "deployment": "verified live on deployment 551f393d-5021-4d80-bc63-278033e796c0; all 100 routes and 218 exact file hashes",
     "deployedCommit": "e3c3699009f28f579c650e5016056df4e481033f"
   },
   {
@@ -1792,8 +1792,8 @@
       ]
     },
     "implementation": "implemented",
-    "tests": "passed desktop 1440x1000 and mobile 393x852 core journeys; 54 shared model/registry checks",
-    "deployment": "verified public direct URL, qualified bytes and live desktop/mobile core interactions",
+    "tests": "passed: 108 model/registry checks; all 100 lessons in 200 live desktop/mobile journeys; baseline and focused accessibility qualification",
+    "deployment": "verified live on deployment 551f393d-5021-4d80-bc63-278033e796c0; all 100 routes and 218 exact file hashes",
     "deployedCommit": "e3c3699009f28f579c650e5016056df4e481033f"
   },
   {
@@ -1855,8 +1855,8 @@
       ]
     },
     "implementation": "implemented",
-    "tests": "passed desktop 1440x1000 and mobile 393x852 core journeys; 54 shared model/registry checks",
-    "deployment": "verified public direct URL, qualified bytes and live desktop/mobile core interactions",
+    "tests": "passed: 108 model/registry checks; all 100 lessons in 200 live desktop/mobile journeys; baseline and focused accessibility qualification",
+    "deployment": "verified live on deployment 551f393d-5021-4d80-bc63-278033e796c0; all 100 routes and 218 exact file hashes",
     "deployedCommit": "e3c3699009f28f579c650e5016056df4e481033f"
   },
   {
@@ -1920,8 +1920,8 @@
       ]
     },
     "implementation": "implemented",
-    "tests": "passed desktop 1440x1000 and mobile 393x852 core journeys; 54 shared model/registry checks",
-    "deployment": "verified public direct URL, qualified bytes and live desktop/mobile core interactions",
+    "tests": "passed: 108 model/registry checks; all 100 lessons in 200 live desktop/mobile journeys; baseline and focused accessibility qualification",
+    "deployment": "verified live on deployment 551f393d-5021-4d80-bc63-278033e796c0; all 100 routes and 218 exact file hashes",
     "deployedCommit": "e3c3699009f28f579c650e5016056df4e481033f"
   },
   {
@@ -1979,8 +1979,8 @@
       ]
     },
     "implementation": "implemented",
-    "tests": "passed desktop 1440x1000 and mobile 393x852 core journeys; 54 shared model/registry checks",
-    "deployment": "verified public direct URL, qualified bytes and live desktop/mobile core interactions",
+    "tests": "passed: 108 model/registry checks; all 100 lessons in 200 live desktop/mobile journeys; baseline and focused accessibility qualification",
+    "deployment": "verified live on deployment 551f393d-5021-4d80-bc63-278033e796c0; all 100 routes and 218 exact file hashes",
     "deployedCommit": "e3c3699009f28f579c650e5016056df4e481033f"
   },
   {
@@ -2038,8 +2038,8 @@
       ]
     },
     "implementation": "implemented",
-    "tests": "passed desktop 1440x1000 and mobile 393x852 core journeys; 54 shared model/registry checks",
-    "deployment": "verified public direct URL, qualified bytes and live desktop/mobile core interactions",
+    "tests": "passed: 108 model/registry checks; all 100 lessons in 200 live desktop/mobile journeys; baseline and focused accessibility qualification",
+    "deployment": "verified live on deployment 551f393d-5021-4d80-bc63-278033e796c0; all 100 routes and 218 exact file hashes",
     "deployedCommit": "e3c3699009f28f579c650e5016056df4e481033f"
   },
   {
@@ -2099,8 +2099,8 @@
       ]
     },
     "implementation": "implemented",
-    "tests": "passed desktop 1440x1000 and mobile 393x852 core journeys; 54 shared model/registry checks",
-    "deployment": "verified public direct URL, qualified bytes and live desktop/mobile core interactions",
+    "tests": "passed: 108 model/registry checks; all 100 lessons in 200 live desktop/mobile journeys; baseline and focused accessibility qualification",
+    "deployment": "verified live on deployment 551f393d-5021-4d80-bc63-278033e796c0; all 100 routes and 218 exact file hashes",
     "deployedCommit": "e3c3699009f28f579c650e5016056df4e481033f"
   },
   {
@@ -2164,8 +2164,8 @@
       ]
     },
     "implementation": "implemented",
-    "tests": "passed desktop 1440x1000 and mobile 393x852 core journeys; 54 shared model/registry checks",
-    "deployment": "verified public direct URL, qualified bytes and live desktop/mobile core interactions",
+    "tests": "passed: 108 model/registry checks; all 100 lessons in 200 live desktop/mobile journeys; baseline and focused accessibility qualification",
+    "deployment": "verified live on deployment 551f393d-5021-4d80-bc63-278033e796c0; all 100 routes and 218 exact file hashes",
     "deployedCommit": "e3c3699009f28f579c650e5016056df4e481033f"
   },
   {
@@ -2223,8 +2223,8 @@
       ]
     },
     "implementation": "implemented",
-    "tests": "passed desktop 1440x1000 and mobile 393x852 core journeys; 54 shared model/registry checks",
-    "deployment": "verified public direct URL, qualified bytes and live desktop/mobile core interactions",
+    "tests": "passed: 108 model/registry checks; all 100 lessons in 200 live desktop/mobile journeys; baseline and focused accessibility qualification",
+    "deployment": "verified live on deployment 551f393d-5021-4d80-bc63-278033e796c0; all 100 routes and 218 exact file hashes",
     "deployedCommit": "e3c3699009f28f579c650e5016056df4e481033f"
   },
   {
@@ -2288,8 +2288,8 @@
       ]
     },
     "implementation": "implemented",
-    "tests": "passed desktop 1440x1000 and mobile 393x852 core journeys; 54 shared model/registry checks",
-    "deployment": "verified public direct URL, qualified bytes and live desktop/mobile core interactions",
+    "tests": "passed: 108 model/registry checks; all 100 lessons in 200 live desktop/mobile journeys; baseline and focused accessibility qualification",
+    "deployment": "verified live on deployment 551f393d-5021-4d80-bc63-278033e796c0; all 100 routes and 218 exact file hashes",
     "deployedCommit": "e3c3699009f28f579c650e5016056df4e481033f"
   },
   {
@@ -2349,8 +2349,8 @@
       ]
     },
     "implementation": "implemented",
-    "tests": "passed desktop 1440x1000 and mobile 393x852 core journeys; 54 shared model/registry checks",
-    "deployment": "verified public direct URL, qualified bytes and live desktop/mobile core interactions",
+    "tests": "passed: 108 model/registry checks; all 100 lessons in 200 live desktop/mobile journeys; baseline and focused accessibility qualification",
+    "deployment": "verified live on deployment 551f393d-5021-4d80-bc63-278033e796c0; all 100 routes and 218 exact file hashes",
     "deployedCommit": "e3c3699009f28f579c650e5016056df4e481033f"
   },
   {
@@ -2412,8 +2412,8 @@
       ]
     },
     "implementation": "implemented",
-    "tests": "passed desktop 1440x1000 and mobile 393x852 core journeys; 54 shared model/registry checks",
-    "deployment": "verified public direct URL, qualified bytes and live desktop/mobile core interactions",
+    "tests": "passed: 108 model/registry checks; all 100 lessons in 200 live desktop/mobile journeys; baseline and focused accessibility qualification",
+    "deployment": "verified live on deployment 551f393d-5021-4d80-bc63-278033e796c0; all 100 routes and 218 exact file hashes",
     "deployedCommit": "e3c3699009f28f579c650e5016056df4e481033f"
   },
   {
@@ -2477,8 +2477,8 @@
       ]
     },
     "implementation": "implemented",
-    "tests": "passed desktop 1440x1000 and mobile 393x852 core journeys; 54 shared model/registry checks",
-    "deployment": "verified public direct URL, qualified bytes and live desktop/mobile core interactions",
+    "tests": "passed: 108 model/registry checks; all 100 lessons in 200 live desktop/mobile journeys; baseline and focused accessibility qualification",
+    "deployment": "verified live on deployment 551f393d-5021-4d80-bc63-278033e796c0; all 100 routes and 218 exact file hashes",
     "deployedCommit": "e3c3699009f28f579c650e5016056df4e481033f"
   },
   {
@@ -2544,8 +2544,8 @@
       ]
     },
     "implementation": "implemented",
-    "tests": "passed desktop 1440x1000 and mobile 393x852 core journeys; 54 shared model/registry checks",
-    "deployment": "verified public direct URL, qualified bytes and live desktop/mobile core interactions",
+    "tests": "passed: 108 model/registry checks; all 100 lessons in 200 live desktop/mobile journeys; baseline and focused accessibility qualification",
+    "deployment": "verified live on deployment 551f393d-5021-4d80-bc63-278033e796c0; all 100 routes and 218 exact file hashes",
     "deployedCommit": "e3c3699009f28f579c650e5016056df4e481033f"
   },
   {
@@ -2611,8 +2611,8 @@
       ]
     },
     "implementation": "implemented",
-    "tests": "passed desktop 1440x1000 and mobile 393x852 core journeys; 54 shared model/registry checks",
-    "deployment": "verified public direct URL, qualified bytes and live desktop/mobile core interactions",
+    "tests": "passed: 108 model/registry checks; all 100 lessons in 200 live desktop/mobile journeys; baseline and focused accessibility qualification",
+    "deployment": "verified live on deployment 551f393d-5021-4d80-bc63-278033e796c0; all 100 routes and 218 exact file hashes",
     "deployedCommit": "e3c3699009f28f579c650e5016056df4e481033f"
   },
   {
@@ -2674,8 +2674,8 @@
       ]
     },
     "implementation": "implemented",
-    "tests": "passed desktop 1440x1000 and mobile 393x852 core journeys; 54 shared model/registry checks",
-    "deployment": "verified public direct URL, qualified bytes and live desktop/mobile core interactions",
+    "tests": "passed: 108 model/registry checks; all 100 lessons in 200 live desktop/mobile journeys; baseline and focused accessibility qualification",
+    "deployment": "verified live on deployment 551f393d-5021-4d80-bc63-278033e796c0; all 100 routes and 218 exact file hashes",
     "deployedCommit": "e3c3699009f28f579c650e5016056df4e481033f"
   },
   {
@@ -2737,8 +2737,8 @@
       ]
     },
     "implementation": "implemented",
-    "tests": "passed desktop 1440x1000 and mobile 393x852 core journeys; 54 shared model/registry checks",
-    "deployment": "verified public direct URL, qualified bytes and live desktop/mobile core interactions",
+    "tests": "passed: 108 model/registry checks; all 100 lessons in 200 live desktop/mobile journeys; baseline and focused accessibility qualification",
+    "deployment": "verified live on deployment 551f393d-5021-4d80-bc63-278033e796c0; all 100 routes and 218 exact file hashes",
     "deployedCommit": "e3c3699009f28f579c650e5016056df4e481033f"
   },
   {
@@ -2802,8 +2802,8 @@
       ]
     },
     "implementation": "implemented",
-    "tests": "passed desktop 1440x1000 and mobile 393x852 core journeys; 54 shared model/registry checks",
-    "deployment": "verified public direct URL, qualified bytes and live desktop/mobile core interactions",
+    "tests": "passed: 108 model/registry checks; all 100 lessons in 200 live desktop/mobile journeys; baseline and focused accessibility qualification",
+    "deployment": "verified live on deployment 551f393d-5021-4d80-bc63-278033e796c0; all 100 routes and 218 exact file hashes",
     "deployedCommit": "e3c3699009f28f579c650e5016056df4e481033f"
   },
   {
@@ -2869,8 +2869,8 @@
       ]
     },
     "implementation": "implemented",
-    "tests": "passed desktop 1440x1000 and mobile 393x852 core journeys; 54 shared model/registry checks",
-    "deployment": "verified public direct URL, qualified bytes and live desktop/mobile core interactions",
+    "tests": "passed: 108 model/registry checks; all 100 lessons in 200 live desktop/mobile journeys; baseline and focused accessibility qualification",
+    "deployment": "verified live on deployment 551f393d-5021-4d80-bc63-278033e796c0; all 100 routes and 218 exact file hashes",
     "deployedCommit": "e3c3699009f28f579c650e5016056df4e481033f"
   },
   {
@@ -2932,8 +2932,8 @@
       ]
     },
     "implementation": "implemented",
-    "tests": "passed desktop 1440x1000 and mobile 393x852 core journeys; 54 shared model/registry checks",
-    "deployment": "verified public direct URL, qualified bytes and live desktop/mobile core interactions",
+    "tests": "passed: 108 model/registry checks; all 100 lessons in 200 live desktop/mobile journeys; baseline and focused accessibility qualification",
+    "deployment": "verified live on deployment 551f393d-5021-4d80-bc63-278033e796c0; all 100 routes and 218 exact file hashes",
     "deployedCommit": "e3c3699009f28f579c650e5016056df4e481033f"
   },
   {
@@ -2997,8 +2997,8 @@
       ]
     },
     "implementation": "implemented",
-    "tests": "passed desktop 1440x1000 and mobile 393x852 core journeys; 54 shared model/registry checks",
-    "deployment": "verified public direct URL, qualified bytes and live desktop/mobile core interactions",
+    "tests": "passed: 108 model/registry checks; all 100 lessons in 200 live desktop/mobile journeys; baseline and focused accessibility qualification",
+    "deployment": "verified live on deployment 551f393d-5021-4d80-bc63-278033e796c0; all 100 routes and 218 exact file hashes",
     "deployedCommit": "e3c3699009f28f579c650e5016056df4e481033f"
   },
   {
@@ -3064,8 +3064,8 @@
       ]
     },
     "implementation": "implemented",
-    "tests": "passed desktop 1440x1000 and mobile 393x852 core journeys; 54 shared model/registry checks",
-    "deployment": "verified public direct URL, qualified bytes and live desktop/mobile core interactions",
+    "tests": "passed: 108 model/registry checks; all 100 lessons in 200 live desktop/mobile journeys; baseline and focused accessibility qualification",
+    "deployment": "verified live on deployment 551f393d-5021-4d80-bc63-278033e796c0; all 100 routes and 218 exact file hashes",
     "deployedCommit": "e3c3699009f28f579c650e5016056df4e481033f"
   },
   {
@@ -3127,8 +3127,3608 @@
       ]
     },
     "implementation": "implemented",
-    "tests": "passed desktop 1440x1000 and mobile 393x852 core journeys; 54 shared model/registry checks",
-    "deployment": "verified public direct URL, qualified bytes and live desktop/mobile core interactions",
+    "tests": "passed: 108 model/registry checks; all 100 lessons in 200 live desktop/mobile journeys; baseline and focused accessibility qualification",
+    "deployment": "verified live on deployment 551f393d-5021-4d80-bc63-278033e796c0; all 100 routes and 218 exact file hashes",
     "deployedCommit": "e3c3699009f28f579c650e5016056df4e481033f"
+  },
+  {
+    "id": 51,
+    "title": "How a Lever Trades Force for Distance",
+    "slug": "lever-force-distance",
+    "category": "Machines and mechanical systems",
+    "objective": "Balance moments around a pivot and compare effort with travel.",
+    "control": {
+      "label": "Choose effort arm / load arm",
+      "options": [
+        "1 / 1",
+        "2 / 1",
+        "3 / 1",
+        "4 / 1"
+      ]
+    },
+    "stages": [
+      {
+        "title": "Pivot",
+        "text": "A rigid bar turns around a fulcrum. The load and effort act on opposite sides."
+      },
+      {
+        "title": "Moment",
+        "text": "Force multiplied by perpendicular distance from the pivot gives turning moment."
+      },
+      {
+        "title": "Balance",
+        "text": "For a 120 N load 0.2 m from the pivot, the load moment is 24 N m."
+      },
+      {
+        "title": "Trade-off",
+        "text": "A longer effort arm reduces required effort but moves through a longer arc."
+      }
+    ],
+    "activityStates": [
+      "Effort arm 0.2 m: 120 N balances 120 N at 0.2 m; both moments are 24 N m. Effort point travels 1 times as far for the same small rotation.",
+      "Effort arm 0.4 m: 60 N balances 120 N at 0.2 m; both moments are 24 N m. Effort point travels 2 times as far for the same small rotation.",
+      "Effort arm 0.6 m: 40 N balances 120 N at 0.2 m; both moments are 24 N m. Effort point travels 3 times as far for the same small rotation.",
+      "Effort arm 0.8 m: 30 N balances 120 N at 0.2 m; both moments are 24 N m. Effort point travels 4 times as far for the same small rotation."
+    ],
+    "limits": "Ideal rigid lever; forces perpendicular to bar. Friction and bar weight omitted; not lifting guidance.",
+    "misconception": "A longer lever reduces effort; it does not reduce ideal work.",
+    "terms": {
+      "Fulcrum": "The pivot around which the bar turns.",
+      "Moment": "Force times perpendicular distance to a pivot."
+    },
+    "sources": [
+      {
+        "title": "OpenStax: simple machines",
+        "url": "https://openstax.org/books/college-physics-2e/pages/9-5-simple-machines",
+        "reviewed": "2026-10-23"
+      }
+    ],
+    "stageStates": [
+      0,
+      0,
+      1,
+      3
+    ],
+    "visualMechanism": "Original labeled SVG; How a Lever Trades Force for Distance",
+    "interaction": {
+      "label": "Choose effort arm / load arm",
+      "options": [
+        "1 / 1",
+        "2 / 1",
+        "3 / 1",
+        "4 / 1"
+      ]
+    },
+    "implementation": "implemented",
+    "tests": "passed: 108 model/registry checks; all 100 lessons in 200 live desktop/mobile journeys; baseline and focused accessibility qualification",
+    "deployment": "verified live on deployment 551f393d-5021-4d80-bc63-278033e796c0; all 100 routes and 218 exact file hashes"
+  },
+  {
+    "id": 52,
+    "title": "How a Screw Jack Lifts",
+    "slug": "screw-jack",
+    "category": "Machines and mechanical systems",
+    "objective": "Connect screw lead, rotation and ideal lifting work.",
+    "control": {
+      "label": "Choose screw lead per turn",
+      "options": [
+        "2 mm",
+        "4 mm",
+        "8 mm",
+        "10 mm"
+      ]
+    },
+    "stages": [
+      {
+        "title": "Thread",
+        "text": "A helical thread wraps an inclined plane around a shaft."
+      },
+      {
+        "title": "Turn",
+        "text": "One complete turn advances a single-start screw by its lead."
+      },
+      {
+        "title": "Force",
+        "text": "Rotation supplies work that raises the load against gravity."
+      },
+      {
+        "title": "Trade-off",
+        "text": "Smaller lead needs more turns for the same lift and less ideal torque."
+      }
+    ],
+    "activityStates": [
+      "Lead 2 mm: a 100 mm lift takes 50 turns. For 1000 N load, ideal torque = F × lead / (2π) = 0.32 N m.",
+      "Lead 4 mm: a 100 mm lift takes 25 turns. For 1000 N load, ideal torque = F × lead / (2π) = 0.64 N m.",
+      "Lead 8 mm: a 100 mm lift takes 12.5 turns. For 1000 N load, ideal torque = F × lead / (2π) = 1.27 N m.",
+      "Lead 10 mm: a 100 mm lift takes 10 turns. For 1000 N load, ideal torque = F × lead / (2π) = 1.59 N m."
+    ],
+    "limits": "Frictionless single-start screw; real jacks need more torque. Self-locking and strength not modeled. Never use this model to support a real load.",
+    "misconception": "The thread does not create energy; more rotation trades for less torque.",
+    "terms": {
+      "Lead": "Axial advance in one turn.",
+      "Torque": "Turning effect around an axis."
+    },
+    "sources": [
+      {
+        "title": "OpenStax: simple machines",
+        "url": "https://openstax.org/books/college-physics-2e/pages/9-5-simple-machines",
+        "reviewed": "2026-10-23"
+      }
+    ],
+    "stageStates": [
+      0,
+      1,
+      2,
+      0
+    ],
+    "visualMechanism": "Original labeled SVG; How a Screw Jack Lifts",
+    "interaction": {
+      "label": "Choose screw lead per turn",
+      "options": [
+        "2 mm",
+        "4 mm",
+        "8 mm",
+        "10 mm"
+      ]
+    },
+    "implementation": "implemented",
+    "tests": "passed: 108 model/registry checks; all 100 lessons in 200 live desktop/mobile journeys; baseline and focused accessibility qualification",
+    "deployment": "verified live on deployment 551f393d-5021-4d80-bc63-278033e796c0; all 100 routes and 218 exact file hashes"
+  },
+  {
+    "id": 53,
+    "title": "How a Ratchet Holds Its Place",
+    "slug": "ratchet-pawl",
+    "category": "Machines and mechanical systems",
+    "objective": "See how a pawl permits one rotational direction and blocks the other.",
+    "control": {
+      "label": "Choose ratchet action",
+      "options": [
+        "Forward drive",
+        "Reverse attempt",
+        "Pawl released",
+        "Pawl re-engaged"
+      ]
+    },
+    "stages": [
+      {
+        "title": "Teeth",
+        "text": "Asymmetric teeth surround a wheel; a spring urges a pawl toward them."
+      },
+      {
+        "title": "Forward",
+        "text": "Sloping tooth faces lift the pawl so the wheel can advance."
+      },
+      {
+        "title": "Reverse",
+        "text": "A steep face contacts the pawl and blocks reverse rotation."
+      },
+      {
+        "title": "Release",
+        "text": "Lifting the pawl permits reverse motion; engagement must return to hold."
+      }
+    ],
+    "activityStates": [
+      "Forward rotation lifts the pawl over a sloping tooth face.",
+      "Reverse rotation presses a steep tooth face against the engaged pawl: blocked.",
+      "Pawl lifted clear: both directions are available in this schematic.",
+      "Pawl seated in the next gap: reverse rotation is blocked again."
+    ],
+    "limits": "Qualitative geometry; no load ratings, tooth stress, wear or real release procedure.",
+    "misconception": "A ratchet permits steps in one direction; it is not a friction brake.",
+    "terms": {
+      "Pawl": "Pivoted catch that engages teeth.",
+      "Engagement": "Contact that prevents the blocked motion."
+    },
+    "sources": [
+      {
+        "title": "OpenStax: simple machines",
+        "url": "https://openstax.org/books/college-physics-2e/pages/9-5-simple-machines",
+        "reviewed": "2026-10-23"
+      }
+    ],
+    "stageStates": [
+      3,
+      0,
+      1,
+      2
+    ],
+    "visualMechanism": "Original labeled SVG; How a Ratchet Holds Its Place",
+    "interaction": {
+      "label": "Choose ratchet action",
+      "options": [
+        "Forward drive",
+        "Reverse attempt",
+        "Pawl released",
+        "Pawl re-engaged"
+      ]
+    },
+    "implementation": "implemented",
+    "tests": "passed: 108 model/registry checks; all 100 lessons in 200 live desktop/mobile journeys; baseline and focused accessibility qualification",
+    "deployment": "verified live on deployment 551f393d-5021-4d80-bc63-278033e796c0; all 100 routes and 218 exact file hashes"
+  },
+  {
+    "id": 54,
+    "title": "How Ball Bearings Support a Shaft",
+    "slug": "ball-bearing",
+    "category": "Machines and mechanical systems",
+    "objective": "Distinguish rolling elements, races and load transmission.",
+    "control": {
+      "label": "Choose bearing condition",
+      "options": [
+        "Stationary",
+        "Inner race turns",
+        "Radial load",
+        "Poor lubrication"
+      ]
+    },
+    "stages": [
+      {
+        "title": "Races",
+        "text": "An inner race surrounds the shaft; an outer race sits in the housing."
+      },
+      {
+        "title": "Rolling elements",
+        "text": "Balls separate the races and transmit loads through contact."
+      },
+      {
+        "title": "Cage",
+        "text": "A cage spaces the balls as they circulate; balls also spin."
+      },
+      {
+        "title": "Lubrication",
+        "text": "Lubricant limits surface damage and friction; rolling does not eliminate losses."
+      }
+    ],
+    "activityStates": [
+      "Inner race, outer race and balls are stationary.",
+      "Inner race turns; balls spin and circulate between the races.",
+      "A downward shaft load passes through lower ball contacts into the outer race and housing.",
+      "Inadequate lubrication can increase friction and wear; no lifetime is predicted."
+    ],
+    "limits": "Simplified radial bearing; contact deformation, speed ratio and lubricant film not calculated.",
+    "misconception": "Ball bearings reduce sliding friction; they do not make friction zero.",
+    "terms": {
+      "Race": "Ring with a rolling-element track.",
+      "Radial load": "Load perpendicular to the shaft axis."
+    },
+    "sources": [
+      {
+        "title": "NSK: introduction to bearings",
+        "url": "https://www.nskamericas.com/tools-resources/introduction-bearings/",
+        "reviewed": "2026-10-23"
+      }
+    ],
+    "stageStates": [
+      0,
+      1,
+      1,
+      3
+    ],
+    "visualMechanism": "Original labeled SVG; How Ball Bearings Support a Shaft",
+    "interaction": {
+      "label": "Choose bearing condition",
+      "options": [
+        "Stationary",
+        "Inner race turns",
+        "Radial load",
+        "Poor lubrication"
+      ]
+    },
+    "implementation": "implemented",
+    "tests": "passed: 108 model/registry checks; all 100 lessons in 200 live desktop/mobile journeys; baseline and focused accessibility qualification",
+    "deployment": "verified live on deployment 551f393d-5021-4d80-bc63-278033e796c0; all 100 routes and 218 exact file hashes"
+  },
+  {
+    "id": 55,
+    "title": "How an Open Differential Turns Corners",
+    "slug": "open-differential",
+    "category": "Machines and mechanical systems",
+    "objective": "Relate left and right wheel speeds to differential carrier speed.",
+    "control": {
+      "label": "Choose wheel-speed pair",
+      "options": [
+        "100 / 100 rpm",
+        "80 / 120 rpm",
+        "60 / 140 rpm",
+        "0 / 200 rpm"
+      ]
+    },
+    "stages": [
+      {
+        "title": "Carrier",
+        "text": "The ring gear drives the carrier and its small differential gears."
+      },
+      {
+        "title": "Straight",
+        "text": "With equal wheel speeds, both side gears turn at carrier speed."
+      },
+      {
+        "title": "Corner",
+        "text": "The gears allow one side gear to slow while the other speeds up."
+      },
+      {
+        "title": "Constraint",
+        "text": "In this symmetric ideal open differential, left plus right speed equals twice carrier speed."
+      }
+    ],
+    "activityStates": [
+      "100 + 100 = 200 rpm: carrier speed is 100 rpm; no wheel-speed difference.",
+      "80 + 120 = 200 rpm: carrier remains 100 rpm while outer wheel runs faster.",
+      "60 + 140 = 200 rpm: a larger speed difference still averages 100 rpm.",
+      "0 + 200 = 200 rpm: one stopped wheel and one fast wheel can satisfy the gearing; usable traction is not guaranteed."
+    ],
+    "limits": "Symmetric ideal open differential. Torque capacity, tire radii and traction dynamics omitted.",
+    "misconception": "An open differential allows different speeds; it does not guarantee both tires can use available engine torque.",
+    "terms": {
+      "Carrier": "Assembly driven by the final drive.",
+      "Side gear": "Gear coupled to a wheel axle."
+    },
+    "sources": [
+      {
+        "title": "Eaton: open differential",
+        "url": "https://www.eaton.com/br/en-us/products/differentials-traction-control/open-differential.html",
+        "reviewed": "2026-10-23"
+      }
+    ],
+    "stageStates": [
+      0,
+      0,
+      1,
+      3
+    ],
+    "visualMechanism": "Original labeled SVG; How an Open Differential Turns Corners",
+    "interaction": {
+      "label": "Choose wheel-speed pair",
+      "options": [
+        "100 / 100 rpm",
+        "80 / 120 rpm",
+        "60 / 140 rpm",
+        "0 / 200 rpm"
+      ]
+    },
+    "implementation": "implemented",
+    "tests": "passed: 108 model/registry checks; all 100 lessons in 200 live desktop/mobile journeys; baseline and focused accessibility qualification",
+    "deployment": "verified live on deployment 551f393d-5021-4d80-bc63-278033e796c0; all 100 routes and 218 exact file hashes"
+  },
+  {
+    "id": 56,
+    "title": "How a Clutch Connects Rotation",
+    "slug": "friction-clutch",
+    "category": "Machines and mechanical systems",
+    "objective": "Trace torque transmission through separated, slipping and locked friction plates.",
+    "control": {
+      "label": "Choose clutch condition",
+      "options": [
+        "Separated",
+        "Slipping",
+        "Fully coupled",
+        "Release again"
+      ]
+    },
+    "stages": [
+      {
+        "title": "Input",
+        "text": "A flywheel rotates with the engine-side shaft."
+      },
+      {
+        "title": "Contact",
+        "text": "Pressing friction surfaces together permits torque transfer."
+      },
+      {
+        "title": "Slip",
+        "text": "Relative motion converts some mechanical energy into heat."
+      },
+      {
+        "title": "Coupled",
+        "text": "When static friction is sufficient, both sides turn together without relative slip."
+      }
+    ],
+    "activityStates": [
+      "Plates separated: input turns at an illustrative 1000 rpm; output receives no clutch torque.",
+      "Plates contact: input 1000 rpm, output 600 rpm in this snapshot; slip generates heat.",
+      "Plates coupled: input and output both turn at 1000 rpm under the assumed load.",
+      "Clamping removed: input and output can rotate independently; output does not instantly stop."
+    ],
+    "limits": "Invented speed snapshots, not a dynamic vehicle model. No operating technique, torque rating or thermal limit.",
+    "misconception": "A clutch connects rotation gradually; slipping does not transmit all input power to useful output.",
+    "terms": {
+      "Slip": "Relative speed across contacting surfaces.",
+      "Clamping force": "Force pressing friction surfaces together."
+    },
+    "sources": [
+      {
+        "title": "OpenStax: friction",
+        "url": "https://openstax.org/books/college-physics-2e/pages/5-1-friction",
+        "reviewed": "2026-10-23"
+      }
+    ],
+    "stageStates": [
+      0,
+      1,
+      1,
+      2
+    ],
+    "visualMechanism": "Original labeled SVG; How a Clutch Connects Rotation",
+    "interaction": {
+      "label": "Choose clutch condition",
+      "options": [
+        "Separated",
+        "Slipping",
+        "Fully coupled",
+        "Release again"
+      ]
+    },
+    "implementation": "implemented",
+    "tests": "passed: 108 model/registry checks; all 100 lessons in 200 live desktop/mobile journeys; baseline and focused accessibility qualification",
+    "deployment": "verified live on deployment 551f393d-5021-4d80-bc63-278033e796c0; all 100 routes and 218 exact file hashes"
+  },
+  {
+    "id": 57,
+    "title": "How a Centrifugal Pump Moves Water",
+    "slug": "centrifugal-pump",
+    "category": "Machines and mechanical systems",
+    "objective": "Follow energy transfer from impeller to flowing water.",
+    "control": {
+      "label": "Choose operating snapshot",
+      "options": [
+        "Stopped",
+        "Primed and turning",
+        "Outlet resistance rises",
+        "Air at inlet"
+      ]
+    },
+    "stages": [
+      {
+        "title": "Inlet",
+        "text": "A primed pump contains liquid, which enters near the impeller center."
+      },
+      {
+        "title": "Impeller",
+        "text": "Rotating blades transfer shaft energy to the liquid."
+      },
+      {
+        "title": "Casing",
+        "text": "The casing guides flow; part of its kinetic energy becomes pressure energy."
+      },
+      {
+        "title": "System",
+        "text": "Actual flow depends on pump speed and the connected system resistance."
+      }
+    ],
+    "activityStates": [
+      "Stopped impeller: no driven pressure rise; other system pressures may still move water.",
+      "Primed impeller turns: liquid enters the eye and exits toward the casing outlet.",
+      "Greater outlet resistance shifts the operating point toward less flow on a typical fixed-speed pump curve.",
+      "Air at the inlet can disrupt pumping; this simplified pump does not self-prime."
+    ],
+    "limits": "Qualitative fixed-speed pump; no pressure or flow prediction, cavitation calculation or installation guidance.",
+    "misconception": "A centrifugal pump does not deliver the same flow regardless of system resistance.",
+    "terms": {
+      "Impeller": "Rotating bladed component that adds energy.",
+      "Operating point": "Intersection of pump and system behavior."
+    },
+    "sources": [
+      {
+        "title": "DOE fundamentals handbook: mechanical science",
+        "url": "https://archives.standards.doxcelerate.com/documents/doe-hdbk-1018-1-93-doe-fundamentals-handbook-mechanical-science-volume-1-of-2",
+        "reviewed": "2026-10-23"
+      }
+    ],
+    "stageStates": [
+      1,
+      1,
+      1,
+      2
+    ],
+    "visualMechanism": "Original labeled SVG; How a Centrifugal Pump Moves Water",
+    "interaction": {
+      "label": "Choose operating snapshot",
+      "options": [
+        "Stopped",
+        "Primed and turning",
+        "Outlet resistance rises",
+        "Air at inlet"
+      ]
+    },
+    "implementation": "implemented",
+    "tests": "passed: 108 model/registry checks; all 100 lessons in 200 live desktop/mobile journeys; baseline and focused accessibility qualification",
+    "deployment": "verified live on deployment 551f393d-5021-4d80-bc63-278033e796c0; all 100 routes and 218 exact file hashes"
+  },
+  {
+    "id": 58,
+    "title": "How a Check Valve Prevents Backflow",
+    "slug": "check-valve",
+    "category": "Machines and mechanical systems",
+    "objective": "Compare pressure forces on a one-way valve.",
+    "control": {
+      "label": "Choose upstream / downstream pressure",
+      "options": [
+        "100 / 100 kPa",
+        "120 / 100 kPa",
+        "100 / 120 kPa",
+        "130 / 100 kPa"
+      ]
+    },
+    "stages": [
+      {
+        "title": "Seat",
+        "text": "A movable poppet rests against a seat; a spring holds this example closed."
+      },
+      {
+        "title": "Forward pressure",
+        "text": "Upstream pressure pushes toward opening."
+      },
+      {
+        "title": "Threshold",
+        "text": "The valve opens when forward pressure force exceeds the illustrative spring force."
+      },
+      {
+        "title": "Backflow",
+        "text": "Reverse pressure presses the poppet more firmly toward its seat."
+      }
+    ],
+    "activityStates": [
+      "Equal pressures: spring holds the valve closed.",
+      "20 kPa forward difference exceeds this invented 10 kPa cracking threshold: open.",
+      "20 kPa reverse difference pushes the valve toward the seat: closed.",
+      "30 kPa forward difference: open; actual flow still depends on valve and system resistance."
+    ],
+    "limits": "Invented 10 kPa threshold; leakage, transient water hammer and real flow coefficient omitted.",
+    "misconception": "One-way valves respond to pressure difference, not simply to whether a pump is on.",
+    "terms": {
+      "Cracking pressure": "Forward pressure difference at which opening begins.",
+      "Seat": "Surface against which the closing element seals."
+    },
+    "sources": [
+      {
+        "title": "OpenStax: pressure",
+        "url": "https://openstax.org/books/college-physics-2e/pages/11-3-pressure",
+        "reviewed": "2026-10-23"
+      }
+    ],
+    "stageStates": [
+      0,
+      1,
+      1,
+      2
+    ],
+    "visualMechanism": "Original labeled SVG; How a Check Valve Prevents Backflow",
+    "interaction": {
+      "label": "Choose upstream / downstream pressure",
+      "options": [
+        "100 / 100 kPa",
+        "120 / 100 kPa",
+        "100 / 120 kPa",
+        "130 / 100 kPa"
+      ]
+    },
+    "implementation": "implemented",
+    "tests": "passed: 108 model/registry checks; all 100 lessons in 200 live desktop/mobile journeys; baseline and focused accessibility qualification",
+    "deployment": "verified live on deployment 551f393d-5021-4d80-bc63-278033e796c0; all 100 routes and 218 exact file hashes"
+  },
+  {
+    "id": 59,
+    "title": "How a Zipper Joins Two Edges",
+    "slug": "zipper",
+    "category": "Machines and mechanical systems",
+    "objective": "Follow the slider channels as they mesh and separate teeth.",
+    "control": {
+      "label": "Choose slider action",
+      "options": [
+        "Separate tapes",
+        "Close slider",
+        "Joined teeth",
+        "Open slider"
+      ]
+    },
+    "stages": [
+      {
+        "title": "Two tapes",
+        "text": "Rows of shaped teeth attach to flexible tapes."
+      },
+      {
+        "title": "Slider",
+        "text": "A converging channel guides teeth into engagement."
+      },
+      {
+        "title": "Interlock",
+        "text": "Matching tooth features resist sideways separation."
+      },
+      {
+        "title": "Open",
+        "text": "In reverse travel, a divider separates the rows into two channels."
+      }
+    ],
+    "activityStates": [
+      "Rows are separated ahead of the slider.",
+      "Slider channels bring neighboring teeth into engagement.",
+      "Engaged tooth shapes hold the two tapes together behind the slider.",
+      "Divider guides teeth apart as the slider travels in the opening direction."
+    ],
+    "limits": "Generic toothed zipper; coil and molded designs differ. No jam removal or strength prediction.",
+    "misconception": "The slider guides engagement; it does not glue the teeth together.",
+    "terms": {
+      "Slider": "Part that guides the rows together or apart.",
+      "Tape": "Flexible fabric carrying each row."
+    },
+    "sources": [
+      {
+        "title": "Gideon Sundback patent US1219881A: separable fastener",
+        "url": "https://patents.google.com/patent/US1219881A/en",
+        "reviewed": "2026-10-23"
+      }
+    ],
+    "stageStates": [
+      0,
+      1,
+      2,
+      3
+    ],
+    "visualMechanism": "Original labeled SVG; How a Zipper Joins Two Edges",
+    "interaction": {
+      "label": "Choose slider action",
+      "options": [
+        "Separate tapes",
+        "Close slider",
+        "Joined teeth",
+        "Open slider"
+      ]
+    },
+    "implementation": "implemented",
+    "tests": "passed: 108 model/registry checks; all 100 lessons in 200 live desktop/mobile journeys; baseline and focused accessibility qualification",
+    "deployment": "verified live on deployment 551f393d-5021-4d80-bc63-278033e796c0; all 100 routes and 218 exact file hashes"
+  },
+  {
+    "id": 60,
+    "title": "How a Sewing Machine Makes a Lockstitch",
+    "slug": "sewing-lockstitch",
+    "category": "Machines and mechanical systems",
+    "objective": "Trace top and bobbin threads through one stitch cycle.",
+    "control": {
+      "label": "Choose stitch phase",
+      "options": [
+        "Needle descends",
+        "Loop forms",
+        "Hook carries loop",
+        "Take-up tightens"
+      ]
+    },
+    "stages": [
+      {
+        "title": "Needle",
+        "text": "The needle carries top thread through fabric."
+      },
+      {
+        "title": "Loop",
+        "text": "As the needle begins rising, a small loop forms near its eye."
+      },
+      {
+        "title": "Hook",
+        "text": "A hook carries the top-thread loop around the bobbin thread."
+      },
+      {
+        "title": "Tighten and feed",
+        "text": "Take-up tightens the interlock; feed dogs advance fabric between stitches."
+      }
+    ],
+    "activityStates": [
+      "Needle brings top thread through the fabric beside the bobbin mechanism.",
+      "Needle starts rising; top thread forms a loop for the hook to catch.",
+      "Hook takes the top-thread loop around the bobbin-thread supply.",
+      "Take-up draws the interlock into the fabric; feed advances for the next stitch."
+    ],
+    "limits": "Representative two-thread lockstitch; hook timing and thread path vary. Handwheel geometry is schematic.",
+    "misconception": "A lockstitch uses two threads; the needle does not carry both through the fabric.",
+    "terms": {
+      "Bobbin": "Small lower-thread supply.",
+      "Take-up": "Mechanism that draws excess top thread back."
+    },
+    "sources": [
+      {
+        "title": "Elias Howe patent US4750A: sewing machine",
+        "url": "https://patents.google.com/patent/US4750A/en",
+        "reviewed": "2026-10-23"
+      }
+    ],
+    "stageStates": [
+      0,
+      1,
+      2,
+      3
+    ],
+    "visualMechanism": "Original labeled SVG; How a Sewing Machine Makes a Lockstitch",
+    "interaction": {
+      "label": "Choose stitch phase",
+      "options": [
+        "Needle descends",
+        "Loop forms",
+        "Hook carries loop",
+        "Take-up tightens"
+      ]
+    },
+    "implementation": "implemented",
+    "tests": "passed: 108 model/registry checks; all 100 lessons in 200 live desktop/mobile journeys; baseline and focused accessibility qualification",
+    "deployment": "verified live on deployment 551f393d-5021-4d80-bc63-278033e796c0; all 100 routes and 218 exact file hashes"
+  },
+  {
+    "id": 61,
+    "title": "How a Transformer Changes AC Voltage",
+    "slug": "ac-transformer",
+    "category": "Electricity and energy",
+    "objective": "Connect turns ratio to voltage and ideal current.",
+    "control": {
+      "label": "Choose secondary / primary turns",
+      "options": [
+        "1 / 2",
+        "1 / 1",
+        "2 / 1",
+        "4 / 1"
+      ]
+    },
+    "stages": [
+      {
+        "title": "Primary",
+        "text": "Alternating current produces changing magnetic flux in a shared core."
+      },
+      {
+        "title": "Secondary",
+        "text": "Changing flux induces a voltage in a second winding."
+      },
+      {
+        "title": "Turns ratio",
+        "text": "Ideal secondary voltage divided by primary voltage equals the turns ratio."
+      },
+      {
+        "title": "Power",
+        "text": "Ignoring losses, increased output voltage means reduced output current at fixed power."
+      }
+    ],
+    "activityStates": [
+      "Ideal 120 V AC input, turns ratio 0.5: output 60 V AC. At 120 W output, secondary current is 2 A; primary current is 1 A.",
+      "Ideal 120 V AC input, turns ratio 1: output 120 V AC. At 120 W output, secondary current is 1 A; primary current is 1 A.",
+      "Ideal 120 V AC input, turns ratio 2: output 240 V AC. At 120 W output, secondary current is 0.5 A; primary current is 1 A.",
+      "Ideal 120 V AC input, turns ratio 4: output 480 V AC. At 120 W output, secondary current is 0.25 A; primary current is 1 A."
+    ],
+    "limits": "Ideal AC transformer, RMS values; insulation, core loss and saturation omitted. No real wiring activity.",
+    "misconception": "A transformer needs changing magnetic flux; steady DC is not normal transformer operation.",
+    "terms": {
+      "Turns ratio": "Secondary turns divided by primary turns.",
+      "Flux": "Magnetic field passing through an area."
+    },
+    "sources": [
+      {
+        "title": "OpenStax: transformers",
+        "url": "https://openstax.org/books/college-physics-2e/pages/23-7-transformers",
+        "reviewed": "2026-10-23"
+      }
+    ],
+    "stageStates": [
+      1,
+      2,
+      3,
+      0
+    ],
+    "visualMechanism": "Original labeled SVG; How a Transformer Changes AC Voltage",
+    "interaction": {
+      "label": "Choose secondary / primary turns",
+      "options": [
+        "1 / 2",
+        "1 / 1",
+        "2 / 1",
+        "4 / 1"
+      ]
+    },
+    "implementation": "implemented",
+    "tests": "passed: 108 model/registry checks; all 100 lessons in 200 live desktop/mobile journeys; baseline and focused accessibility qualification",
+    "deployment": "verified live on deployment 551f393d-5021-4d80-bc63-278033e796c0; all 100 routes and 218 exact file hashes"
+  },
+  {
+    "id": 62,
+    "title": "How a Bridge Rectifier Makes One-Way Current",
+    "slug": "bridge-rectifier",
+    "category": "Electricity and energy",
+    "objective": "Trace both AC half-cycles through alternate diode pairs.",
+    "control": {
+      "label": "Choose input condition",
+      "options": [
+        "Positive half-cycle",
+        "Negative half-cycle",
+        "Zero crossing",
+        "Smoothing added"
+      ]
+    },
+    "stages": [
+      {
+        "title": "AC input",
+        "text": "Input voltage changes sign each half-cycle."
+      },
+      {
+        "title": "First pair",
+        "text": "One diode pair conducts for the positive input half-cycle."
+      },
+      {
+        "title": "Second pair",
+        "text": "The other pair conducts for the negative half-cycle while load current keeps its direction."
+      },
+      {
+        "title": "Output",
+        "text": "The unfiltered output pulsates; a capacitor can reduce ripple but does not regulate voltage."
+      }
+    ],
+    "activityStates": [
+      "Positive half-cycle: diode pair A conducts; load current flows downward.",
+      "Negative half-cycle: diode pair B conducts; load current still flows downward.",
+      "At an ideal zero crossing there is no source-driven load current.",
+      "A charged smoothing capacitor supplies the load between peaks; output ripple is reduced, not eliminated."
+    ],
+    "limits": "Ideal diodes, qualitative waveform; real forward drops and load-dependent ripple omitted. No mains construction.",
+    "misconception": "Rectification gives one-way current, not automatically smooth or regulated DC.",
+    "terms": {
+      "Diode": "Device favoring current in one direction.",
+      "Ripple": "Residual variation in rectified output."
+    },
+    "sources": [
+      {
+        "title": "OpenStax: alternating and direct current",
+        "url": "https://openstax.org/books/college-physics-2e/pages/20-5-alternating-current-versus-direct-current",
+        "reviewed": "2026-10-23"
+      }
+    ],
+    "stageStates": [
+      0,
+      0,
+      1,
+      3
+    ],
+    "visualMechanism": "Original labeled SVG; How a Bridge Rectifier Makes One-Way Current",
+    "interaction": {
+      "label": "Choose input condition",
+      "options": [
+        "Positive half-cycle",
+        "Negative half-cycle",
+        "Zero crossing",
+        "Smoothing added"
+      ]
+    },
+    "implementation": "implemented",
+    "tests": "passed: 108 model/registry checks; all 100 lessons in 200 live desktop/mobile journeys; baseline and focused accessibility qualification",
+    "deployment": "verified live on deployment 551f393d-5021-4d80-bc63-278033e796c0; all 100 routes and 218 exact file hashes"
+  },
+  {
+    "id": 63,
+    "title": "How a Capacitor Stores Energy",
+    "slug": "capacitor-energy",
+    "category": "Electricity and energy",
+    "objective": "Relate stored charge and energy to voltage.",
+    "control": {
+      "label": "Choose voltage across 100 µF",
+      "options": [
+        "0 V",
+        "2 V",
+        "4 V",
+        "6 V"
+      ]
+    },
+    "stages": [
+      {
+        "title": "Plates",
+        "text": "Two conductors are separated by an insulating dielectric."
+      },
+      {
+        "title": "Charge",
+        "text": "A source moves charge between plates, creating equal and opposite plate charges."
+      },
+      {
+        "title": "Field",
+        "text": "Energy is stored in the electric field between the conductors."
+      },
+      {
+        "title": "Energy accounting",
+        "text": "At fixed capacitance, doubling voltage quadruples stored energy because E = ½CV². Discharging can deliver some of that energy to a load."
+      }
+    ],
+    "activityStates": [
+      "At 0 V with C = 100 µF: Q = CV = 0 µC; E = ½CV² = 0.0 mJ. Equal and opposite plate charges are shown.",
+      "At 2 V with C = 100 µF: Q = CV = 200 µC; E = ½CV² = 0.2 mJ. Equal and opposite plate charges are shown.",
+      "At 4 V with C = 100 µF: Q = CV = 400 µC; E = ½CV² = 0.8 mJ. Equal and opposite plate charges are shown.",
+      "At 6 V with C = 100 µF: Q = CV = 600 µC; E = ½CV² = 1.8 mJ. Equal and opposite plate charges are shown."
+    ],
+    "limits": "Ideal capacitor with fixed capacitance; leakage, resistance and breakdown omitted. No discharge-time prediction.",
+    "misconception": "Charge does not normally cross an intact dielectric during charging.",
+    "terms": {
+      "Capacitance": "Charge stored per volt.",
+      "Dielectric": "Insulating material between conductors."
+    },
+    "sources": [
+      {
+        "title": "OpenStax: capacitors and dielectrics",
+        "url": "https://openstax.org/books/college-physics-2e/pages/19-5-capacitors-and-dielectrics",
+        "reviewed": "2026-10-23"
+      }
+    ],
+    "stageStates": [
+      0,
+      1,
+      2,
+      3
+    ],
+    "visualMechanism": "Original labeled SVG; How a Capacitor Stores Energy",
+    "interaction": {
+      "label": "Choose voltage across 100 µF",
+      "options": [
+        "0 V",
+        "2 V",
+        "4 V",
+        "6 V"
+      ]
+    },
+    "implementation": "implemented",
+    "tests": "passed: 108 model/registry checks; all 100 lessons in 200 live desktop/mobile journeys; baseline and focused accessibility qualification",
+    "deployment": "verified live on deployment 551f393d-5021-4d80-bc63-278033e796c0; all 100 routes and 218 exact file hashes"
+  },
+  {
+    "id": 64,
+    "title": "How Induction Cooking Heats a Pan",
+    "slug": "induction-cooking",
+    "category": "Electricity and energy",
+    "objective": "Trace energy from an AC coil to a compatible pan.",
+    "control": {
+      "label": "Choose coil and cookware",
+      "options": [
+        "Coil off",
+        "Compatible pan",
+        "Unsuitable pan",
+        "Pan removed"
+      ]
+    },
+    "stages": [
+      {
+        "title": "Coil",
+        "text": "Electronics drive alternating current through a coil under the surface."
+      },
+      {
+        "title": "Field",
+        "text": "Changing magnetic fields couple to compatible cookware."
+      },
+      {
+        "title": "Pan",
+        "text": "Induced currents and magnetic losses generate heat in the pan."
+      },
+      {
+        "title": "Food",
+        "text": "Heat conducts through the pan into food; the surface can become hot from the pan."
+      }
+    ],
+    "activityStates": [
+      "Coil off: no driven induction heating; cookware may still retain heat.",
+      "Compatible pan above an energized coil: magnetic coupling creates heat in the pan.",
+      "This unsuitable pan couples poorly; this teaching model shows no useful induction heating.",
+      "Pan removed: a pan-detection controller stops the illustrated drive; real designs vary."
+    ],
+    "limits": "Qualitative compatible-cookware model; no power, efficiency, temperatures or appliance safety behavior predicted.",
+    "misconception": "An induction surface can still become hot from the cookware.",
+    "terms": {
+      "Induction": "Electrical effects caused by changing magnetic flux.",
+      "Coupling": "Transfer through interacting fields."
+    },
+    "sources": [
+      {
+        "title": "DOE: induction cooking",
+        "url": "https://www.energy.gov/articles/making-switch-induction-stoves-or-cooktops",
+        "reviewed": "2026-10-23"
+      }
+    ],
+    "stageStates": [
+      0,
+      1,
+      1,
+      1
+    ],
+    "visualMechanism": "Original labeled SVG; How Induction Cooking Heats a Pan",
+    "interaction": {
+      "label": "Choose coil and cookware",
+      "options": [
+        "Coil off",
+        "Compatible pan",
+        "Unsuitable pan",
+        "Pan removed"
+      ]
+    },
+    "implementation": "implemented",
+    "tests": "passed: 108 model/registry checks; all 100 lessons in 200 live desktop/mobile journeys; baseline and focused accessibility qualification",
+    "deployment": "verified live on deployment 551f393d-5021-4d80-bc63-278033e796c0; all 100 routes and 218 exact file hashes"
+  },
+  {
+    "id": 65,
+    "title": "How a Microwave Oven Transfers Energy",
+    "slug": "microwave-heating",
+    "category": "Electricity and energy",
+    "objective": "Distinguish dielectric heating from heating only at a food surface.",
+    "control": {
+      "label": "Choose food snapshot",
+      "options": [
+        "Field off",
+        "Moist food",
+        "Uneven heating",
+        "Standing time"
+      ]
+    },
+    "stages": [
+      {
+        "title": "Source",
+        "text": "A microwave source sends electromagnetic energy into a metal cavity."
+      },
+      {
+        "title": "Absorption",
+        "text": "Polar molecules and ions respond to the changing electric field and dissipate energy."
+      },
+      {
+        "title": "Distribution",
+        "text": "Field patterns and food properties can produce hot and cold regions."
+      },
+      {
+        "title": "Conduction",
+        "text": "Heat moves within food during and after exposure; standing time can reduce differences."
+      }
+    ],
+    "activityStates": [
+      "Source off: no microwave energy added; stored heat can still move.",
+      "Moist food absorbs microwave energy through dielectric loss; depth depends on composition.",
+      "A nonuniform field and food geometry create unequal heating in this schematic.",
+      "Source off during standing: conduction redistributes existing heat; uniformity is not guaranteed."
+    ],
+    "limits": "Qualitative energy map; not cooking or sterilization guidance. No frequency-specific penetration depth, temperature or safe exposure prediction.",
+    "misconception": "Microwaves do not always heat food uniformly or from the center outward.",
+    "terms": {
+      "Dielectric heating": "Dissipation of electrical-field energy in material.",
+      "Conduction": "Heat transfer through material due to temperature differences."
+    },
+    "sources": [
+      {
+        "title": "FDA: microwave ovens",
+        "url": "https://www.fda.gov/radiation-emitting-products/resources-you-radiation-emitting-products/microwave-ovens",
+        "reviewed": "2026-10-23"
+      }
+    ],
+    "stageStates": [
+      1,
+      1,
+      2,
+      3
+    ],
+    "visualMechanism": "Original labeled SVG; How a Microwave Oven Transfers Energy",
+    "interaction": {
+      "label": "Choose food snapshot",
+      "options": [
+        "Field off",
+        "Moist food",
+        "Uneven heating",
+        "Standing time"
+      ]
+    },
+    "implementation": "implemented",
+    "tests": "passed: 108 model/registry checks; all 100 lessons in 200 live desktop/mobile journeys; baseline and focused accessibility qualification",
+    "deployment": "verified live on deployment 551f393d-5021-4d80-bc63-278033e796c0; all 100 routes and 218 exact file hashes"
+  },
+  {
+    "id": 66,
+    "title": "How a Heat Pump Warms a Home",
+    "slug": "heat-pump-heating",
+    "category": "Electricity and energy",
+    "objective": "Account for outside heat and electrical work delivered indoors.",
+    "control": {
+      "label": "Choose illustrative heating COP",
+      "options": [
+        "1",
+        "2",
+        "3",
+        "4"
+      ]
+    },
+    "stages": [
+      {
+        "title": "Outdoor coil",
+        "text": "Refrigerant absorbs energy outdoors, even when the outdoor air feels cold."
+      },
+      {
+        "title": "Compressor",
+        "text": "Electrical work raises refrigerant pressure and temperature."
+      },
+      {
+        "title": "Indoor coil",
+        "text": "Refrigerant gives up heat inside the home."
+      },
+      {
+        "title": "Energy balance",
+        "text": "Indoor heat equals absorbed outdoor heat plus input work; COP compares heat delivered with work input."
+      }
+    ],
+    "activityStates": [
+      "For 1 kW electrical input and invented heating COP 1: indoor heat = 1 kW; outside heat absorbed = 0 kW. Energy balance: 0 + 1 = 1 kW.",
+      "For 1 kW electrical input and invented heating COP 2: indoor heat = 2 kW; outside heat absorbed = 1 kW. Energy balance: 1 + 1 = 2 kW.",
+      "For 1 kW electrical input and invented heating COP 3: indoor heat = 3 kW; outside heat absorbed = 2 kW. Energy balance: 2 + 1 = 3 kW.",
+      "For 1 kW electrical input and invented heating COP 4: indoor heat = 4 kW; outside heat absorbed = 3 kW. Energy balance: 3 + 1 = 4 kW."
+    ],
+    "limits": "Invented steady-state COP values, not weather or equipment predictions. Defrost, fans and backup heat omitted.",
+    "misconception": "COP above one does not create energy; the pump also moves heat from outside.",
+    "terms": {
+      "COP": "Heat delivered divided by work input for heating.",
+      "Refrigerant": "Working fluid carrying energy through the cycle."
+    },
+    "sources": [
+      {
+        "title": "DOE: heat pump systems",
+        "url": "https://www.energy.gov/energysaver/heat-pump-systems",
+        "reviewed": "2026-10-23"
+      }
+    ],
+    "stageStates": [
+      2,
+      2,
+      2,
+      3
+    ],
+    "visualMechanism": "Original labeled SVG; How a Heat Pump Warms a Home",
+    "interaction": {
+      "label": "Choose illustrative heating COP",
+      "options": [
+        "1",
+        "2",
+        "3",
+        "4"
+      ]
+    },
+    "implementation": "implemented",
+    "tests": "passed: 108 model/registry checks; all 100 lessons in 200 live desktop/mobile journeys; baseline and focused accessibility qualification",
+    "deployment": "verified live on deployment 551f393d-5021-4d80-bc63-278033e796c0; all 100 routes and 218 exact file hashes"
+  },
+  {
+    "id": 67,
+    "title": "How Insulation Slows Heat Flow",
+    "slug": "insulation-heat-flow",
+    "category": "Electricity and energy",
+    "objective": "Compare steady conduction through different thermal resistances.",
+    "control": {
+      "label": "Choose thermal resistance R",
+      "options": [
+        "1 K/W",
+        "2 K/W",
+        "4 K/W",
+        "8 K/W"
+      ]
+    },
+    "stages": [
+      {
+        "title": "Temperature difference",
+        "text": "A warmer region transfers energy toward a cooler region."
+      },
+      {
+        "title": "Material",
+        "text": "Insulation adds resistance to heat flow."
+      },
+      {
+        "title": "Rate",
+        "text": "In this lumped model, heat flow rate equals temperature difference divided by resistance."
+      },
+      {
+        "title": "Limits",
+        "text": "Air leakage and thermal bridges can bypass insulated paths in real buildings."
+      }
+    ],
+    "activityStates": [
+      "With a fixed 20 K temperature difference and R = 1 K/W: heat flow = 20 / 1 = 20 W. This is a whole-path resistance, not a labeled building R-value.",
+      "With a fixed 20 K temperature difference and R = 2 K/W: heat flow = 20 / 2 = 10 W. This is a whole-path resistance, not a labeled building R-value.",
+      "With a fixed 20 K temperature difference and R = 4 K/W: heat flow = 20 / 4 = 5 W. This is a whole-path resistance, not a labeled building R-value.",
+      "With a fixed 20 K temperature difference and R = 8 K/W: heat flow = 20 / 8 = 2.5 W. This is a whole-path resistance, not a labeled building R-value."
+    ],
+    "limits": "One-dimensional steady conduction with fixed temperatures; no air leaks, moisture, radiation or thermal bridges. Units differ from area-based building R-values.",
+    "misconception": "Insulation slows heat transfer in both directions; it does not generate heat.",
+    "terms": {
+      "Thermal resistance": "Temperature difference per unit heat-transfer rate.",
+      "Thermal bridge": "A path with less resistance than adjacent insulated areas."
+    },
+    "sources": [
+      {
+        "title": "OpenStax: heat conduction",
+        "url": "https://openstax.org/books/college-physics-2e/pages/14-5-conduction",
+        "reviewed": "2026-10-23"
+      }
+    ],
+    "stageStates": [
+      0,
+      1,
+      2,
+      3
+    ],
+    "visualMechanism": "Original labeled SVG; How Insulation Slows Heat Flow",
+    "interaction": {
+      "label": "Choose thermal resistance R",
+      "options": [
+        "1 K/W",
+        "2 K/W",
+        "4 K/W",
+        "8 K/W"
+      ]
+    },
+    "implementation": "implemented",
+    "tests": "passed: 108 model/registry checks; all 100 lessons in 200 live desktop/mobile journeys; baseline and focused accessibility qualification",
+    "deployment": "verified live on deployment 551f393d-5021-4d80-bc63-278033e796c0; all 100 routes and 218 exact file hashes"
+  },
+  {
+    "id": 68,
+    "title": "How a Vacuum Flask Keeps Drinks Warm",
+    "slug": "vacuum-flask",
+    "category": "Electricity and energy",
+    "objective": "Separate conduction, convection and thermal radiation pathways.",
+    "control": {
+      "label": "Choose flask construction",
+      "options": [
+        "Single wall",
+        "Air gap",
+        "Vacuum gap",
+        "Vacuum and reflective wall"
+      ]
+    },
+    "stages": [
+      {
+        "title": "Single wall",
+        "text": "Heat passes through the wall and is exchanged with surroundings."
+      },
+      {
+        "title": "Gap",
+        "text": "A gap changes the path between inner and outer walls."
+      },
+      {
+        "title": "Vacuum",
+        "text": "Removing gas strongly reduces gas conduction and convection between walls."
+      },
+      {
+        "title": "Radiation and neck",
+        "text": "Reflective surfaces reduce radiative transfer; the neck and stopper still conduct heat."
+      }
+    ],
+    "activityStates": [
+      "Single wall: conduction through the wall and exchange with surrounding air remain.",
+      "Air gap: gas can conduct heat and may circulate within the gap.",
+      "Vacuum gap: very little gas conduction or convection; radiation and solid bridges remain.",
+      "Reflective vacuum flask: radiation is reduced too, but neck and stopper paths still leak heat."
+    ],
+    "limits": "Qualitative comparison, equal geometry assumed; no cooling time, perfect vacuum or product performance claim.",
+    "misconception": "Vacuum does not stop thermal radiation or conduction through solid supports.",
+    "terms": {
+      "Convection": "Heat transfer associated with bulk fluid movement.",
+      "Radiation": "Energy transfer by electromagnetic waves."
+    },
+    "sources": [
+      {
+        "title": "OpenStax: heat transfer methods",
+        "url": "https://openstax.org/books/college-physics-2e/pages/14-4-heat-transfer-methods",
+        "reviewed": "2026-10-23"
+      }
+    ],
+    "stageStates": [
+      0,
+      1,
+      2,
+      3
+    ],
+    "visualMechanism": "Original labeled SVG; How a Vacuum Flask Keeps Drinks Warm",
+    "interaction": {
+      "label": "Choose flask construction",
+      "options": [
+        "Single wall",
+        "Air gap",
+        "Vacuum gap",
+        "Vacuum and reflective wall"
+      ]
+    },
+    "implementation": "implemented",
+    "tests": "passed: 108 model/registry checks; all 100 lessons in 200 live desktop/mobile journeys; baseline and focused accessibility qualification",
+    "deployment": "verified live on deployment 551f393d-5021-4d80-bc63-278033e796c0; all 100 routes and 218 exact file hashes"
+  },
+  {
+    "id": 69,
+    "title": "How a Loudspeaker Makes Sound",
+    "slug": "loudspeaker",
+    "category": "Electricity and energy",
+    "objective": "Connect coil current, magnetic force and cone displacement.",
+    "control": {
+      "label": "Choose current snapshot",
+      "options": [
+        "Zero",
+        "Positive",
+        "Zero crossing",
+        "Negative"
+      ]
+    },
+    "stages": [
+      {
+        "title": "Magnet",
+        "text": "A permanent magnet creates a field across a narrow gap."
+      },
+      {
+        "title": "Voice coil",
+        "text": "A coil attached to a cone lies in that field."
+      },
+      {
+        "title": "Force",
+        "text": "Changing current creates a changing force on the coil."
+      },
+      {
+        "title": "Air",
+        "text": "Cone motion creates pressure variations that travel through air."
+      }
+    ],
+    "activityStates": [
+      "Zero current in this ideal static snapshot: cone at its rest position.",
+      "Positive current produces outward force; the schematic cone is displaced outward.",
+      "At zero current the force contribution is zero; an actual moving cone can still have velocity.",
+      "Negative current reverses force; the schematic cone is displaced inward."
+    ],
+    "limits": "Quasi-static displacement illustration; real suspension, inertia, enclosure and resonances omitted. No audio is played.",
+    "misconception": "Sound travels as pressure variations; air does not travel from speaker to listener as a single parcel.",
+    "terms": {
+      "Voice coil": "Wire coil mechanically attached to the cone.",
+      "Pressure variation": "Local change above or below ambient pressure."
+    },
+    "sources": [
+      {
+        "title": "OpenStax: magnetic force on a conductor",
+        "url": "https://openstax.org/books/college-physics-2e/pages/22-7-magnetic-force-on-a-current-carrying-conductor",
+        "reviewed": "2026-10-23"
+      }
+    ],
+    "stageStates": [
+      0,
+      1,
+      3,
+      1
+    ],
+    "visualMechanism": "Original labeled SVG; How a Loudspeaker Makes Sound",
+    "interaction": {
+      "label": "Choose current snapshot",
+      "options": [
+        "Zero",
+        "Positive",
+        "Zero crossing",
+        "Negative"
+      ]
+    },
+    "implementation": "implemented",
+    "tests": "passed: 108 model/registry checks; all 100 lessons in 200 live desktop/mobile journeys; baseline and focused accessibility qualification",
+    "deployment": "verified live on deployment 551f393d-5021-4d80-bc63-278033e796c0; all 100 routes and 218 exact file hashes"
+  },
+  {
+    "id": 70,
+    "title": "How a Dynamic Microphone Detects Sound",
+    "slug": "dynamic-microphone",
+    "category": "Electricity and energy",
+    "objective": "Follow vibration-to-voltage conversion and distinguish motion from position.",
+    "control": {
+      "label": "Choose diaphragm motion",
+      "options": [
+        "Stationary",
+        "Moving inward",
+        "Moving outward",
+        "Moving faster"
+      ]
+    },
+    "stages": [
+      {
+        "title": "Pressure",
+        "text": "Sound pressure drives a diaphragm back and forth."
+      },
+      {
+        "title": "Coil",
+        "text": "A small coil attached to it moves in a magnetic field."
+      },
+      {
+        "title": "Induction",
+        "text": "Motion changes the flux linkage and induces a signal voltage."
+      },
+      {
+        "title": "Signal",
+        "text": "Direction changes voltage polarity; speed affects magnitude in this simplified design."
+      }
+    ],
+    "activityStates": [
+      "Stationary coil: no motion-induced voltage in this ideal model.",
+      "Inward motion: positive normalized voltage +1 under the chosen sign convention.",
+      "Outward motion: negative normalized voltage −1 under the same convention.",
+      "Faster inward motion: normalized voltage +2; not a real sensitivity specification."
+    ],
+    "limits": "Ideal moving-coil microphone with invented relative voltages; no acoustical frequency response or real output level.",
+    "misconception": "A stationary displaced diaphragm does not keep generating a motion-induced voltage.",
+    "terms": {
+      "Diaphragm": "Flexible surface moved by sound pressure.",
+      "Induced voltage": "Voltage generated by changing magnetic flux linkage."
+    },
+    "sources": [
+      {
+        "title": "OpenStax: electromagnetic induction",
+        "url": "https://openstax.org/books/college-physics-2e/pages/23-1-induced-emf-and-magnetic-flux",
+        "reviewed": "2026-10-23"
+      }
+    ],
+    "stageStates": [
+      0,
+      1,
+      2,
+      3
+    ],
+    "visualMechanism": "Original labeled SVG; How a Dynamic Microphone Detects Sound",
+    "interaction": {
+      "label": "Choose diaphragm motion",
+      "options": [
+        "Stationary",
+        "Moving inward",
+        "Moving outward",
+        "Moving faster"
+      ]
+    },
+    "implementation": "implemented",
+    "tests": "passed: 108 model/registry checks; all 100 lessons in 200 live desktop/mobile journeys; baseline and focused accessibility qualification",
+    "deployment": "verified live on deployment 551f393d-5021-4d80-bc63-278033e796c0; all 100 routes and 218 exact file hashes"
+  },
+  {
+    "id": 71,
+    "title": "How Binary Numbers Represent a Count",
+    "slug": "binary-numbers",
+    "category": "Computers and communication",
+    "objective": "Read four binary places as weighted powers of two.",
+    "control": {
+      "label": "Choose four-bit pattern",
+      "options": [
+        "0000",
+        "0011",
+        "1010",
+        "1111"
+      ]
+    },
+    "stages": [
+      {
+        "title": "Places",
+        "text": "Four bit positions carry weights 8, 4, 2 and 1 from left to right."
+      },
+      {
+        "title": "Bits",
+        "text": "Each bit is either zero or one; one includes that place value."
+      },
+      {
+        "title": "Sum",
+        "text": "Add the included weights to get the unsigned number."
+      },
+      {
+        "title": "Range",
+        "text": "Four unsigned bits represent sixteen distinct values, zero through fifteen."
+      }
+    ],
+    "activityStates": [
+      "0000 = 0: no place values included.",
+      "0011 = 2 + 1 = 3.",
+      "1010 = 8 + 2 = 10.",
+      "1111 = 8 + 4 + 2 + 1 = 15; the next count needs another bit."
+    ],
+    "limits": "Four-bit unsigned integers only; no signed numbers, floating point or physical voltage levels.",
+    "misconception": "Binary 10 represents two, not ten in decimal.",
+    "terms": {
+      "Bit": "A binary digit.",
+      "Place value": "Weight assigned to a digit position."
+    },
+    "sources": [
+      {
+        "title": "OpenStax: machine-level information representation",
+        "url": "https://openstax.org/books/introduction-computer-science/pages/5-3-machine-level-information-representation",
+        "reviewed": "2026-10-23"
+      }
+    ],
+    "stageStates": [
+      0,
+      1,
+      2,
+      3
+    ],
+    "visualMechanism": "Original labeled SVG; How Binary Numbers Represent a Count",
+    "interaction": {
+      "label": "Choose four-bit pattern",
+      "options": [
+        "0000",
+        "0011",
+        "1010",
+        "1111"
+      ]
+    },
+    "implementation": "implemented",
+    "tests": "passed: 108 model/registry checks; all 100 lessons in 200 live desktop/mobile journeys; baseline and focused accessibility qualification",
+    "deployment": "verified live on deployment 551f393d-5021-4d80-bc63-278033e796c0; all 100 routes and 218 exact file hashes"
+  },
+  {
+    "id": 72,
+    "title": "How Logic Gates Combine Decisions",
+    "slug": "logic-gates",
+    "category": "Computers and communication",
+    "objective": "Compare AND, OR and XOR outputs for all two-input combinations.",
+    "control": {
+      "label": "Choose input bits A and B",
+      "options": [
+        "0 and 0",
+        "0 and 1",
+        "1 and 0",
+        "1 and 1"
+      ]
+    },
+    "stages": [
+      {
+        "title": "Inputs",
+        "text": "Two binary inputs enter each logic gate."
+      },
+      {
+        "title": "AND",
+        "text": "AND returns one only when both inputs are one."
+      },
+      {
+        "title": "OR",
+        "text": "OR returns one when at least one input is one."
+      },
+      {
+        "title": "XOR",
+        "text": "Exclusive OR returns one when exactly one input is one."
+      }
+    ],
+    "activityStates": [
+      "A=0, B=0: AND=0; OR=0; XOR=0.",
+      "A=0, B=1: AND=0; OR=1; XOR=1.",
+      "A=1, B=0: AND=0; OR=1; XOR=1.",
+      "A=1, B=1: AND=1; OR=1; XOR=0."
+    ],
+    "limits": "Ideal Boolean logic; propagation delay, power and electrical thresholds omitted.",
+    "misconception": "OR includes the both-true case; XOR excludes it.",
+    "terms": {
+      "Boolean": "Using two logical values.",
+      "Truth table": "Every input combination and its resulting output."
+    },
+    "sources": [
+      {
+        "title": "Nand2Tetris: Boolean logic project",
+        "url": "https://www.nand2tetris.org/project01",
+        "reviewed": "2026-10-23"
+      }
+    ],
+    "stageStates": [
+      0,
+      3,
+      1,
+      2
+    ],
+    "visualMechanism": "Original labeled SVG; How Logic Gates Combine Decisions",
+    "interaction": {
+      "label": "Choose input bits A and B",
+      "options": [
+        "0 and 0",
+        "0 and 1",
+        "1 and 0",
+        "1 and 1"
+      ]
+    },
+    "implementation": "implemented",
+    "tests": "passed: 108 model/registry checks; all 100 lessons in 200 live desktop/mobile journeys; baseline and focused accessibility qualification",
+    "deployment": "verified live on deployment 551f393d-5021-4d80-bc63-278033e796c0; all 100 routes and 218 exact file hashes"
+  },
+  {
+    "id": 73,
+    "title": "How a Transistor Acts as a Switch",
+    "slug": "transistor-switch",
+    "category": "Computers and communication",
+    "objective": "Use a gate signal to control a separate load-current path.",
+    "control": {
+      "label": "Choose idealized gate state",
+      "options": [
+        "Low",
+        "High",
+        "Low again",
+        "High again"
+      ]
+    },
+    "stages": [
+      {
+        "title": "Three terminals",
+        "text": "A MOSFET has gate, drain and source connections."
+      },
+      {
+        "title": "Gate control",
+        "text": "Gate voltage changes the conducting channel between drain and source."
+      },
+      {
+        "title": "Load path",
+        "text": "The gate signal controls current supplied by a separate load power source."
+      },
+      {
+        "title": "Switching",
+        "text": "A digital circuit uses defined low and high input ranges; intermediate behavior is omitted."
+      }
+    ],
+    "activityStates": [
+      "Gate low: ideal n-channel switch off; load current is zero.",
+      "Gate high: ideal switch on; a separate supply drives current through the load.",
+      "Gate returned low: channel off again; no steady ideal gate current.",
+      "Gate high again: channel on; charging the real gate during transitions still takes energy."
+    ],
+    "limits": "Ideal low-side n-channel enhancement MOSFET. No threshold values, parasitics or component selection. No circuit assembly.",
+    "misconception": "The gate does not supply the load power; it controls a different current path.",
+    "terms": {
+      "Gate": "Control terminal.",
+      "Channel": "Controllable conducting path between drain and source."
+    },
+    "sources": [
+      {
+        "title": "Toshiba: n-channel MOSFET operation",
+        "url": "https://toshiba.semicon-storage.com/us/semiconductor/knowledge/faq/mosfet/how-do-n-channel-mosfets-work.html",
+        "reviewed": "2026-10-23"
+      }
+    ],
+    "stageStates": [
+      0,
+      1,
+      1,
+      2
+    ],
+    "visualMechanism": "Original labeled SVG; How a Transistor Acts as a Switch",
+    "interaction": {
+      "label": "Choose idealized gate state",
+      "options": [
+        "Low",
+        "High",
+        "Low again",
+        "High again"
+      ]
+    },
+    "implementation": "implemented",
+    "tests": "passed: 108 model/registry checks; all 100 lessons in 200 live desktop/mobile journeys; baseline and focused accessibility qualification",
+    "deployment": "verified live on deployment 551f393d-5021-4d80-bc63-278033e796c0; all 100 routes and 218 exact file hashes"
+  },
+  {
+    "id": 74,
+    "title": "How a Cache Reuses an Earlier Result",
+    "slug": "cache-reuse",
+    "category": "Computers and communication",
+    "objective": "Distinguish cache hit, miss and stale-data invalidation.",
+    "control": {
+      "label": "Choose request snapshot",
+      "options": [
+        "First request",
+        "Repeat request",
+        "Source changes",
+        "Invalidate and reload"
+      ]
+    },
+    "stages": [
+      {
+        "title": "Request",
+        "text": "A client asks for a named resource."
+      },
+      {
+        "title": "Miss",
+        "text": "Without a reusable cached copy, the request reaches the source."
+      },
+      {
+        "title": "Hit",
+        "text": "A valid stored copy can satisfy a later request without retrieving the body again."
+      },
+      {
+        "title": "Freshness",
+        "text": "Expiration or invalidation is needed when reuse rules no longer permit the cached copy."
+      }
+    ],
+    "activityStates": [
+      "Cache miss: fetch version 1 from source and store a copy.",
+      "Cache hit: reuse valid version 1; no source-body retrieval in this example.",
+      "Source is now version 2; the still-fresh cached version 1 may be reused under the invented policy.",
+      "Invalidate version 1, retrieve version 2, then store the new copy."
+    ],
+    "limits": "Scripted independent snapshots, not a real browser cache. Headers, validators, eviction and concurrency omitted.",
+    "misconception": "Caching can improve speed while also allowing older data to remain visible.",
+    "terms": {
+      "Cache hit": "Request satisfied by a reusable stored response.",
+      "Invalidation": "Making a stored copy no longer reusable."
+    },
+    "sources": [
+      {
+        "title": "MDN: HTTP caching",
+        "url": "https://developer.mozilla.org/en-US/docs/Web/HTTP/Guides/Caching",
+        "reviewed": "2026-10-23"
+      }
+    ],
+    "stageStates": [
+      0,
+      0,
+      1,
+      3
+    ],
+    "visualMechanism": "Original labeled SVG; How a Cache Reuses an Earlier Result",
+    "interaction": {
+      "label": "Choose request snapshot",
+      "options": [
+        "First request",
+        "Repeat request",
+        "Source changes",
+        "Invalidate and reload"
+      ]
+    },
+    "implementation": "implemented",
+    "tests": "passed: 108 model/registry checks; all 100 lessons in 200 live desktop/mobile journeys; baseline and focused accessibility qualification",
+    "deployment": "verified live on deployment 551f393d-5021-4d80-bc63-278033e796c0; all 100 routes and 218 exact file hashes"
+  },
+  {
+    "id": 75,
+    "title": "How a Database Index Finds a Record",
+    "slug": "database-index",
+    "category": "Computers and communication",
+    "objective": "Compare scanning rows with navigating an ordered lookup structure.",
+    "control": {
+      "label": "Choose lookup approach",
+      "options": [
+        "Scan all rows",
+        "Use ordered index",
+        "Read matching row",
+        "Insert a row"
+      ]
+    },
+    "stages": [
+      {
+        "title": "Table",
+        "text": "Rows store records, which need not be physically ordered by the lookup key."
+      },
+      {
+        "title": "Index",
+        "text": "A separate ordered structure stores keys with references to rows."
+      },
+      {
+        "title": "Lookup",
+        "text": "Navigating the index narrows the search before fetching a matching row."
+      },
+      {
+        "title": "Cost",
+        "text": "Inserts and updates must maintain the index; faster reads can cost storage and write work."
+      }
+    ],
+    "activityStates": [
+      "Without an index, this five-row example checks keys until it finds 42 at the fifth row.",
+      "Ordered index compares 42 to 30, follows the right branch, and locates key 42.",
+      "The located entry points to row E; the table fetch returns the requested record.",
+      "Inserting key 35 adds a table row and requires an index entry too."
+    ],
+    "limits": "Tiny schematic B-tree-like example, not a database query planner or performance benchmark. Duplicates and page splits omitted.",
+    "misconception": "An index is an additional access structure; it need not reorder the table.",
+    "terms": {
+      "Index": "Key-based access structure.",
+      "Row reference": "Location or identifier used to retrieve a record."
+    },
+    "sources": [
+      {
+        "title": "PostgreSQL: introduction to indexes",
+        "url": "https://www.postgresql.org/docs/current/indexes-intro.html",
+        "reviewed": "2026-10-23"
+      }
+    ],
+    "stageStates": [
+      0,
+      1,
+      2,
+      3
+    ],
+    "visualMechanism": "Original labeled SVG; How a Database Index Finds a Record",
+    "interaction": {
+      "label": "Choose lookup approach",
+      "options": [
+        "Scan all rows",
+        "Use ordered index",
+        "Read matching row",
+        "Insert a row"
+      ]
+    },
+    "implementation": "implemented",
+    "tests": "passed: 108 model/registry checks; all 100 lessons in 200 live desktop/mobile journeys; baseline and focused accessibility qualification",
+    "deployment": "verified live on deployment 551f393d-5021-4d80-bc63-278033e796c0; all 100 routes and 218 exact file hashes"
+  },
+  {
+    "id": 76,
+    "title": "How Binary Search Narrows a List",
+    "slug": "binary-search",
+    "category": "Computers and communication",
+    "objective": "Follow a search interval that halves after each comparison.",
+    "control": {
+      "label": "Choose target in sorted list",
+      "options": [
+        "Find 3",
+        "Find 11",
+        "Find 15",
+        "Find 8 (absent)"
+      ]
+    },
+    "stages": [
+      {
+        "title": "Sorted order",
+        "text": "The example list is [1,3,5,7,9,11,13,15]. Binary search needs ordered values."
+      },
+      {
+        "title": "Middle",
+        "text": "Compare the target with the middle of the current interval."
+      },
+      {
+        "title": "Discard",
+        "text": "If the target is larger, discard the lower half; if smaller, discard the upper half."
+      },
+      {
+        "title": "Finish",
+        "text": "Stop on equality or when the interval becomes empty."
+      }
+    ],
+    "activityStates": [
+      "Target 3: compare 7, then 3. Found at zero-based index 1 in 2 comparisons.",
+      "Target 11: compare 7, then 11. Found at zero-based index 5 in 2 comparisons.",
+      "Target 15: compare 7, 11, 13, 15. Found at zero-based index 7 in 4 comparisons.",
+      "Target 8: compare 7, 11, 9. Interval becomes empty: not found after 3 comparisons."
+    ],
+    "limits": "Eight-element sorted array, lower-middle rule and zero-based indexing. This is an exact trace, not timing data.",
+    "misconception": "Halving an unsorted list cannot reliably discard values.",
+    "terms": {
+      "Interval": "The remaining range of candidate positions.",
+      "Comparison": "Test of target against a selected value."
+    },
+    "sources": [
+      {
+        "title": "NIST: binary search",
+        "url": "https://xlinux.nist.gov/dads/HTML/binarySearch.html",
+        "reviewed": "2026-10-23"
+      }
+    ],
+    "stageStates": [
+      0,
+      0,
+      1,
+      3
+    ],
+    "visualMechanism": "Original labeled SVG; How Binary Search Narrows a List",
+    "interaction": {
+      "label": "Choose target in sorted list",
+      "options": [
+        "Find 3",
+        "Find 11",
+        "Find 15",
+        "Find 8 (absent)"
+      ]
+    },
+    "implementation": "implemented",
+    "tests": "passed: 108 model/registry checks; all 100 lessons in 200 live desktop/mobile journeys; baseline and focused accessibility qualification",
+    "deployment": "verified live on deployment 551f393d-5021-4d80-bc63-278033e796c0; all 100 routes and 218 exact file hashes"
+  },
+  {
+    "id": 77,
+    "title": "How Public-Key Encryption Separates Keys",
+    "slug": "public-key-encryption",
+    "category": "Computers and communication",
+    "objective": "Distinguish a public encryption key from a private decryption key.",
+    "control": {
+      "label": "Choose message action",
+      "options": [
+        "Publish public key",
+        "Encrypt for recipient",
+        "Intercept ciphertext",
+        "Decrypt with private key"
+      ]
+    },
+    "stages": [
+      {
+        "title": "Key pair",
+        "text": "The recipient creates related public and private keys."
+      },
+      {
+        "title": "Public key",
+        "text": "A sender uses the intended recipient’s authenticated public key."
+      },
+      {
+        "title": "Ciphertext",
+        "text": "Encryption transforms plaintext into ciphertext; the public key alone should not enable decryption."
+      },
+      {
+        "title": "Private key",
+        "text": "The recipient uses the private key to recover the message in the conceptual scheme."
+      }
+    ],
+    "activityStates": [
+      "Recipient shares a public key and keeps the private key secret.",
+      "Sender encrypts HELLO for the recipient; the display substitutes an illustrative sealed message.",
+      "Observer sees the sealed ciphertext illustration and public key; plaintext is not displayed.",
+      "Recipient uses the matching private key: HELLO is shown again."
+    ],
+    "limits": "Symbolic illustration; no cryptographic algorithm runs. Real systems need secure parameters, key authentication and often hybrid encryption.",
+    "misconception": "Public-key encryption alone does not establish that a public key belongs to the intended person.",
+    "terms": {
+      "Public key": "Shareable part of an asymmetric key pair.",
+      "Private key": "Secret part used for the corresponding private operation."
+    },
+    "sources": [
+      {
+        "title": "Cloudflare: public-key cryptography",
+        "url": "https://www.cloudflare.com/learning/ssl/how-does-public-key-encryption-work/",
+        "reviewed": "2026-10-23"
+      }
+    ],
+    "stageStates": [
+      0,
+      1,
+      2,
+      3
+    ],
+    "visualMechanism": "Original labeled SVG; How Public-Key Encryption Separates Keys",
+    "interaction": {
+      "label": "Choose message action",
+      "options": [
+        "Publish public key",
+        "Encrypt for recipient",
+        "Intercept ciphertext",
+        "Decrypt with private key"
+      ]
+    },
+    "implementation": "implemented",
+    "tests": "passed: 108 model/registry checks; all 100 lessons in 200 live desktop/mobile journeys; baseline and focused accessibility qualification",
+    "deployment": "verified live on deployment 551f393d-5021-4d80-bc63-278033e796c0; all 100 routes and 218 exact file hashes"
+  },
+  {
+    "id": 78,
+    "title": "How Password Hashing Checks a Login",
+    "slug": "password-hashing",
+    "category": "Computers and communication",
+    "objective": "Compare verification with reversible password storage.",
+    "control": {
+      "label": "Choose login snapshot",
+      "options": [
+        "Create record",
+        "Correct attempt",
+        "Incorrect attempt",
+        "Same password, new salt"
+      ]
+    },
+    "stages": [
+      {
+        "title": "Registration",
+        "text": "A password hashing scheme derives a stored verifier from a password and a unique salt."
+      },
+      {
+        "title": "Storage",
+        "text": "Store the salt, parameters and verifier rather than plaintext password."
+      },
+      {
+        "title": "Verification",
+        "text": "Derive a verifier from an attempted password using the same salt and parameters."
+      },
+      {
+        "title": "Protection",
+        "text": "Slow, appropriate password hashing raises attack cost but cannot make weak passwords safe."
+      }
+    ],
+    "activityStates": [
+      "Toy record: password ORBIT with salt S1 maps to verifier A. No actual hashing is performed.",
+      "Attempt ORBIT with S1 maps to A: comparison matches.",
+      "Attempt OTHER with S1 maps to B: comparison does not match.",
+      "ORBIT with different salt S2 maps to C: the same password has a different stored verifier."
+    ],
+    "limits": "Fixed invented labels A/B/C, not hashes or a login service. No user data is accepted; algorithm selection and work factors omitted.",
+    "misconception": "A password verifier is compared, not decrypted; salts are stored openly and should be unique.",
+    "terms": {
+      "Salt": "Unique public value mixed into password derivation.",
+      "Verifier": "Stored output used to check an attempted password."
+    },
+    "sources": [
+      {
+        "title": "NIST SP 800-63B: authentication and password storage",
+        "url": "https://pages.nist.gov/800-63-4/sp800-63b.html",
+        "reviewed": "2026-10-23"
+      }
+    ],
+    "stageStates": [
+      0,
+      0,
+      1,
+      3
+    ],
+    "visualMechanism": "Original labeled SVG; How Password Hashing Checks a Login",
+    "interaction": {
+      "label": "Choose login snapshot",
+      "options": [
+        "Create record",
+        "Correct attempt",
+        "Incorrect attempt",
+        "Same password, new salt"
+      ]
+    },
+    "implementation": "implemented",
+    "tests": "passed: 108 model/registry checks; all 100 lessons in 200 live desktop/mobile journeys; baseline and focused accessibility qualification",
+    "deployment": "verified live on deployment 551f393d-5021-4d80-bc63-278033e796c0; all 100 routes and 218 exact file hashes"
+  },
+  {
+    "id": 79,
+    "title": "How a Parity Bit Detects Some Errors",
+    "slug": "parity-bit",
+    "category": "Computers and communication",
+    "objective": "Test the strengths and limits of a single even-parity check.",
+    "control": {
+      "label": "Choose received data plus parity",
+      "options": [
+        "1011 + 1",
+        "1001 + 1",
+        "0001 + 1",
+        "1011 + 0"
+      ]
+    },
+    "stages": [
+      {
+        "title": "Count",
+        "text": "Data 1011 contains three ones."
+      },
+      {
+        "title": "Add parity",
+        "text": "An even-parity sender adds one, making four ones in total."
+      },
+      {
+        "title": "Check",
+        "text": "The receiver checks whether the total number of ones is even."
+      },
+      {
+        "title": "Limits",
+        "text": "Any odd number of flipped bits changes parity; an even number can go undetected."
+      }
+    ],
+    "activityStates": [
+      "1011 plus parity 1: four ones, even. Check passes.",
+      "One data bit flipped to 1001: three total ones, odd. Error detected.",
+      "Two data bits flipped to 0001: two total ones, even. Error is not detected.",
+      "Parity bit flipped to 0: three total ones, odd. Error detected, but its location is unknown."
+    ],
+    "limits": "One even-parity bit, bit substitutions only. No error correction or identification of a corrupted bit.",
+    "misconception": "A passing parity check does not prove the data is unchanged.",
+    "terms": {
+      "Parity": "Whether the count of ones is even or odd.",
+      "Bit flip": "Change from zero to one or one to zero."
+    },
+    "sources": [
+      {
+        "title": "Carnegie Mellon: coding for error detection and correction",
+        "url": "https://users.ece.cmu.edu/~koopman/des_s99/coding/",
+        "reviewed": "2026-10-23"
+      }
+    ],
+    "stageStates": [
+      0,
+      0,
+      1,
+      2
+    ],
+    "visualMechanism": "Original labeled SVG; How a Parity Bit Detects Some Errors",
+    "interaction": {
+      "label": "Choose received data plus parity",
+      "options": [
+        "1011 + 1",
+        "1001 + 1",
+        "0001 + 1",
+        "1011 + 0"
+      ]
+    },
+    "implementation": "implemented",
+    "tests": "passed: 108 model/registry checks; all 100 lessons in 200 live desktop/mobile journeys; baseline and focused accessibility qualification",
+    "deployment": "verified live on deployment 551f393d-5021-4d80-bc63-278033e796c0; all 100 routes and 218 exact file hashes"
+  },
+  {
+    "id": 80,
+    "title": "How RGB Pixels Make a Color Image",
+    "slug": "rgb-pixels",
+    "category": "Computers and communication",
+    "objective": "Combine red, green and blue light at one display pixel.",
+    "control": {
+      "label": "Choose RGB levels (0–255)",
+      "options": [
+        "255, 0, 0",
+        "0, 255, 0",
+        "0, 0, 255",
+        "255, 255, 255"
+      ]
+    },
+    "stages": [
+      {
+        "title": "Subpixels",
+        "text": "A simplified display pixel has red, green and blue light-emitting or light-filtering subpixels."
+      },
+      {
+        "title": "Levels",
+        "text": "Electronic control varies each subpixel’s output."
+      },
+      {
+        "title": "Additive mixing",
+        "text": "The eye receives the combined light from nearby subpixels."
+      },
+      {
+        "title": "Image",
+        "text": "A grid of differently controlled pixels forms the picture."
+      }
+    ],
+    "activityStates": [
+      "Red channel 255, green 0, blue 0: red output in the simplified RGB model.",
+      "Red 0, green 255, blue 0: green output.",
+      "Red 0, green 0, blue 255: blue output.",
+      "All channels 255: reference white in this simplified display space."
+    ],
+    "limits": "Illustrative 8-bit RGB channels; actual primaries, gamma, brightness, viewing conditions and pixel layouts vary.",
+    "misconception": "Display color adds light; it does not mix pigments like paint.",
+    "terms": {
+      "Subpixel": "A controllable color component of a display pixel.",
+      "Additive color": "Color mixing by combining light."
+    },
+    "sources": [
+      {
+        "title": "OpenStax: color and color vision",
+        "url": "https://openstax.org/books/college-physics-2e/pages/26-3-color-and-color-vision",
+        "reviewed": "2026-10-23"
+      }
+    ],
+    "stageStates": [
+      0,
+      1,
+      3,
+      3
+    ],
+    "visualMechanism": "Original labeled SVG; How RGB Pixels Make a Color Image",
+    "interaction": {
+      "label": "Choose RGB levels (0–255)",
+      "options": [
+        "255, 0, 0",
+        "0, 255, 0",
+        "0, 0, 255",
+        "255, 255, 255"
+      ]
+    },
+    "implementation": "implemented",
+    "tests": "passed: 108 model/registry checks; all 100 lessons in 200 live desktop/mobile journeys; baseline and focused accessibility qualification",
+    "deployment": "verified live on deployment 551f393d-5021-4d80-bc63-278033e796c0; all 100 routes and 218 exact file hashes"
+  },
+  {
+    "id": 81,
+    "title": "How Insulin Helps Regulate Blood Glucose",
+    "slug": "insulin-feedback",
+    "category": "The human body",
+    "objective": "Trace a qualitative negative-feedback loop after a meal.",
+    "control": {
+      "label": "Choose feedback snapshot",
+      "options": [
+        "Before meal",
+        "Glucose rises",
+        "Insulin response",
+        "Return toward balance"
+      ]
+    },
+    "stages": [
+      {
+        "title": "Input",
+        "text": "Absorbed nutrients can raise blood glucose after a meal."
+      },
+      {
+        "title": "Sensor and signal",
+        "text": "Pancreatic beta cells sense glucose and can release insulin."
+      },
+      {
+        "title": "Response",
+        "text": "Insulin helps muscle and fat take up glucose and helps regulate liver glucose production and storage."
+      },
+      {
+        "title": "Feedback",
+        "text": "As glucose falls toward the regulated range, the stimulus for insulin release decreases."
+      }
+    ],
+    "activityStates": [
+      "Between meals: the body balances glucose use and production; insulin is not simply absent.",
+      "After a meal: rising glucose stimulates beta-cell insulin release in this healthy schematic.",
+      "Insulin signaling promotes glucose uptake in muscle and fat and changes liver metabolism.",
+      "As glucose approaches balance, beta-cell stimulation decreases; other hormones also contribute."
+    ],
+    "limits": "Qualitative healthy feedback, no concentrations, timing, diabetes model or treatment guidance.",
+    "misconception": "Insulin is a signal, not a substance that chemically destroys glucose.",
+    "terms": {
+      "Beta cell": "Pancreatic cell that secretes insulin.",
+      "Negative feedback": "A response that reduces the initiating change."
+    },
+    "sources": [
+      {
+        "title": "NIDDK: insulin resistance and prediabetes",
+        "url": "https://www.niddk.nih.gov/health-information/diabetes/overview/what-is-diabetes/prediabetes-insulin-resistance",
+        "reviewed": "2026-10-23"
+      }
+    ],
+    "stageStates": [
+      1,
+      1,
+      2,
+      3
+    ],
+    "visualMechanism": "Original labeled SVG; How Insulin Helps Regulate Blood Glucose",
+    "interaction": {
+      "label": "Choose feedback snapshot",
+      "options": [
+        "Before meal",
+        "Glucose rises",
+        "Insulin response",
+        "Return toward balance"
+      ]
+    },
+    "implementation": "implemented",
+    "tests": "passed: 108 model/registry checks; all 100 lessons in 200 live desktop/mobile journeys; baseline and focused accessibility qualification",
+    "deployment": "verified live on deployment 551f393d-5021-4d80-bc63-278033e796c0; all 100 routes and 218 exact file hashes"
+  },
+  {
+    "id": 82,
+    "title": "How Blood Forms a Clot",
+    "slug": "blood-clotting",
+    "category": "The human body",
+    "objective": "Connect vessel response, platelet plugging and fibrin reinforcement.",
+    "control": {
+      "label": "Choose clotting stage",
+      "options": [
+        "Intact vessel",
+        "Platelet plug",
+        "Fibrin network",
+        "Repair and removal"
+      ]
+    },
+    "stages": [
+      {
+        "title": "Damage",
+        "text": "A damaged vessel exposes surfaces and signals normally separated from flowing blood."
+      },
+      {
+        "title": "Platelets",
+        "text": "Platelets adhere, activate and recruit more platelets to form a plug."
+      },
+      {
+        "title": "Coagulation",
+        "text": "A coordinated cascade produces fibrin, which reinforces the plug."
+      },
+      {
+        "title": "Resolution",
+        "text": "Repair and regulated clot breakdown help restore normal flow."
+      }
+    ],
+    "activityStates": [
+      "Intact vessel: blood remains fluid; no injury plug is shown.",
+      "Injury: activated platelets gather at the damaged wall.",
+      "Fibrin fibers reinforce the platelet plug and entrap blood cells.",
+      "After repair, controlled breakdown removes the clot; timing is not simulated."
+    ],
+    "limits": "Highly simplified hemostasis, not a bleeding or thrombosis assessment. No timing, medication effects or medical guidance.",
+    "misconception": "A clot is not made only of dried blood; platelets and a fibrin network have distinct roles.",
+    "terms": {
+      "Platelet": "Cell fragment participating in hemostasis.",
+      "Fibrin": "Insoluble protein fibers reinforcing a clot."
+    },
+    "sources": [
+      {
+        "title": "OpenStax: hemostasis",
+        "url": "https://openstax.org/books/anatomy-and-physiology-2e/pages/18-5-hemostasis",
+        "reviewed": "2026-10-23"
+      }
+    ],
+    "stageStates": [
+      1,
+      1,
+      2,
+      3
+    ],
+    "visualMechanism": "Original labeled SVG; How Blood Forms a Clot",
+    "interaction": {
+      "label": "Choose clotting stage",
+      "options": [
+        "Intact vessel",
+        "Platelet plug",
+        "Fibrin network",
+        "Repair and removal"
+      ]
+    },
+    "implementation": "implemented",
+    "tests": "passed: 108 model/registry checks; all 100 lessons in 200 live desktop/mobile journeys; baseline and focused accessibility qualification",
+    "deployment": "verified live on deployment 551f393d-5021-4d80-bc63-278033e796c0; all 100 routes and 218 exact file hashes"
+  },
+  {
+    "id": 83,
+    "title": "How a Broken Bone Repairs",
+    "slug": "bone-repair",
+    "category": "The human body",
+    "objective": "Distinguish hematoma, callus formation and remodeling.",
+    "control": {
+      "label": "Choose repair stage",
+      "options": [
+        "Hematoma",
+        "Soft callus",
+        "Hard callus",
+        "Remodeling"
+      ]
+    },
+    "stages": [
+      {
+        "title": "Hematoma",
+        "text": "Broken blood vessels form a local hematoma and an inflammatory response begins."
+      },
+      {
+        "title": "Soft callus",
+        "text": "Repair tissue bridges the fracture with a fibrocartilaginous callus."
+      },
+      {
+        "title": "Hard callus",
+        "text": "Bony tissue replaces much of the soft callus."
+      },
+      {
+        "title": "Remodeling",
+        "text": "Bone is reorganized over time in response to mechanical and biological signals."
+      }
+    ],
+    "activityStates": [
+      "Hematoma and early inflammatory response surround the fracture.",
+      "A soft callus bridges the break; it is not mature bone.",
+      "A hard bony callus replaces much of the temporary bridge.",
+      "Remodeling reshapes and reorganizes bone; original geometry is not guaranteed."
+    ],
+    "limits": "Typical conceptual sequence; overlapping stages, alignment, health and treatment affect outcomes. No recovery timeline or loading advice.",
+    "misconception": "Newly bridged bone is not instantly as strong or shaped like the original.",
+    "terms": {
+      "Callus": "Repair tissue forming a bridge at a fracture.",
+      "Remodeling": "Ongoing removal and formation of bone tissue."
+    },
+    "sources": [
+      {
+        "title": "OpenStax: fractures and bone repair",
+        "url": "https://openstax.org/books/anatomy-and-physiology-2e/pages/6-5-fractures-bone-repair",
+        "reviewed": "2026-10-23"
+      }
+    ],
+    "stageStates": [
+      0,
+      1,
+      2,
+      3
+    ],
+    "visualMechanism": "Original labeled SVG; How a Broken Bone Repairs",
+    "interaction": {
+      "label": "Choose repair stage",
+      "options": [
+        "Hematoma",
+        "Soft callus",
+        "Hard callus",
+        "Remodeling"
+      ]
+    },
+    "implementation": "implemented",
+    "tests": "passed: 108 model/registry checks; all 100 lessons in 200 live desktop/mobile journeys; baseline and focused accessibility qualification",
+    "deployment": "verified live on deployment 551f393d-5021-4d80-bc63-278033e796c0; all 100 routes and 218 exact file hashes"
+  },
+  {
+    "id": 84,
+    "title": "How the Inner Ear Senses Motion",
+    "slug": "vestibular-balance",
+    "category": "The human body",
+    "objective": "Separate angular-motion sensing from gravity and linear acceleration.",
+    "control": {
+      "label": "Choose movement",
+      "options": [
+        "Head starts rotating",
+        "Steady rotation",
+        "Head stops",
+        "Head tilts"
+      ]
+    },
+    "stages": [
+      {
+        "title": "Canals",
+        "text": "Three semicircular canals are oriented to sense rotations in different planes."
+      },
+      {
+        "title": "Relative fluid motion",
+        "text": "When rotation changes, fluid inertia deflects a sensory structure containing hair cells."
+      },
+      {
+        "title": "Adaptation",
+        "text": "During sustained rotation the relative fluid response can diminish."
+      },
+      {
+        "title": "Otolith organs",
+        "text": "The utricle and saccule sense head orientation to gravity and linear acceleration."
+      }
+    ],
+    "activityStates": [
+      "Starting rotation: fluid inertia deflects the canal sensory structure.",
+      "Steady rotation: the canal signal can diminish as fluid catches up.",
+      "Stopping: relative fluid motion can briefly deflect the sensor in the opposite direction.",
+      "Tilting: gravity loads otolith structures; the canal and otolith systems provide different information."
+    ],
+    "limits": "Qualitative inner-ear model; no clinical interpretation or diagnostic movements. Vision and body-position signals omitted.",
+    "misconception": "Balance is not sensed by a single bubble level; multiple sensors and brain integration contribute.",
+    "terms": {
+      "Hair cell": "Sensory cell that changes signaling when mechanically deflected.",
+      "Otolith": "Small mineral crystal contributing mass to gravity-sensitive structures."
+    },
+    "sources": [
+      {
+        "title": "NIH NIDCD: how the body keeps its balance",
+        "url": "https://www.nidcd.nih.gov/health/balance-disorders",
+        "reviewed": "2026-10-23"
+      }
+    ],
+    "stageStates": [
+      0,
+      0,
+      1,
+      3
+    ],
+    "visualMechanism": "Original labeled SVG; How the Inner Ear Senses Motion",
+    "interaction": {
+      "label": "Choose movement",
+      "options": [
+        "Head starts rotating",
+        "Steady rotation",
+        "Head stops",
+        "Head tilts"
+      ]
+    },
+    "implementation": "implemented",
+    "tests": "passed: 108 model/registry checks; all 100 lessons in 200 live desktop/mobile journeys; baseline and focused accessibility qualification",
+    "deployment": "verified live on deployment 551f393d-5021-4d80-bc63-278033e796c0; all 100 routes and 218 exact file hashes"
+  },
+  {
+    "id": 85,
+    "title": "How Smell Begins in the Nose",
+    "slug": "sense-of-smell",
+    "category": "The human body",
+    "objective": "Trace odor molecules to receptor patterns and brain signals.",
+    "control": {
+      "label": "Choose sensory snapshot",
+      "options": [
+        "No odor input",
+        "Odor reaches receptors",
+        "Receptor pattern",
+        "Sustained exposure"
+      ]
+    },
+    "stages": [
+      {
+        "title": "Airflow",
+        "text": "Air carries odor molecules toward the olfactory region."
+      },
+      {
+        "title": "Dissolve",
+        "text": "Molecules enter mucus near sensory receptor cilia."
+      },
+      {
+        "title": "Receptors",
+        "text": "Odorants activate combinations of receptor types rather than a single universal smell detector."
+      },
+      {
+        "title": "Signals",
+        "text": "Neural patterns reach the olfactory bulb and brain; responses can adapt over time."
+      }
+    ],
+    "activityStates": [
+      "No selected odor stimulus: baseline activity is not drawn.",
+      "Odor molecules reach mucus and interact with compatible receptors.",
+      "A schematic combination of three receptor groups sends a pattern of signals to the bulb.",
+      "During sustained exposure, perceived intensity may diminish through adaptation; this does not prove the air is safe."
+    ],
+    "limits": "Invented receptor pattern, not molecular binding or exposure detection. No toxicity or smell-disorder assessment.",
+    "misconception": "Reduced awareness of an odor does not mean the substance has disappeared.",
+    "terms": {
+      "Olfactory": "Relating to smell.",
+      "Adaptation": "Change in sensory response during continued stimulation."
+    },
+    "sources": [
+      {
+        "title": "NIH NIDCD: how smell works",
+        "url": "https://www.nidcd.nih.gov/health/smell-disorders",
+        "reviewed": "2026-10-23"
+      }
+    ],
+    "stageStates": [
+      1,
+      1,
+      2,
+      3
+    ],
+    "visualMechanism": "Original labeled SVG; How Smell Begins in the Nose",
+    "interaction": {
+      "label": "Choose sensory snapshot",
+      "options": [
+        "No odor input",
+        "Odor reaches receptors",
+        "Receptor pattern",
+        "Sustained exposure"
+      ]
+    },
+    "implementation": "implemented",
+    "tests": "passed: 108 model/registry checks; all 100 lessons in 200 live desktop/mobile journeys; baseline and focused accessibility qualification",
+    "deployment": "verified live on deployment 551f393d-5021-4d80-bc63-278033e796c0; all 100 routes and 218 exact file hashes"
+  },
+  {
+    "id": 86,
+    "title": "How Taste Receptors Start a Signal",
+    "slug": "sense-of-taste",
+    "category": "The human body",
+    "objective": "Connect dissolved food chemicals to taste cells and sensory nerves.",
+    "control": {
+      "label": "Choose taste quality example",
+      "options": [
+        "Sweet",
+        "Salty",
+        "Sour",
+        "Bitter"
+      ]
+    },
+    "stages": [
+      {
+        "title": "Dissolve",
+        "text": "Food chemicals dissolve in saliva and reach taste pores."
+      },
+      {
+        "title": "Cells",
+        "text": "Different taste-cell pathways respond to qualities such as sweet, salty, sour, bitter and umami."
+      },
+      {
+        "title": "Signal",
+        "text": "Activated cells communicate with sensory nerve fibers."
+      },
+      {
+        "title": "Flavor",
+        "text": "The brain combines taste with smell, texture and temperature to form flavor perception."
+      }
+    ],
+    "activityStates": [
+      "Sweet example: a receptor-mediated pathway activates selected taste cells.",
+      "Salty example: ion-related pathways activate selected taste cells; real mechanisms vary with context.",
+      "Sour example: acidity activates proton-sensitive taste pathways.",
+      "Bitter example: a family of receptors triggers signaling; bitterness alone cannot identify a poison."
+    ],
+    "limits": "Four selected qualities, not the complete taste system. No concentration response, dietary advice or chemical testing.",
+    "misconception": "There are no strict tongue zones dedicated exclusively to one taste.",
+    "terms": {
+      "Taste bud": "Cluster containing taste cells.",
+      "Flavor": "Combined perception involving taste, smell and other sensations."
+    },
+    "sources": [
+      {
+        "title": "NIH NIDCD: how taste works",
+        "url": "https://www.nidcd.nih.gov/health/taste-disorders",
+        "reviewed": "2026-10-23"
+      }
+    ],
+    "stageStates": [
+      0,
+      1,
+      2,
+      3
+    ],
+    "visualMechanism": "Original labeled SVG; How Taste Receptors Start a Signal",
+    "interaction": {
+      "label": "Choose taste quality example",
+      "options": [
+        "Sweet",
+        "Salty",
+        "Sour",
+        "Bitter"
+      ]
+    },
+    "implementation": "implemented",
+    "tests": "passed: 108 model/registry checks; all 100 lessons in 200 live desktop/mobile journeys; baseline and focused accessibility qualification",
+    "deployment": "verified live on deployment 551f393d-5021-4d80-bc63-278033e796c0; all 100 routes and 218 exact file hashes"
+  },
+  {
+    "id": 87,
+    "title": "How Skin Forms a Living Barrier",
+    "slug": "skin-barrier",
+    "category": "The human body",
+    "objective": "Distinguish outer barrier, living epidermis and underlying dermis.",
+    "control": {
+      "label": "Choose barrier condition",
+      "options": [
+        "Intact surface",
+        "Water loss",
+        "Small surface break",
+        "Renewing surface"
+      ]
+    },
+    "stages": [
+      {
+        "title": "Layers",
+        "text": "The epidermis covers a deeper dermis with vessels, nerves and connective tissue."
+      },
+      {
+        "title": "Outer barrier",
+        "text": "Dead flattened outer cells and surrounding lipids limit water loss and entry of some substances."
+      },
+      {
+        "title": "Breach",
+        "text": "A break can disrupt the barrier and permit irritants or microbes to enter."
+      },
+      {
+        "title": "Renewal",
+        "text": "Cells produced deeper in the epidermis move outward and are eventually shed."
+      }
+    ],
+    "activityStates": [
+      "Intact outer layer: cells and lipids form a selective barrier.",
+      "Water can still diffuse outward; the intact barrier limits rather than eliminates loss.",
+      "Surface break: a gap interrupts protection and increases a possible entry path.",
+      "Renewal: newer cells move outward as old surface cells are shed."
+    ],
+    "limits": "Schematic skin cross-section; no wound care, permeability rate or diagnosis. Surface microbes and immune detail omitted.",
+    "misconception": "Skin is not an impermeable plastic sheet; it is a living, renewing barrier.",
+    "terms": {
+      "Epidermis": "Outer epithelial layer of skin.",
+      "Dermis": "Underlying connective tissue layer."
+    },
+    "sources": [
+      {
+        "title": "OpenStax: layers of the skin",
+        "url": "https://openstax.org/books/anatomy-and-physiology-2e/pages/5-1-layers-of-the-skin",
+        "reviewed": "2026-10-23"
+      }
+    ],
+    "stageStates": [
+      0,
+      0,
+      2,
+      3
+    ],
+    "visualMechanism": "Original labeled SVG; How Skin Forms a Living Barrier",
+    "interaction": {
+      "label": "Choose barrier condition",
+      "options": [
+        "Intact surface",
+        "Water loss",
+        "Small surface break",
+        "Renewing surface"
+      ]
+    },
+    "implementation": "implemented",
+    "tests": "passed: 108 model/registry checks; all 100 lessons in 200 live desktop/mobile journeys; baseline and focused accessibility qualification",
+    "deployment": "verified live on deployment 551f393d-5021-4d80-bc63-278033e796c0; all 100 routes and 218 exact file hashes"
+  },
+  {
+    "id": 88,
+    "title": "How Bile Helps Digest Fat",
+    "slug": "bile-fat-digestion",
+    "category": "The human body",
+    "objective": "Separate fat emulsification from enzymatic breakdown.",
+    "control": {
+      "label": "Choose digestive snapshot",
+      "options": [
+        "Large fat droplet",
+        "Bile disperses fat",
+        "Lipase acts",
+        "Products reach intestine lining"
+      ]
+    },
+    "stages": [
+      {
+        "title": "Production and storage",
+        "text": "The liver makes bile; the gallbladder stores and concentrates it."
+      },
+      {
+        "title": "Delivery",
+        "text": "Bile enters the small intestine through ducts."
+      },
+      {
+        "title": "Emulsification",
+        "text": "Bile salts help disperse large fat droplets and support micelle formation."
+      },
+      {
+        "title": "Digestion and absorption",
+        "text": "Lipase breaks down triglycerides; bile-associated structures help products reach the intestinal lining."
+      }
+    ],
+    "activityStates": [
+      "Large droplet: relatively little surface area is available to digestive enzymes.",
+      "Bile salts help disperse fat into smaller droplets, increasing accessible surface.",
+      "Lipase chemically breaks triglycerides into smaller digestion products.",
+      "Micelles help carry products to the intestinal surface; bile salts mostly remain in the lumen for later recycling."
+    ],
+    "limits": "Qualitative digestion, no meal quantities, enzyme rates, illness or dietary advice. Transport and recycling simplified.",
+    "misconception": "Bile is not the enzyme that cuts fat molecules apart.",
+    "terms": {
+      "Emulsification": "Dispersion into smaller droplets.",
+      "Lipase": "Enzyme catalyzing fat breakdown."
+    },
+    "sources": [
+      {
+        "title": "NIDDK: digestive system",
+        "url": "https://www.niddk.nih.gov/health-information/digestive-diseases/digestive-system-how-it-works",
+        "reviewed": "2026-10-23"
+      }
+    ],
+    "stageStates": [
+      0,
+      1,
+      1,
+      3
+    ],
+    "visualMechanism": "Original labeled SVG; How Bile Helps Digest Fat",
+    "interaction": {
+      "label": "Choose digestive snapshot",
+      "options": [
+        "Large fat droplet",
+        "Bile disperses fat",
+        "Lipase acts",
+        "Products reach intestine lining"
+      ]
+    },
+    "implementation": "implemented",
+    "tests": "passed: 108 model/registry checks; all 100 lessons in 200 live desktop/mobile journeys; baseline and focused accessibility qualification",
+    "deployment": "verified live on deployment 551f393d-5021-4d80-bc63-278033e796c0; all 100 routes and 218 exact file hashes"
+  },
+  {
+    "id": 89,
+    "title": "How Hemoglobin Carries Oxygen",
+    "slug": "hemoglobin-oxygen",
+    "category": "The human body",
+    "objective": "Trace reversible oxygen binding between lungs and tissues.",
+    "control": {
+      "label": "Choose red-cell location",
+      "options": [
+        "Before lungs",
+        "Lung capillary",
+        "Systemic artery",
+        "Active tissue"
+      ]
+    },
+    "stages": [
+      {
+        "title": "Carrier",
+        "text": "Red blood cells contain hemoglobin with oxygen-binding heme groups."
+      },
+      {
+        "title": "Loading",
+        "text": "In lung capillaries, oxygen diffuses into blood and binds reversibly."
+      },
+      {
+        "title": "Transport",
+        "text": "Circulating blood carries bound oxygen toward tissues."
+      },
+      {
+        "title": "Unloading",
+        "text": "Local conditions favor oxygen release; oxygen diffuses toward consuming cells."
+      }
+    ],
+    "activityStates": [
+      "Returning blood carries less oxygen than newly oxygenated blood, but usually is not oxygen-free.",
+      "In lungs, higher oxygen availability favors loading onto hemoglobin.",
+      "Arterial blood transports oxygen largely bound to hemoglobin; some is dissolved.",
+      "At active tissue, local oxygen demand and conditions favor unloading; not every binding site must empty."
+    ],
+    "limits": "Qualitative oxygen transport; no saturation values, altitude model, anemia assessment or medical monitoring.",
+    "misconception": "Oxygen-poor blood is not blue; both oxygenated and deoxygenated blood are red shades.",
+    "terms": {
+      "Hemoglobin": "Red-cell protein carrying most blood oxygen.",
+      "Reversible binding": "Attachment that can be undone as conditions change."
+    },
+    "sources": [
+      {
+        "title": "OpenStax: transport of gases",
+        "url": "https://openstax.org/books/anatomy-and-physiology-2e/pages/22-5-transport-of-gases",
+        "reviewed": "2026-10-23"
+      }
+    ],
+    "stageStates": [
+      0,
+      1,
+      2,
+      3
+    ],
+    "visualMechanism": "Original labeled SVG; How Hemoglobin Carries Oxygen",
+    "interaction": {
+      "label": "Choose red-cell location",
+      "options": [
+        "Before lungs",
+        "Lung capillary",
+        "Systemic artery",
+        "Active tissue"
+      ]
+    },
+    "implementation": "implemented",
+    "tests": "passed: 108 model/registry checks; all 100 lessons in 200 live desktop/mobile journeys; baseline and focused accessibility qualification",
+    "deployment": "verified live on deployment 551f393d-5021-4d80-bc63-278033e796c0; all 100 routes and 218 exact file hashes"
+  },
+  {
+    "id": 90,
+    "title": "How Light Helps Set the Body Clock",
+    "slug": "circadian-clock",
+    "category": "The human body",
+    "objective": "Connect light input, brain timing and sleep-wake signals.",
+    "control": {
+      "label": "Choose timing snapshot",
+      "options": [
+        "Morning light",
+        "Daytime",
+        "Evening dimness",
+        "Light late at night"
+      ]
+    },
+    "stages": [
+      {
+        "title": "Light input",
+        "text": "Special retinal pathways send information about environmental light to brain timing circuits."
+      },
+      {
+        "title": "Central clock",
+        "text": "The suprachiasmatic nucleus helps coordinate daily rhythms."
+      },
+      {
+        "title": "Night signal",
+        "text": "In dim nighttime conditions the circadian system supports melatonin release."
+      },
+      {
+        "title": "Timing",
+        "text": "Light timing can shift rhythms; sleep pressure and behavior also affect sleep."
+      }
+    ],
+    "activityStates": [
+      "Morning light can provide a timing cue; the direction and size of a shift depend on internal clock time.",
+      "Daytime: central timing coordinates many body rhythms, not only sleep.",
+      "Evening dimness permits the normal nighttime melatonin signal in this schematic.",
+      "Late-night light can suppress melatonin and shift timing depending on exposure and biological phase."
+    ],
+    "limits": "Qualitative timing cues; no personalized sleep, lighting prescription, hormone level or medical advice.",
+    "misconception": "Melatonin is not an on/off switch that alone determines whether someone sleeps.",
+    "terms": {
+      "Circadian": "Approximately daily biological timing.",
+      "SCN": "Brain region helping coordinate circadian rhythms."
+    },
+    "sources": [
+      {
+        "title": "NIH NIGMS: circadian rhythms",
+        "url": "https://www.nigms.nih.gov/education/fact-sheets/Pages/circadian-rhythms.aspx",
+        "reviewed": "2026-10-23"
+      }
+    ],
+    "stageStates": [
+      0,
+      1,
+      2,
+      3
+    ],
+    "visualMechanism": "Original labeled SVG; How Light Helps Set the Body Clock",
+    "interaction": {
+      "label": "Choose timing snapshot",
+      "options": [
+        "Morning light",
+        "Daytime",
+        "Evening dimness",
+        "Light late at night"
+      ]
+    },
+    "implementation": "implemented",
+    "tests": "passed: 108 model/registry checks; all 100 lessons in 200 live desktop/mobile journeys; baseline and focused accessibility qualification",
+    "deployment": "verified live on deployment 551f393d-5021-4d80-bc63-278033e796c0; all 100 routes and 218 exact file hashes"
+  },
+  {
+    "id": 91,
+    "title": "How Earth’s Tilt Creates Seasons",
+    "slug": "earth-seasons",
+    "category": "Everyday systems and the natural world",
+    "objective": "Connect axial tilt to sunlight angle and day length.",
+    "control": {
+      "label": "Choose orbital position",
+      "options": [
+        "June solstice",
+        "September equinox",
+        "December solstice",
+        "March equinox"
+      ]
+    },
+    "stages": [
+      {
+        "title": "Tilt",
+        "text": "Earth’s axis is tilted relative to its orbital plane and keeps approximately the same direction over a year."
+      },
+      {
+        "title": "June",
+        "text": "The Northern Hemisphere tilts toward the Sun, receiving more direct light and longer days."
+      },
+      {
+        "title": "December",
+        "text": "The Southern Hemisphere tilts toward the Sun six months later."
+      },
+      {
+        "title": "Equinox",
+        "text": "Near equinoxes neither hemisphere is tilted toward the Sun; day and night are approximately equal."
+      }
+    ],
+    "activityStates": [
+      "June solstice: Northern Hemisphere tilted toward the Sun; Southern Hemisphere toward winter.",
+      "September equinox: the terminator passes near both poles; roughly equal day and night.",
+      "December solstice: Southern Hemisphere tilted toward the Sun; Northern Hemisphere toward winter.",
+      "March equinox: roughly equal illumination of both hemispheres."
+    ],
+    "limits": "Schematic circular orbit, fixed 23.4° axial tilt; atmosphere, latitude-specific day length and climate lag omitted.",
+    "misconception": "Seasons are mainly due to axial tilt, not changing Earth-Sun distance.",
+    "terms": {
+      "Solstice": "One of the annual extremes in solar declination.",
+      "Equinox": "Time when the Sun crosses the celestial equator."
+    },
+    "sources": [
+      {
+        "title": "NASA: what causes seasons",
+        "url": "https://spaceplace.nasa.gov/seasons/en/",
+        "reviewed": "2026-10-23"
+      }
+    ],
+    "stageStates": [
+      0,
+      0,
+      2,
+      1
+    ],
+    "visualMechanism": "Original labeled SVG; How Earth’s Tilt Creates Seasons",
+    "interaction": {
+      "label": "Choose orbital position",
+      "options": [
+        "June solstice",
+        "September equinox",
+        "December solstice",
+        "March equinox"
+      ]
+    },
+    "implementation": "implemented",
+    "tests": "passed: 108 model/registry checks; all 100 lessons in 200 live desktop/mobile journeys; baseline and focused accessibility qualification",
+    "deployment": "verified live on deployment 551f393d-5021-4d80-bc63-278033e796c0; all 100 routes and 218 exact file hashes"
+  },
+  {
+    "id": 92,
+    "title": "How the Moon’s Phases Change",
+    "slug": "moon-phases",
+    "category": "Everyday systems and the natural world",
+    "objective": "Relate the visible illuminated fraction to Sun-Earth-Moon geometry.",
+    "control": {
+      "label": "Choose phase",
+      "options": [
+        "New Moon",
+        "First quarter",
+        "Full Moon",
+        "Third quarter"
+      ]
+    },
+    "stages": [
+      {
+        "title": "Sunlight",
+        "text": "The Sun illuminates approximately half the Moon at any one time."
+      },
+      {
+        "title": "Orbit",
+        "text": "As the Moon orbits Earth, our viewing direction relative to the sunlit half changes."
+      },
+      {
+        "title": "Phase",
+        "text": "New, quarter and full phases show different fractions of that sunlit half."
+      },
+      {
+        "title": "No shadow needed",
+        "text": "Ordinary phases happen without Earth casting a shadow on the Moon."
+      }
+    ],
+    "activityStates": [
+      "New Moon: the sunlit side mostly faces away from Earth; the Moon lies in the Sun’s direction.",
+      "First quarter: about half the visible disk is illuminated; one quarter of the phase cycle has passed.",
+      "Full Moon: the sunlit side mostly faces Earth, with the Moon opposite the Sun in the sky.",
+      "Third quarter: half the disk is illuminated again, on the opposite side in this north-up view."
+    ],
+    "limits": "View from above Earth’s north pole plus idealized northern-view phase disk; tilt, libration and actual sky orientation omitted.",
+    "misconception": "The Moon’s phases are not caused by Earth’s shadow.",
+    "terms": {
+      "Phase": "Apparent illuminated shape seen from Earth.",
+      "Quarter Moon": "Half-lit disk at one quarter or three quarters of a phase cycle."
+    },
+    "sources": [
+      {
+        "title": "NASA: Moon phases",
+        "url": "https://science.nasa.gov/moon/moon-phases/",
+        "reviewed": "2026-10-23"
+      }
+    ],
+    "stageStates": [
+      0,
+      1,
+      2,
+      3
+    ],
+    "visualMechanism": "Original labeled SVG; How the Moon’s Phases Change",
+    "interaction": {
+      "label": "Choose phase",
+      "options": [
+        "New Moon",
+        "First quarter",
+        "Full Moon",
+        "Third quarter"
+      ]
+    },
+    "implementation": "implemented",
+    "tests": "passed: 108 model/registry checks; all 100 lessons in 200 live desktop/mobile journeys; baseline and focused accessibility qualification",
+    "deployment": "verified live on deployment 551f393d-5021-4d80-bc63-278033e796c0; all 100 routes and 218 exact file hashes"
+  },
+  {
+    "id": 93,
+    "title": "How a Solar Eclipse Casts a Shadow",
+    "slug": "solar-eclipse-shadow",
+    "category": "Everyday systems and the natural world",
+    "objective": "Distinguish normal new Moon alignment from partial, total and annular eclipse geometry.",
+    "control": {
+      "label": "Choose alignment",
+      "options": [
+        "New Moon misses",
+        "Partial eclipse",
+        "Total eclipse",
+        "Annular eclipse"
+      ]
+    },
+    "stages": [
+      {
+        "title": "Alignment",
+        "text": "Solar eclipses require the Moon between Earth and Sun near an orbital node."
+      },
+      {
+        "title": "Penumbra",
+        "text": "Observers in partial shadow see only part of the Sun blocked."
+      },
+      {
+        "title": "Umbra",
+        "text": "Where the Moon’s full shadow reaches Earth, observers can see totality."
+      },
+      {
+        "title": "Apparent size",
+        "text": "If the Moon appears too small to cover the Sun, an annular eclipse is possible."
+      }
+    ],
+    "activityStates": [
+      "New Moon away from the orbital node: shadow misses Earth; no eclipse for the illustrated observer.",
+      "Observer in penumbra: only part of the solar disk is obscured.",
+      "Observer in umbra: the Moon fully covers the solar disk in this schematic.",
+      "Observer in antumbra: the apparent Moon is smaller than the Sun, leaving a ring."
+    ],
+    "limits": "Not to scale; no dates, locations, visibility forecast or safe-viewing procedure. Never look directly at the Sun without appropriate protection.",
+    "misconception": "There is not a solar eclipse every new Moon because the Moon’s orbit is tilted.",
+    "terms": {
+      "Umbra": "Region where the light source is fully blocked.",
+      "Antumbra": "Region beyond the tip of the umbra where the occulter appears smaller."
+    },
+    "sources": [
+      {
+        "title": "NASA: eclipse geometry",
+        "url": "https://science.nasa.gov/eclipses/geometry/",
+        "reviewed": "2026-10-23"
+      }
+    ],
+    "stageStates": [
+      0,
+      1,
+      2,
+      3
+    ],
+    "visualMechanism": "Original labeled SVG; How a Solar Eclipse Casts a Shadow",
+    "interaction": {
+      "label": "Choose alignment",
+      "options": [
+        "New Moon misses",
+        "Partial eclipse",
+        "Total eclipse",
+        "Annular eclipse"
+      ]
+    },
+    "implementation": "implemented",
+    "tests": "passed: 108 model/registry checks; all 100 lessons in 200 live desktop/mobile journeys; baseline and focused accessibility qualification",
+    "deployment": "verified live on deployment 551f393d-5021-4d80-bc63-278033e796c0; all 100 routes and 218 exact file hashes"
+  },
+  {
+    "id": 94,
+    "title": "How the Moon and Sun Drive Tides",
+    "slug": "tides",
+    "category": "Everyday systems and the natural world",
+    "objective": "Relate tidal forcing to differences in gravitational pull and alignment.",
+    "control": {
+      "label": "Choose tide geometry",
+      "options": [
+        "Moon-only schematic",
+        "Sun aligned",
+        "Sun at right angle",
+        "Coastal response"
+      ]
+    },
+    "stages": [
+      {
+        "title": "Difference in pull",
+        "text": "Lunar gravity acts more strongly on Earth’s near side than its far side."
+      },
+      {
+        "title": "Two-sided pattern",
+        "text": "Relative to Earth’s center, tidal forcing stretches along the Earth-Moon line."
+      },
+      {
+        "title": "Sun",
+        "text": "Solar tidal forcing reinforces or partly offsets lunar forcing depending on alignment."
+      },
+      {
+        "title": "Coasts",
+        "text": "Continents, basin shape, rotation and resonance strongly alter actual local tides."
+      }
+    ],
+    "activityStates": [
+      "Moon-only equilibrium schematic: two opposing high-water regions align with the Earth-Moon axis.",
+      "Sun and Moon aligned: spring-tide forcing gives a larger modeled range.",
+      "Sun and Moon at right angles: neap-tide forcing gives a smaller modeled range.",
+      "A real coast can have delayed and unequal tides; this equilibrium picture is not a local forecast."
+    ],
+    "limits": "Equilibrium cartoon, no real coast or tide-height calculation. Relative sizes exaggerated; not navigation guidance.",
+    "misconception": "The far-side tide is not simply water pulled away from Earth by the Moon.",
+    "terms": {
+      "Tidal force": "Difference in gravitational acceleration across an extended body.",
+      "Spring tide": "Larger tidal range associated with aligned solar and lunar forcing."
+    },
+    "sources": [
+      {
+        "title": "NOAA: gravity, inertia and tides",
+        "url": "https://oceanservice.noaa.gov/education/tutorial_tides/tides03_gravity.html",
+        "reviewed": "2026-10-23"
+      }
+    ],
+    "stageStates": [
+      0,
+      0,
+      1,
+      3
+    ],
+    "visualMechanism": "Original labeled SVG; How the Moon and Sun Drive Tides",
+    "interaction": {
+      "label": "Choose tide geometry",
+      "options": [
+        "Moon-only schematic",
+        "Sun aligned",
+        "Sun at right angle",
+        "Coastal response"
+      ]
+    },
+    "implementation": "implemented",
+    "tests": "passed: 108 model/registry checks; all 100 lessons in 200 live desktop/mobile journeys; baseline and focused accessibility qualification",
+    "deployment": "verified live on deployment 551f393d-5021-4d80-bc63-278033e796c0; all 100 routes and 218 exact file hashes"
+  },
+  {
+    "id": 95,
+    "title": "How River Meanders Move",
+    "slug": "river-meanders",
+    "category": "Everyday systems and the natural world",
+    "objective": "Connect outer-bank erosion, sediment transport and inner-bank deposition.",
+    "control": {
+      "label": "Choose channel snapshot",
+      "options": [
+        "Curved channel",
+        "Outer-bank erosion",
+        "Inner-bank deposition",
+        "Cutoff"
+      ]
+    },
+    "stages": [
+      {
+        "title": "Bend",
+        "text": "Flow through a curved channel develops uneven velocity and secondary circulation."
+      },
+      {
+        "title": "Outer bank",
+        "text": "Erosion often removes material from an outer bank."
+      },
+      {
+        "title": "Inner bank",
+        "text": "Deposition often builds a point bar along the inner bank."
+      },
+      {
+        "title": "Migration",
+        "text": "Bends can migrate; a neck cutoff can leave an oxbow lake."
+      }
+    ],
+    "activityStates": [
+      "Curved channel: flow and sediment interact around a bend.",
+      "Outer-bank erosion shifts the channel outward in this idealized bend.",
+      "Inner-bank deposition builds a point bar as sediment is redistributed.",
+      "A new shorter path cuts the neck, leaving a separated old bend that may form an oxbow lake."
+    ],
+    "limits": "Conceptual unconfined alluvial river; geology, floods, bank stabilization and time scales omitted.",
+    "misconception": "A river bend does not grow by erosion alone; deposition and sediment transport also matter.",
+    "terms": {
+      "Point bar": "Deposited sediment on the inside of a bend.",
+      "Oxbow": "Abandoned loop of a river channel."
+    },
+    "sources": [
+      {
+        "title": "USGS: find a feature — meander",
+        "url": "https://www.usgs.gov/educational-resources/find-feature-meander",
+        "reviewed": "2026-10-23"
+      }
+    ],
+    "stageStates": [
+      0,
+      1,
+      2,
+      3
+    ],
+    "visualMechanism": "Original labeled SVG; How River Meanders Move",
+    "interaction": {
+      "label": "Choose channel snapshot",
+      "options": [
+        "Curved channel",
+        "Outer-bank erosion",
+        "Inner-bank deposition",
+        "Cutoff"
+      ]
+    },
+    "implementation": "implemented",
+    "tests": "passed: 108 model/registry checks; all 100 lessons in 200 live desktop/mobile journeys; baseline and focused accessibility qualification",
+    "deployment": "verified live on deployment 551f393d-5021-4d80-bc63-278033e796c0; all 100 routes and 218 exact file hashes"
+  },
+  {
+    "id": 96,
+    "title": "How Groundwater Moves Through an Aquifer",
+    "slug": "groundwater-aquifer",
+    "category": "Everyday systems and the natural world",
+    "objective": "Trace infiltration, saturated pores and hydraulic gradients.",
+    "control": {
+      "label": "Choose groundwater snapshot",
+      "options": [
+        "Infiltration",
+        "Water table",
+        "Groundwater flow",
+        "Pumping well"
+      ]
+    },
+    "stages": [
+      {
+        "title": "Recharge",
+        "text": "Some surface water infiltrates and percolates toward saturated material."
+      },
+      {
+        "title": "Storage",
+        "text": "Groundwater fills connected pore spaces or fractures below the water table."
+      },
+      {
+        "title": "Gradient",
+        "text": "Water generally moves from higher to lower hydraulic head through permeable paths."
+      },
+      {
+        "title": "Pumping",
+        "text": "A pumping well can lower nearby head and draw water from surrounding aquifer material."
+      }
+    ],
+    "activityStates": [
+      "Water infiltrates soil; some is retained or returned to air before reaching the aquifer.",
+      "Below the water table, connected pores are saturated with water.",
+      "Groundwater flows through connected spaces toward lower hydraulic head.",
+      "Pumping lowers nearby head into a cone of depression; impacts depend on pumping and aquifer properties."
+    ],
+    "limits": "Unconfined porous aquifer cartoon, no well yield, travel time, contamination safety or water availability prediction.",
+    "misconception": "Most groundwater is in pores and fractures, not underground rivers or hollow lakes.",
+    "terms": {
+      "Aquifer": "Permeable material that stores and transmits usable groundwater.",
+      "Hydraulic head": "Potential driving groundwater flow, combining elevation and pressure."
+    },
+    "sources": [
+      {
+        "title": "USGS: groundwater flow and the water cycle",
+        "url": "https://www.usgs.gov/water-science-school/science/groundwater-flow-and-water-cycle",
+        "reviewed": "2026-10-23"
+      }
+    ],
+    "stageStates": [
+      0,
+      1,
+      2,
+      3
+    ],
+    "visualMechanism": "Original labeled SVG; How Groundwater Moves Through an Aquifer",
+    "interaction": {
+      "label": "Choose groundwater snapshot",
+      "options": [
+        "Infiltration",
+        "Water table",
+        "Groundwater flow",
+        "Pumping well"
+      ]
+    },
+    "implementation": "implemented",
+    "tests": "passed: 108 model/registry checks; all 100 lessons in 200 live desktop/mobile journeys; baseline and focused accessibility qualification",
+    "deployment": "verified live on deployment 551f393d-5021-4d80-bc63-278033e796c0; all 100 routes and 218 exact file hashes"
+  },
+  {
+    "id": 97,
+    "title": "How Tectonic Plates Meet",
+    "slug": "plate-boundaries",
+    "category": "Everyday systems and the natural world",
+    "objective": "Compare divergent, convergent and transform boundaries.",
+    "control": {
+      "label": "Choose boundary",
+      "options": [
+        "Divergent",
+        "Oceanic subduction",
+        "Continental collision",
+        "Transform"
+      ]
+    },
+    "stages": [
+      {
+        "title": "Plates",
+        "text": "Rigid lithospheric plates move over the deforming mantle."
+      },
+      {
+        "title": "Separate",
+        "text": "Divergent boundaries allow upwelling and creation of new oceanic crust."
+      },
+      {
+        "title": "Converge",
+        "text": "Convergence can involve subduction or continental collision."
+      },
+      {
+        "title": "Slide",
+        "text": "Transform boundaries accommodate sideways motion and can generate earthquakes."
+      }
+    ],
+    "activityStates": [
+      "Divergent: plates separate and new oceanic crust forms at a spreading ridge.",
+      "Oceanic subduction: one plate descends beneath another; melting and volcanism can occur above it.",
+      "Continental collision: buoyant continental crust shortens and thickens, building mountains.",
+      "Transform: plates slide laterally; crust is neither systematically created nor consumed at the boundary."
+    ],
+    "limits": "Cross-sections and plan view schematic; no rates, earthquake prediction or site-specific hazard estimate.",
+    "misconception": "Plates include crust and uppermost mantle, not just continents floating on liquid magma.",
+    "terms": {
+      "Lithosphere": "Crust and rigid uppermost mantle.",
+      "Subduction": "Descent of one plate beneath another."
+    },
+    "sources": [
+      {
+        "title": "USGS: understanding plate motions",
+        "url": "https://pubs.usgs.gov/gip/dynamic/understanding.html",
+        "reviewed": "2026-10-23"
+      }
+    ],
+    "stageStates": [
+      0,
+      0,
+      1,
+      3
+    ],
+    "visualMechanism": "Original labeled SVG; How Tectonic Plates Meet",
+    "interaction": {
+      "label": "Choose boundary",
+      "options": [
+        "Divergent",
+        "Oceanic subduction",
+        "Continental collision",
+        "Transform"
+      ]
+    },
+    "implementation": "implemented",
+    "tests": "passed: 108 model/registry checks; all 100 lessons in 200 live desktop/mobile journeys; baseline and focused accessibility qualification",
+    "deployment": "verified live on deployment 551f393d-5021-4d80-bc63-278033e796c0; all 100 routes and 218 exact file hashes"
+  },
+  {
+    "id": 98,
+    "title": "How Rocks Change Through the Rock Cycle",
+    "slug": "rock-cycle",
+    "category": "Everyday systems and the natural world",
+    "objective": "Follow multiple pathways among igneous, sedimentary and metamorphic rocks.",
+    "control": {
+      "label": "Choose transformation",
+      "options": [
+        "Magma cools",
+        "Sediments become rock",
+        "Heat and pressure",
+        "Rock melts"
+      ]
+    },
+    "stages": [
+      {
+        "title": "Igneous",
+        "text": "Cooling and solidification of magma or lava produce igneous rock."
+      },
+      {
+        "title": "Sedimentary",
+        "text": "Weathering makes sediment; deposition, compaction and cementation can form sedimentary rock."
+      },
+      {
+        "title": "Metamorphic",
+        "text": "Heat, pressure and fluids can change a rock without fully melting it."
+      },
+      {
+        "title": "Melt",
+        "text": "Sufficient heating can melt rock, returning material toward a magmatic state."
+      }
+    ],
+    "activityStates": [
+      "Magma cools and crystallizes into igneous rock.",
+      "Sediment is deposited, compacted and cemented into sedimentary rock.",
+      "An existing rock changes minerals and texture without full melting: metamorphic rock.",
+      "Rock melts into magma; later cooling can start another path."
+    ],
+    "limits": "Conceptual pathways; not every rock passes through all stages, and real conditions and time scales vary.",
+    "misconception": "The rock cycle is not a mandatory single-direction loop.",
+    "terms": {
+      "Lithification": "Processes turning sediment into rock.",
+      "Metamorphism": "Solid-state change driven by heat, pressure and fluids."
+    },
+    "sources": [
+      {
+        "title": "USGS: rock-cycle learning resources",
+        "url": "https://www.usgs.gov/educational-resources/whats-new-weeks-9-12",
+        "reviewed": "2026-10-23"
+      }
+    ],
+    "stageStates": [
+      0,
+      1,
+      2,
+      3
+    ],
+    "visualMechanism": "Original labeled SVG; How Rocks Change Through the Rock Cycle",
+    "interaction": {
+      "label": "Choose transformation",
+      "options": [
+        "Magma cools",
+        "Sediments become rock",
+        "Heat and pressure",
+        "Rock melts"
+      ]
+    },
+    "implementation": "implemented",
+    "tests": "passed: 108 model/registry checks; all 100 lessons in 200 live desktop/mobile journeys; baseline and focused accessibility qualification",
+    "deployment": "verified live on deployment 551f393d-5021-4d80-bc63-278033e796c0; all 100 routes and 218 exact file hashes"
+  },
+  {
+    "id": 99,
+    "title": "How Composting Recycles Organic Matter",
+    "slug": "composting",
+    "category": "Everyday systems and the natural world",
+    "objective": "Connect decomposers, oxygen, moisture and heat production.",
+    "control": {
+      "label": "Choose pile condition",
+      "options": [
+        "Balanced and aerated",
+        "Too dry",
+        "Waterlogged",
+        "Mature compost"
+      ]
+    },
+    "stages": [
+      {
+        "title": "Materials",
+        "text": "Plant residues supply carbon, nutrients and structure."
+      },
+      {
+        "title": "Decomposers",
+        "text": "Microbes and other organisms transform organic matter and release energy."
+      },
+      {
+        "title": "Conditions",
+        "text": "Aerobic decomposition needs suitable moisture and oxygen; excessive water limits air spaces."
+      },
+      {
+        "title": "Maturation",
+        "text": "As readily decomposed material is used up, activity and heat generally decline."
+      }
+    ],
+    "activityStates": [
+      "Suitable moisture and air support aerobic decomposers; some energy is released as heat.",
+      "Too dry: microbial activity is limited by inadequate moisture.",
+      "Waterlogged: fewer air-filled pores limit oxygen; anaerobic processes and odors may increase.",
+      "Mature material: activity and heating decline as readily available food is depleted."
+    ],
+    "limits": "Qualitative pile, no temperature, time, pathogen-kill, fertilizer or home-processing guarantee.",
+    "misconception": "Compost is not made by heat alone; living decomposers transform the material.",
+    "terms": {
+      "Aerobic": "Using oxygen.",
+      "Decomposer": "Organism that breaks down organic matter."
+    },
+    "sources": [
+      {
+        "title": "EPA: composting at home",
+        "url": "https://www.epa.gov/recycle/composting-home",
+        "reviewed": "2026-10-23"
+      }
+    ],
+    "stageStates": [
+      0,
+      0,
+      2,
+      3
+    ],
+    "visualMechanism": "Original labeled SVG; How Composting Recycles Organic Matter",
+    "interaction": {
+      "label": "Choose pile condition",
+      "options": [
+        "Balanced and aerated",
+        "Too dry",
+        "Waterlogged",
+        "Mature compost"
+      ]
+    },
+    "implementation": "implemented",
+    "tests": "passed: 108 model/registry checks; all 100 lessons in 200 live desktop/mobile journeys; baseline and focused accessibility qualification",
+    "deployment": "verified live on deployment 551f393d-5021-4d80-bc63-278033e796c0; all 100 routes and 218 exact file hashes"
+  },
+  {
+    "id": 100,
+    "title": "How Pollination Begins Seed Formation",
+    "slug": "flower-pollination",
+    "category": "Everyday systems and the natural world",
+    "objective": "Distinguish pollen transfer, pollen-tube growth and fertilization.",
+    "control": {
+      "label": "Choose flower stage",
+      "options": [
+        "Pollen on anther",
+        "Transfer to stigma",
+        "Pollen tube grows",
+        "Fertilization"
+      ]
+    },
+    "stages": [
+      {
+        "title": "Pollen",
+        "text": "Anthers produce pollen containing the male gametophyte."
+      },
+      {
+        "title": "Transfer",
+        "text": "Wind or animals can move pollen to a compatible stigma."
+      },
+      {
+        "title": "Tube",
+        "text": "Compatible pollen germinates; a tube grows through the style toward an ovule."
+      },
+      {
+        "title": "Fertilization",
+        "text": "Sperm reach the embryo sac; double fertilization forms an embryo and nutritive endosperm in flowering plants."
+      }
+    ],
+    "activityStates": [
+      "Pollen remains on anther: transfer has not yet occurred in this story.",
+      "Compatible pollen lands on the stigma: pollination has occurred, but fertilization has not.",
+      "Pollen tube grows through the style toward an ovule, carrying sperm cells.",
+      "Double fertilization begins embryo and endosperm formation; the ovule can develop into a seed."
+    ],
+    "limits": "Representative flowering plant; incompatibility, failed fertilization, species variation and development times omitted.",
+    "misconception": "Pollination and fertilization are separate events; pollen landing does not guarantee a seed.",
+    "terms": {
+      "Stigma": "Pollen-receiving surface.",
+      "Ovule": "Structure that can develop into a seed after fertilization."
+    },
+    "sources": [
+      {
+        "title": "OpenStax: pollination and fertilization",
+        "url": "https://openstax.org/books/biology-2e/pages/32-2-pollination-and-fertilization",
+        "reviewed": "2026-10-23"
+      }
+    ],
+    "stageStates": [
+      0,
+      1,
+      2,
+      3
+    ],
+    "visualMechanism": "Original labeled SVG; How Pollination Begins Seed Formation",
+    "interaction": {
+      "label": "Choose flower stage",
+      "options": [
+        "Pollen on anther",
+        "Transfer to stigma",
+        "Pollen tube grows",
+        "Fertilization"
+      ]
+    },
+    "implementation": "implemented",
+    "tests": "passed: 108 model/registry checks; all 100 lessons in 200 live desktop/mobile journeys; baseline and focused accessibility qualification",
+    "deployment": "verified live on deployment 551f393d-5021-4d80-bc63-278033e796c0; all 100 routes and 218 exact file hashes"
   }
 ]

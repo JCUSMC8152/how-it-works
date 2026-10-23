@@ -17,12 +17,12 @@ const base = process.env.BASE_URL || 'http://127.0.0.1:4189';
    await p.locator('#activity').selectOption({value:String(n)});
    const clipped = await p.locator('#diagram svg').evaluate(svg => {
     return [...svg.querySelectorAll('text')].filter(t => {
-     const b=t.getBBox();return b.x<0 || b.x+b.width>600 || b.y<0 || b.y+b.height>350;
+     const b=t.getBBox();return b.x<0 || b.x+b.width>600 || b.y<0 || b.y+b.height>Number(svg.viewBox.baseVal.height);
     }).map(t=>t.textContent);
    });
    if(clipped.length)labels.push({id:e.id,n,clipped});
   }
-  if([1,13,24,31,50].includes(e.id)) {
+  if(e.id>=51 || [1,13,24,31,50].includes(e.id)) {
    for(const mode of ['show','try','more']) {
     await p.locator('[data-mode='+mode+']').click();
     const a=await new AxeBuilder({page:p}).withTags(['wcag2a','wcag2aa','wcag21aa','wcag22aa']).analyze();
@@ -37,7 +37,7 @@ const base = process.env.BASE_URL || 'http://127.0.0.1:4189';
  await p.setViewportSize({width:1440,height:1000});
  await p.screenshot({path:'docs/home-desktop.png',fullPage:true});
  await p.goto(base+'/experiences');
- assert.equal(await p.locator('.card').count(),50);
+ assert.equal(await p.locator('.card').count(),100);
  const a=await new AxeBuilder({page:p}).withTags(['wcag2a','wcag2aa','wcag21aa','wcag22aa']).analyze();
  rows.push({page:'catalog',violations:a.violations.map(x=>({id:x.id,nodes:x.nodes.map(n=>n.target)}))});
  await p.goto(base+'/not-a-route');

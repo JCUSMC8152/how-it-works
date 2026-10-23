@@ -1,3 +1,4 @@
+import {extendedDiagram} from './extended-diagrams.js';
 const ink='#173b48',blue='#126e8b',gold='#b45b13',pale='#e4f1f3',red='#b63c47';
 const t=(x,y,s,size=16)=>`<text x="${x}" y="${y}" font-size="${size}" fill="${ink}">${s}</text>`;
 const rect=(x,y,w,h,fill=pale,rx=8)=>`<rect x="${x}" y="${y}" width="${w}" height="${h}" rx="${rx}" fill="${fill}" stroke="${ink}" stroke-width="2"/>`;
@@ -9,7 +10,7 @@ const poly=(points,fill=pale)=>`<polygon points="${points}" fill="${fill}" strok
 const path=(d,color=ink,width=3)=>`<path d="${d}" stroke="${color}" stroke-width="${width}" fill="none"/>`;
 const bar=(x,y,v,label)=>rect(x,y,Math.max(3,v),20,gold,1)+t(x,y-8,label,14);
 const wheel=(x,y,r,teeth=12)=>c(x,y,r)+Array.from({length:teeth},(_,i)=>{let a=i*2*Math.PI/teeth;return line(x+(r-7)*Math.cos(a),y+(r-7)*Math.sin(a),x+(r+5)*Math.cos(a),y+(r+5)*Math.sin(a));}).join('');
-export function diagram(id,n,caption){let s='';
+export function diagram(id,n,caption){if(id>=51)return extendedDiagram(id,n,caption);let s='';
 switch(id){
 case 1:{let y=[160,90,160,90][n];s=rect(190,35,180,205)+rect(202,y,156,30,'#adc4cb')+line(280,y+30,310,265,ink,9)+c(310,265,30)+line(310,265,330,250,gold,7)+t(390,265,'Crankshaft')+line(210,65,210,n===0?95:65,blue,10)+line(350,65,350,n===3?95:65,red,10)+t(85,35,'Intake valve')+t(360,35,'Exhaust valve')+t(230,y-12,n===2?'Expanding gas':'Cylinder charge')+(n===2?poly('275,45 285,65 275,80 280,60','#f5b44b'):'')+t(20,330,'One cycle = two crankshaft revolutions');break;}
 case 2:{let r=[1,2,5][n];s=wheel(160,155,65)+wheel(420,155,65/r)+line(160,90,420,155-65/r)+line(160,220,420,155+65/r)+line(160,155,120,195,gold,8)+t(85,55,'Front chainring')+t(370,55,'Rear sprocket')+arrow(200,270,430,270,`${(2.1*r).toFixed(1)} m / pedal turn`)+t(40,310,'Same wheel torque → higher ratio needs more pedal torque',15);break;}

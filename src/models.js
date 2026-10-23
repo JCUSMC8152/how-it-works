@@ -1,4 +1,6 @@
+import {extended} from './extended-data.js';
 export function model(id,n){
+if(extended[id]){if(!Number.isInteger(n)||n<0||n>=extended[id].states.length)throw Error('Invalid model state');return {text:extended[id].states[n],index:n};}
 const states={
 1:['Intake valve open; piston descends.','Both valves closed; piston rises.','Ignition starts expansion; piston descends.','Exhaust valve open; piston rises.'],
 2:[1,2,5].map(r=>`${r} wheel turns per pedal turn; ${(r*2.1).toFixed(1)} m per turn; ${r*60} wheel rpm at 60 pedal rpm. Required pedal torque is ${r}× wheel torque ideally.`),

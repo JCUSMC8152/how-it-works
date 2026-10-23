@@ -1,0 +1,30 @@
+{
+  "product": "How It Works",
+  "dateEastern": "2026-10-23",
+  "publicUrl": "https://howitworks.crawfordgroupholdings.com/",
+  "deploymentId": "551f393d-5021-4d80-bc63-278033e796c0",
+  "previousDeploymentId": "b0831b88-63d8-4668-a3ed-e2f17c33ca74",
+  "qualifiedSourceCommit": "848a1cd603b655ee1bec431ee87e101640d27257",
+  "sourceCommitLocation": "Qualified source commits retained locally; completed source synchronization authorized by owner and performed through connected GitHub account.",
+  "experiences": 100,
+  "newExperiences": [
+    51,
+    100
+  ],
+  "indexedPages": 106,
+  "verifiedPublicAssets": 218,
+  "verifiedPublicLessonRoutes": 100,
+  "securityHeaders": "verified",
+  "liveBrowserJourneys": {
+    "passed": true,
+    "cases": 200,
+    "note": "full-suite release qualification plus final eclipse visual-patch focused qualification"
+  },
+  "sourceOnCGHMain": "C:\\Users\\crawf\\Documents\\HowItWorks",
+  "sourceModelChecks": 108,
+  "costs": "No new services or purchases",
+  "firstExpansionDeploymentId": "0dc8051d-d08c-43a5-b001-f82280907725",
+  "finalPatchPublicVerification": "passed: 218 exact asset matches, 100 direct routes, 8 eclipse activity/viewport cases and 6 accessibility scans",
+  "privateSourceBundle": "C:\\Users\\crawf\\Documents\\HowItWorks-100-Source-20261023.bundle",
+  "githubSynchronization": "Owner explicitly approved on 2026-10-23; source published through connected GitHub account, with file-tree verification."
+}

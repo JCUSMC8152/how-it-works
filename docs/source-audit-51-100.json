@@ -1,0 +1,362 @@
+[
+  {
+    "id": 51,
+    "url": "https://openstax.org/books/college-physics-2e/pages/9-5-simple-machines",
+    "status": 200,
+    "final": "https://openstax.org/books/college-physics-2e/pages/9-5-simple-machines",
+    "title": "9.5 Simple Machines - College Physics 2e | OpenStax",
+    "length": 13228
+  },
+  {
+    "id": 52,
+    "url": "https://openstax.org/books/college-physics-2e/pages/9-5-simple-machines",
+    "status": 200,
+    "final": "https://openstax.org/books/college-physics-2e/pages/9-5-simple-machines",
+    "title": "9.5 Simple Machines - College Physics 2e | OpenStax",
+    "length": 13228
+  },
+  {
+    "id": 53,
+    "url": "https://openstax.org/books/college-physics-2e/pages/9-5-simple-machines",
+    "status": 200,
+    "final": "https://openstax.org/books/college-physics-2e/pages/9-5-simple-machines",
+    "title": "9.5 Simple Machines - College Physics 2e | OpenStax",
+    "length": 13228
+  },
+  {
+    "id": 54,
+    "status": 200,
+    "url": "https://www.nskamericas.com/tools-resources/introduction-bearings/",
+    "title": "Introduction to Bearings | NSK Global"
+  },
+  {
+    "id": 55,
+    "status": 200,
+    "url": "https://www.eaton.com/br/en-us/products/differentials-traction-control/open-differential.html",
+    "title": "\n    What is an open differential?\n"
+  },
+  {
+    "id": 56,
+    "url": "https://openstax.org/books/college-physics-2e/pages/5-1-friction",
+    "status": 200,
+    "final": "https://openstax.org/books/college-physics-2e/pages/5-1-friction",
+    "title": "5.1 Friction - College Physics 2e | OpenStax",
+    "length": 21075
+  },
+  {
+    "id": 57,
+    "url": "https://archives.standards.doxcelerate.com/documents/doe-hdbk-1018-1-93-doe-fundamentals-handbook-mechanical-science-volume-1-of-2",
+    "error": "HTTP Error 403: Forbidden",
+    "verification": "Institutional/primary source confirmed through public web retrieval or indexed source text; automated direct request was blocked or timed out"
+  },
+  {
+    "id": 58,
+    "url": "https://openstax.org/books/college-physics-2e/pages/11-3-pressure",
+    "status": 200,
+    "final": "https://openstax.org/books/college-physics-2e/pages/11-3-pressure",
+    "title": "11.3 Pressure - College Physics 2e | OpenStax",
+    "length": 8500
+  },
+  {
+    "id": 59,
+    "url": "https://patents.google.com/patent/US1219881A/en",
+    "error": "HTTP Error 503: Service Unavailable",
+    "verification": "Institutional/primary source confirmed through public web retrieval or indexed source text; automated direct request was blocked or timed out"
+  },
+  {
+    "id": 60,
+    "url": "https://patents.google.com/patent/US4750A/en",
+    "error": "HTTP Error 503: Service Unavailable",
+    "verification": "Institutional/primary source confirmed through public web retrieval or indexed source text; automated direct request was blocked or timed out"
+  },
+  {
+    "id": 61,
+    "url": "https://openstax.org/books/college-physics-2e/pages/23-7-transformers",
+    "status": 200,
+    "final": "https://openstax.org/books/college-physics-2e/pages/23-7-transformers",
+    "title": "23.7 Transformers - College Physics 2e | OpenStax",
+    "length": 14489
+  },
+  {
+    "id": 62,
+    "url": "https://openstax.org/books/college-physics-2e/pages/20-5-alternating-current-versus-direct-current",
+    "status": 200,
+    "final": "https://openstax.org/books/college-physics-2e/pages/20-5-alternating-current-versus-direct-current",
+    "title": "20.5 Alternating Current versus Direct Current - College Physics 2e | OpenStax",
+    "length": 15507
+  },
+  {
+    "id": 63,
+    "url": "https://openstax.org/books/college-physics-2e/pages/19-5-capacitors-and-dielectrics",
+    "status": 200,
+    "final": "https://openstax.org/books/college-physics-2e/pages/19-5-capacitors-and-dielectrics",
+    "title": "19.5 Capacitors and Dielectrics - College Physics 2e | OpenStax",
+    "length": 23127
+  },
+  {
+    "id": 64,
+    "url": "https://www.energy.gov/articles/making-switch-induction-stoves-or-cooktops",
+    "error": "The read operation timed out",
+    "verification": "Institutional/primary source confirmed through public web retrieval or indexed source text; automated direct request was blocked or timed out"
+  },
+  {
+    "id": 65,
+    "url": "https://www.fda.gov/radiation-emitting-products/resources-you-radiation-emitting-products/microwave-ovens",
+    "status": 200,
+    "final": "https://www.fda.gov/radiation-emitting-products/resources-you-radiation-emitting-products/microwave-ovens",
+    "title": "Microwave Ovens | FDA",
+    "length": 17409
+  },
+  {
+    "id": 66,
+    "url": "https://www.energy.gov/energysaver/heat-pump-systems",
+    "error": "The read operation timed out",
+    "verification": "Institutional/primary source confirmed through public web retrieval or indexed source text; automated direct request was blocked or timed out"
+  },
+  {
+    "id": 67,
+    "status": 200,
+    "url": "https://openstax.org/books/college-physics-2e/pages/14-5-conduction",
+    "title": "14.5 Conduction - College Physics 2e | OpenStax"
+  },
+  {
+    "id": 68,
+    "url": "https://openstax.org/books/college-physics-2e/pages/14-4-heat-transfer-methods",
+    "status": 200,
+    "final": "https://openstax.org/books/college-physics-2e/pages/14-4-heat-transfer-methods",
+    "title": "14.4 Heat Transfer Methods - College Physics 2e | OpenStax",
+    "length": 6868
+  },
+  {
+    "id": 69,
+    "url": "https://openstax.org/books/college-physics-2e/pages/22-7-magnetic-force-on-a-current-carrying-conductor",
+    "status": 200,
+    "final": "https://openstax.org/books/college-physics-2e/pages/22-7-magnetic-force-on-a-current-carrying-conductor",
+    "title": "22.7 Magnetic Force on a Current-Carrying Conductor - College Physics 2e | OpenStax",
+    "length": 9334
+  },
+  {
+    "id": 70,
+    "url": "https://openstax.org/books/college-physics-2e/pages/23-1-induced-emf-and-magnetic-flux",
+    "status": 200,
+    "final": "https://openstax.org/books/college-physics-2e/pages/23-1-induced-emf-and-magnetic-flux",
+    "title": "23.1 Induced Emf and Magnetic Flux - College Physics 2e | OpenStax",
+    "length": 8797
+  },
+  {
+    "id": 71,
+    "status": 200,
+    "url": "https://openstax.org/books/introduction-computer-science/pages/5-3-machine-level-information-representation",
+    "title": "5.3 Machine-Level Information Representation - Introduction to Computer Science | OpenStax"
+  },
+  {
+    "id": 72,
+    "url": "https://www.nand2tetris.org/project01",
+    "status": 200,
+    "final": "https://www.nand2tetris.org/project01",
+    "title": "Project 01 | nand2tetris",
+    "length": 5733
+  },
+  {
+    "id": 73,
+    "status": 200,
+    "url": "https://toshiba.semicon-storage.com/us/semiconductor/knowledge/faq/mosfet/how-do-n-channel-mosfets-work.html",
+    "title": "Understanding MOSFET Operation Principles and Mechanisms | Cutoff, Linear, and Saturation Regions Explained | Toshiba Electronic Devices &amp; Storage Corporation | Americas \u2013 United States"
+  },
+  {
+    "id": 74,
+    "url": "https://developer.mozilla.org/en-US/docs/Web/HTTP/Guides/Caching",
+    "status": 200,
+    "final": "https://developer.mozilla.org/en-US/docs/Web/HTTP/Guides/Caching",
+    "title": "HTTP caching - HTTP | MDN",
+    "length": 42784
+  },
+  {
+    "id": 75,
+    "url": "https://www.postgresql.org/docs/current/indexes-intro.html",
+    "status": 200,
+    "final": "https://www.postgresql.org/docs/current/indexes-intro.html",
+    "title": "PostgreSQL: Documentation: 18: 11.1.\u00a0Introduction",
+    "length": 4944
+  },
+  {
+    "id": 76,
+    "status": 200,
+    "url": "https://xlinux.nist.gov/dads/HTML/binarySearch.html",
+    "title": "binary search"
+  },
+  {
+    "id": 77,
+    "url": "https://www.cloudflare.com/learning/ssl/how-does-public-key-encryption-work/",
+    "status": 200,
+    "final": "https://www.cloudflare.com/learning/ssl/how-does-public-key-encryption-work/",
+    "title": "How Does Public Key Encryption Work? | Public Key Cryptography and SSL",
+    "length": 6256
+  },
+  {
+    "id": 78,
+    "url": "https://pages.nist.gov/800-63-4/sp800-63b.html",
+    "status": 200,
+    "final": "https://pages.nist.gov/800-63-4/sp800-63b.html",
+    "title": "NIST Special Publication 800-63B",
+    "length": 254100
+  },
+  {
+    "id": 79,
+    "url": "https://users.ece.cmu.edu/~koopman/des_s99/coding/",
+    "verification": "Carnegie Mellon primary teaching source fetched successfully; even parity and odd-error detection reviewed",
+    "status": 200
+  },
+  {
+    "id": 80,
+    "status": 200,
+    "url": "https://openstax.org/books/college-physics-2e/pages/26-3-color-and-color-vision",
+    "title": "26.3 Color and Color Vision - College Physics 2e | OpenStax"
+  },
+  {
+    "id": 81,
+    "url": "https://www.niddk.nih.gov/health-information/diabetes/overview/what-is-diabetes/prediabetes-insulin-resistance",
+    "status": 200,
+    "final": "https://www.niddk.nih.gov/health-information/diabetes/overview/what-is-diabetes/prediabetes-insulin-resistance",
+    "title": "Insulin Resistance & Prediabetes - NIDDK",
+    "length": 17452
+  },
+  {
+    "id": 82,
+    "url": "https://openstax.org/books/anatomy-and-physiology-2e/pages/18-5-hemostasis",
+    "status": 200,
+    "final": "https://openstax.org/books/anatomy-and-physiology-2e/pages/18-5-hemostasis",
+    "title": "18.5 Hemostasis  - Anatomy and Physiology 2e | OpenStax",
+    "length": 21135
+  },
+  {
+    "id": 83,
+    "url": "https://openstax.org/books/anatomy-and-physiology-2e/pages/6-5-fractures-bone-repair",
+    "status": 200,
+    "final": "https://openstax.org/books/anatomy-and-physiology-2e/pages/6-5-fractures-bone-repair",
+    "title": "6.5 Fractures: Bone Repair  - Anatomy and Physiology 2e | OpenStax",
+    "length": 8097
+  },
+  {
+    "id": 84,
+    "status": 200,
+    "url": "https://www.nidcd.nih.gov/health/balance-disorders",
+    "title": "Balance Disorders \u2014 Causes, Types &amp; Treatment | NIDCD"
+  },
+  {
+    "id": 85,
+    "status": 200,
+    "url": "https://www.nidcd.nih.gov/health/smell-disorders",
+    "title": "Smell (Olfactory) Disorders\u2014Anosmia, Phantosmia &amp; Others | NIDCD"
+  },
+  {
+    "id": 86,
+    "status": 200,
+    "url": "https://www.nidcd.nih.gov/health/taste-disorders",
+    "title": "Taste Disorders | NIDCD"
+  },
+  {
+    "id": 87,
+    "url": "https://openstax.org/books/anatomy-and-physiology-2e/pages/5-1-layers-of-the-skin",
+    "status": 200,
+    "final": "https://openstax.org/books/anatomy-and-physiology-2e/pages/5-1-layers-of-the-skin",
+    "title": "5.1 Layers of the Skin  - Anatomy and Physiology 2e | OpenStax",
+    "length": 24889
+  },
+  {
+    "id": 88,
+    "url": "https://www.niddk.nih.gov/health-information/digestive-diseases/digestive-system-how-it-works",
+    "status": 200,
+    "final": "https://www.niddk.nih.gov/health-information/digestive-diseases/digestive-system-how-it-works",
+    "title": "Your Digestive System & How it Works - NIDDK",
+    "length": 19104
+  },
+  {
+    "id": 89,
+    "url": "https://openstax.org/books/anatomy-and-physiology-2e/pages/22-5-transport-of-gases",
+    "status": 200,
+    "final": "https://openstax.org/books/anatomy-and-physiology-2e/pages/22-5-transport-of-gases",
+    "title": "22.5 Transport of Gases  - Anatomy and Physiology 2e | OpenStax",
+    "length": 19037
+  },
+  {
+    "id": 90,
+    "url": "https://www.nigms.nih.gov/education/fact-sheets/Pages/circadian-rhythms.aspx",
+    "status": 200,
+    "final": "https://www.nigms.nih.gov/education/fact-sheets/Pages/circadian-rhythms",
+    "title": "Circadian Rhythms | National Institute of General Medical Sciences",
+    "length": 10744
+  },
+  {
+    "id": 91,
+    "url": "https://spaceplace.nasa.gov/seasons/en/",
+    "status": 200,
+    "final": "https://spaceplace.nasa.gov/seasons/en/",
+    "title": "What Causes the Seasons? | NASA Space Place \u2013 NASA Science for Kids",
+    "length": 4425
+  },
+  {
+    "id": 92,
+    "url": "https://science.nasa.gov/moon/moon-phases/",
+    "status": 200,
+    "final": "https://science.nasa.gov/moon/moon-phases/",
+    "title": "Moon Phases - NASA Science",
+    "length": 18765
+  },
+  {
+    "id": 93,
+    "url": "https://science.nasa.gov/eclipses/geometry/",
+    "status": 200,
+    "final": "https://science.nasa.gov/eclipses/geometry/",
+    "title": "Why Do Eclipses Happen? - NASA Science",
+    "length": 15595
+  },
+  {
+    "id": 94,
+    "url": "https://oceanservice.noaa.gov/education/tutorial_tides/tides03_gravity.html",
+    "status": 200,
+    "final": "https://oceanservice.noaa.gov/education/tutorial_tides/tides03_gravity.html",
+    "title": "Gravity, Inertia, and the Two Bulges - Tides and water levels: NOAA's National Ocean Service Education",
+    "length": 4779
+  },
+  {
+    "id": 95,
+    "url": "https://www.usgs.gov/educational-resources/find-feature-meander",
+    "error": "HTTP Error 403: Forbidden",
+    "verification": "Institutional/primary source confirmed through public web retrieval or indexed source text; automated direct request was blocked or timed out"
+  },
+  {
+    "id": 96,
+    "url": "https://www.usgs.gov/water-science-school/science/groundwater-flow-and-water-cycle",
+    "error": "HTTP Error 403: Forbidden",
+    "verification": "Institutional/primary source confirmed through public web retrieval or indexed source text; automated direct request was blocked or timed out"
+  },
+  {
+    "id": 97,
+    "url": "https://pubs.usgs.gov/gip/dynamic/understanding.html",
+    "error": "HTTP Error 403: Forbidden",
+    "verification": "Institutional/primary source confirmed through public web retrieval or indexed source text; automated direct request was blocked or timed out"
+  },
+  {
+    "id": 98,
+    "url": "https://www.usgs.gov/educational-resources/whats-new-weeks-9-12",
+    "error": "HTTP Error 403: Forbidden",
+    "verification": "Institutional/primary source confirmed through public web retrieval or indexed source text; automated direct request was blocked or timed out"
+  },
+  {
+    "id": 99,
+    "url": "https://www.epa.gov/recycle/composting-home",
+    "status": 200,
+    "final": "https://www.epa.gov/recycle/composting-home",
+    "title": "Composting At Home | US EPA",
+    "length": 18489
+  },
+  {
+    "id": 100,
+    "url": "https://openstax.org/books/biology-2e/pages/32-2-pollination-and-fertilization",
+    "status": 200,
+    "final": "https://openstax.org/books/biology-2e/pages/32-2-pollination-and-fertilization",
+    "title": "32.2 Pollination and Fertilization - Biology 2e | OpenStax",
+    "length": 32594
+  }
+]
