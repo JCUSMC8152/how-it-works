@@ -2,22 +2,47 @@
   "product": "How It Works",
   "url": "https://howitworks.crawfordgroupholdings.com",
   "repository": "https://github.com/JCUSMC8152/how-it-works",
-  "deployedCommit": "e3c3699009f28f579c650e5016056df4e481033f",
-  "deploymentId": "2409f3b5-6cd5-4313-abd2-6195a8d275c8",
+  "deployedCommit": "13bb23a03574ad4243fd82a49731344b2cb32ef8",
+  "deploymentId": "8481a1e7-b4f9-4393-a8f0-540b20b12528",
   "verifiedExperiences": 50,
   "staticFilesMatched": 114,
-  "localBrowserJourneys": 100,
-  "liveBrowserJourneys": 100,
   "modelChecks": 54,
-  "automatedAccessibilityScans": 16,
-  "automatedAccessibilityViolations": 0,
   "sourceLinksChecked": 50,
-  "zoom": "Chrome actual 200% verified on CGHMain; desktop and mobile emulation also tested",
-  "checkedAt": "2026-10-23T01:45:55Z",
+  "checkedAt": "2026-10-23T08:56:12Z",
   "remainingLimitations": [
     "Schematic teaching models; some activities use explicitly predefined states.",
     "No independent subject-matter review or accessibility certification.",
     "No physical Samsung/TalkBack test."
   ],
-  "ownerActionRequired": false
+  "ownerActionRequired": false,
+  "initialReleaseQualification": {
+    "checkedAt": "2026-10-23T01:45:55Z",
+    "localBrowserJourneys": 100,
+    "liveBrowserJourneys": 100,
+    "automatedAccessibilityScans": 16,
+    "automatedAccessibilityViolations": 0,
+    "zoom": "Chrome actual 200% verified on CGHMain; desktop and mobile emulation also tested"
+  },
+  "headerIntegration": {
+    "date": "2026-10-23",
+    "corporateCommit": "d9498aef25a33a4c283dc9b023876b183973912e",
+    "corporateDeployment": "bb985a55-0297-48c4-897c-95472cf27012",
+    "corporateSharedHeaders": 51,
+    "changes": [
+      "Homepage introduction",
+      "Explore CGH menu link",
+      "Venture directory listing",
+      "CGH shield, dark header, gold accents and companion/back navigation"
+    ],
+    "localChecks": 32,
+    "liveBrowserChecks": 32,
+    "widths": [
+      320,
+      393,
+      768,
+      1440
+    ],
+    "sourceBuildFilesMatched": 114,
+    "modelChecksPassed": 54
+  }
 }
