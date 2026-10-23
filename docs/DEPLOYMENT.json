@@ -2,8 +2,8 @@
   "product": "How It Works",
   "url": "https://howitworks.crawfordgroupholdings.com",
   "repository": "https://github.com/JCUSMC8152/how-it-works",
-  "deployedCommit": "13bb23a03574ad4243fd82a49731344b2cb32ef8",
-  "deploymentId": "8481a1e7-b4f9-4393-a8f0-540b20b12528",
+  "deployedCommit": "634a3ce9576defbe27ab262186bd72a975e9f2ae",
+  "deploymentId": "5b042397-d375-42d3-b719-440e1483e1f6",
   "verifiedExperiences": 50,
   "staticFilesMatched": 114,
   "modelChecks": 54,
@@ -44,5 +44,16 @@
     ],
     "sourceBuildFilesMatched": 114,
     "modelChecksPassed": 54
+  },
+  "headerRevision": {
+    "date": "2026-10-23",
+    "description": "Independent How It Works wordmark and tagline on cream background; CGH header shield and black background removed; navigation retained.",
+    "localViewportChecks": 12,
+    "widths": [
+      320,
+      393,
+      768,
+      1440
+    ]
   }
 }
